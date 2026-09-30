@@ -1,4 +1,4 @@
-# NAI Trading Research
+# Countermind
 
 Independent research and hobby project by [Ekin-Akcay](https://github.com/Ekin-Akcay): can an AI trading decision add useful information to a trading strategy—whether followed, reversed, or combined with price and volume indicators?
 
