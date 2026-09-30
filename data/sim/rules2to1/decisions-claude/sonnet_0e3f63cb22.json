@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.8,
+  "confidence": 0.6,
+  "reason": "Bounce mirrors failed -21 reversal; still below MA50, downtrend intact; fading bounce with stop above recent highs."
+}

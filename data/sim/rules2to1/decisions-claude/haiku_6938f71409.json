@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.67,
+  "reason": "Price at resistance, weak volume on bounce, declining MAs, reversion target 98-98.5"
+}

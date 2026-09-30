@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "no_new_model_calls": true,
+  "exact_L048_masks_unchanged": true,
+  "all930_inputs_finite_with_positive_preentry_denominators": true,
+  "only_three_fixed_measures": true,
+  "current500_uses_original_frozen_block_quarter_bootstrap_draws": true,
+  "current500_raw_primary_and_AI_increment_reproduced": true,
+  "source_sha256": {
+    "data/analysis/gross-edge-20260929/signals/windows.csv": "6d4617d7e2d49c016fdc3c7403ba65cebf9869e4eb9db6695a0b1985814809d5",
+    "data/analysis/gross-edge-20260929/signals/all116_zero_fee_vectors.npz": "f4caab804da9bbab6dec6c4d0a344dcddf3bfcbd2eda06f5d6618da59f7bcfd7",
+    "data/analysis/gross-edge-20260929/signals/fresh_L048_independent_rows.csv": "ca72bf8940df187a02c26f8d09f798685c9454b633843ed23e5f4c84989f37b5",
+    "data/sim/gross-edge-500-20260929T204545Z/window_results.csv": "784a1154a7b6b9f1ad78c6e4cb0e56d7c42125dc69241b450f9c991c3c02d3ba",
+    "data/sim/gross-edge-500-20260929T204545Z/bootstrap_arrays.npz": "fbee6bef9e903572d669c2322c22843eb9aff396ff51adb39dfdc4b183c19690",
+    "data/sim/gross-edge-500-20260929T204545Z/summary.json": "6fd2f3a93f23f0eeb41957c8b23e473934f7ea9151af9a7698b503ca632d4002",
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff",
+    "data/analysis/gross-edge-20260929/signals/risk_normalization/PLAN.md": "fa31c061dce22e25e862a3e1d06621fe0ec36704e3a3098eeeb223ced7f0f04c"
+  },
+  "all_sources_unchanged": true,
+  "fixed_normalizations_independently_recomputed": true,
+  "selected_counts": {
+    "old150": 22,
+    "new280": 65,
+    "fresh500": 101
+  },
+  "bootstrap_draws": 20000,
+  "old150_seeds": {
+    "block": 2026093061,
+    "quarter": 2026093062
+  },
+  "new280_seeds": {
+    "block": 2026093062,
+    "quarter": 2026093063
+  },
+  "fresh500_weights": "unchanged original frozen bootstrap_arrays.npz"
+}

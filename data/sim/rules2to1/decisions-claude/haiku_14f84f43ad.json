@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.3,
+  "confidence": 0.65,
+  "reason": "Price below both MAs, downtrend confirmed, bears in control"
+}

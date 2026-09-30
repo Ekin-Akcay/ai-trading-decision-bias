@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T23:04:27.935554+00:00",
+  "independent_percentage_space_fill_engine": true,
+  "inclusive_contact_roundoff_tolerance_pct": 1e-12,
+  "numerical_boundary_correction_audited": true,
+  "paths_replayed": 5100,
+  "ledger_fields_checked": 112200,
+  "all5_payoff_vectors_match": true,
+  "all40000_block_and_quarter_draws_match": true,
+  "all6_paired_exit_control_intervals_match": true,
+  "means_pct": {
+    "BE_after_1ATR": -0.04981210820725334,
+    "TRAIL_1ATR_after_1ATR": -0.06985625746488078,
+    "HALF_at_1ATR_then_BE": -0.048457169652969506,
+    "FIXED_1ATR_stop": 0.002615533406159431,
+    "RAW_hold_240": 0.05500164654213806
+  },
+  "all3_candidates_lose": true,
+  "source_hashes_preserved": true,
+  "physical_calls": 771,
+  "remaining_calls": 29,
+  "new_model_calls": 0
+}

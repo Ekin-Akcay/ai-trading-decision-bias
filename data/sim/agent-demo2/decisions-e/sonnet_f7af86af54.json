@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.6,
+  "confidence": 0.55,
+  "reason": "Failed breakout above MA50 near 101.36, now back below; fading toward MA20/support."
+}

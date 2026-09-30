@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:57:02.032790+00:00",
+  "native_minute_endpoint_and_context_values_checked": 23430,
+  "all18_masks_payoffs_and_ledger_clocks_match": true,
+  "all20000_quarter_draws_and_intervals_match": true,
+  "all4_reestimated_composition_baselines_match": true,
+  "all24_control_comparisons_match": true,
+  "eligible_opportunities": 895,
+  "eligible_time_blocks": 645,
+  "first8_gross_means_pct": [
+    -0.11732252278158849,
+    -0.14941280809332763,
+    -0.13037841575426468,
+    -0.057046574689753826,
+    -0.08421019369605326,
+    -0.11731948847843032,
+    -0.07443700154151879,
+    -0.14082287872147198
+  ],
+  "candidate_matched_AI_increments_pp": [
+    -0.045702482438390146,
+    -0.00222499254073516,
+    0.13267201132212955,
+    -0.0543794264831682
+  ],
+  "candidate_or_direct_price_screen_passes": 0,
+  "source_hashes_preserved": true,
+  "physical_calls": 771,
+  "remaining_calls": 29,
+  "new_model_calls": 0
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "opinions_checked": 180,
+  "numeric_checks": 193,
+  "max_error": 1.1102230246251565e-14,
+  "declared_example_cases": [
+    61,
+    129,
+    169
+  ],
+  "MA20_agreement_checked": true,
+  "confidence_group_means_checked": true,
+  "verbatim_example_reasons_checked": true,
+  "example_plot_visually_checked": true,
+  "no_new_native_data_reads": true,
+  "no_new_model_calls": true,
+  "behavior_sha256": "46c460035c7858d2f17a3e31ba7ae0e0620ac2ffeeb265c345ffd224a64394cd"
+}

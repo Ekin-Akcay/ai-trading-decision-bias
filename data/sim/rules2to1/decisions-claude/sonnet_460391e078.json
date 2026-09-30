@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.45,
+  "confidence": 0.55,
+  "reason": "Price below falling MA20/MA50, marginal new lows in range; trend continuation short, stop above consolidation high."
+}

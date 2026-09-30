@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "audited_at": "2026-09-29T20:57:56.644080+00:00",
+  "run_id": "gross-edge-500-20260929T204545Z",
+  "decisions": 500,
+  "physical_calls": 501,
+  "calendar_blocks": 125,
+  "quarters": 25,
+  "cost_bps": 0,
+  "independent_scalar_short_brackets": 1500,
+  "model_decision_masks_verified": 1000,
+  "bootstrap_draws_per_scheme": 20000,
+  "whole_block_and_quarter_weights_reproduced": true,
+  "explicit_observation_weight_stratified_baselines_used": true,
+  "production_evaluator_or_engine_imported": false,
+  "strategies": {
+    "L048": {
+      "trades": 101,
+      "selected_blocks": 38,
+      "mean_gross_pct": 0.3606591441287956,
+      "all_bootstrap_mean_and_increment_arrays_match": true,
+      "all_profit_and_AI_increment_intervals_match": true,
+      "profit_verified": false,
+      "AI_contribution_verified": false,
+      "broad_cross_asset_verified": false
+    },
+    "S508": {
+      "trades": 171,
+      "selected_blocks": 64,
+      "mean_gross_pct": -0.01291724424825191,
+      "all_bootstrap_mean_and_increment_arrays_match": true,
+      "all_profit_and_AI_increment_intervals_match": true,
+      "profit_verified": false,
+      "AI_contribution_verified": false,
+      "broad_cross_asset_verified": false
+    }
+  }
+}

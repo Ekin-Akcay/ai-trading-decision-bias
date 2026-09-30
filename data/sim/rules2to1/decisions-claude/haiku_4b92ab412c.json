@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "confidence": 0.6,
+  "reason": "Price rejected at 100.50, declining volume, below MA20. Recent consolidation break suggests short-term weakness."
+}

@@ -1,0 +1,13 @@
+{
+  "status": "NO_CANDIDATE",
+  "distinct_mechanism": true,
+  "additional_model_calls": 0,
+  "original_windows": 1020,
+  "entry_time_clusters": 645,
+  "policy_count": 11,
+  "passed_discovery_screens": 0,
+  "positive_simultaneous_AI_control_differences": 0,
+  "request_more_calls": false,
+  "reason": "No positive stable policy with demonstrated incremental value over controls.",
+  "seen_outcome_discovery_only": true
+}

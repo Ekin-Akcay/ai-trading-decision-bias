@@ -1,0 +1,65 @@
+# Hypothesis Registry
+
+Rule: a hypothesis is registered HERE, with a date, BEFORE its test is run. Results get appended, never edited away. Exploratory findings (found by looking, not predicted) go to the bottom section and must be re-registered and confirmed on fresh data before they count.
+
+| ID | Registered | Hypothesis (mechanism) | Test | Status |
+|---|---|---|---|---|
+| H1 | 2026-09-17 | LLM hit rate < 50% at h=1–5d, ≥50% at h=20d (M1 narrative extrapolation vs reversal) | E1/E2 + E5 | pending |
+| H2 | 2026-09-17 | High cross-model consensus (top quintile of \|consensus\|) predicts LOWER forward returns in its direction than low consensus (M2 crowding) | E4 | pending |
+| H3 | 2026-09-17 | Accuracy collapses (<45%) after extreme trailing 20d moves, concentrated in crypto/meme assets, absent in SPY/GLD (M3 capitulation mimicry) | E6 | pending |
+| H4 | 2026-09-17 | Stated confidence is flat-to-inversely related to accuracy (M4 miscalibration) | E3 | pending |
+| H5 | 2026-09-17 | Every LLM has long-rate > 55% unconditionally (M5 optimism bias); fades must be base-rate-adjusted | E1/E2 logs | pending |
+| H6 | 2026-09-17 | Ensemble dispersion predicts next-day realized vol beyond trailing 20d vol (M6) | E8 | pending |
+| H7 | 2026-09-17 | Smaller/older models show larger conditional error patterns than frontier models (capability gradient) | E1 vs E2 | pending |
+| H8 | 2026-09-17 | LLM decisions correlate more with Momentum(20d) baseline than with Reversal(5d) — i.e., the LLM is a noisy momentum trader (mechanism check for M1) | E1/E2 logs vs baselines | pending |
+| H9 | 2026-09-17 | FINSABER regime asymmetry replicates at decision level: LLMs under-risk (more flat/short) in up-trends and over-risk in down-trends, hurting accuracy in both (source: arXiv:2505.07078) | E1/E2 logs, trend_20 split | pending |
+| H10 | 2026-09-17 | In crypto, LLM consensus extremes add predictive value beyond perp funding-rate extremes (the incumbent free crowding signal) | E4 + funding data (Phase 2) | pending |
+| H11 | 2026-09-17 | On PRE-cutoff masked data, LLM accuracy on real series exceeds accuracy on block-bootstrap synthetic decoys (shape-memorization leakage); the gap ≈ 0 post-cutoff and ≈ 0 for baselines everywhere | E9 | pending |
+| H12 | 2026-09-17 | LLMs place stops inside the daily-noise band (stop/σd < 1.5) far more often than vol-calibrated geometry warrants → excess noise stop-outs → negative expectancy beyond direction skill; predictable stop locations are themselves exploitable | E1/E2 geometry stats (`stop/σd` col) | pending |
+| H13 | 2026-09-17 | LLM bracket geometry is not vol-calibrated: RR clusters at textbook values (exactly 2.0) or asymmetric (RR<1, disposition-effect mimicry) regardless of regime; deviation from conditions-calibrated geometry costs measurable expectancy | E1/E2 geometry stats (RR distribution) | pending |
+| H14 | 2026-09-17 | LLM stop/TP distances cluster at round numbers (1, 2, 5, 10%) independent of asset vol — vol-blind geometry: too tight for DOGE, too wide for GLD | E1/E2 logs (distance histograms by asset) | pending |
+
+*Amendment 2026-09-17 (before any LLM data collected): trade model changed from fixed-horizon to bracket orders (user decision). H1's "hit rate at h" is now tested via the E5 direction diagnostic; all other hypotheses read on bracket outcomes (tpHit vs tpBase).*
+
+## Results log
+*(append entries as: date · ID · data slice · result · verdict)*
+
+## Exploratory findings (quarantine)
+*(anything noticed post-hoc lands here; promote only after registration + fresh-data replication)*
+
+### 2026-09-29 — exploratory direction/path study
+
+Before computing the new path diagnostics, the scope and tests are recorded in `data/analysis/direction-paths-20260929/ANALYSIS_PLAN.md`. This revisits the intraday mechanisms behind H2/H4/H5/H8/H12 on the already-inspected 100-window v1/v2 dataset. It is exploratory, with shared-window clustering, controls, and multiple-comparison checks; it is not confirmation on fresh data. Results will be recorded in that study's findings and machine-readable tables.
+
+2026-09-29 exploratory results: [full findings](../data/analysis/direction-paths-20260929/FINDINGS.md) and [all-decision path explorer](../data/analysis/direction-paths-20260929/index.html). Strong behavioral regularity: pre-entry price/volume features reproduce 85.7%/86.2% of v1/v2 direction choices in grouped CV; confidence associates with indicator alignment. Below-both-MA majority shorts show 70% first-candle versus 48% seventh-candle correctness, but the best context cells have scan-adjusted q=0.088 and identify the same price regime directly. No demonstrated incremental AI forecasting benefit. Treat timing/contrarian leads as discovery hypotheses requiring new windows, not confirmed H2/H4/H5/H8/H12 evidence. Existing trading ledgers and reports unchanged.
+
+### 2026-09-29 — V3 input reduction and exit-policy exploration (before runs)
+
+User requests a price/volume-only v3 using the same100windows, first20cases on the three prior OpenAI models now. [Shared protocol](../data/sim/pricevolume-v3/INSTRUCTIONS.md). Hypothesis: removing supplied indicators changes direction/confidence and may change early-path behavior; raw OHLCV unchanged. User wording requires price/volume-only, so ATR/volatility and derived summaries are removed along with MAs; not an MA-only causal ablation. Historical v2 controls and reused market windows imply exploratory comparison, not fresh replication.
+
+Separate exit-policy hypothesis: fixed15/30/105m exits or proportionally smaller both-sided brackets (.75/.5/.25 original distances) change conditional paths and outcomes; compare original policy, simple price baselines, and fees. Secondary5/60/240m exits, combined capped brackets, reversals and UTC6h session summaries remain exploratory; retain every result and correct test families. Exact plan in `data/analysis/exit-policies-20260929/PLAN.md`. Freeze these grids before evaluating; no outcome-selected thresholds.
+
+2026-09-29 results — [V3 first-20 findings](../data/sim/pricevolume-v3-openai-20260929T173255Z/FINDINGS.md): all 60 requested OpenAI decisions completed and audited with zero retries; 12/60 directions changed (Luna4, Terra6, Astra2), hidden-MA20 alignment75% versus78.3% in historical v2 controls. Terra30m accuracy40%→70% is an exploratory pilot lead; paired-return q≈0.289 across nine tests, not confirmed. Inputs remove all supplied indicators/summaries, not just MAs; cases21–100 prepared but unrun.
+
+2026-09-29 results — [Exit-policy study](../data/analysis/exit-policies-20260929/FINDINGS.md): 46 policies ×1,000 decisions, exact original-engine reproduction. No primary time-exit or scaled-bracket modification establishes improvement (six-test q=.543); all combined-policy pooled net means negative under20bps cost. Post-hoc risk normalization shows half-width v2 gross+0.128R versus original+0.122R, with fee burden doubling0.246→0.491R: lower percentage returns alone do not imply worse directional expectancy. Regime/direction and UTC-session tables retained as descriptive, not validated filters. Original inputs, decisions and reports unchanged.
+
+
+2026-09-29 count correction to the earlier direction/path log: Correction: the earlier 70% / 35-of-50 statement counted one exactly unchanged first-candle close as a decline. The correct result is 34/50 (68%), with 15 adverse and one unchanged; 34/49 (69.4%) if the tie is excluded. Seven-candle correctness remains 24/50 (48%). Return values and existing return-based tests are unchanged.
+
+2026-09-29 new exploratory long hypothesis, before computing: [Long recovery plan](../data/analysis/long-recovery-20260929/PLAN.md). Previous-completed-day SOL>50DMA and BTC>200DMA; original v2 OpenAI majority short; first15/30m close above original decision price; enter next1m open, hold105m. Compare exact recovery+daily-regime rule without AI and report no-regime AI-recovery diagnostic. No threshold search. Existing windows are discovery data; any profitable observation requires independent replication.
+
+2026-09-29 long follow-up results: the frozen daily-regime AI-short recovery rule triggers9trades, mean gross−0.0697%; no positive gross result in its two declared controls. [Full results](../data/analysis/long-recovery-20260929/FINDINGS.md). A DIFFERENT candidate noticed in the prior regime table—long against an AI short above both intraday MAs,30m hold—has gross+0.1283%, net−0.0717% at20bps,13/19positive unique windows. It pools the union of qualifying opinions across five models and both protocols (50opinions,19windows); model/protocol/vote definition must be fixed for a future test. Retrospective discovery only, not registered-before-discovery evidence or confirmation. All holding periods retained, including105m gross−0.0931%.
+
+2026-09-29 frozen new-window pilot: [two reversal hypotheses](../data/research/reversal-ideas-20260929/PROTOCOL.md). Terra only;50total random above-both-MA SOL setups; long AI→short105m, short AI→long30m. Seed2026092901, ≥122h separation from106prior SOL entries and between new entries; no selection by outcomes. Same v2 MA-present input/forced2:1 agent contract, uninformed of strategy reversal. Net20bps; full price-rule and same-direction controls; two selection permutation tests with BH correction. Single-model choice and thresholds selected during prior discovery. This is fresh-to-experiment historical data, not live/chronological proof; signal counts need not be balanced.
+
+2026-09-29 completed fresh-window reversal pilot: [results](../data/research/reversal-ideas-20260929/RESULTS.md), [all 50 trades](../data/sim/reversal-terra50-20260929T184044Z/index.html). Terra produced 42 longs and 8 shorts on 50 random previously unused above-both-MA SOL windows. Reverse-long SHORT/105m: 24/42 gross winners, mean −0.20543% gross/−0.40543% net. Reverse-short LONG/30m: 5/8 gross winners, mean +0.04865% gross/−0.15135% net. Both count-preserving selection permutation tests have BH q=0.9354. Combined mean −0.16478% gross/−0.36478% net at 20 bps. Neither rule establishes positive net expectancy or incremental AI information; the short discovery mean did not reproduce, and the long subgroup is small. All 50 sessions audited, no tools/retries; independent price/statistics review passed; 24 original data/source/report hashes unchanged. No new threshold search.
+
+### 2026-09-29 — deep search and locked 280-window validation
+
+User authorized up to 300 additional isolated model snapshots and deeper reversal research. Discovery retained 824 risk geometries, 116 entry/filter candidates and 108 invalidation candidates on the existing 150 Terra windows. [Locked two-finalist protocol](../data/analysis/reversal-deep-20260929/VALIDATION_PROTOCOL.md), exact inputs and source hashes were audited before model calls. Collected 280 new, nonoverlapping historical SOL windows using 280 fresh Terra calls, no retries. No fresh outcomes inspected until collection complete.
+
+L: AI SHORT, positive first-15-minute confirmation, then long 240 minutes; fresh 85 trades, +0.215074% gross / +0.015074% net at20bps. S: AI LONG reversed short, SL1.5×AI stop, TP2×strategy stop, timeout240m; fresh91trades, +0.208162% gross / +0.008162% net. Both fail frozen confirmation: simultaneous net intervals cross zero,30bps means negative; AI-information Holm p=.29114/.06270. [Full primary report](../data/sim/reversal-validation280-20260929T194012Z/index.html). Independent entry/exit, fee, bootstrap and conditional-permutation audits reproduced all results, including78,400donor brackets.
+
+User requested continued investigation. Separately labeled post-primary exploration replays predeclared grids on the now-inspected280windows, with full-family quarter-cluster max-T correction. Initial11,191definition family has globalp=.97465 and no passes. This is retrospective exploration, not another fresh confirmation. Additional hedging and stopout-timing families are being preregistered and added to the entire correction family; primary results stay fixed. Snapshot budget remains280/300, remaining20not used to extend the original sample opportunistically.
+
+2026-09-29 deep investigation completion: [master report](../data/analysis/reversal-deep-20260929/index.html). Added preregistered exploratory BTC hedges and original-stop-out fades, then recomputed the complete correction family: 11,295 definitions /9,336 unique return vectors /24quarters /20,000shared resamples. Global adjusted p=.977451, zero passes. All nonzero BTC hedges lost in the280sample; all16stopout-fade policies lost in the original sample, with only two positive in the newer sample. Independent expanded-family audit reproduced the entire correction; publication checks confirm280unique audited sessions,176primary trades,27preserved original file hashes, and no broken report links.280/300physical calls used, zero retries; remaining20were not used for optional-stopping confirmation. Positive point estimates exist, but no reliably profitable AI strategy was verified. The profit objective remains unmet.

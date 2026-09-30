@@ -1,0 +1,14 @@
+{
+  "H-LONG": {
+    "mean_positive_gross_pct": 0.5362684943026649,
+    "mean_negative_gross_pct": -0.764037079516303,
+    "max_loss_pct": -1.394514523781964,
+    "max_win_pct": 1.3104092211597251
+  },
+  "H-SHORT": {
+    "mean_positive_gross_pct": 0.7639769382588106,
+    "mean_negative_gross_pct": -1.4979701871569715,
+    "max_loss_pct": -4.227642276422761,
+    "max_win_pct": 2.454949072864987
+  }
+}

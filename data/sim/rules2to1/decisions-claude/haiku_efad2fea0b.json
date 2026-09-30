@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Failed breakout above 100, weak volume, consolidation breakdown"
+}

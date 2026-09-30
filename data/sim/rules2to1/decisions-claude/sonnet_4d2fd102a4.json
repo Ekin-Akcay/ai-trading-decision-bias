@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.58,
+  "reason": "Price below MA20/MA50 in steady downtrend; high-volume breakdown bar signals continuation lower despite wick."
+}

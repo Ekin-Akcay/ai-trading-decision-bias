@@ -1,0 +1,23 @@
+{
+  "/root/v2_terra001": {
+    "issues": [
+      "Unexpected outer tool: js"
+    ],
+    "excluded_at": "2026-09-26T07:26:32.522247+00:00",
+    "policy": "Input access/delivery or contract failure; excluded before scoring; preserve and repeat fresh."
+  },
+  "/root/v2_terra002": {
+    "issues": [
+      "Unexpected outer tool: js"
+    ],
+    "excluded_at": "2026-09-26T07:26:32.530388+00:00",
+    "policy": "Input access/delivery or contract failure; excluded before scoring; preserve and repeat fresh."
+  },
+  "/root/v2_luna006": {
+    "issues": [
+      "Unexpected nested tools"
+    ],
+    "excluded_at": "2026-09-26T07:29:55.825754+00:00",
+    "policy": "Input access/delivery or contract failure; excluded before scoring; preserve and repeat fresh."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "accepted": 500,
+  "planned_this_batch": 500,
+  "planned_canonical_windows": 500,
+  "authorized_case_range": [
+    1,
+    500
+  ],
+  "pending_unrequested_case_range": null,
+  "missing_requested_pairs": [],
+  "models": {
+    "gpt-5.6-terra": 500
+  },
+  "attempts": 501,
+  "excluded_attempts": [
+    {
+      "model": "gpt-5.6-terra",
+      "case": 248,
+      "passed": false,
+      "issues": [
+        "Runner did not exit successfully",
+        "Missing unique final response",
+        "Invalid forced 2:1 decision"
+      ],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    }
+  ],
+  "updated_at": "2026-09-29T20:56:46.154999+00:00",
+  "evaluation": "complete",
+  "independent_audits": "passed",
+  "physical_attempts": 501,
+  "original_decisions_ledger": "data/sim/decisions/gross-edge-500-20260929T204545Z.jsonl"
+}

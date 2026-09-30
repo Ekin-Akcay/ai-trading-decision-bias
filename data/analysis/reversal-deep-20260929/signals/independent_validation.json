@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "windows": 150,
+  "all_candidates": 116,
+  "independent_15m_entry_exit_and_return_checks": 6477,
+  "MA_recomputed_checks": 300,
+  "daily_prior_completed_day_recomputed_checks": 300,
+  "zero_future_daily_or_intraday_MA_information": true,
+  "summary_counts_and_means_match": true
+}

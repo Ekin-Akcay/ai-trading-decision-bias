@@ -1,0 +1,12 @@
+{
+  "canonical_decision_files": [
+    "data/sim/decisions/openai-first10-20260925T185939Z.jsonl",
+    "data/sim/decisions/openai-next50-20260926T060500Z.jsonl",
+    "data/sim/decisions/openai-last40-20260926T064222Z.jsonl"
+  ],
+  "new_decisions": 120,
+  "cumulative_decisions": 300,
+  "setups_per_model": 100,
+  "new_audit_passed": true,
+  "new_excluded_attempts": 1
+}

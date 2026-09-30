@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "take_profit_pct": 2.4,
+  "confidence": 0.58,
+  "reason": "High-volume breakdown below MA20/MA50 and prior support confirms bearish continuation; weak low-volume bounce preceded it."
+}

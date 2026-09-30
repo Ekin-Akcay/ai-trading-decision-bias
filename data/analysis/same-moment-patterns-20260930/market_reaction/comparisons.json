@@ -1,0 +1,986 @@
+[
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "L1_BTC_up_asset_not_up_price_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 97,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": -0.08421019369605326,
+    "paired_per_opportunity_difference_pct": 0.0008682344729352965,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.013270267943048766,
+        0.012633839230248144
+      ],
+      "ci95_family4_quarter": [
+        -0.01755950411906348,
+        0.015464639670424433
+      ],
+      "ci95_family8_quarter": [
+        -0.019810505066182833,
+        0.01670475436640804
+      ]
+    },
+    "trade_mean_difference_pct": -0.03311232908553523,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.19172108279878228,
+        0.10747152583101326
+      ],
+      "ci95_family4_quarter": [
+        -0.24639597283041662,
+        0.14617523949092204
+      ],
+      "ci95_family8_quarter": [
+        -0.2705020497542033,
+        0.16129919590077713
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "C_long_AI_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 582,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": 0.033459144017961226,
+    "paired_per_opportunity_difference_pct": -0.03001624665217151,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.12552359270361124,
+        0.06614089776225171
+      ],
+      "ci95_family4_quarter": [
+        -0.15221468257570567,
+        0.09108005168155545
+      ],
+      "ci95_family8_quarter": [
+        -0.16228122764173442,
+        0.10294060392162087
+      ]
+    },
+    "trade_mean_difference_pct": -0.1507816667995497,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5674083929305265,
+        0.21299673856050558
+      ],
+      "ci95_family4_quarter": [
+        -0.7126717814229702,
+        0.31263946606453663
+      ],
+      "ci95_family8_quarter": [
+        -0.7858078924131281,
+        0.3565741845524316
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "C_long_legacy_confirm_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 265,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": -0.10195522145623619,
+    "paired_per_opportunity_difference_pct": 0.0219294019560475,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.0667519006366415,
+        0.14520357691590424
+      ],
+      "ci95_family4_quarter": [
+        -0.08491016655439056,
+        0.1869594539140369
+      ],
+      "ci95_family8_quarter": [
+        -0.09156598790967364,
+        0.20660714776941197
+      ]
+    },
+    "trade_mean_difference_pct": -0.0153673013253523,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5432050856022116,
+        0.5921423621358031
+      ],
+      "ci95_family4_quarter": [
+        -0.7035711657500953,
+        0.777440970992391
+      ],
+      "ci95_family8_quarter": [
+        -0.7716548000990441,
+        0.8563312320607398
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "C_long_legacy_confirm_price",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 395,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": -0.06521031686424589,
+    "paired_per_opportunity_difference_pct": 0.02052151533646597,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.072094764445011,
+        0.14476252055896008
+      ],
+      "ci95_family4_quarter": [
+        -0.09095398887643924,
+        0.18603360998458718
+      ],
+      "ci95_family8_quarter": [
+        -0.09833422995480923,
+        0.20462763288187932
+      ]
+    },
+    "trade_mean_difference_pct": -0.0521122059173426,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5452030386670393,
+        0.4643239650495054
+      ],
+      "ci95_family4_quarter": [
+        -0.7021764218555241,
+        0.6069887511481883
+      ],
+      "ci95_family8_quarter": [
+        -0.7791336408862614,
+        0.7029205253619046
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "C_long_BTC_direction_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 271,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": -0.10987343494323865,
+    "paired_per_opportunity_difference_pct": 0.02501048260824312,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.056505930307203495,
+        0.14017873393948077
+      ],
+      "ci95_family4_quarter": [
+        -0.07166301868285932,
+        0.18133734023105966
+      ],
+      "ci95_family8_quarter": [
+        -0.07722788625651354,
+        0.19937944380654563
+      ]
+    },
+    "trade_mean_difference_pct": -0.007449087838349841,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.4696729855541354,
+        0.5395249191670659
+      ],
+      "ci95_family4_quarter": [
+        -0.6028757161062065,
+        0.7119884108964541
+      ],
+      "ci95_family8_quarter": [
+        -0.6625855131037646,
+        0.7959088384923169
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L1_BTC_up_asset_not_up",
+    "control": "C_long_unconditional",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 63,
+    "control_n": 895,
+    "candidate_trade_mean_pct": -0.11732252278158849,
+    "control_trade_mean_pct": 0.01492663027156977,
+    "paired_per_opportunity_difference_pct": -0.023185087182452536,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.1374448070495056,
+        0.08889460517448351
+      ],
+      "ci95_family4_quarter": [
+        -0.16783023691866386,
+        0.1195919382044944
+      ],
+      "ci95_family8_quarter": [
+        -0.18454223205895653,
+        0.1317445519564756
+      ]
+    },
+    "trade_mean_difference_pct": -0.13224915305315826,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5447203509250197,
+        0.23205211874323373
+      ],
+      "ci95_family4_quarter": [
+        -0.6981847086972041,
+        0.3298585825537121
+      ],
+      "ci95_family8_quarter": [
+        -0.7621943783872148,
+        0.3674158961750579
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "L2_BTC_up_asset_lagging_up_price_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 72,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": -0.11731948847843032,
+    "paired_per_opportunity_difference_pct": 0.002760324968395396,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.010594287676957971,
+        0.015423334460511152
+      ],
+      "ci95_family4_quarter": [
+        -0.014184426525345552,
+        0.018616683169013774
+      ],
+      "ci95_family8_quarter": [
+        -0.01616008712899916,
+        0.020048886149852195
+      ]
+    },
+    "trade_mean_difference_pct": -0.03209331961489731,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.4852951659286023,
+        0.33097117929608444
+      ],
+      "ci95_family4_quarter": [
+        -0.6346494828718302,
+        0.42040001764733226
+      ],
+      "ci95_family8_quarter": [
+        -0.7214510212548338,
+        0.4499734877692501
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "C_long_AI_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 582,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": 0.033459144017961226,
+    "paired_per_opportunity_difference_pct": -0.028435457142107868,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.1161115485559785,
+        0.06213718795804586
+      ],
+      "ci95_family4_quarter": [
+        -0.13800378565136384,
+        0.0862018073682807
+      ],
+      "ci95_family8_quarter": [
+        -0.15091441620440108,
+        0.10140587007727861
+      ]
+    },
+    "trade_mean_difference_pct": -0.18287195211128887,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -1.2325675898105035,
+        0.552505423366243
+      ],
+      "ci95_family4_quarter": [
+        -1.5617511455097186,
+        0.7005265171097221
+      ],
+      "ci95_family8_quarter": [
+        -1.7160544126950723,
+        0.7550142644018035
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "C_long_legacy_confirm_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 265,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": -0.10195522145623619,
+    "paired_per_opportunity_difference_pct": 0.023510191466111167,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.043032581347159524,
+        0.1018824272627339
+      ],
+      "ci95_family4_quarter": [
+        -0.056687112582239664,
+        0.1255447527497758
+      ],
+      "ci95_family8_quarter": [
+        -0.06335944435570909,
+        0.13432444127673682
+      ]
+    },
+    "trade_mean_difference_pct": -0.047457586637091445,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.8796965501295204,
+        0.5670105055801646
+      ],
+      "ci95_family4_quarter": [
+        -1.1480270487111812,
+        0.7008818490198034
+      ],
+      "ci95_family8_quarter": [
+        -1.2690574812975461,
+        0.7597550413152817
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "C_long_legacy_confirm_price",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 395,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": -0.06521031686424589,
+    "paired_per_opportunity_difference_pct": 0.02210230484652962,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.03996095543582674,
+        0.09554135308646192
+      ],
+      "ci95_family4_quarter": [
+        -0.055259111166555366,
+        0.1192363455356125
+      ],
+      "ci95_family8_quarter": [
+        -0.06066035273838479,
+        0.13135381553570546
+      ]
+    },
+    "trade_mean_difference_pct": -0.08420249122908174,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.9788658710599385,
+        0.5590901353554393
+      ],
+      "ci95_family4_quarter": [
+        -1.264131474497382,
+        0.6958323679112369
+      ],
+      "ci95_family8_quarter": [
+        -1.3905400070557299,
+        0.7575614573967903
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "C_long_BTC_direction_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 271,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": -0.10987343494323865,
+    "paired_per_opportunity_difference_pct": 0.026591272118306773,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.03798184216178983,
+        0.09991696996596017
+      ],
+      "ci95_family4_quarter": [
+        -0.0541743273527621,
+        0.12205549615734776
+      ],
+      "ci95_family8_quarter": [
+        -0.06047299106829765,
+        0.13090703275960652
+      ]
+    },
+    "trade_mean_difference_pct": -0.039539373150088986,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.8831680804635429,
+        0.5718138710414503
+      ],
+      "ci95_family4_quarter": [
+        -1.1451732005749993,
+        0.7021547190936028
+      ],
+      "ci95_family8_quarter": [
+        -1.2707937040087498,
+        0.7581583452991714
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "L2_BTC_up_asset_lagging_up",
+    "control": "C_long_unconditional",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 40,
+    "control_n": 895,
+    "candidate_trade_mean_pct": -0.14941280809332763,
+    "control_trade_mean_pct": 0.01492663027156977,
+    "paired_per_opportunity_difference_pct": -0.021604297672388906,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.1252762079415814,
+        0.08226626477628324
+      ],
+      "ci95_family4_quarter": [
+        -0.14988797361253697,
+        0.11093394503729592
+      ],
+      "ci95_family8_quarter": [
+        -0.16014136353005667,
+        0.1232086953845051
+      ]
+    },
+    "trade_mean_difference_pct": -0.1643394383648974,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -1.2243643336917485,
+        0.5790463052835199
+      ],
+      "ci95_family4_quarter": [
+        -1.5561835680637797,
+        0.7266019143514575
+      ],
+      "ci95_family8_quarter": [
+        -1.703715355930946,
+        0.7796214875751314
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "S1_BTC_down_asset_not_down_price_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 90,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": -0.07443700154151879,
+    "paired_per_opportunity_difference_pct": 0.0020953393919875937,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.021837865406152866,
+        0.02548108132515862
+      ],
+      "ci95_family4_quarter": [
+        -0.0290372663069526,
+        0.031561655908819757
+      ],
+      "ci95_family8_quarter": [
+        -0.031916391556399366,
+        0.03462873439684011
+      ]
+    },
+    "trade_mean_difference_pct": -0.055941414212745885,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.43010181055549096,
+        0.3503481138586963
+      ],
+      "ci95_family4_quarter": [
+        -0.5167390564229967,
+        0.45697944387906897
+      ],
+      "ci95_family8_quarter": [
+        -0.559147248556083,
+        0.5047241215892585
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "C_short_AI_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 313,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": 0.0195331876210814,
+    "paired_per_opportunity_difference_pct": -0.012221105148945562,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.05623248600362911,
+        0.03588696549432762
+      ],
+      "ci95_family4_quarter": [
+        -0.06781039551142937,
+        0.04907705041509154
+      ],
+      "ci95_family8_quarter": [
+        -0.07218399586398813,
+        0.05565187016674967
+      ]
+    },
+    "trade_mean_difference_pct": -0.14991160337534606,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5827470099856232,
+        0.3127348527424409
+      ],
+      "ci95_family4_quarter": [
+        -0.6892599963274797,
+        0.4372980287956224
+      ],
+      "ci95_family8_quarter": [
+        -0.7285800195674446,
+        0.4929605661383977
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "C_short_legacy_confirm_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 179,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": 0.04014124346021868,
+    "paired_per_opportunity_difference_pct": -0.01341819437127033,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.0627795511975707,
+        0.041443737272470346
+      ],
+      "ci95_family4_quarter": [
+        -0.07512930973119257,
+        0.059345116648840616
+      ],
+      "ci95_family8_quarter": [
+        -0.07999882012380133,
+        0.06697998012666022
+      ]
+    },
+    "trade_mean_difference_pct": -0.17051965921448337,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.7203999412070836,
+        0.39849123681226917
+      ],
+      "ci95_family4_quarter": [
+        -0.8520006566184681,
+        0.562690188173761
+      ],
+      "ci95_family8_quarter": [
+        -0.895897885218024,
+        0.6245059104840412
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "C_short_legacy_confirm_price",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 490,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": -0.08277739726301936,
+    "paired_per_opportunity_difference_pct": 0.03992952321337617,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.06431702681513657,
+        0.1507626623928122
+      ],
+      "ci95_family4_quarter": [
+        -0.09273389121252948,
+        0.18486266167083384
+      ],
+      "ci95_family8_quarter": [
+        -0.1031609277197259,
+        0.1990636739629161
+      ]
+    },
+    "trade_mean_difference_pct": -0.04760101849124532,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5051115688692217,
+        0.4603143412268097
+      ],
+      "ci95_family4_quarter": [
+        -0.627503877406643,
+        0.5955739606948891
+      ],
+      "ci95_family8_quarter": [
+        -0.6703663546780751,
+        0.6428015050242083
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "C_short_BTC_direction_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 183,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": 0.0001683469284169931,
+    "paired_per_opportunity_difference_pct": -0.005424367453416879,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.043946713869718775,
+        0.04017488870702574
+      ],
+      "ci95_family4_quarter": [
+        -0.053099393713584124,
+        0.053610645416611015
+      ],
+      "ci95_family8_quarter": [
+        -0.05644587157832817,
+        0.05964747896767063
+      ]
+    },
+    "trade_mean_difference_pct": -0.13054676268268167,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.5705324367334172,
+        0.33349255642405584
+      ],
+      "ci95_family4_quarter": [
+        -0.675663765452611,
+        0.4668199657205462
+      ],
+      "ci95_family8_quarter": [
+        -0.71428824953836,
+        0.5217837870228722
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S1_BTC_down_asset_not_down",
+    "control": "C_short_unconditional",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 37,
+    "control_n": 895,
+    "candidate_trade_mean_pct": -0.13037841575426468,
+    "control_trade_mean_pct": -0.01492663027156977,
+    "paired_per_opportunity_difference_pct": 0.00953668459234319,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.10284748533338843,
+        0.12196041920035244
+      ],
+      "ci95_family4_quarter": [
+        -0.13257039978541582,
+        0.15331532049919236
+      ],
+      "ci95_family8_quarter": [
+        -0.14267307787122782,
+        0.16512241717063317
+      ]
+    },
+    "trade_mean_difference_pct": -0.11545178548269491,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.524605545871174,
+        0.33488584354680573
+      ],
+      "ci95_family4_quarter": [
+        -0.6303018381802981,
+        0.4540221376660633
+      ],
+      "ci95_family8_quarter": [
+        -0.67272379343368,
+        0.49085932890210215
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "S2_BTC_down_asset_lagging_down_price_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 109,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": -0.14082287872147198,
+    "paired_per_opportunity_difference_pct": 0.014664667449988882,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.019836682978364745,
+        0.050490823768956465
+      ],
+      "ci95_family4_quarter": [
+        -0.028729208443836533,
+        0.06219607541537031
+      ],
+      "ci95_family8_quarter": [
+        -0.03270357067652548,
+        0.06633654538583987
+      ]
+    },
+    "trade_mean_difference_pct": 0.08377630403171815,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.29778155595152594,
+        0.49680492214468935
+      ],
+      "ci95_family4_quarter": [
+        -0.3970292769811691,
+        0.6149654260504156
+      ],
+      "ci95_family8_quarter": [
+        -0.43572610152508373,
+        0.6711982427876606
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "C_short_AI_only",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 313,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": 0.0195331876210814,
+    "paired_per_opportunity_difference_pct": -0.009316987864021098,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.049165496430827606,
+        0.03138663752909249
+      ],
+      "ci95_family4_quarter": [
+        -0.05978118408957169,
+        0.042251596447462285
+      ],
+      "ci95_family8_quarter": [
+        -0.06498794655059188,
+        0.04740174483998214
+      ]
+    },
+    "trade_mean_difference_pct": -0.07657976231083523,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.434346764569393,
+        0.2529653352084269
+      ],
+      "ci95_family4_quarter": [
+        -0.5501006750437379,
+        0.33987148455328614
+      ],
+      "ci95_family8_quarter": [
+        -0.605790453646666,
+        0.3863620567705538
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "C_short_legacy_confirm_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 179,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": 0.04014124346021868,
+    "paired_per_opportunity_difference_pct": -0.010514077086345861,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.0441903367469469,
+        0.026819775141788956
+      ],
+      "ci95_family4_quarter": [
+        -0.052879237706606054,
+        0.03846158159454659
+      ],
+      "ci95_family8_quarter": [
+        -0.05647034106840256,
+        0.043186893371949815
+      ]
+    },
+    "trade_mean_difference_pct": -0.09718781814997252,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.43534790850435806,
+        0.19470114796953752
+      ],
+      "ci95_family4_quarter": [
+        -0.5458708692619574,
+        0.27889441081278626
+      ],
+      "ci95_family8_quarter": [
+        -0.5973331508099338,
+        0.31838415423247196
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "C_short_legacy_confirm_price",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 490,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": -0.08277739726301936,
+    "paired_per_opportunity_difference_pct": 0.04283364049830066,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.060645957743268517,
+        0.15201265377821738
+      ],
+      "ci95_family4_quarter": [
+        -0.08823482519932001,
+        0.18567970003518788
+      ],
+      "ci95_family8_quarter": [
+        -0.09973871192897613,
+        0.19911590327742243
+      ]
+    },
+    "trade_mean_difference_pct": 0.025730822573265533,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.3906637646962159,
+        0.4256319784482394
+      ],
+      "ci95_family4_quarter": [
+        -0.5140240892513536,
+        0.5298494775834972
+      ],
+      "ci95_family8_quarter": [
+        -0.5794837151954811,
+        0.570881036901214
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "C_short_BTC_direction_AI",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 183,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": 0.0001683469284169931,
+    "paired_per_opportunity_difference_pct": -0.002520250168492412,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.040358884217677346,
+        0.03764373196879103
+      ],
+      "ci95_family4_quarter": [
+        -0.05020977294537125,
+        0.048442744868710315
+      ],
+      "ci95_family8_quarter": [
+        -0.054472213373164574,
+        0.05302944066566402
+      ]
+    },
+    "trade_mean_difference_pct": -0.05721492161817082,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.43327253069375093,
+        0.3012182803629168
+      ],
+      "ci95_family4_quarter": [
+        -0.5408306942120926,
+        0.415501217391576
+      ],
+      "ci95_family8_quarter": [
+        -0.5969763095099349,
+        0.4569944288530379
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  },
+  {
+    "candidate": "S2_BTC_down_asset_lagging_down",
+    "control": "C_short_unconditional",
+    "same_common_asset_opportunities": 895,
+    "candidate_n": 39,
+    "control_n": 895,
+    "candidate_trade_mean_pct": -0.057046574689753826,
+    "control_trade_mean_pct": -0.01492663027156977,
+    "paired_per_opportunity_difference_pct": 0.012440801877267649,
+    "paired_per_opportunity_intervals": {
+      "ci95_quarter": [
+        -0.10307763456749024,
+        0.13019067393041275
+      ],
+      "ci95_family4_quarter": [
+        -0.13593875934068317,
+        0.16218948032884076
+      ],
+      "ci95_family8_quarter": [
+        -0.15000329272332039,
+        0.17891950946073062
+      ]
+    },
+    "trade_mean_difference_pct": -0.042119944418184056,
+    "trade_mean_difference_intervals": {
+      "ci95_quarter": [
+        -0.4475955158290211,
+        0.3338306329729807
+      ],
+      "ci95_family4_quarter": [
+        -0.5590643516035696,
+        0.43774613712915406
+      ],
+      "ci95_family8_quarter": [
+        -0.6250919536957583,
+        0.4790064982685648
+      ]
+    },
+    "skips_zero": true,
+    "same_clock": true
+  }
+]

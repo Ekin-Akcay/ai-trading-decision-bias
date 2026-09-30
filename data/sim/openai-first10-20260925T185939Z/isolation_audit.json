@@ -1,0 +1,557 @@
+{
+  "all_passed": true,
+  "eligible_decisions": 30,
+  "method": "Tool-call allowlist plus parent review of saved tool inputs. Each accepted agent has one fresh turn, assigned model and medium reasoning. No OS sandbox is claimed.",
+  "excluded_attempts": {
+    "[isolated-agent]": {
+      "reason": "Mistyped prompt path; cat returned No such file or directory. Agent saw chart but not numeric prompt.",
+      "decision": "Exclude before evaluation for incomplete stimulus; repeat with fresh context."
+    },
+    "[isolated-agent]_clean": {
+      "reason": "Queried cua.getState app inventory despite explicit restriction; outside two permitted stimulus files",
+      "decision": "Exclude before outcome evaluation; retain original attempt; fresh rerun with exact single read-only tool call supplied"
+    }
+  },
+  "agents": [
+    {
+      "case": 1,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 1,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 1,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 2,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 2,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 2,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 3,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 3,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 3,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 4,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "sed -n '1,240p' [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 4,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat '[temporary-workspace]'"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 4,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 5,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 5,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 5,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 6,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 6,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 6,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 7,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 7,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 7,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 8,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 8,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 8,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 9,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 9,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 9,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 10,
+      "model": "gpt-5.6-luna",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 10,
+      "model": "gpt-5.6-terra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    },
+    {
+      "case": 10,
+      "model": "gpt-6-astra",
+      "passed": true,
+      "issues": [],
+      "shell_commands": [
+        "cat [temporary-workspace]"
+      ],
+      "image_paths": [
+        "[temporary-workspace]"
+      ],
+      "nested_tools": [
+        "exec_command",
+        "view_image"
+      ],
+      "full_prompt_received": true,
+      "received_image_count": 1
+    }
+  ]
+}

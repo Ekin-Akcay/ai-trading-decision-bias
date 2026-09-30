@@ -1,0 +1,10 @@
+{
+  "candidate": "006_long_none_confirm15_hold240",
+  "discovery_n": 32,
+  "discovery_mean_net_pct": 0.2640320989606191,
+  "discovery_sd_net_pct": 2.353690445971263,
+  "expected_fresh_executions_from280": 59.733333333333334,
+  "normal_approx_80pct_power_min_detectable_net_pct_two_sided_5pct": 0.8531881334843355,
+  "normal_approx_executions_for80pct_power_at_discovery_mean": 623.7246487334946,
+  "warning": "Illustrative normal approximation only; selected discovery estimate likely optimistic; fat tails and multiple tests worsen power"
+}

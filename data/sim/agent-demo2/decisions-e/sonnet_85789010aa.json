@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Climactic 7x-volume flush to 99.12 reversed intrabar; higher low and close at 100 signal short-term bounce to MA20."
+}

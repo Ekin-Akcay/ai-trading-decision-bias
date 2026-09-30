@@ -1,0 +1,57 @@
+{
+  "study": "frozen_behavior_proxy_new_calendar_replication",
+  "phase": "fresh_target_historical_test_after_prior_discovery",
+  "model_calls": 0,
+  "refits": 0,
+  "sample_blocks": 783,
+  "asset_trades": 3132,
+  "primary_policy": "proxy_fade",
+  "primary_competitor": "MA20_fade",
+  "primary_research_candidates": [],
+  "gross_profit_gate": {
+    "conditions": {
+      "at_least250_blocks": true,
+      "at_least12_quarters": true,
+      "weekly99_lower_positive": false,
+      "quarter95_lower_positive": false,
+      "both_halves_positive": false,
+      "exclude_best3_positive": false,
+      "all_leave_one_asset_out_positive": false
+    },
+    "passed": false,
+    "failed": [
+      "weekly99_lower_positive",
+      "quarter95_lower_positive",
+      "both_halves_positive",
+      "exclude_best3_positive",
+      "all_leave_one_asset_out_positive"
+    ]
+  },
+  "increment_over_MA20_gate": {
+    "conditions": {
+      "at_least250_blocks": true,
+      "at_least12_quarters": true,
+      "weekly99_lower_positive": false,
+      "quarter95_lower_positive": false,
+      "both_halves_positive": true,
+      "exclude_best3_positive": false,
+      "all_leave_one_asset_out_positive": true
+    },
+    "passed": false,
+    "failed": [
+      "weekly99_lower_positive",
+      "quarter95_lower_positive",
+      "exclude_best3_positive"
+    ]
+  },
+  "decision": "NO_VERIFIED_PROXY_EDGE",
+  "two_claims_passed": false,
+  "side_or_asset_promotion": false,
+  "sample_sha256": "a55f9ce396a5f8816eefee243430fb30a855ef5e8033d0d32ec1766ec42c3f51",
+  "mean_gross_pct": 0.008830227990372298,
+  "mean_increment_pct": 0.010685124453819432,
+  "interpretation": "Gross mean is near zero; neither frozen claim passes. Descriptive longs/shorts or DOGE may not replace the pooled primary. This is a price-only proxy of AI behavior, not evidence of incremental live AI information.",
+  "independent_final_audit_file": "data/analysis/new-angles-20260930/audit/proxy_final_statistics_audit.json",
+  "independent_final_audit_sha256": "12a969beb44fe588a5fabac10d912194f63296387d427c533d0f1a1175e07756",
+  "independent_final_audit_passed": true
+}

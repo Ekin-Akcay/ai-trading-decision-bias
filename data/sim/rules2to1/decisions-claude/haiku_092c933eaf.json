@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.35,
+  "confidence": 0.68,
+  "reason": "Price below MAs after high-volume breakdown; recovery attempts failing. Technical short setup with 2:1 RR."
+}

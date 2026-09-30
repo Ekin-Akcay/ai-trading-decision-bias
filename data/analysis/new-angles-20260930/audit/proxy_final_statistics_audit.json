@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:29:56.370694+00:00",
+  "native_asset_paths_rechecked": 3132,
+  "native_rows_rechecked": 754812,
+  "calendar_baskets": 783,
+  "UTC_week_clusters": 192,
+  "quarters": 19,
+  "independently_reconstructed_trade_values": 12528,
+  "all_20000_weekly_and_quarter_arrays_match": true,
+  "all_policy_and_increment_summary_stats_match": true,
+  "all_locked_gate_flags_match": true,
+  "descriptive_leg_accounting_checks": 80,
+  "profit_mean_pct": 0.008830227990372322,
+  "profit_weekly99": [
+    -0.09350885703770871,
+    0.10855981890614426
+  ],
+  "profit_quarter95": [
+    -0.04316488262217199,
+    0.05755406392624721
+  ],
+  "MA20_increment_pp": 0.010685124453819474,
+  "increment_weekly99": [
+    -0.08885890064977156,
+    0.10951734597251522
+  ],
+  "increment_quarter95": [
+    -0.07409172055165832,
+    0.09806946421866831
+  ],
+  "gross_profit_gate": {
+    "conditions": {
+      "at_least250_blocks": true,
+      "at_least12_quarters": true,
+      "weekly99_lower_positive": false,
+      "quarter95_lower_positive": false,
+      "both_halves_positive": false,
+      "exclude_best3_positive": false,
+      "all_leave_one_asset_out_positive": false
+    },
+    "passed": false,
+    "failed": [
+      "weekly99_lower_positive",
+      "quarter95_lower_positive",
+      "both_halves_positive",
+      "exclude_best3_positive",
+      "all_leave_one_asset_out_positive"
+    ]
+  },
+  "increment_gate": {
+    "conditions": {
+      "at_least250_blocks": true,
+      "at_least12_quarters": true,
+      "weekly99_lower_positive": false,
+      "quarter95_lower_positive": false,
+      "both_halves_positive": true,
+      "exclude_best3_positive": false,
+      "all_leave_one_asset_out_positive": true
+    },
+    "passed": false,
+    "failed": [
+      "weekly99_lower_positive",
+      "quarter95_lower_positive",
+      "exclude_best3_positive"
+    ]
+  },
+  "all_source_hashes_preserved": true,
+  "physical_model_calls_still": 771,
+  "remaining_calls_preserved": 29,
+  "new_model_calls": 0,
+  "interpretation": "Both locked claims fail. Small positive historical gross mean does not establish profitable expectancy or improvement over MA20. This is the fixed historical price-proxy test; neither a selected leg nor alternative control rescues it."
+}

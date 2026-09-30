@@ -1,0 +1,262 @@
+{
+  "candidate_rows": 2800,
+  "unique_t0": 1803,
+  "unique_UTC_days": 420,
+  "direction_counts": {
+    "up": 1458,
+    "down": 1342
+  },
+  "direction_unique_days": {
+    "up": 340,
+    "down": 317
+  },
+  "year_direction_counts": {
+    "down": {
+      "2020": 186,
+      "2021": 670,
+      "2022": 103,
+      "2023": 108,
+      "2024": 121,
+      "2025": 104,
+      "2026": 50
+    },
+    "up": {
+      "2020": 232,
+      "2021": 674,
+      "2022": 83,
+      "2023": 106,
+      "2024": 133,
+      "2025": 182,
+      "2026": 48
+    }
+  },
+  "asset_counts": {
+    "SOL-USD": {
+      "grid": 105106,
+      "calendar_pass": 5937,
+      "history_pass": 104808,
+      "minute_coverage_pass": 104794,
+      "all_coverage_and_exclusions": 5818,
+      "quiet_candidates": 649,
+      "up": 352,
+      "down": 297
+    },
+    "BTC-USD": {
+      "grid": 105106,
+      "calendar_pass": 5937,
+      "history_pass": 105106,
+      "minute_coverage_pass": 105101,
+      "all_coverage_and_exclusions": 5932,
+      "quiet_candidates": 637,
+      "up": 318,
+      "down": 319
+    },
+    "ETH-USD": {
+      "grid": 105106,
+      "calendar_pass": 5937,
+      "history_pass": 105106,
+      "minute_coverage_pass": 105101,
+      "all_coverage_and_exclusions": 5932,
+      "quiet_candidates": 657,
+      "up": 343,
+      "down": 314
+    },
+    "DOGE-USD": {
+      "grid": 105106,
+      "calendar_pass": 5937,
+      "history_pass": 105106,
+      "minute_coverage_pass": 105101,
+      "all_coverage_and_exclusions": 5932,
+      "quiet_candidates": 857,
+      "up": 445,
+      "down": 412
+    }
+  },
+  "draft_allocation": {
+    "success": true,
+    "stages": {
+      "screen": {
+        "count": 60,
+        "years": {
+          "2020": 8,
+          "2021": 9,
+          "2022": 8,
+          "2023": 9,
+          "2024": 8,
+          "2025": 9,
+          "2026": 9
+        },
+        "direction_asset_quota": {
+          "up": [
+            8,
+            8,
+            7,
+            7
+          ],
+          "down": [
+            7,
+            7,
+            8,
+            8
+          ]
+        }
+      },
+      "confirmation_core": {
+        "count": 120,
+        "years": {
+          "2020": 17,
+          "2021": 18,
+          "2022": 17,
+          "2023": 17,
+          "2024": 17,
+          "2025": 17,
+          "2026": 17
+        },
+        "direction_asset_quota": {
+          "up": [
+            15,
+            15,
+            15,
+            15
+          ],
+          "down": [
+            15,
+            15,
+            15,
+            15
+          ]
+        }
+      },
+      "confirmation_extension": {
+        "count": 120,
+        "years": {
+          "2020": 10,
+          "2021": 22,
+          "2022": 17,
+          "2023": 21,
+          "2024": 22,
+          "2025": 22,
+          "2026": 6
+        },
+        "direction_asset_quota": {
+          "up": [
+            15,
+            15,
+            15,
+            15
+          ],
+          "down": [
+            15,
+            15,
+            15,
+            15
+          ]
+        }
+      }
+    },
+    "unique_UTC_days": 300,
+    "extension_attempt": {
+      "success": true,
+      "stages": {
+        "screen": {
+          "count": 60,
+          "years": {
+            "2020": 8,
+            "2021": 9,
+            "2022": 8,
+            "2023": 9,
+            "2024": 8,
+            "2025": 9,
+            "2026": 9
+          },
+          "direction_asset_quota": {
+            "up": [
+              8,
+              8,
+              7,
+              7
+            ],
+            "down": [
+              7,
+              7,
+              8,
+              8
+            ]
+          }
+        },
+        "confirmation_core": {
+          "count": 120,
+          "years": {
+            "2020": 17,
+            "2021": 18,
+            "2022": 17,
+            "2023": 17,
+            "2024": 17,
+            "2025": 17,
+            "2026": 17
+          },
+          "direction_asset_quota": {
+            "up": [
+              15,
+              15,
+              15,
+              15
+            ],
+            "down": [
+              15,
+              15,
+              15,
+              15
+            ]
+          }
+        },
+        "confirmation_extension": {
+          "count": 120,
+          "years": {
+            "2020": 10,
+            "2021": 22,
+            "2022": 17,
+            "2023": 21,
+            "2024": 22,
+            "2025": 22,
+            "2026": 6
+          },
+          "direction_asset_quota": {
+            "up": [
+              15,
+              15,
+              15,
+              15
+            ],
+            "down": [
+              15,
+              15,
+              15,
+              15
+            ]
+          }
+        }
+      },
+      "unique_UTC_days": 300
+    }
+  },
+  "draft_rows": 300,
+  "post_entry_returns_computed": false,
+  "post_entry_prices_exported": false,
+  "model_calls": 0,
+  "source_sha256": {
+    "data/analysis/gross-edge-20260929/ma_ablation/design/fresh_blocks.json": "c3206b896211fa91ecba46cc267b40e5e142c22d753ade2ffca7af78d3cd47bb",
+    "data/analysis/new-angles-20260930/proxy_replication/frozen_sample.json": "a55f9ce396a5f8816eefee243430fb30a855ef5e8033d0d32ec1766ec42c3f51",
+    "data/analysis/ai-timing-200-20260930/design/PLAN.md": "0516eeafd6890be621978a0edc155a7f83fbb0155905c475200e18ef9470a2c7",
+    "data/analysis/ai-timing-200-20260930/design/build_sample.py": "a280a9c48e4e67ef5d0041fc8d8e39780deea61de19012c0ce04c3b1582894b9",
+    "src/nai/sim.py": "8d8b3b578cd005d3d3dc929159aae0b84f3fc6e77e5aa7ef0108d9c8a937578c",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/intraday/BTC-USD_15m.csv.gz": "2e3eaa24068b8bdf8f8af2c4d2c5624968da8778f31668f21b762921b70a75e4",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/ETH-USD_15m.csv.gz": "9954cf431d8d635318ce363f1cfb59ebd84cba2462e06d819a99774d9de30c6a",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/DOGE-USD_15m.csv.gz": "eefa00bfe13592028e996a83b7c13d06b68b1742075579999a626744c50b3575",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a"
+  }
+}

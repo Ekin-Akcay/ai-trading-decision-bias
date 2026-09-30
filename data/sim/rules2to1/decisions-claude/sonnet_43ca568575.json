@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.58,
+  "reason": "Downtrend intact, price below MA20/MA50; weak-volume bounce rejected below MA20 resistance."
+}

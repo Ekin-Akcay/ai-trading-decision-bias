@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Price below MA20 and MA50, downtrend intact; failed rally near MA50 shows sellers still in control."
+}

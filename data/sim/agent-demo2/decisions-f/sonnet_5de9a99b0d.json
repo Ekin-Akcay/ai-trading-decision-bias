@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.4,
+  "take_profit_pct": 2.3,
+  "confidence": 0.55,
+  "reason": "Capitulation flush, higher low on lower volume, reversal candle, follow-through; bounce targets MA20/MA50 resistance."
+}

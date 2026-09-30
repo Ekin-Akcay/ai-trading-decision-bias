@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.0,
+  "take_profit_pct": 3.5,
+  "confidence": 0.68,
+  "reason": "Uptrend with elevated volume, above both MAs; risks at recent high"
+}

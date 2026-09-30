@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.72,
+  "reason": "Uptrend with higher highs/lows, above MAs, breakout confirmed"
+}

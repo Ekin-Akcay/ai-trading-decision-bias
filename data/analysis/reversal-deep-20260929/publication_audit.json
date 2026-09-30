@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "html": [
+    {
+      "page": "data/analysis/reversal-deep-20260929/index.html",
+      "links": 10,
+      "case_cards": 0,
+      "broken_links": []
+    },
+    {
+      "page": "data/sim/reversal-validation280-20260929T194012Z/index.html",
+      "links": 855,
+      "case_cards": 280,
+      "broken_links": []
+    }
+  ],
+  "markdown_links_valid": true,
+  "source_hashes_preserved": 27,
+  "changed": [],
+  "physical_calls": 280,
+  "unique_model_sessions": 280,
+  "primary_case_cards": 280,
+  "primary_trade_rows": 176,
+  "expanded_family_definitions": 11295,
+  "figures_visually_reviewed": true,
+  "independent_expanded_audit": "see audit"
+}

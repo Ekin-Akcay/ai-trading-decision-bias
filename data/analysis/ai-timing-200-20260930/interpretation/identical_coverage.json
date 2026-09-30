@@ -1,0 +1,357 @@
+{
+  "post_score_diagnostic": true,
+  "not_frozen_confirmation": true,
+  "no_new_calls": true,
+  "same_clock_same_coverage": true,
+  "plan_sha256": "c55386960189af1c9ff92611ed357d816a929a6a738ff7df5d7ff2d40c33c57b",
+  "sign_checks": 300,
+  "stages": {
+    "screen": {
+      "gates": 30,
+      "AI_short_n": 22,
+      "AI_long_n": 8,
+      "MA_short_n": 18,
+      "MA_long_n": 12,
+      "AI_MA_agreement_n": 22,
+      "quarter_universe": [
+        "2020Q3",
+        "2020Q4",
+        "2021Q1",
+        "2021Q2",
+        "2021Q3",
+        "2021Q4",
+        "2022Q2",
+        "2022Q3",
+        "2022Q4",
+        "2023Q1",
+        "2023Q2",
+        "2023Q3",
+        "2023Q4",
+        "2024Q1",
+        "2024Q2",
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2",
+        "2026Q3"
+      ],
+      "bootstrap_draws": 40000,
+      "bootstrap_seed": 2026093051,
+      "vectors": {
+        "follow_AI_pct": {
+          "n": 30,
+          "mean": 0.6441160521794291,
+          "median": 0.3399969735998154,
+          "positive_n": 22,
+          "negative_n": 8,
+          "zero_n": 0,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              0.25699838586262913,
+              1.168555642284908
+            ],
+            "ordinary95_lower_undefined_minus_infinity": 0.25699838586262913,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 15,
+              "mean": 0.9159599185054359
+            },
+            {
+              "n": 15,
+              "mean": 0.3722721858534224
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                22
+              ],
+              "n": 29,
+              "mean": 0.4716877748317638
+            },
+            "3": {
+              "removed_cases": [
+                22,
+                32,
+                38
+              ],
+              "n": 27,
+              "mean": 0.2215405709719034
+            }
+          }
+        },
+        "follow_MA20_pct": {
+          "n": 30,
+          "mean": -0.19681156558858418,
+          "median": 0.013997424536765779,
+          "positive_n": 16,
+          "negative_n": 14,
+          "zero_n": 0,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              -0.8282878027121658,
+              0.30626928953293964
+            ],
+            "ordinary95_lower_undefined_minus_infinity": -0.8282878027121658,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 15,
+              "mean": -0.5836407200045273
+            },
+            {
+              "n": 15,
+              "mean": 0.19001758882735884
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                38
+              ],
+              "n": 29,
+              "mean": -0.310255992223151
+            },
+            "3": {
+              "removed_cases": [
+                38,
+                43,
+                14
+              ],
+              "n": 27,
+              "mean": -0.43901633490130126
+            }
+          }
+        },
+        "AI_minus_MA20_pp": {
+          "n": 30,
+          "mean": 0.8409276177680133,
+          "median": 0.0,
+          "positive_n": 7,
+          "negative_n": 1,
+          "zero_n": 22,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              0.08949078174258429,
+              1.9261631345218508
+            ],
+            "ordinary95_lower_undefined_minus_infinity": 0.08949078174258429,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 15,
+              "mean": 1.4996006385099632
+            },
+            {
+              "n": 15,
+              "mean": 0.18225459702606361
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                22
+              ],
+              "n": 29,
+              "mean": 0.4806467704316192
+            },
+            "3": {
+              "removed_cases": [
+                22,
+                32,
+                13
+              ],
+              "n": 27,
+              "mean": 0.10218930492559986
+            }
+          }
+        }
+      }
+    },
+    "confirmation": {
+      "gates": 120,
+      "AI_short_n": 91,
+      "AI_long_n": 29,
+      "MA_short_n": 77,
+      "MA_long_n": 43,
+      "AI_MA_agreement_n": 96,
+      "quarter_universe": [
+        "2020Q3",
+        "2020Q4",
+        "2021Q1",
+        "2021Q2",
+        "2021Q3",
+        "2021Q4",
+        "2022Q1",
+        "2022Q2",
+        "2022Q3",
+        "2022Q4",
+        "2023Q1",
+        "2023Q2",
+        "2023Q3",
+        "2023Q4",
+        "2024Q1",
+        "2024Q2",
+        "2024Q3",
+        "2024Q4",
+        "2025Q1",
+        "2025Q2",
+        "2025Q3",
+        "2025Q4",
+        "2026Q1",
+        "2026Q2",
+        "2026Q3"
+      ],
+      "bootstrap_draws": 40000,
+      "bootstrap_seed": 2026093051,
+      "vectors": {
+        "follow_AI_pct": {
+          "n": 120,
+          "mean": 0.10899349113930766,
+          "median": -0.025059431333596116,
+          "positive_n": 57,
+          "negative_n": 63,
+          "zero_n": 0,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              -0.13677362334933377,
+              0.3808144945474818
+            ],
+            "ordinary95_lower_undefined_minus_infinity": -0.13677362334933377,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 60,
+              "mean": 0.2726682711224982
+            },
+            {
+              "n": 60,
+              "mean": -0.05468128884388286
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                61
+              ],
+              "n": 119,
+              "mean": 0.06483420861481876
+            },
+            "3": {
+              "removed_cases": [
+                61,
+                223,
+                64
+              ],
+              "n": 117,
+              "mean": -0.011840847328393791
+            }
+          }
+        },
+        "follow_MA20_pct": {
+          "n": 120,
+          "mean": 0.15683675128738261,
+          "median": -0.011856681413763281,
+          "positive_n": 59,
+          "negative_n": 61,
+          "zero_n": 0,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              -0.10785422354808741,
+              0.47380551053191083
+            ],
+            "ordinary95_lower_undefined_minus_infinity": -0.10785422354808741,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 60,
+              "mean": 0.4378796060587465
+            },
+            {
+              "n": 60,
+              "mean": -0.12420610348398121
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                61
+              ],
+              "n": 119,
+              "mean": 0.11307951296581871
+            },
+            "3": {
+              "removed_cases": [
+                61,
+                223,
+                64
+              ],
+              "n": 117,
+              "mean": 0.03722916307988824
+            }
+          }
+        },
+        "AI_minus_MA20_pp": {
+          "n": 120,
+          "mean": -0.04784326014807494,
+          "median": 0.0,
+          "positive_n": 11,
+          "negative_n": 13,
+          "zero_n": 96,
+          "interval": {
+            "ordinary95_finite_draw_interval": [
+              -0.17015913112413927,
+              0.05994083636399699
+            ],
+            "ordinary95_lower_undefined_minus_infinity": -0.17015913112413927,
+            "undefined_fraction": 0.0,
+            "family_adjusted": false
+          },
+          "chronological_halves": [
+            {
+              "n": 60,
+              "mean": -0.1652113349362483
+            },
+            {
+              "n": 60,
+              "mean": 0.06952481464009841
+            }
+          ],
+          "removed_largest_positive_events": {
+            "1": {
+              "removed_cases": [
+                136
+              ],
+              "n": 119,
+              "mean": -0.07697046759400078
+            },
+            "3": {
+              "removed_cases": [
+                136,
+                110,
+                100
+              ],
+              "n": 117,
+              "mean": -0.1158424394641642
+            }
+          }
+        }
+      }
+    }
+  }
+}

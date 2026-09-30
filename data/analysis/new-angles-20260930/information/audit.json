@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "no_model_calls": true,
+  "fees_bps": 0,
+  "unique_asset_windows": 1020,
+  "unique_entry_time_blocks": 645,
+  "paired_extra_decisions_not_counted_as_events": 180,
+  "source_sha256": {
+    "data/analysis/new-angles-20260930/information/PLAN.md": "c1dd145ccc9ba846c26cc34d3e00e7df6dc7c9edba03202b9d0c4a2323b42d72",
+    "data/analysis/gross-edge-20260929/signals/windows.csv": "6d4617d7e2d49c016fdc3c7403ba65cebf9869e4eb9db6695a0b1985814809d5",
+    "data/analysis/gross-edge-20260929/signals/all116_zero_fee_vectors.npz": "f4caab804da9bbab6dec6c4d0a344dcddf3bfcbd2eda06f5d6618da59f7bcfd7",
+    "data/sim/gross-edge-500-20260929T204545Z/manifest.json": "05caebe8a94116f8c6ab0fa4e629f466c2d3c5debd107a5bb27640a326277fb6",
+    "data/sim/gross-edge-500-20260929T204545Z/accepted_decisions.jsonl": "39b106aa62710a12a75245a1843a288706441f72698aac27f4d1672b1ef3a568",
+    "data/analysis/gross-edge-20260929/signals/fresh_L048_independent_rows.csv": "ca72bf8940df187a02c26f8d09f798685c9454b633843ed23e5f4c84989f37b5",
+    "data/sim/ma-ablation-sol90-20260929T210853Z/manifest.json": "835a0e1d6683fb67206abb4d23de7b2d33570965773939dbf1e816917c86b853",
+    "data/sim/ma-ablation-sol90-20260929T210853Z/accepted_decisions.jsonl": "e52e2d27da58b621b2fb4a7cb5dbe331e67c72e22427758ef4fd7c519317bf27",
+    "data/analysis/gross-edge-20260929/signals/paired90_independent_windows.csv": "13fd4f6cb7f6e1e3707ebe88d5e27c66e6490ef24d04ca7c4471a90c73e9733c"
+  },
+  "source_hashes_unchanged": true,
+  "forward_calendar_test_years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "embargo_days": 7,
+  "scored_auxiliary_windows": 803,
+  "warmup_windows": 217,
+  "fixed_candidates": 11,
+  "new_thresholds_after_scoring": false,
+  "bootstrap_draws": 20000,
+  "bootstrap_seed": 2026093007,
+  "matched_control_means_reestimated_each_draw": true,
+  "chronological_halves_keep_simultaneous_assets_together": true,
+  "all_outcomes_previously_inspected": true,
+  "independent_validation": false,
+  "price_controls_coarse_matching_not_causal_identification": true
+}

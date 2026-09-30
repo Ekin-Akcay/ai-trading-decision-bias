@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.9,
+  "take_profit_pct": 1.2,
+  "confidence": 0.55,
+  "reason": "Breakdown retest rejected at 101.2, lower highs below falling MAs; targeting sweep below 98.97 swing low."
+}

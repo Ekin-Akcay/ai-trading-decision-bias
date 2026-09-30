@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "take_profit_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Lower highs since volume-spike top, rejected at MA20 on weak low-volume bounce; targeting breakdown below 99.5 support."
+}

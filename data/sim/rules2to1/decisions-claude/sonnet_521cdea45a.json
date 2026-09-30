@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.6,
+  "reason": "Rally hits declining MA50 resistance after downtrend on weak volume; fading the bounce."
+}

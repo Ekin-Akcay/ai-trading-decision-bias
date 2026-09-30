@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.58,
+  "reason": "Price above MA20/MA50 with bullish MA cross; higher lows and tight bull-flag consolidation near 100 after recovery."
+}

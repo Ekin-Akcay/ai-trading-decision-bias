@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.58,
+  "reason": "Uptrend above MA20/MA50; pullback bounced off MA20 support, closed near high on fading volume."
+}

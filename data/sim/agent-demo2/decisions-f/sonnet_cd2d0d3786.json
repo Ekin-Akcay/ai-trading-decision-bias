@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.3,
+  "take_profit_pct": 2.0,
+  "confidence": 0.55,
+  "reason": "Bull flag above rising MA50 support, tight range under MA20, falling volume, uptrend intact overall."
+}

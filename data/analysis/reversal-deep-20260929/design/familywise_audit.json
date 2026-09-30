@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "audited_at": "2026-09-29T20:03:49.295469+00:00",
+  "definitions": 11191,
+  "unique_return_vectors": 9246,
+  "family_counts": {
+    "risk": 10815,
+    "signals": 232,
+    "confirmation": 144
+  },
+  "windows": 280,
+  "quarters": 24,
+  "replicates": 20000,
+  "seed": 2026092940,
+  "all_matrix_columns_reconstructed_from_family_gross_returns": true,
+  "skip_entries_verified_zero": 1657690,
+  "cost_percentage_points": 0.2,
+  "all_20000_joint_bootstrap_maxima_match": true,
+  "all_familywise_p_values_match": true,
+  "nominal_p_value_exact_matches": 11187,
+  "nominal_p_value_max_absolute_difference": 4.99975001250208e-05,
+  "all_simultaneous_lower_bounds_match": true,
+  "max_t_95critical": 3.8363793017095564,
+  "largest_observed_t": 1.8764596712718782,
+  "global_maxT_p": 0.9746512674366282,
+  "passing_policies": 0,
+  "top_policy": "signals:048_long_both_down_confirm0_hold240:selected",
+  "top_n": 65,
+  "top_mean_net_per_trade_pct": 0.33513224825238525,
+  "top_nominal_p_matches": true,
+  "status": "Independent numerical PASS; no family-corrected profitable strategy demonstrated",
+  "limitations": [
+    "Retrospective exploratory reuse, not fresh confirmation",
+    "Quarter clusters assumed exchangeable; longer regime dependence remains possible",
+    "Profit relative to cash does not by itself identify incremental AI value"
+  ],
+  "nominal_roundoff_note": "Four negative-t policies differ by one of 20,001 nominal tail counts under independent floating-point summation; every familywise p-value and the top-policy nominal p-value match."
+}

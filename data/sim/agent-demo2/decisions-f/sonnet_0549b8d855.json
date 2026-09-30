@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.9,
+  "take_profit_pct": 1.8,
+  "confidence": 0.55,
+  "reason": "Price below MA20/MA50 in high-volume downtrend breaking 100 handle; shorting continuation, stop above recent swing."
+}

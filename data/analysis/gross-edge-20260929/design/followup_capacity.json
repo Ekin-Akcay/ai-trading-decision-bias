@@ -1,0 +1,231 @@
+{
+  "future_hours": 6,
+  "new_history_hours": 50,
+  "new_new_spacing_hours": 56,
+  "prior466_calendar_exposures_excluded": true,
+  "new125_calendar_exposures_excluded": true,
+  "no_forward_returns_examined": true,
+  "no_sample_frozen": true,
+  "new_model_calls": 0,
+  "unrestricted_remaining": {
+    "candidate_grid_bars": 29526,
+    "maximum_chronological_greedy_blocks": 348,
+    "random_greedy_capacities": [
+      332,
+      324,
+      331
+    ],
+    "max_sample_quarter_coverage": {
+      "2020Q3": 3,
+      "2020Q4": 12,
+      "2021Q1": 14,
+      "2021Q2": 14,
+      "2021Q3": 18,
+      "2021Q4": 17,
+      "2022Q1": 13,
+      "2022Q2": 18,
+      "2022Q3": 15,
+      "2022Q4": 13,
+      "2023Q1": 17,
+      "2023Q2": 14,
+      "2023Q3": 12,
+      "2023Q4": 16,
+      "2024Q1": 13,
+      "2024Q2": 14,
+      "2024Q3": 13,
+      "2024Q4": 14,
+      "2025Q1": 12,
+      "2025Q2": 12,
+      "2025Q3": 17,
+      "2025Q4": 16,
+      "2026Q1": 15,
+      "2026Q2": 13,
+      "2026Q3": 13
+    },
+    "min_entry": "2020-09-16 09:15:00",
+    "max_entry": "2026-09-17 18:00:00"
+  },
+  "assets": {
+    "SOL-USD": {
+      "candidate_grid_bars": 9228,
+      "maximum_chronological_greedy_blocks": 112,
+      "random_greedy_capacities": [
+        105,
+        106,
+        107
+      ],
+      "max_sample_quarter_coverage": {
+        "2021Q2": 5,
+        "2021Q3": 5,
+        "2021Q4": 1,
+        "2022Q1": 13,
+        "2022Q2": 15,
+        "2022Q3": 9,
+        "2022Q4": 11,
+        "2023Q3": 6,
+        "2024Q3": 7,
+        "2025Q1": 2,
+        "2025Q2": 2,
+        "2025Q4": 13,
+        "2026Q1": 11,
+        "2026Q2": 9,
+        "2026Q3": 3
+      },
+      "min_entry": "2021-05-23 06:15:00",
+      "max_entry": "2026-08-17 18:30:00"
+    },
+    "BTC-USD": {
+      "candidate_grid_bars": 9324,
+      "maximum_chronological_greedy_blocks": 113,
+      "random_greedy_capacities": [
+        108,
+        109,
+        106
+      ],
+      "max_sample_quarter_coverage": {
+        "2021Q2": 5,
+        "2021Q3": 8,
+        "2021Q4": 1,
+        "2022Q1": 10,
+        "2022Q2": 17,
+        "2022Q3": 12,
+        "2022Q4": 10,
+        "2023Q3": 5,
+        "2024Q3": 7,
+        "2025Q1": 2,
+        "2025Q2": 2,
+        "2025Q4": 13,
+        "2026Q1": 11,
+        "2026Q2": 7,
+        "2026Q3": 3
+      },
+      "min_entry": "2021-05-23 06:15:00",
+      "max_entry": "2026-08-17 18:30:00"
+    },
+    "ETH-USD": {
+      "candidate_grid_bars": 9119,
+      "maximum_chronological_greedy_blocks": 113,
+      "random_greedy_capacities": [
+        107,
+        107,
+        108
+      ],
+      "max_sample_quarter_coverage": {
+        "2021Q2": 5,
+        "2021Q3": 7,
+        "2021Q4": 1,
+        "2022Q1": 12,
+        "2022Q2": 15,
+        "2022Q3": 10,
+        "2022Q4": 10,
+        "2023Q3": 6,
+        "2023Q4": 2,
+        "2024Q3": 8,
+        "2025Q1": 2,
+        "2025Q2": 2,
+        "2025Q4": 13,
+        "2026Q1": 10,
+        "2026Q2": 8,
+        "2026Q3": 2
+      },
+      "min_entry": "2021-05-23 06:15:00",
+      "max_entry": "2026-07-09 11:45:00"
+    },
+    "DOGE-USD": {
+      "candidate_grid_bars": 10009,
+      "maximum_chronological_greedy_blocks": 123,
+      "random_greedy_capacities": [
+        115,
+        118,
+        115
+      ],
+      "max_sample_quarter_coverage": {
+        "2021Q2": 4,
+        "2021Q3": 11,
+        "2021Q4": 1,
+        "2022Q1": 13,
+        "2022Q2": 13,
+        "2022Q3": 11,
+        "2022Q4": 7,
+        "2023Q1": 2,
+        "2023Q3": 6,
+        "2023Q4": 3,
+        "2024Q3": 7,
+        "2025Q1": 2,
+        "2025Q2": 2,
+        "2025Q4": 13,
+        "2026Q1": 13,
+        "2026Q2": 8,
+        "2026Q3": 7
+      },
+      "min_entry": "2021-05-28 00:00:00",
+      "max_entry": "2026-08-17 18:30:00"
+    }
+  },
+  "all_three_nonBTC_gates": {
+    "candidate_grid_bars": 7254,
+    "maximum_chronological_greedy_blocks": 95,
+    "random_greedy_capacities": [
+      89,
+      91,
+      89
+    ],
+    "max_sample_quarter_coverage": {
+      "2021Q2": 4,
+      "2021Q3": 4,
+      "2021Q4": 1,
+      "2022Q1": 12,
+      "2022Q2": 13,
+      "2022Q3": 8,
+      "2022Q4": 7,
+      "2023Q3": 6,
+      "2024Q3": 7,
+      "2025Q1": 2,
+      "2025Q2": 2,
+      "2025Q4": 13,
+      "2026Q1": 10,
+      "2026Q2": 6
+    },
+    "min_entry": "2021-05-28 00:00:00",
+    "max_entry": "2026-06-25 18:45:00"
+  },
+  "all_four_gates": {
+    "candidate_grid_bars": 6989,
+    "maximum_chronological_greedy_blocks": 92,
+    "random_greedy_capacities": [
+      88,
+      87,
+      86
+    ],
+    "max_sample_quarter_coverage": {
+      "2021Q2": 4,
+      "2021Q3": 4,
+      "2021Q4": 1,
+      "2022Q1": 10,
+      "2022Q2": 13,
+      "2022Q3": 8,
+      "2022Q4": 7,
+      "2023Q3": 5,
+      "2024Q3": 7,
+      "2025Q1": 2,
+      "2025Q2": 2,
+      "2025Q4": 13,
+      "2026Q1": 10,
+      "2026Q2": 6
+    },
+    "min_entry": "2021-05-28 00:00:00",
+    "max_entry": "2026-06-25 18:45:00"
+  },
+  "SOL_gated_block_capacity_asset_coverage": {
+    "illustrative_seed": 2026092992,
+    "calendar_blocks": 105,
+    "eligible_snapshots_by_asset": {
+      "SOL-USD": 105,
+      "BTC-USD": 94,
+      "ETH-USD": 92,
+      "DOGE-USD": 95
+    },
+    "eligible_nonBTC_snapshots": 292,
+    "note": "Coverage illustration only; no times exported as a selected sample"
+  }
+}

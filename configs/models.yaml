@@ -1,0 +1,73 @@
+# Model roster. `enabled: true` models are queried by daily_harvest / backtest runners.
+# `cutoff` = training-data cutoff (YYYY-MM-DD); informed-arm historical backtests are
+# only valid AFTER cutoff + buffer_days. VERIFY each cutoff on the provider model card
+# when first enabling a model (docs/04-data-and-leakage.md).
+buffer_days: 30
+
+models:
+  # ---- controls (always on, free, no leakage concept) ----
+  - name: random
+    provider: baseline
+    enabled: true
+  - name: always-long
+    provider: baseline
+    enabled: true
+  - name: momentum-20
+    provider: baseline
+    enabled: true
+  - name: reversal-5
+    provider: baseline
+    enabled: true
+
+  # ---- the simulation four (docs/05): claude / gpt / gemini / deepseek ----
+  # vision: true => the sim attaches the chart PNG; text stats are identical
+  # for everyone either way.
+  - name: claude-haiku
+    provider: anthropic
+    model_id: claude-haiku-4-5
+    cutoff: "2025-02-01"      # VERIFY
+    vision: true
+    enabled: false            # flip on once ANTHROPIC_API_KEY is in .env
+  - name: gpt-mini
+    provider: openai
+    model_id: gpt-4.1-mini
+    cutoff: "2024-06-01"      # VERIFY
+    vision: true
+    enabled: false
+  - name: gemini-flash
+    provider: openai_compat   # via Google's OpenAI-compatible endpoint
+    model_id: gemini-2.5-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+    api_key_env: GEMINI_API_KEY
+    cutoff: "2025-01-01"      # VERIFY
+    vision: true
+    enabled: false
+  - name: deepseek
+    provider: openai_compat   # OpenAI-compatible API
+    model_id: deepseek-chat
+    base_url: https://api.deepseek.com
+    api_key_env: DEEPSEEK_API_KEY
+    cutoff: "2024-07-01"      # VERIFY
+    vision: false             # text-only API: gets the identical numeric stimulus, no PNG
+    enabled: false
+
+  # ---- capability-gradient probe (sparingly: 4 assets, informed arm only) ----
+  - name: claude-sonnet
+    provider: anthropic
+    model_id: claude-sonnet-5
+    cutoff: "2025-07-01"      # VERIFY
+    vision: true
+    enabled: false
+    asset_whitelist: [BTC-USD, ETH-USD, TSLA, SPY]
+
+  # ---- local models via Ollama (free bulk historical; install: brew install ollama) ----
+  - name: llama8b
+    provider: ollama
+    model_id: llama3.1:8b
+    cutoff: "2023-12-01"      # VERIFY
+    enabled: false
+  - name: qwen7b
+    provider: ollama
+    model_id: qwen2.5:7b
+    cutoff: "2023-10-01"      # VERIFY
+    enabled: false

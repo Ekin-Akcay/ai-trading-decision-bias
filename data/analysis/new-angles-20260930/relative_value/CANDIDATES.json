@@ -1,0 +1,13 @@
+{
+  "phase": "known_outcome_discovery_only",
+  "new_model_calls": 0,
+  "primary_AI_reversal_candidates": [],
+  "reason": "All three predeclared reversed-AI relative-value baskets have negative pooled means and fail the finite stability screen.",
+  "opposite_hypothesis_observation": {
+    "policy": "AI_confidence__follow",
+    "promoted": false,
+    "mean_per_active_pct": 0.1329786315459361,
+    "note": "Positive discovery mean and better fold stability, but intervals cross zero, AI increment over matched price controls is unresolved, and asset/period concentration remains. Not an AI-reversal candidate or fresh validation. Exact numeric returns remain in the family NPZ/CSV."
+  },
+  "additional_calls_recommended_for_reversal_relative_value": 0
+}

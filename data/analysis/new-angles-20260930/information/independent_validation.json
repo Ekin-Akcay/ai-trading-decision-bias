@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "source_hashes_unchanged": true,
+  "native_15m_entry_and_four_hour_exit_checks": 1020,
+  "forward_training_boundaries_checked": 5,
+  "independent_auxiliary_prediction_checks": 5621,
+  "maximum_logistic_objective_gradient": 2.8399504969911504e-13,
+  "control_row_checks": 14814,
+  "independent_bootstrap_interval_endpoints_checked": 110,
+  "bootstrap_group_means_reestimated_each_draw": true,
+  "simultaneous_assets_not_split_in_halves": true,
+  "action_prediction_correct": 686,
+  "action_prediction_n": 803,
+  "action_prediction_accuracy": 0.8542963885429639,
+  "this_is_not_market_prediction_accuracy": true,
+  "not_causal_MA_attribution": true,
+  "no_model_calls": true,
+  "native_price_source_sha256": {
+    "data/raw/intraday/BTC-USD_15m.csv.gz": "2e3eaa24068b8bdf8f8af2c4d2c5624968da8778f31668f21b762921b70a75e4",
+    "data/raw/intraday/DOGE-USD_15m.csv.gz": "eefa00bfe13592028e996a83b7c13d06b68b1742075579999a626744c50b3575",
+    "data/raw/intraday/ETH-USD_15m.csv.gz": "9954cf431d8d635318ce363f1cfb59ebd84cba2462e06d819a99774d9de30c6a",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea"
+  }
+}

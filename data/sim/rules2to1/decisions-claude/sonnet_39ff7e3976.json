@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.6,
+  "reason": "Uptrend intact; pullback to rising MA20/MA50 on fading volume favors dip-buy over reversal."
+}

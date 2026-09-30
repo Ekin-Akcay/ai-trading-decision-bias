@@ -1,0 +1,11 @@
+protocol,model,median_stop_pct,median_tp_pct,median_fee_fraction_of_stop
+v1,claude-haiku-agent,0.015,0.02,0.13333333333333333
+v1,claude-sonnet-agent,0.009,0.016,0.22222222222222227
+v1,gpt-5.6-luna-agent,0.008,0.012,0.25
+v1,gpt-5.6-terra-agent,0.008,0.013,0.25
+v1,gpt-6-astra-agent,0.0095,0.0155,0.2105263157894737
+v2,claude-haiku-agent,0.012,0.024,0.16666666666666669
+v2,claude-sonnet-agent,0.01,0.02,0.2
+v2,gpt-5.6-luna-agent,0.0085,0.017,0.23529411764705882
+v2,gpt-5.6-terra-agent,0.008,0.016,0.25
+v2,gpt-6-astra-agent,0.009000000000000001,0.018000000000000002,0.22291021671826627

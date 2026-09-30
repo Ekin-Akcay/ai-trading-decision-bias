@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.5,
+  "confidence": 0.58,
+  "reason": "Strong bullish candle closes at 100 resistance; uptrend, rising MAs support breakout continuation despite soft volume."
+}

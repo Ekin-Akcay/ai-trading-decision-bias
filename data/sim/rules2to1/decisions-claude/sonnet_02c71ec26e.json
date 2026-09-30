@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.55,
+  "reason": "Blow-off spike to 101.72 rejected hard; weak-volume bounce to par favors short-term fade lower."
+}

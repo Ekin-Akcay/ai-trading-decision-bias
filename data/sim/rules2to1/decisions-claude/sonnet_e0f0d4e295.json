@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Price above MA20/MA50 in uptrend; low-volume consolidation after rally favors bullish continuation over breakdown."
+}

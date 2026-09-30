@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Below MA20/MA50 with lower highs since bar -7; weak volume favors continued downside drift."
+}

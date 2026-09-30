@@ -1,0 +1,106 @@
+[
+  {
+    "policy": "ai_all",
+    "control": "donor_all",
+    "opportunity_difference_pp": 0.013912032758500623,
+    "simultaneous_block_ci_pp": [
+      -0.04084741448917894,
+      0.06879885203085837
+    ],
+    "quarter95_ci_pp": [
+      -0.0355632255353639,
+      0.05624758814912707
+    ]
+  },
+  {
+    "policy": "ai_all",
+    "control": "atr_same_ai_all",
+    "opportunity_difference_pp": -0.005901591818408936,
+    "simultaneous_block_ci_pp": [
+      -0.07101643635779879,
+      0.05198243365251226
+    ],
+    "quarter95_ci_pp": [
+      -0.05731169757537908,
+      0.03438305293286002
+    ]
+  },
+  {
+    "policy": "ai_long",
+    "control": "donor_long",
+    "opportunity_difference_pp": 0.0033868253528858763,
+    "simultaneous_block_ci_pp": [
+      -0.04743539161753345,
+      0.05340577546183301
+    ],
+    "quarter95_ci_pp": [
+      -0.0470181007010241,
+      0.047156309727781745
+    ]
+  },
+  {
+    "policy": "ai_long",
+    "control": "atr_same_ai_long",
+    "opportunity_difference_pp": -0.005893504555913344,
+    "simultaneous_block_ci_pp": [
+      -0.06697987798255074,
+      0.04938226697135897
+    ],
+    "quarter95_ci_pp": [
+      -0.05669741665598823,
+      0.0348053408410791
+    ]
+  },
+  {
+    "policy": "ai_long",
+    "control": "price_short_all",
+    "opportunity_difference_pp": 0.011481900520195704,
+    "simultaneous_block_ci_pp": [
+      -0.06128757469657086,
+      0.07635063599134681
+    ],
+    "quarter95_ci_pp": [
+      -0.04890446106992835,
+      0.06489312036522596
+    ]
+  },
+  {
+    "policy": "ai_short",
+    "control": "donor_short",
+    "opportunity_difference_pp": 0.01052520740561475,
+    "simultaneous_block_ci_pp": [
+      -0.010499230656387151,
+      0.033107898709074254
+    ],
+    "quarter95_ci_pp": [
+      0.0009221248978380735,
+      0.020869984498170423
+    ]
+  },
+  {
+    "policy": "ai_short",
+    "control": "atr_same_ai_short",
+    "opportunity_difference_pp": -8.087262495597348e-06,
+    "simultaneous_block_ci_pp": [
+      -0.019497096564691552,
+      0.020118098347581107
+    ],
+    "quarter95_ci_pp": [
+      -0.010073636103773789,
+      0.010496227803206415
+    ]
+  },
+  {
+    "policy": "ai_short",
+    "control": "price_long_all",
+    "opportunity_difference_pp": 0.019970805621772662,
+    "simultaneous_block_ci_pp": [
+      -0.022383736853378317,
+      0.06438375705428455
+    ],
+    "quarter95_ci_pp": [
+      -0.0030044774063133694,
+      0.045888158018161054
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "claude-sonnet-agent",
+    "paired_trades": 97,
+    "same_direction_fraction": 0.6701030927835051
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.8
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 86,
+    "same_direction_fraction": 0.8372093023255814
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 92,
+    "same_direction_fraction": 0.8695652173913043
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "paired_trades": 97,
+    "same_direction_fraction": 0.7731958762886598
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 85,
+    "same_direction_fraction": 0.8
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 91,
+    "same_direction_fraction": 0.7692307692307693
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 86,
+    "same_direction_fraction": 0.9186046511627907
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 92,
+    "same_direction_fraction": 0.8913043478260869
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-terra-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 83,
+    "same_direction_fraction": 0.9518072289156626
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "claude-sonnet-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.66
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.77
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.79
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.8
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.75
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.75
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.74
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.92
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.89
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-terra-agent",
+    "model2": "gpt-6-astra-agent",
+    "paired_trades": 100,
+    "same_direction_fraction": 0.91
+  }
+]

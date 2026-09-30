@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.4,
+  "confidence": 0.58,
+  "reason": "Downtrend below MA20/MA50; selloff came on heavy volume, bounce on weak volume — bear flag continuation."
+}

@@ -1,0 +1,25 @@
+{
+  "prior_unique": 156,
+  "history_hours": 50,
+  "max_future_hours": 6,
+  "new_new_gap_hours": 56,
+  "new_after_old_gap_hours": 122,
+  "new_before_old_gap_hours": 56,
+  "regimes": {
+    "all": {
+      "candidate_bars": 107514,
+      "max_chrono_greedy": 544,
+      "random_greedy_capacity_seed20260929": 421
+    },
+    "aboveboth": {
+      "candidate_bars": 42209,
+      "max_chrono_greedy": 510,
+      "random_greedy_capacity_seed20260929": 404
+    },
+    "belowboth": {
+      "candidate_bars": 42411,
+      "max_chrono_greedy": 511,
+      "random_greedy_capacity_seed20260929": 413
+    }
+  }
+}

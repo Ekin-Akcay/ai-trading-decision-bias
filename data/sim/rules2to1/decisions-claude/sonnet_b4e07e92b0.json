@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Bar swept prior low (99.35) then closed near highs; bullish rejection at proven support, targeting bounce to 102."
+}

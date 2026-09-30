@@ -1,0 +1,481 @@
+{
+  "decisions": 1000,
+  "windows": 100,
+  "policies": 46,
+  "policy_rows": 46000,
+  "source_sha256": {
+    "data/analysis/direction-paths-20260929/decisions_enriched.csv": "b8cb43b70d1d83ad8a10920d673e459dbe158dd6ba2cd435a1570f6b379f3375",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "src/nai/backtest.py": "787622482202d238fc577c757d37b48bb4f86e47510db62c4dae23991898a248",
+    "src/nai/sim.py": "8d8b3b578cd005d3d3dc929159aae0b84f3fc6e77e5aa7ef0108d9c8a937578c",
+    "data/sim/decisions/agent-demo2-agents.jsonl": "2ca10338fc3eb8b2d63d6dce4d0dd7857e3b67c28019e9388de6fb09e8977442",
+    "data/sim/decisions/openai-first10-20260925T185939Z.jsonl": "82addbe9431a32861b39be0848477da1f662577c72b68e623dab83c4843ada64",
+    "data/sim/decisions/openai-last40-20260926T064222Z.jsonl": "6113d599d57f9d0f8e36c9d917730fc732fd3e03b58fc1bd4aa1f74aac71b286",
+    "data/sim/decisions/openai-next50-20260926T060500Z.jsonl": "7f599b0454409d27c83c29999f8ff07d76657a16ea9cb75e2860884dc83a26f4",
+    "data/sim/decisions/rules2to1-claude-agents.jsonl": "bf8cc10f60ba3f513be87b79ccfc53fd75d33dceef126c5110ec2a2cdb0aae9a",
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2"
+  },
+  "engine_originals_all_match": true,
+  "checks_per_original": 4,
+  "coverage": [
+    {
+      "window_id": "02c71ec26e",
+      "complete_72h": true
+    },
+    {
+      "window_id": "0549b8d855",
+      "complete_72h": true
+    },
+    {
+      "window_id": "05890fcad0",
+      "complete_72h": true
+    },
+    {
+      "window_id": "08b85ea066",
+      "complete_72h": true
+    },
+    {
+      "window_id": "092c933eaf",
+      "complete_72h": true
+    },
+    {
+      "window_id": "09d1777e78",
+      "complete_72h": true
+    },
+    {
+      "window_id": "0b6ca330e8",
+      "complete_72h": true
+    },
+    {
+      "window_id": "0ce8d183db",
+      "complete_72h": true
+    },
+    {
+      "window_id": "0e3f63cb22",
+      "complete_72h": true
+    },
+    {
+      "window_id": "136f49ce7f",
+      "complete_72h": true
+    },
+    {
+      "window_id": "14f84f43ad",
+      "complete_72h": true
+    },
+    {
+      "window_id": "1692522d5a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "1dddcc5d10",
+      "complete_72h": true
+    },
+    {
+      "window_id": "1e00acca57",
+      "complete_72h": true
+    },
+    {
+      "window_id": "1f99645087",
+      "complete_72h": true
+    },
+    {
+      "window_id": "1fe0cbe77b",
+      "complete_72h": true
+    },
+    {
+      "window_id": "20b507f68e",
+      "complete_72h": true
+    },
+    {
+      "window_id": "24a2dd72df",
+      "complete_72h": true
+    },
+    {
+      "window_id": "24fcaef0cf",
+      "complete_72h": true
+    },
+    {
+      "window_id": "29fcdec7a5",
+      "complete_72h": true
+    },
+    {
+      "window_id": "34c7b62ec0",
+      "complete_72h": true
+    },
+    {
+      "window_id": "39a03cb676",
+      "complete_72h": true
+    },
+    {
+      "window_id": "39ff7e3976",
+      "complete_72h": true
+    },
+    {
+      "window_id": "3dee20e509",
+      "complete_72h": true
+    },
+    {
+      "window_id": "3f4e4f22ff",
+      "complete_72h": true
+    },
+    {
+      "window_id": "4107788ab2",
+      "complete_72h": true
+    },
+    {
+      "window_id": "43ca568575",
+      "complete_72h": true
+    },
+    {
+      "window_id": "460391e078",
+      "complete_72h": true
+    },
+    {
+      "window_id": "473ad6c5cb",
+      "complete_72h": true
+    },
+    {
+      "window_id": "4b92ab412c",
+      "complete_72h": true
+    },
+    {
+      "window_id": "4bb015112f",
+      "complete_72h": true
+    },
+    {
+      "window_id": "4d2fd102a4",
+      "complete_72h": true
+    },
+    {
+      "window_id": "521cdea45a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "5317ce60b5",
+      "complete_72h": true
+    },
+    {
+      "window_id": "5433e19df4",
+      "complete_72h": true
+    },
+    {
+      "window_id": "57b37fbdd7",
+      "complete_72h": true
+    },
+    {
+      "window_id": "5889e95bee",
+      "complete_72h": true
+    },
+    {
+      "window_id": "5de9a99b0d",
+      "complete_72h": true
+    },
+    {
+      "window_id": "60ad73f22a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "62f783318b",
+      "complete_72h": true
+    },
+    {
+      "window_id": "63306c5ac2",
+      "complete_72h": true
+    },
+    {
+      "window_id": "67b5b027e5",
+      "complete_72h": true
+    },
+    {
+      "window_id": "6938f71409",
+      "complete_72h": true
+    },
+    {
+      "window_id": "6a2bb8c175",
+      "complete_72h": true
+    },
+    {
+      "window_id": "6ae79be9f6",
+      "complete_72h": true
+    },
+    {
+      "window_id": "6d52b1afab",
+      "complete_72h": true
+    },
+    {
+      "window_id": "6da889174f",
+      "complete_72h": true
+    },
+    {
+      "window_id": "702ac1a977",
+      "complete_72h": true
+    },
+    {
+      "window_id": "72c5a0798c",
+      "complete_72h": true
+    },
+    {
+      "window_id": "7413f4a174",
+      "complete_72h": true
+    },
+    {
+      "window_id": "756072e7a3",
+      "complete_72h": true
+    },
+    {
+      "window_id": "7617433124",
+      "complete_72h": true
+    },
+    {
+      "window_id": "76d739ed92",
+      "complete_72h": true
+    },
+    {
+      "window_id": "776af69c32",
+      "complete_72h": true
+    },
+    {
+      "window_id": "77f5bf8252",
+      "complete_72h": true
+    },
+    {
+      "window_id": "7c4fe08765",
+      "complete_72h": true
+    },
+    {
+      "window_id": "7d6ec4fbf1",
+      "complete_72h": true
+    },
+    {
+      "window_id": "80fd6b96d3",
+      "complete_72h": true
+    },
+    {
+      "window_id": "83d3e72d0e",
+      "complete_72h": true
+    },
+    {
+      "window_id": "85789010aa",
+      "complete_72h": true
+    },
+    {
+      "window_id": "89b0b753c4",
+      "complete_72h": true
+    },
+    {
+      "window_id": "8f3a1b9bdd",
+      "complete_72h": true
+    },
+    {
+      "window_id": "8f690aa600",
+      "complete_72h": true
+    },
+    {
+      "window_id": "91fda21e1f",
+      "complete_72h": true
+    },
+    {
+      "window_id": "92f261e2e8",
+      "complete_72h": true
+    },
+    {
+      "window_id": "9713ea4fec",
+      "complete_72h": true
+    },
+    {
+      "window_id": "9bb0430ed9",
+      "complete_72h": true
+    },
+    {
+      "window_id": "a1e8add12c",
+      "complete_72h": true
+    },
+    {
+      "window_id": "a5280a69eb",
+      "complete_72h": true
+    },
+    {
+      "window_id": "a6b63124f5",
+      "complete_72h": true
+    },
+    {
+      "window_id": "ae53f8a42a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "b3590bc71d",
+      "complete_72h": true
+    },
+    {
+      "window_id": "b4618f26be",
+      "complete_72h": true
+    },
+    {
+      "window_id": "b4e07e92b0",
+      "complete_72h": true
+    },
+    {
+      "window_id": "b4fff3cb3e",
+      "complete_72h": true
+    },
+    {
+      "window_id": "b77bca3006",
+      "complete_72h": true
+    },
+    {
+      "window_id": "c32334a39f",
+      "complete_72h": true
+    },
+    {
+      "window_id": "c58a6d17c1",
+      "complete_72h": true
+    },
+    {
+      "window_id": "cba0c6fa38",
+      "complete_72h": true
+    },
+    {
+      "window_id": "ccf254ca7d",
+      "complete_72h": true
+    },
+    {
+      "window_id": "cd2d0d3786",
+      "complete_72h": true
+    },
+    {
+      "window_id": "cd632bb149",
+      "complete_72h": true
+    },
+    {
+      "window_id": "ce5fe9c87a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "cf3d508332",
+      "complete_72h": true
+    },
+    {
+      "window_id": "d030294648",
+      "complete_72h": true
+    },
+    {
+      "window_id": "d569ef47e0",
+      "complete_72h": true
+    },
+    {
+      "window_id": "d6c2a000bb",
+      "complete_72h": true
+    },
+    {
+      "window_id": "de11c93a0a",
+      "complete_72h": true
+    },
+    {
+      "window_id": "dff3d7cfee",
+      "complete_72h": true
+    },
+    {
+      "window_id": "e0c3334ba7",
+      "complete_72h": true
+    },
+    {
+      "window_id": "e0f0d4e295",
+      "complete_72h": true
+    },
+    {
+      "window_id": "e5326090ac",
+      "complete_72h": true
+    },
+    {
+      "window_id": "eb5f9f2e41",
+      "complete_72h": true
+    },
+    {
+      "window_id": "eefd5495da",
+      "complete_72h": true
+    },
+    {
+      "window_id": "efad2fea0b",
+      "complete_72h": true
+    },
+    {
+      "window_id": "f0943f67a0",
+      "complete_72h": true
+    },
+    {
+      "window_id": "f256c3890d",
+      "complete_72h": true
+    },
+    {
+      "window_id": "f2d094003c",
+      "complete_72h": true
+    },
+    {
+      "window_id": "f7af86af54",
+      "complete_72h": true
+    },
+    {
+      "window_id": "fc052166bc",
+      "complete_72h": true
+    }
+  ],
+  "round_trip_cost_pct": 0.2,
+  "bootstrap_resamples": 10000,
+  "seed": 20260929,
+  "temporal_clusters": 92,
+  "ambiguity_by_policy": {
+    "always_short_105m": 0,
+    "always_short_15m": 0,
+    "always_short_240m": 0,
+    "always_short_30m": 0,
+    "always_short_5m": 0,
+    "always_short_60m": 0,
+    "bracket_0.25": 2,
+    "bracket_0.5": 0,
+    "bracket_0.75": 0,
+    "bracket_1": 0,
+    "combined_0.25_105m": 2,
+    "combined_0.25_15m": 2,
+    "combined_0.25_30m": 2,
+    "combined_0.5_105m": 0,
+    "combined_0.5_15m": 0,
+    "combined_0.5_30m": 0,
+    "combined_0.75_105m": 0,
+    "combined_0.75_15m": 0,
+    "combined_0.75_30m": 0,
+    "combined_1_105m": 0,
+    "combined_1_15m": 0,
+    "combined_1_30m": 0,
+    "ma20_105m": 0,
+    "ma20_15m": 0,
+    "ma20_240m": 0,
+    "ma20_30m": 0,
+    "ma20_5m": 0,
+    "ma20_60m": 0,
+    "momentum_105m": 0,
+    "momentum_15m": 0,
+    "momentum_240m": 0,
+    "momentum_30m": 0,
+    "momentum_5m": 0,
+    "momentum_60m": 0,
+    "reverse_105m": 0,
+    "reverse_15m": 0,
+    "reverse_240m": 0,
+    "reverse_30m": 0,
+    "reverse_5m": 0,
+    "reverse_60m": 0,
+    "time_105m": 0,
+    "time_15m": 0,
+    "time_240m": 0,
+    "time_30m": 0,
+    "time_5m": 0,
+    "time_60m": 0
+  },
+  "source_files_unchanged": true,
+  "notes": [
+    "Bootstrap unit is window; temporal-group sensitivity included.",
+    "Originals verified with exact unmodified engine.",
+    "All numeric returns are percentage points of entry, not leveraged or risk-scaled.",
+    "Ambiguous headline means exclude individual unknown outcomes; all-row SL/TP bounds shown."
+  ]
+}

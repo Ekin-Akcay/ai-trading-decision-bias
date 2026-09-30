@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.8,
+  "confidence": 0.58,
+  "reason": "Extreme 7.34x volume climax after -8% waterfall decline; bar closed well off intrabar lows, signaling capitulation bounce."
+}

@@ -1,0 +1,5770 @@
+[
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 15,
+    "policy_id": 0
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 30,
+    "policy_id": 1
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 60,
+    "policy_id": 2
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 105,
+    "policy_id": 3
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 240,
+    "policy_id": 4
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 720,
+    "policy_id": 5
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 1440,
+    "policy_id": 6
+  },
+  {
+    "unit": "time",
+    "stop": 0.0,
+    "ratio": 0.0,
+    "horizon": 4320,
+    "policy_id": 7
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 8
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 9
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 10
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 11
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 12
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 13
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 14
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 15
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 16
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 17
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 18
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 19
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 20
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 21
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 22
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 23
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 24
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 25
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 26
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 27
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 28
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 29
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 30
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 31
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 32
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 33
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 34
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 35
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 36
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 37
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 38
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 39
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 40
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 41
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 42
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 43
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 44
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 45
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 46
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 47
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 48
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 49
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 50
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 51
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 52
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 53
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 54
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.35,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 55
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 56
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 57
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 58
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 59
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 60
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 61
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 62
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 63
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 64
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 65
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 66
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 67
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 68
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 69
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 70
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 71
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 72
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 73
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 74
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 75
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 76
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 77
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 78
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 79
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 80
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 81
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 82
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 83
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 84
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 85
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 86
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 87
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 88
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 89
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 90
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 91
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 92
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 93
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 94
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 95
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 96
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 97
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 98
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 99
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 100
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 101
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 102
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 103
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 104
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 105
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 106
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 107
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 108
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 109
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 110
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 111
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 112
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 113
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 114
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 115
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 116
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 117
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 118
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 119
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 120
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 121
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 122
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 123
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 124
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 125
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 126
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 127
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 128
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 129
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 130
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 131
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 132
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 133
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 134
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 135
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 136
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 137
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 138
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 139
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 140
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 141
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 142
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 143
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 144
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 145
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 146
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 147
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 148
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 149
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 150
+  },
+  {
+    "unit": "fixed",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 151
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 152
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 153
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 154
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 155
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 156
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 157
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 158
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 159
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 160
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 161
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 162
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 163
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 164
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 165
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 166
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 167
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 168
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 169
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 170
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 171
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 172
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 173
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 174
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 175
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 176
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 177
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 178
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 179
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 180
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 181
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 182
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 183
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 184
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 185
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 186
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 187
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 188
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 189
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 190
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 191
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 192
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 193
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 194
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 195
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 196
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 197
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 198
+  },
+  {
+    "unit": "fixed",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 199
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 200
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 201
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 202
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 203
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 204
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 205
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 206
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 207
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 208
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 209
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 210
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 211
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 212
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 213
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 214
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 215
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 216
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 217
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 218
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 219
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 220
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 221
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 222
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 223
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 224
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 225
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 226
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 227
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 228
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 229
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 230
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 231
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 232
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 233
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 234
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 235
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 236
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 237
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 238
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 239
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 240
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 241
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 242
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 243
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 244
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 245
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 246
+  },
+  {
+    "unit": "fixed",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 247
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 248
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 249
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 250
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 251
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 252
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 253
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 254
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 255
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 256
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 257
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 258
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 259
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 260
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 261
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 262
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 263
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 264
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 265
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 266
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 267
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 268
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 269
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 270
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 271
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 272
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 273
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 274
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 275
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 276
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 277
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 278
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 279
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 280
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 281
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 282
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 283
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 284
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 285
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 286
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 287
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 288
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 289
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 290
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 291
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 292
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 293
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 294
+  },
+  {
+    "unit": "fixed",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 295
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 296
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 297
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 298
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 299
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 300
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 301
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 302
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 303
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 304
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 305
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 306
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 307
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 308
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 309
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 310
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 311
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 312
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 313
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 314
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 315
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 316
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 317
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 318
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 319
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 320
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 321
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 322
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 323
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 324
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 325
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 326
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 327
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 328
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 329
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 330
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 331
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 332
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 333
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 334
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 335
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 336
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 337
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 338
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 339
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 340
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 341
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 342
+  },
+  {
+    "unit": "atr",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 343
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 344
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 345
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 346
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 347
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 348
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 349
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 350
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 351
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 352
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 353
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 354
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 355
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 356
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 357
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 358
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 359
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 360
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 361
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 362
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 363
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 364
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 365
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 366
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 367
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 368
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 369
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 370
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 371
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 372
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 373
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 374
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 375
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 376
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 377
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 378
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 379
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 380
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 381
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 382
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 383
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 384
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 385
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 386
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 387
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 388
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 389
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 390
+  },
+  {
+    "unit": "atr",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 391
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 392
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 393
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 394
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 395
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 396
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 397
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 398
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 399
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 400
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 401
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 402
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 403
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 404
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 405
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 406
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 407
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 408
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 409
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 410
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 411
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 412
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 413
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 414
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 415
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 416
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 417
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 418
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 419
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 420
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 421
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 422
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 423
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 424
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 425
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 426
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 427
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 428
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 429
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 430
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 431
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 432
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 433
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 434
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 435
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 436
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 437
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 438
+  },
+  {
+    "unit": "atr",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 439
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 440
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 441
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 442
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 443
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 444
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 445
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 446
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 447
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 448
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 449
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 450
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 451
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 452
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 453
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 454
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 455
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 456
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 457
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 458
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 459
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 460
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 461
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 462
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 463
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 464
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 465
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 466
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 467
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 468
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 469
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 470
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 471
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 472
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 473
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 474
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 475
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 476
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 477
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 478
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 479
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 480
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 481
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 482
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 483
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 484
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 485
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 486
+  },
+  {
+    "unit": "atr",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 487
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 488
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 489
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 490
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 491
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 492
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 493
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 494
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 495
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 496
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 497
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 498
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 499
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 500
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 501
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 502
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 503
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 504
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 505
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 506
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 507
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 508
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 509
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 510
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 511
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 512
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 513
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 514
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 515
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 516
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 517
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 518
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 519
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 520
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 521
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 522
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 523
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 524
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 525
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 526
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 527
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 528
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 529
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 530
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 531
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 532
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 533
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 534
+  },
+  {
+    "unit": "atr",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 535
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 536
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 537
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 538
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 539
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 540
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 541
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 542
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 543
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 544
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 545
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 546
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 547
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 548
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 549
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 550
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 551
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 552
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 553
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 554
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 555
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 556
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 557
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 558
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 559
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 560
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 561
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 562
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 563
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 564
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 565
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 566
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 567
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 568
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 569
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 570
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 571
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 572
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 573
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 574
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 575
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 576
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 577
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 578
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 579
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 580
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 581
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 582
+  },
+  {
+    "unit": "atr",
+    "stop": 3,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 583
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 584
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 585
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 586
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 587
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 588
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 589
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 590
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 591
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 592
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 593
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 594
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 595
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 596
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 597
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 598
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 599
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 600
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 601
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 602
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 603
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 604
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 605
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 606
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 607
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 608
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 609
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 610
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 611
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 612
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 613
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 614
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 615
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 616
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 617
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 618
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 619
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 620
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 621
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 622
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 623
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 624
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 625
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 626
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 627
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 628
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 629
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 630
+  },
+  {
+    "unit": "agent",
+    "stop": 0.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 631
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 632
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 633
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 634
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 635
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 636
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 637
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 638
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 639
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 640
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 641
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 642
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 643
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 644
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 645
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 646
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 647
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 648
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 649
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 650
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 651
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 652
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 653
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 654
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 655
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 656
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 657
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 658
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 659
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 660
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 661
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 662
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 663
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 664
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 665
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 666
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 667
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 668
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 669
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 670
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 671
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 672
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 673
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 674
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 675
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 676
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 677
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 678
+  },
+  {
+    "unit": "agent",
+    "stop": 0.75,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 679
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 680
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 681
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 682
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 683
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 684
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 685
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 686
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 687
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 688
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 689
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 690
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 691
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 692
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 693
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 694
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 695
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 696
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 697
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 698
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 699
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 700
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 701
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 702
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 703
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 704
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 705
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 706
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 707
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 708
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 709
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 710
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 711
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 712
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 713
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 714
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 715
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 716
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 717
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 718
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 719
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 720
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 721
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 722
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 723
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 724
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 725
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 726
+  },
+  {
+    "unit": "agent",
+    "stop": 1,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 727
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 728
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 729
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 730
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 731
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 732
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 733
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 734
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 735
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 736
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 737
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 738
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 739
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 740
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 741
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 742
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 743
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 744
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 745
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 746
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 747
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 748
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 749
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 750
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 751
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 752
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 753
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 754
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 755
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 756
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 757
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 758
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 759
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 760
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 761
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 762
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 763
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 764
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 765
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 766
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 767
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 768
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 769
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 770
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 771
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 772
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 773
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 774
+  },
+  {
+    "unit": "agent",
+    "stop": 1.5,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 775
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 15,
+    "policy_id": 776
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 30,
+    "policy_id": 777
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 60,
+    "policy_id": 778
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 105,
+    "policy_id": 779
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 240,
+    "policy_id": 780
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 720,
+    "policy_id": 781
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 1440,
+    "policy_id": 782
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.5,
+    "horizon": 4320,
+    "policy_id": 783
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 15,
+    "policy_id": 784
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 30,
+    "policy_id": 785
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 60,
+    "policy_id": 786
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 105,
+    "policy_id": 787
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 240,
+    "policy_id": 788
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 720,
+    "policy_id": 789
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 1440,
+    "policy_id": 790
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 0.75,
+    "horizon": 4320,
+    "policy_id": 791
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 15,
+    "policy_id": 792
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 30,
+    "policy_id": 793
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 60,
+    "policy_id": 794
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 105,
+    "policy_id": 795
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 240,
+    "policy_id": 796
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 720,
+    "policy_id": 797
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 1440,
+    "policy_id": 798
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1,
+    "horizon": 4320,
+    "policy_id": 799
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 15,
+    "policy_id": 800
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 30,
+    "policy_id": 801
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 60,
+    "policy_id": 802
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 105,
+    "policy_id": 803
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 240,
+    "policy_id": 804
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 720,
+    "policy_id": 805
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 1440,
+    "policy_id": 806
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 1.5,
+    "horizon": 4320,
+    "policy_id": 807
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 15,
+    "policy_id": 808
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 30,
+    "policy_id": 809
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 60,
+    "policy_id": 810
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 105,
+    "policy_id": 811
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 240,
+    "policy_id": 812
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 720,
+    "policy_id": 813
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 1440,
+    "policy_id": 814
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 2,
+    "horizon": 4320,
+    "policy_id": 815
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 15,
+    "policy_id": 816
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 30,
+    "policy_id": 817
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 60,
+    "policy_id": 818
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 105,
+    "policy_id": 819
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 240,
+    "policy_id": 820
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 720,
+    "policy_id": 821
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 1440,
+    "policy_id": 822
+  },
+  {
+    "unit": "agent",
+    "stop": 2,
+    "ratio": 3,
+    "horizon": 4320,
+    "policy_id": 823
+  }
+]

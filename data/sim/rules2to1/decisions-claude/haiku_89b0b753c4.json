@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.6,
+  "reason": "Price below both MAs, recent downtrend, low volume confirms selling pressure"
+}

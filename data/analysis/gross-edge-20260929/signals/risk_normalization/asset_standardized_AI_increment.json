@@ -1,0 +1,200 @@
+[
+  {
+    "cohort": "old150",
+    "asset": "SOL-USD",
+    "measure": "gross_pct",
+    "n": 22,
+    "observed": 0.2115620149370319,
+    "standardized_no_AI": 0.2713822445505377,
+    "AI_increment": -0.05982022961350583,
+    "mixed_selected": 2,
+    "all_selected": 20
+  },
+  {
+    "cohort": "old150",
+    "asset": "SOL-USD",
+    "measure": "gross_per_ATR",
+    "n": 22,
+    "observed": 0.2900438163089224,
+    "standardized_no_AI": 0.38621189052296645,
+    "AI_increment": -0.09616807421404405,
+    "mixed_selected": 2,
+    "all_selected": 20
+  },
+  {
+    "cohort": "old150",
+    "asset": "SOL-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 22,
+    "observed": 0.3779514223238867,
+    "standardized_no_AI": 0.5866769856304246,
+    "AI_increment": -0.2087255633065379,
+    "mixed_selected": 2,
+    "all_selected": 20
+  },
+  {
+    "cohort": "new280",
+    "asset": "SOL-USD",
+    "measure": "gross_pct",
+    "n": 65,
+    "observed": 0.5351322482523851,
+    "standardized_no_AI": 0.3479249031348888,
+    "AI_increment": 0.18720734511749637,
+    "mixed_selected": 29,
+    "all_selected": 36
+  },
+  {
+    "cohort": "new280",
+    "asset": "SOL-USD",
+    "measure": "gross_per_ATR",
+    "n": 65,
+    "observed": 0.47611827789605937,
+    "standardized_no_AI": 0.36668266349339,
+    "AI_increment": 0.10943561440266936,
+    "mixed_selected": 29,
+    "all_selected": 36
+  },
+  {
+    "cohort": "new280",
+    "asset": "SOL-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 65,
+    "observed": 0.7080219186728457,
+    "standardized_no_AI": 0.5450326444603599,
+    "AI_increment": 0.16298927421248577,
+    "mixed_selected": 29,
+    "all_selected": 36
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "SOL-USD",
+    "measure": "gross_pct",
+    "n": 24,
+    "observed": 0.8895077397895462,
+    "standardized_no_AI": 0.7449837785635838,
+    "AI_increment": 0.14452396122596245,
+    "mixed_selected": 8,
+    "all_selected": 16
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "SOL-USD",
+    "measure": "gross_per_ATR",
+    "n": 24,
+    "observed": 0.3906263391321956,
+    "standardized_no_AI": 0.29332572590267014,
+    "AI_increment": 0.09730061322952543,
+    "mixed_selected": 8,
+    "all_selected": 16
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "SOL-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 24,
+    "observed": 1.1437481779921594,
+    "standardized_no_AI": 0.9610286913080749,
+    "AI_increment": 0.18271948668408455,
+    "mixed_selected": 8,
+    "all_selected": 16
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "BTC-USD",
+    "measure": "gross_pct",
+    "n": 26,
+    "observed": -0.0077435457586209865,
+    "standardized_no_AI": 0.004121208575911968,
+    "AI_increment": -0.011864754334532955,
+    "mixed_selected": 5,
+    "all_selected": 21
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "BTC-USD",
+    "measure": "gross_per_ATR",
+    "n": 26,
+    "observed": -0.04452349221378568,
+    "standardized_no_AI": -0.029686123856949822,
+    "AI_increment": -0.01483736835683586,
+    "mixed_selected": 5,
+    "all_selected": 21
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "BTC-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 26,
+    "observed": -0.15076909643272243,
+    "standardized_no_AI": -0.10651010524788768,
+    "AI_increment": -0.044258991184834756,
+    "mixed_selected": 5,
+    "all_selected": 21
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "ETH-USD",
+    "measure": "gross_pct",
+    "n": 24,
+    "observed": 0.14894575384810094,
+    "standardized_no_AI": 0.2414368004564104,
+    "AI_increment": -0.09249104660830945,
+    "mixed_selected": 2,
+    "all_selected": 22
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "ETH-USD",
+    "measure": "gross_per_ATR",
+    "n": 24,
+    "observed": 0.04542278330325281,
+    "standardized_no_AI": 0.2628939739829619,
+    "AI_increment": -0.21747119067970908,
+    "mixed_selected": 2,
+    "all_selected": 22
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "ETH-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 24,
+    "observed": -0.006485035451182804,
+    "standardized_no_AI": 0.3114057041188758,
+    "AI_increment": -0.3178907395700586,
+    "mixed_selected": 2,
+    "all_selected": 22
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "DOGE-USD",
+    "measure": "gross_pct",
+    "n": 27,
+    "observed": 0.4335193296084803,
+    "standardized_no_AI": 0.39119008505037284,
+    "AI_increment": 0.04232924455810744,
+    "mixed_selected": 6,
+    "all_selected": 21
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "DOGE-USD",
+    "measure": "gross_per_ATR",
+    "n": 27,
+    "observed": 0.05635315751292319,
+    "standardized_no_AI": 0.11683746127217519,
+    "AI_increment": -0.060484303759252,
+    "mixed_selected": 6,
+    "all_selected": 21
+  },
+  {
+    "cohort": "fresh500",
+    "asset": "DOGE-USD",
+    "measure": "gross_per_sigma2d",
+    "n": 27,
+    "observed": 0.4345536208192478,
+    "standardized_no_AI": 0.5186611049101462,
+    "AI_increment": -0.08410748409089835,
+    "mixed_selected": 6,
+    "all_selected": 21
+  }
+]

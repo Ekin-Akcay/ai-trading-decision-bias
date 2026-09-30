@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 2.0,
+  "confidence": 0.55,
+  "reason": "Price above MA20 and MA50, current bar closed at highs with volume pickup after recovery from lows"
+}

@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-09-29T20:52:23.536877+00:00",
+  "forward_outcomes_opened": false,
+  "files": {
+    "data/analysis/gross-edge-20260929/VALIDATION_PROTOCOL.md": "3bab224ddbeff9bcfdf87b397ff4eb3287951cd4b95ac54bc6d9d890b5c8d095",
+    "data/analysis/gross-edge-20260929/evaluate.py": "ed4aac39544be3a856c6a4b965f75e6dc666e97d36e53257f21f9401243c49ef",
+    "data/analysis/gross-edge-20260929/publish.py": "4ad58a6e40fac145253d2ef1f3e76dffeb0ebb8c2dae227deec35d072eacd71a",
+    "data/analysis/gross-edge-20260929/design/fresh_blocks.json": "8417c390dddfddd8796b81281db62f959f6bd49a316932b9cc0822ee1d2ed194"
+  }
+}

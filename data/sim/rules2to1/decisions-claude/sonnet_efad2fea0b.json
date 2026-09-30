@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.25,
+  "confidence": 0.5,
+  "reason": "Repeated rejection near 100.1-100.2 with fading volume on the bounce; fading strength back toward range lows."
+}

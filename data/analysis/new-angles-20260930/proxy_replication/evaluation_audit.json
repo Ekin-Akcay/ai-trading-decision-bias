@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "native_windows": 3132,
+  "native_minutes_per_window": 241,
+  "scalar_trade_checks": 12528,
+  "max_scalar_abs_error_pct": 0.0,
+  "frozen_source_hashes_preserved": true,
+  "following_is_exact_negative": true,
+  "source_sha256": {
+    "data/analysis/new-angles-20260930/proxy_replication/PLAN.md": "2bd29f502afa9b6a0f51e4ec6bc4a042a9193d469536e5a2485463c52cf8ea58",
+    "data/analysis/new-angles-20260930/proxy_replication/BEFORE_SCORING_ADDENDUM.md": "50d959b6ce7f9cbf5b20ca64fb63c2be3149916e80dd9b6d4d3d2f5c24fb2467",
+    "data/analysis/new-angles-20260930/proxy_replication/evaluate.py": "4e33bb76ab265306af5bf040f4c76d6d22df1e361630a4eaccba916590422c9e",
+    "data/analysis/new-angles-20260930/proxy_replication/frozen_features_predictions.csv": "4dc7bf2a5e011f77afb1a6bc52619513be6a2e5aa4e5586e869979e5b41987d6"
+  },
+  "frozen_sample_sha256": "a55f9ce396a5f8816eefee243430fb30a855ef5e8033d0d32ec1766ec42c3f51",
+  "no_new_models_no_refits": true
+}

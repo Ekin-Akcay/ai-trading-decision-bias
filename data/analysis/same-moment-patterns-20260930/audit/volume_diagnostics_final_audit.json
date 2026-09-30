@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:59:42.272504+00:00",
+  "post_score_exploration": true,
+  "all7_masks_and_native_cached_payoffs_match": true,
+  "all20000_conditional_and_opportunity_arrays_match": true,
+  "all2_paired_comparisons_match": true,
+  "all_ledger_clocks_match": "Fixed 120-minute holds from each delayed entry",
+  "trades_and_means": [
+    {
+      "name": "up_geometry_only_short",
+      "trades": 248,
+      "mean_gross_pct": -0.02019629329285118,
+      "without_best3_blocks_pct": -0.11780699416469723
+    },
+    {
+      "name": "unconditional_delayed_short",
+      "trades": 1019,
+      "mean_gross_pct": 0.012275313067279046,
+      "without_best3_blocks_pct": -0.05109567690649364
+    },
+    {
+      "name": "quiet_up_short_delay1",
+      "trades": 56,
+      "mean_gross_pct": 0.4069683351235363,
+      "without_best3_blocks_pct": 0.13271194995562152
+    },
+    {
+      "name": "quiet_up_short_delay5",
+      "trades": 56,
+      "mean_gross_pct": 0.34681736141107466,
+      "without_best3_blocks_pct": 0.06438955882744161
+    },
+    {
+      "name": "quiet_up_short_AI_SHORT",
+      "trades": 40,
+      "mean_gross_pct": 0.4613516118565556,
+      "without_best3_blocks_pct": 0.05251067091512186
+    },
+    {
+      "name": "quiet_up_short_AI_LONG",
+      "trades": 16,
+      "mean_gross_pct": 0.21904021301807422,
+      "without_best3_blocks_pct": -0.09299116435115273
+    },
+    {
+      "name": "quiet_down_long_AI_LONG",
+      "trades": 37,
+      "mean_gross_pct": 0.1287374248100506,
+      "without_best3_blocks_pct": -0.029653287417165303
+    }
+  ],
+  "AI_SHORT_cell_is_follow_AI_after_upward_reaction": true,
+  "promoted_as_verified": false,
+  "physical_calls": 771,
+  "remaining_calls": 29,
+  "new_model_calls": 0
+}

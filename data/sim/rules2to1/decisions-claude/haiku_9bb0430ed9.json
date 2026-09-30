@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "confidence": 0.5,
+  "reason": "Rejected 100.08; low-volume consolidation favors pullback"
+}

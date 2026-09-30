@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.75,
+  "confidence": 0.65,
+  "reason": "Uptrend intact, price above MA20/MA50, elevated volume, consolidation pattern"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:13:51.340657+00:00",
+  "native_asset_windows_rechecked": 1020,
+  "native_minutes_rechecked": 367200,
+  "unique_calendar_entries": 645,
+  "independent_first_event_replays": 5100,
+  "policies_reconstructed": 11,
+  "all_12000_bootstrap_arrays_reproduced": true,
+  "all_8_opportunity_contrasts_reproduced": true,
+  "discovery_screen_passes": [],
+  "budget_physical_calls": 771,
+  "remaining_calls_preserved": 29,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "new_model_calls": 0,
+  "limitations": [
+    "1020asset opportunities at645entry times; arithmetic averages are per asset opportunity/trade, not equal-capital calendar portfolio returns.",
+    "All outcomes were already inspected. No result is untouched validation.",
+    "Original hypothetical AI brackets are not market orders, so this does not establish liquidity causation."
+  ],
+  "updated_diagnostic_ledger_events_checked": 1249,
+  "all_quarter_opportunity_difference_intervals_match": true,
+  "all_latency_and_excursion_fields_match": true,
+  "all_input_hashes_preserved": true
+}

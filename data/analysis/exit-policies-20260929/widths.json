@@ -1,0 +1,72 @@
+[
+  {
+    "protocol": "v1",
+    "model": "claude-haiku-agent",
+    "median_stop_pct": 0.015,
+    "median_tp_pct": 0.02,
+    "median_fee_fraction_of_stop": 0.1333333333
+  },
+  {
+    "protocol": "v1",
+    "model": "claude-sonnet-agent",
+    "median_stop_pct": 0.009,
+    "median_tp_pct": 0.016,
+    "median_fee_fraction_of_stop": 0.2222222222
+  },
+  {
+    "protocol": "v1",
+    "model": "gpt-5.6-luna-agent",
+    "median_stop_pct": 0.008,
+    "median_tp_pct": 0.012,
+    "median_fee_fraction_of_stop": 0.25
+  },
+  {
+    "protocol": "v1",
+    "model": "gpt-5.6-terra-agent",
+    "median_stop_pct": 0.008,
+    "median_tp_pct": 0.013,
+    "median_fee_fraction_of_stop": 0.25
+  },
+  {
+    "protocol": "v1",
+    "model": "gpt-6-astra-agent",
+    "median_stop_pct": 0.0095,
+    "median_tp_pct": 0.0155,
+    "median_fee_fraction_of_stop": 0.2105263158
+  },
+  {
+    "protocol": "v2",
+    "model": "claude-haiku-agent",
+    "median_stop_pct": 0.012,
+    "median_tp_pct": 0.024,
+    "median_fee_fraction_of_stop": 0.1666666667
+  },
+  {
+    "protocol": "v2",
+    "model": "claude-sonnet-agent",
+    "median_stop_pct": 0.01,
+    "median_tp_pct": 0.02,
+    "median_fee_fraction_of_stop": 0.2
+  },
+  {
+    "protocol": "v2",
+    "model": "gpt-5.6-luna-agent",
+    "median_stop_pct": 0.0085,
+    "median_tp_pct": 0.017,
+    "median_fee_fraction_of_stop": 0.2352941176
+  },
+  {
+    "protocol": "v2",
+    "model": "gpt-5.6-terra-agent",
+    "median_stop_pct": 0.008,
+    "median_tp_pct": 0.016,
+    "median_fee_fraction_of_stop": 0.25
+  },
+  {
+    "protocol": "v2",
+    "model": "gpt-6-astra-agent",
+    "median_stop_pct": 0.009,
+    "median_tp_pct": 0.018,
+    "median_fee_fraction_of_stop": 0.2229102167
+  }
+]

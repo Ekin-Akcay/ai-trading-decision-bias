@@ -1,0 +1,41 @@
+{
+  "calendar_blocks": 783,
+  "asset_windows": 3132,
+  "prior_intervals": 681,
+  "utc6h_annual_fit_grid_count": 6865,
+  "fit_grid_and_coverage": 6846,
+  "fit_grid_coverage_exclusion_count": 783,
+  "excluded_invalid_preentry_feature_blocks": 0,
+  "years": {
+    "2022": 90,
+    "2023": 205,
+    "2024": 194,
+    "2025": 181,
+    "2026": 113
+  },
+  "quarters": {
+    "2022Q1": 19,
+    "2022Q2": 32,
+    "2022Q3": 15,
+    "2022Q4": 24,
+    "2023Q1": 72,
+    "2023Q2": 49,
+    "2023Q3": 40,
+    "2023Q4": 44,
+    "2024Q1": 38,
+    "2024Q2": 71,
+    "2024Q3": 37,
+    "2024Q4": 48,
+    "2025Q1": 29,
+    "2025Q2": 34,
+    "2025Q3": 84,
+    "2025Q4": 34,
+    "2026Q1": 40,
+    "2026Q2": 23,
+    "2026Q3": 50
+  },
+  "minimum_entry_gap_hours": 6.0,
+  "existing_prediction_reconciliations": 803,
+  "max_existing_prediction_abs_error": 5.412337245047638e-14,
+  "new_forward_returns_computed": false
+}

@@ -1,0 +1,1087 @@
+{
+  "all_accepted_passed": true,
+  "audits": [
+    {
+      "model": "gpt-5.6-terra",
+      "case": 1,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 2,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 3,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 4,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 5,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 6,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 7,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 8,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 9,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 10,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 11,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 12,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 13,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 14,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 15,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 16,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 17,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 18,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 19,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 20,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 21,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 22,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 23,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 24,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 25,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 26,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 27,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 28,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 29,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 30,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 31,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 32,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 33,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 34,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 35,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 36,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 37,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 38,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 39,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 40,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 41,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 42,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 43,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 44,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 45,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 46,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 47,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 48,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 49,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 50,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 51,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 52,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 53,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 54,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 55,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 56,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 57,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 58,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 59,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 60,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "exact full text and neutral image attachment",
+      "user_message_count": 2,
+      "developer_instruction_sha256": [
+        "82d1f0e83b10e06fa89ae19750db2502dc9faf6bd4e9a147484b0107d87c1d5f",
+        "dcb54c94ea055a45054db60432a6ab742b1bb23bc0e50fa412e43b8eaf4e05c0",
+        "776f0082c690841a8a00bebf40ec1f979f849af29ddcbd6a849b9fcfce6edbc3"
+      ],
+      "base_instructions_sha256": "fcec2b0014bdc79d9d9c64b43a557009865579483b9e0135cf8b85a3a7cb1c27",
+      "system_message_count": 0
+    }
+  ],
+  "accepted": 60,
+  "excluded": 0
+}

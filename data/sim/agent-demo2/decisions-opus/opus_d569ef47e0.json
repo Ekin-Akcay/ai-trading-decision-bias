@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.1,
+  "take_profit_pct": 1.1,
+  "confidence": 0.55,
+  "reason": "Distribution after rally: high-volume breakdown, failed upthrust at 100.89, lower highs below MA20; targeting range breakdown toward MA50."
+}

@@ -1,0 +1,13 @@
+{
+  "investigation_status": "completed_bounded_investigation",
+  "profitable_strategy_verified": false,
+  "physical_snapshot_calls": 280,
+  "authorized_max": 300,
+  "remaining_calls": 20,
+  "fresh_windows": 280,
+  "strategy_control_definitions": 11295,
+  "unique_return_vectors": 9336,
+  "familywise_passes": 0,
+  "global_family_p": 0.9774511274436278,
+  "completed_at": "2026-09-29T20:12:45.213925+00:00"
+}

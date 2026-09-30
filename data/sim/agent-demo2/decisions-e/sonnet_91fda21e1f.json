@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.7,
+  "take_profit_pct": 3.2,
+  "confidence": 0.55,
+  "reason": "Price above MA20/MA50 after volume breakout and higher lows; fading volume near highs tempers confidence."
+}

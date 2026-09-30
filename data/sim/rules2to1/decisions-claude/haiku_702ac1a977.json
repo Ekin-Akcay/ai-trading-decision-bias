@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.0,
+  "confidence": 0.6,
+  "reason": "Strong bounce at support with high volume, price above both MAs"
+}

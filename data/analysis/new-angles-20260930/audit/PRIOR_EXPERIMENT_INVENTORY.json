@@ -1,0 +1,252 @@
+{
+  "created_at": "2026-09-29T22:08:48.474808+00:00",
+  "scope": "Mechanism-level inventory, not a claim of an exhaustive count of every correlated hypothesis ever inspected. Counts remain attached to their actual source cohorts.",
+  "experiments": [
+    {
+      "id": "I01_original_geometry",
+      "mechanism": "Anonymized AI bracket predictions",
+      "definitions": "v1 freely chosen long/short/flat and stop/target versus v2 forced direction and exact2:1 target/stop; same100 canonical SOL windows across five comparable models; original72h resolver.",
+      "population": "100 canonical SOL market events, repeated opinions; earlier pilots supplementary",
+      "evidence_status": "Descriptive decision/bracket experiment; no independent economically reliable AI edge established.",
+      "what_does_not_count_as_new": "Another model opinion on the same event does not add a market outcome; changing TP/SL ratio repeats geometry work.",
+      "sources": [
+        "data/sim/rules2to1/INSTRUCTIONS.md",
+        "data/analysis/direction-paths-20260929/ANALYSIS_PLAN.md"
+      ]
+    },
+    {
+      "id": "I02_direction_and_paths",
+      "mechanism": "Direction/context/path and reported-reason associations",
+      "definitions": "15 fixed horizons1m–24h; confidence vs15/105m correctness/signed105m return/MA20 alignment; MA regimes, extreme trend, unanimity, majority side, high/low ensemble confidence; fixed lexical tags; price-only choice model and price+AI-votes/confidence future predictor in five grouped folds.",
+      "population": "1052 decisions/120 windows; main1000 decisions/100SOL windows,92temporal groups",
+      "evidence_status": "Strong visible-trend/MA-following behavior. No adjusted forecast-value finding; price+AI seven-candle accuracy52% versus54% price-only. No validated losing-language vocabulary.",
+      "what_does_not_count_as_new": "Raw confidence/reason correlation, consensus/disagreement grouping or generic price+AI classifier is already explored. Forward-calendar conditional AI-surprise policies were NOT present.",
+      "sources": [
+        "data/analysis/direction-paths-20260929/ANALYSIS_PLAN.md",
+        "data/analysis/direction-paths-20260929/analyze.py",
+        "data/analysis/direction-paths-20260929/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I03_exit_scales",
+      "mechanism": "Time exits and smaller existing brackets",
+      "definitions": "46 policy variants: times5/15/30/60/105/240m; both bracket widths scaled1/.75/.5/.25;72h or15/30/105m caps; reverse-direction time exits and simple MA/momentum benchmarks; UTC sessions and R normalization.",
+      "population": "Same100SOL windows,1000 opinions",
+      "evidence_status": "No primary modification established improvement. Lowered targets increased cost burden; selected session/regime cells exploratory.",
+      "what_does_not_count_as_new": "Shorter exit, smaller stop/TP, time session or risk-unit rescaling alone is not novel.",
+      "sources": [
+        "data/analysis/exit-policies-20260929/PLAN.md",
+        "data/analysis/exit-policies-20260929/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I04_price_volume_ablation",
+      "mechanism": "Remove supplied indicator bundle",
+      "definitions": "v3 removesMA overlays/text,ATR/sigma andderived move/volume summaries; originalOHLC/volume40rows unchanged;20canonical cases×3GPTmodels.",
+      "population": "20market paths,60v3 opinions compared with historicalv2",
+      "evidence_status": "12/60directions changed; hiddenMA20 alignment75%; no adjusted v3-v2 horizon improvement. Terra30m14/20accuracy is unconfirmed.",
+      "what_does_not_count_as_new": "Removing only MAs differs causally from this broad bundle, but that pure intervention was subsequently tested inI14.",
+      "sources": [
+        "data/sim/pricevolume-v3/INSTRUCTIONS.md",
+        "data/sim/pricevolume-v3-openai-20260929T173255Z/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I05_bull_macro_recovery",
+      "mechanism": "Bullish daily macro plus failed bearish AI",
+      "definitions": "SOLpreviousclose>50DMA,BTC>200DMA;atleast2/3GPTv2SHORT;first15/30mcloseaboveentry;nextminuteopenLONG105m. Price-only and no-macro controls.",
+      "population": "Existing100SOL windows",
+      "evidence_status": "9primary trades mean−.0697%gross; neither positive mean nor precision supports a strategy.",
+      "what_does_not_count_as_new": "AIshort plus upward15/30m confirmation and dailytrend gating has been tested.",
+      "sources": [
+        "data/analysis/long-recovery-20260929/PLAN.md",
+        "data/analysis/long-recovery-20260929/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I06_initial_fifty_validation",
+      "mechanism": "Reverse action above both MAs",
+      "definitions": "TerraLONG→SHORT105m;TerraSHORT→LONG30m; visibleclose entry.",
+      "population": "50new SOL windows enriched above both intradayMAs",
+      "evidence_status": "42shorts−.205%gross;8longs+.049%gross; both selectionq=.935. Neither independent profitable edge established.",
+      "what_does_not_count_as_new": "Another above-both contrarian side/time subgroup is a retest or parameter variant.",
+      "sources": [
+        "data/research/reversal-ideas-20260929/PROTOCOL.md",
+        "data/research/reversal-ideas-20260929/RESULTS.md"
+      ]
+    },
+    {
+      "id": "I07_risk_grid",
+      "mechanism": "Broad stop/target/time optimisation",
+      "definitions": "824exitpolicies:8horizons15,30,60,105,240,720,1440,4320m; fixedstops6widths,ATRstops6multiples,AIstops5multiples ×6RRs ×8horizons;3MAgates ×3AIreversal/2fixedsidegroups.721within24h variants replayed on280.",
+      "population": "150oldSOL discovery;280laterSOL reused after locked primary",
+      "evidence_status": "Part of11295-definition full family; no complete-family pass.",
+      "what_does_not_count_as_new": "Any ordinary ATR/fixed/AI-stop bracket, static MA gate, reverse-long/short side or time cap is inside or adjacent to this extensive old family.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/risk/PLAN.md",
+        "data/analysis/reversal-deep-20260929/risk/fresh_grid/PLAN.md"
+      ]
+    },
+    {
+      "id": "I08_entry_filter_grid",
+      "mechanism": "Direction reversal with price/macro/AI gates",
+      "definitions": "116rules:2sides×6gates×3entries×3holds plus8confidence/stop-size filters; gatesnone/aboveboth/belowboth/SOLbull/SOL+BTCbull/SOL+BTCbear;entryimmediate/15m/30mreversalconfirmation;holds30/105/240m;confidence.65,stop/ATR1diagnostics.",
+      "population": "Old150/new280SOL discovery",
+      "evidence_status": "Several positive means, no full-search corrected strategy. L048macro-bear immediateLONG240 became subsequent finalist.",
+      "what_does_not_count_as_new": "Confidence cutoffs, macro-MA filters or initial15/30m confirmation are already tested; changing their threshold is not a new mechanism.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/signals/PLAN.md",
+        "data/analysis/reversal-deep-20260929/signals/candidate_definitions.json"
+      ]
+    },
+    {
+      "id": "I09_adverse_invalidation",
+      "mechanism": "Oppose AI after adverse first passage",
+      "definitions": "108policies:adversemove.5ATR/1ATR/AIstop;wait105/240/720;hold240/720/1440;timeonlyor1ATRstop2ATRtarget;long/short.72fit24h and replayed. Next-minute-open entry after triggering minute.",
+      "population": "Old150/new280SOL",
+      "evidence_status": "No full-family verified edge.",
+      "what_does_not_count_as_new": "A simple adverse stop/ATRtouch followed by immediate reverse entry repeats invalidation.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/confirmation/PLAN.md",
+        "data/analysis/reversal-deep-20260929/confirmation/GAP_FILL_CORRECTION.md"
+      ]
+    },
+    {
+      "id": "I10_primary280",
+      "mechanism": "Frozen confirmed-long and capped-short tests",
+      "definitions": "L:TerraSHORT,15mpositiveconfirmation,LONGnextopen240m. S:TerraLONG→SHORT,1.5×AIstop,target2×stop,240mcap;20bps cost.",
+      "population": "280new separatedSOL windows,280isolatedcalls",
+      "evidence_status": "L85trades+.0151%net;S91+.0082%net. Neither locked profit/AIincrement criteria passed; selectionHolmL.2911/S.0627.",
+      "what_does_not_count_as_new": "Repeating or redefining the same two finalists does not make the mechanism new.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/VALIDATION_PROTOCOL.md",
+        "data/analysis/reversal-deep-20260929/PRIMARY_RESULTS.md"
+      ]
+    },
+    {
+      "id": "I11_BTC_hedge",
+      "mechanism": "Remove common BTC exposure from SOL reversals",
+      "definitions": "16AI+12controlvariants:SOLoppositedirectionBTCnotional0/.5/1/trailing200barOLSbeta clipped0–3;immediate reverseall/short/long orconfirmedlong;240mafterentry;SOLnotionalandtotalgrossnotional metrics.",
+      "population": "149oldSOL usable/280newSOL",
+      "evidence_status": "All nonzero fresh hedges lost under20bps per-leg accounting; no full-family pass.",
+      "what_does_not_count_as_new": "A fixed/OLS BTC hedge of SOL reversal is old. Simultaneous four-asset opinion-relative ranking is a distinct portfolio mechanism.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/risk/hedge_study/PLAN.md",
+        "data/analysis/reversal-deep-20260929/risk/hedge_study/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I12_stopout_fade",
+      "mechanism": "Follow original AI only after its bracket stops first",
+      "definitions": "16policies:AIoriginalsideL/S;originalSL FIRST beforeTP by105/240m;enter same originalside followingminuteopen;hold60/240;timeonlyor1ATRstop2ATRtarget. Controls AIwidth and price-onlyATR1width.",
+      "population": "150old+280newSOL,48vectorsincludingcontrols",
+      "evidence_status": "All16lostold;positive newer cells unstable/concentrated; no complete-family pass.",
+      "what_does_not_count_as_new": "SL-first touch→next-open same-side fade is old. TP-first→later target reclaim/rejection→reverse entry is not in this family; TP-first was explicitly skipped.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/signals/stopout_fade/PLAN.md",
+        "data/analysis/reversal-deep-20260929/signals/stopout_fade/FINDINGS.md"
+      ]
+    },
+    {
+      "id": "I13_gross500",
+      "mechanism": "Zero-fee repeat plus cross-asset transport of old finalists",
+      "definitions": "L048:assetdaily<=50DMA,BTC<=200DMA,AIshort→longfirstopen240m. S508:aboveboth intradayMAs,AIlong→short2ATRstop,1RR,240m. Old430risk/hedge/signal families merely reexpressedgross beforeselection.",
+      "population": "500newopinions/125four-assetcalendarblocks,501physicalcalls",
+      "evidence_status": "L101trades+.360659%gross,AIincrement+.020626%;S171−.012917%,increment+.046936%. Both frozen profit/increment interval criteria fail.",
+      "what_does_not_count_as_new": "Fee removal or applying L048/S508 to anotherasset is a retest/generalization, not a new underlying signal.",
+      "sources": [
+        "data/analysis/gross-edge-20260929/VALIDATION_PROTOCOL.md",
+        "data/analysis/gross-edge-20260929/PRIMARY500_RESULTS.md",
+        "data/analysis/gross-edge-20260929/risk/PLAN.md",
+        "data/analysis/gross-edge-20260929/signals/PLAN.md"
+      ]
+    },
+    {
+      "id": "I14_paired_MA90",
+      "mechanism": "Pure explicit-MA intervention with stochastic repeat control",
+      "definitions": "90SOLmacro-bear windows×MA_A/identicalMA_B/NO_MA. ExactL048inallarms;MA_Asoleprofitprimary. Flip-excess exactMcNemar, pairedopportunityarmdifferences.",
+      "population": "90newmarketpaths,270calls;current800budget771physicaltotal",
+      "evidence_status": "MA_A71trades−.129687%gross;B67−.060779%;NO_MA72−.116699%. No profit/increment pass.19treatmentflipsvs10repeat,p=.031784 fails.01;shortfrequency71→72.",
+      "what_does_not_count_as_new": "A new MA-only prompt run or another L048 replication repeats this. Disagreement-conditioned economic policies were NOT tested; original policy comparisons averaged whole arms.",
+      "sources": [
+        "data/analysis/gross-edge-20260929/ma_ablation/PROTOCOL.md",
+        "data/analysis/gross-edge-20260929/ma_ablation/RESULTS.md",
+        "data/analysis/gross-edge-20260929/ma_ablation/design/final_statistics_audit.json"
+      ]
+    },
+    {
+      "id": "I15_post500_horizon_risk_units",
+      "mechanism": "Reexpress exact L048 paths",
+      "definitions": "Fixed15/30/60/105/240mhorizons;percentage/ATR14/sigma2dunits;sameexistinggates/actions;cohort,asset,chronology,quarter,concentration controls.",
+      "population": "Old150,new280,new500;laterpaired90interpretation",
+      "evidence_status": "Diagnostics on seen outcomes, not additional fresh evidence or new mechanisms.",
+      "what_does_not_count_as_new": "Earlier exit or ATR/sigma normalization of L048 is already checked; favourable units do not generate a new economic return.",
+      "sources": [
+        "data/analysis/gross-edge-20260929/risk/long_horizon_profile/PLAN.md",
+        "data/analysis/gross-edge-20260929/signals/risk_normalization/PLAN.md"
+      ]
+    },
+    {
+      "id": "I16_complete_search_correction",
+      "mechanism": "Retrospective dependence/multiplicity accounting",
+      "definitions": "11295definitions=10815risk+232signals+144invalidation+56hedge+48stopout;9336uniquevectors;20ksharedquartercenteredmaxT.",
+      "population": "280SOL observations/24quarters after outcome reuse",
+      "evidence_status": "Globalp=.977451127;0passes. This excludes latergross500/MA90 studies and future new-angle definitions.",
+      "what_does_not_count_as_new": "Another adjusted p-value on the old matrix adds no new information; a new-family correction does not erase historical selection.",
+      "sources": [
+        "data/analysis/reversal-deep-20260929/search_correction/PLAN.md",
+        "data/analysis/reversal-deep-20260929/search_correction/summary.json",
+        "data/analysis/reversal-deep-20260929/design/expanded_familywise_audit.json"
+      ]
+    }
+  ],
+  "new_phase_model_calls": 0,
+  "current_phase_authorized_cap": 800,
+  "physical_calls_before_new_phase": 771,
+  "remaining_calls_preserved": 29,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "source_sha256": {
+    "data/analysis/direction-paths-20260929/ANALYSIS_PLAN.md": "5402fa33fe4847d77ae49e414101c601f722225c1e0c04c040a5b0ca32d00f29",
+    "data/analysis/direction-paths-20260929/FINDINGS.md": "21d4ef29feb66c96738202bba41b5a83dfcf8fa0bc8d0e11a26b02b0a881ddf4",
+    "data/analysis/direction-paths-20260929/analyze.py": "1ec108be5300ad36d65cfbea1cb95f5b7896072c0e6dbc778e2000ece2f4b21b",
+    "data/analysis/exit-policies-20260929/FINDINGS.md": "73e894395c4a2cf7b6e8ecebb9634d1958ec3ac042534b613073533bab154aed",
+    "data/analysis/exit-policies-20260929/PLAN.md": "9a8e91f4ce1c7bd98ae8d9361dae2dcb7e8f8e3f08be9e7801f55445c14fc5a3",
+    "data/analysis/gross-edge-20260929/PRIMARY500_RESULTS.md": "6f60b7f4df52122fb7782d6fab1f4a405bc48072652df6980f6c76cae562983c",
+    "data/analysis/gross-edge-20260929/VALIDATION_PROTOCOL.md": "3bab224ddbeff9bcfdf87b397ff4eb3287951cd4b95ac54bc6d9d890b5c8d095",
+    "data/analysis/gross-edge-20260929/ma_ablation/PROTOCOL.md": "aa26833fc43660a8317700d2b593d3f0f70ea0564a0dfc3b417ed64a0cd50a49",
+    "data/analysis/gross-edge-20260929/ma_ablation/RESULTS.md": "933787b9b3bb9afe6e43f244d5deb054ad4348971156b489edcd065fde084066",
+    "data/analysis/gross-edge-20260929/ma_ablation/design/final_statistics_audit.json": "f93bdad99282a5a30353823606065dc823d73bf5567abcb275b207425b56d631",
+    "data/analysis/gross-edge-20260929/risk/PLAN.md": "5c749a28a0bde73189493cf37f8ba734ae0fe96cb51c8c81d0f190347ebb5d2b",
+    "data/analysis/gross-edge-20260929/risk/long_horizon_profile/PLAN.md": "07e790f3c23a45988b182f1c691097b58cf8514ecb6ef9135df0eaab9f91ecb4",
+    "data/analysis/gross-edge-20260929/signals/PLAN.md": "69a5e1f31ab9957a38efccf293cd275cd3eaa5a5072626c1ec7aa730f176ef78",
+    "data/analysis/gross-edge-20260929/signals/risk_normalization/PLAN.md": "fa31c061dce22e25e862a3e1d06621fe0ec36704e3a3098eeeb223ced7f0f04c",
+    "data/analysis/long-recovery-20260929/FINDINGS.md": "1eb942e6295fa4f279ff2acf6aa321d61f2ba85b5213c463512362aa68ec668e",
+    "data/analysis/long-recovery-20260929/PLAN.md": "9ff153ff64be67198d9c22a851d202c21356817aa8f7b6ef5c0b1ea5c5370910",
+    "data/analysis/reversal-deep-20260929/PRIMARY_RESULTS.md": "5146a4d6f535b5a56f43e5666f1dba4fe05cba146c19fdc75422a2922ced6808",
+    "data/analysis/reversal-deep-20260929/VALIDATION_PROTOCOL.md": "681907eb94eaec417dee6dd83eb8bf342ffceda10687e295cefc79e7ac426d85",
+    "data/analysis/reversal-deep-20260929/confirmation/GAP_FILL_CORRECTION.md": "ec5ef301c6f6e07f572a6fbd7a1e10b8fa4d97094c724bb9d41a59622816d4ae",
+    "data/analysis/reversal-deep-20260929/confirmation/PLAN.md": "3b5b936eb85b684805e4438a2c8dd17d2b98429852930d6da2b8faaf6a7092a6",
+    "data/analysis/reversal-deep-20260929/design/expanded_familywise_audit.json": "3fd156dfa64a6e2078ee5fdceb8b724ab1cd10a8dfee087ae1997d9727d07e0c",
+    "data/analysis/reversal-deep-20260929/risk/PLAN.md": "1697fbf2255b11e3b81fa18dfd113e1404cd334b6f2299930aaf6c53383e8c1e",
+    "data/analysis/reversal-deep-20260929/risk/fresh_grid/PLAN.md": "94cf0c77d6a4e85f6fe514b1ebc1deed888da222e6ce735af758b73e89d9e981",
+    "data/analysis/reversal-deep-20260929/risk/hedge_study/FINDINGS.md": "57c1b7483c4e75666059ebbfa84a38272f16a6d961764ecee2870e64fa6d46f9",
+    "data/analysis/reversal-deep-20260929/risk/hedge_study/PLAN.md": "ce1211c6d5e0a5f7dcbb61e4a60e8737b6037f500337e15530a2c75563f5602e",
+    "data/analysis/reversal-deep-20260929/search_correction/PLAN.md": "7cbb95a8a5356e2d3182224e9e0f654c2af18a87f2f893bffaa0fe02e8b88de5",
+    "data/analysis/reversal-deep-20260929/search_correction/summary.json": "744fae4e05259e6d5d5aecd06d9f5db433eeaeed17fbbf81bb4c065f5a987bb9",
+    "data/analysis/reversal-deep-20260929/signals/PLAN.md": "282c95226ceb098598f80bd8f1f6b07648f13448ce89b9533641ce335970f7d6",
+    "data/analysis/reversal-deep-20260929/signals/candidate_definitions.json": "146976d9732a1bdedfd205c3a1d6d7e7c4997093636df01d6e3737ec0a6d6cea",
+    "data/analysis/reversal-deep-20260929/signals/stopout_fade/FINDINGS.md": "37316b57a69e51e862add6d765429527b7cdc254204d5aaffdfa4ed14d5312a4",
+    "data/analysis/reversal-deep-20260929/signals/stopout_fade/PLAN.md": "fa425e90a813d3eb34783fffae779c924e2d0a49b7fe78ee37d83305074a2b47",
+    "data/research/reversal-ideas-20260929/PROTOCOL.md": "53cf910650e024fe680401b83b8becbf0fca0a23640599ddda1c567cb478d2f5",
+    "data/research/reversal-ideas-20260929/RESULTS.md": "f9f953e185a5db753387fe513be1032593c9eb8a14db801d045a7acac20699cf",
+    "data/sim/pricevolume-v3-openai-20260929T173255Z/FINDINGS.md": "e89a9819628fb4258c97be85a143d610b59da3d7f9e4e8ebee300b651835aca1",
+    "data/sim/pricevolume-v3/INSTRUCTIONS.md": "2c4be51c48ae8fbfe6c67113183413a091436eb6b2b6a42c679182d14ec1705d",
+    "data/sim/rules2to1/INSTRUCTIONS.md": "fa4f660123cfd06c508d3c800afd33fbdc0802ad38267fadc4ffb5298aa9f74a"
+  },
+  "new_angle_novelty_decisions": {
+    "forward_calendar_AI_surprise_residuals": "distinct extension if every stage fit only on prior blocks; ordinaryconfidence/reasontests are repeats",
+    "paired_disagreement_conditioned_economics": "distinct from whole-arm economics and fliptest;90marketpaths only, likelysmallsubsets",
+    "cross_asset_opinion_rank_relative_value": "distinct from SOL/BTChedge if synchronized matchedgross-exposure baskets and adequateprice-onlyranks",
+    "TP_first_then_later_inside_target_reclaim_reverse": "distinct from SL-firstfade and adverseinvalidation; requires strictlysubsequent completedbar andnext-openentry"
+  }
+}

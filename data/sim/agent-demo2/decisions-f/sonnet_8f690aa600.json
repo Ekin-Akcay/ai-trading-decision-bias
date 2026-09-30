@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.7,
+  "take_profit_pct": 1.4,
+  "confidence": 0.55,
+  "reason": "Shallow pullback to former resistance (100) now support, above MA20/MA50; breakout retest long"
+}

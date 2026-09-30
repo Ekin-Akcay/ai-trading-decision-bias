@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "fresh_data_read": false,
+  "old_windows": 150,
+  "old_scalar_replay_checks": 1800,
+  "maximum_gross_error_pct": 2.220446049250313e-14,
+  "donor_matrix_shape": [
+    150,
+    150
+  ],
+  "donor_matrix_seconds": 0.12554450007155538,
+  "donor_diagonal_checks": 150,
+  "donor_random_scalar_checks": 500,
+  "synthetic_checks": 8,
+  "inputs_not_mutated": true,
+  "engine_sha256": "b63b8a4bee90c5970bdd1442b6450fca54a0e5b2f54a282c8b7ab56b9e013aa5"
+}

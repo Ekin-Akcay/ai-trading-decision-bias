@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 2.5,
+  "confidence": 0.65,
+  "reason": "Strong momentum, price above MA20/50, breakout above 99.97"
+}

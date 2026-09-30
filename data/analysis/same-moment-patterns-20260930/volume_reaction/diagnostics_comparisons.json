@@ -1,0 +1,34 @@
+[
+  {
+    "candidate": "quiet_up_extension_short__noAI",
+    "control": "up_geometry_only_short",
+    "post_score": true,
+    "candidate_trades": 56,
+    "control_trades": 248,
+    "opportunity_difference_pp": 0.026464561942275266,
+    "quarter95_ci_pp": [
+      -0.018225665769675756,
+      0.07445290527147623
+    ],
+    "two_comparison_simultaneous_ci_pp": [
+      -0.02390506421141894,
+      0.08163691853232469
+    ]
+  },
+  {
+    "candidate": "quiet_up_extension_short__noAI",
+    "control": "unconditional_delayed_short",
+    "post_score": true,
+    "candidate_trades": 56,
+    "control_trades": 1019,
+    "opportunity_difference_pp": 0.009273958652594753,
+    "quarter95_ci_pp": [
+      -0.10039683108943068,
+      0.11925777163769993
+    ],
+    "two_comparison_simultaneous_ci_pp": [
+      -0.11775279579011755,
+      0.13329086580949256
+    ]
+  }
+]

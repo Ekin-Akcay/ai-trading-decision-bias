@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-30T10:48:30.206419+00:00",
+  "pilot_case": 1,
+  "model": "gpt-5.6-terra",
+  "effort": "medium",
+  "unique_fresh_exec_and_single_context": true,
+  "neutral_model_visible_paths": true,
+  "exact_frozen_prompt_and_image_delivery": true,
+  "no_extra_user_or_assistant_history": true,
+  "no_tool_calls": true,
+  "effective_read_only_sandbox_and_restricted_network": true,
+  "runtime_instruction_bundle_matches_precall_reference": true,
+  "durable_stage_authorization_and_reservation_verified": true,
+  "old_budget_hash_unchanged": true,
+  "new_budget_attempts_at_audit": 60,
+  "new_post_entry_outcomes_read": false,
+  "model_calls_by_auditor": 0,
+  "source_transcript_sha256": "287d92c5ee361031e08abc152b94a4b9357c8f9e3d3896f507a7ff36bcef1162",
+  "runner_sha256": "f023201e368c3cbb777256c8a6217ed973a356e2b8ffad57b8f7e300ed142e58",
+  "audit_sha256": "95ae78d303a4ce0f0844d598212b2b5c8fbdd71f7e17c766e3fd86f3e5ad73f7"
+}

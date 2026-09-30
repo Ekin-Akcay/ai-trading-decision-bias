@@ -1,0 +1,30 @@
+{
+  "reports": [
+    {
+      "file": "data/analysis/gross-edge-20260929/index.html",
+      "local_links_exist": true,
+      "html_parsed": true,
+      "javascript_syntax_passed": "not_applicable_no_script",
+      "figure_visually_checked": true
+    },
+    {
+      "file": "./data/sim/gross-edge-500-20260929T204545Z/index.html",
+      "local_links_exist": true,
+      "html_parsed": true,
+      "javascript_syntax_passed": true,
+      "figure_visually_checked": true
+    },
+    {
+      "file": "./data/sim/ma-ablation-sol90-20260929T210853Z/index.html",
+      "local_links_exist": true,
+      "html_parsed": true,
+      "javascript_syntax_passed": true,
+      "figure_visually_checked": true
+    }
+  ],
+  "all_frozen_source_files_preserved": true,
+  "all_independent_audits_passed": true,
+  "canonical_valid_decisions": 770,
+  "physical_calls": 771,
+  "calls_remaining": 29
+}

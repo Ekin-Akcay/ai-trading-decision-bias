@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "blocks": 125,
+  "asset_windows": 500,
+  "finite_policies": 12,
+  "independent_scalar_basket_checks": 1500,
+  "all_reverse_follow_vectors_exact_negatives": true,
+  "all_active_baskets_zero_dollars_unit_gross": true,
+  "source_sha256": {
+    "data/analysis/new-angles-20260930/relative_value/PLAN.md": "e8141d2294c46565e74c653f00b21f1abcf34b1ca62d75f1a0f0471114ac3897",
+    "data/sim/gross-edge-500-20260929T204545Z/window_results.csv": "784a1154a7b6b9f1ad78c6e4cb0e56d7c42125dc69241b450f9c991c3c02d3ba",
+    "data/sim/gross-edge-500-20260929T204545Z/paths.npz": "07776e6ac94830d9c9a9f154cd4ae7cccb61c1a932e0b56878cd2dc7b17f6acb",
+    "data/analysis/new-angles-20260930/relative_value/run.py": "f0d306a9dba8614550557192aa99b54274381e5033531c2a323c091679b223ce",
+    "data/analysis/new-angles-20260930/relative_value/finish.py": "fef99fe52f14e85826e0a4b141813163e39ca7cf51b46ae603e7732a15448937"
+  },
+  "all_sources_preserved": true,
+  "no_new_model_calls": true,
+  "independent_rank_weight_and_fold_checks": 7560,
+  "exact_mirror_control_contrasts": 18
+}

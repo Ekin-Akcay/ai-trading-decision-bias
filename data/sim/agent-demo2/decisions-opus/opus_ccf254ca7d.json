@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.6,
+  "take_profit_pct": 1.7,
+  "confidence": 0.55,
+  "reason": "2.2x-volume capitulation hammer at 98.68, higher low since; buy bounce toward broken range 101.7, stop below flush low."
+}

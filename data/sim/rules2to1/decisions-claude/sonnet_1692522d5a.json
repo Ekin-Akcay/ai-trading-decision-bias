@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.6,
+  "reason": "Downtrend below MA20/MA50, high-volume breakdown then low-volume consolidation near lows favors continuation."
+}

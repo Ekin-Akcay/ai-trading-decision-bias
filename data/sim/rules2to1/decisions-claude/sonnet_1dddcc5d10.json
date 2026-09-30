@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.6,
+  "reason": "Downtrend below MA20/MA50 with high-volume breakdowns; fading bounce volume suggests continuation, not reversal."
+}

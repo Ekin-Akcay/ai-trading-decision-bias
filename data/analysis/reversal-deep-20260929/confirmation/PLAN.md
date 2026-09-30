@@ -1,0 +1,7 @@
+# AI-invalidation confirmation — discovery only
+
+Frozen before scoring this family. Existing 100 v2 Terra and 50 recent Terra windows only. Mechanism: wait for price to move against the AI call by a known threshold, then enter the opposite side at the following minute's open. This attempts to distinguish persistent model error from a transient contrary call.
+
+Finite grid: trigger distance {0.5 ATR14, 1 ATR14, original AI stop}; maximum wait {105, 240, 720} minutes; holding cap {240, 720, 1440} minutes after actual entry; exit {time only, stop 1 ATR / target 2 ATR}; inverse side {long, short}. All 108 combinations retained. ATR is from the original visible window; risk distance uses that percent of actual entry. No additional filters or confidence thresholds in this branch. Entry after the first triggering minute has closed, at next minute open, never filled retroactively at the trigger level. Exits include the entry minute; adverse gaps filled at open; both barriers within same minute resolve to stop. Costs20bps roundtrip. Max total forward use2160minutes, within prior72h coverage.
+
+Controls: same market-side trigger and execution on all150windows, using fixed ATR threshold; for original-AI-stop threshold this all-window control still uses an AI-generated width, explicitly not price-only. Summaries include old100/new50, chronological halves, sufficient support, and positive net fraction. No verified claims from this discovery search. All results saved, no threshold changes after scoring. Selected finalists, if any, require fresh locked validation.

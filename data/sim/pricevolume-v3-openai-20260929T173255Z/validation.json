@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "checks": [
+    "100 exact canonical IDs and case order",
+    "4000 original OHLCV text rows preserved",
+    "100 inputs contain no MA/ATR/volatility/derived summary fields",
+    "100 exact wrapper/input/image hashes verified",
+    "Exactly60 unique requested decisions",
+    "Each original model has cases1–20 only",
+    "No cases21–100 launched",
+    "All forced2:1 directions/stops/confidences valid",
+    "60 exact-model single-turn text/image audits passed;zero calls",
+    "60 raw attempts and no retries",
+    "Real canonical entry matches every saved row",
+    "Net subtracts20bps for every scored trade",
+    "All60 matched pairs present",
+    "180 independent fixed-horizon native15m checks passed",
+    "All report links/images/anchors resolve",
+    "Report contains20 paired case sections",
+    "All pre-existing source/result hashes unchanged",
+    "Progress says requested batch complete and scored60"
+  ],
+  "check_count": 18,
+  "requested_cases": 20,
+  "prepared_cases": 100,
+  "saved_decisions": 60,
+  "future_native_close_checks": 180,
+  "original_files_unchanged": 223,
+  "bad_links": [],
+  "browser_preview_verified": false,
+  "browser_note": "No alternate browser route attempted after earlier local-file preview policy block; data and static HTML checks used.",
+  "figure_visually_inspected": true
+}

@@ -1,0 +1,24 @@
+{
+  "publication_privacy_scan": "PASS",
+  "text_files_scanned": 4844,
+  "secret_or_homepath_or_uuid_matches": 0,
+  "unit_tests": {
+    "status": "PASS",
+    "passed": 11
+  },
+  "offline_reproduction": {
+    "status": "PASS",
+    "native_trades": 180,
+    "bootstrap_draws_per_stage": 40000,
+    "stages": 2,
+    "model_calls": 0,
+    "network_requests": 0
+  },
+  "public_report_javascript": "PASS",
+  "binary_audit": {
+    "npz_archives": 48,
+    "pdf_files": 8,
+    "private_paths_or_session_ids_found": 0
+  },
+  "note": "Private runtime records and full downloaded archives excluded; public numerical results reproduce."
+}

@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.7,
+  "confidence": 0.55,
+  "reason": "Climactic-volume hammer wick rejected 99.47 low; expect short-term bounce toward MA20 near 101.3."
+}

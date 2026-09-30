@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.72,
+  "reason": "Downtrend from 101.77, below MA20, thin volume consolidation"
+}

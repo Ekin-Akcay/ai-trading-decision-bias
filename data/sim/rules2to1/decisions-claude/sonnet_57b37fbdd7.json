@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.65,
+  "confidence": 0.55,
+  "reason": "Rally extended, stalling near round-number resistance with fading volume after climax bars; short for mean reversion to MA20."
+}

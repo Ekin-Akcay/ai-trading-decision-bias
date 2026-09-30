@@ -1,0 +1,7 @@
+{
+  "action": "flat",
+  "stop_loss_pct": 0,
+  "take_profit_pct": 0,
+  "confidence": 0.6,
+  "reason": "Price stuck between MA20/MA50; lower highs argue bearish but fading volume argues healthy dip—no clear edge."
+}

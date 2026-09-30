@@ -1,0 +1,3113 @@
+{
+  "stage": "screen",
+  "cost_bps": 0,
+  "released_cases": 60,
+  "coverage_valid_cases": 60,
+  "excluded_cases": 0,
+  "quarter_universe": [
+    "2020Q3",
+    "2020Q4",
+    "2021Q1",
+    "2021Q2",
+    "2021Q3",
+    "2021Q4",
+    "2022Q2",
+    "2022Q3",
+    "2022Q4",
+    "2023Q1",
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1",
+    "2024Q2",
+    "2024Q3",
+    "2024Q4",
+    "2025Q1",
+    "2025Q2",
+    "2025Q3",
+    "2025Q4",
+    "2026Q1",
+    "2026Q2",
+    "2026Q3"
+  ],
+  "bootstrap_seed": 2026093051,
+  "bootstrap_draws": 40000,
+  "hypothesis_family_size": 2,
+  "primary_statistic_family_size": 4,
+  "directions": {
+    "up": {
+      "hypothesis": "SHORT_after_quiet_rally",
+      "released_price_gates": 30,
+      "valid_price_gates": 30,
+      "aligned": {
+        "n": 22,
+        "mean_gross_pct": 0.5727281598193418,
+        "median_gross_pct": 0.21873077873365565,
+        "sum_trade_pct_not_portfolio": 12.600019516025519,
+        "wins": 17,
+        "losses": 5,
+        "zero_returns": 0,
+        "win_rate": 0.7727272727272727,
+        "profit_factor": 5.8188978711322505,
+        "mean_winner_pct": 0.8949840777450099,
+        "mean_loser_pct": -0.5229419611279296,
+        "best_pct": 4.604273247065905,
+        "worst_pct": -0.7368421052631691
+      },
+      "opposed": {
+        "n": 8,
+        "mean_gross_pct": -0.8404327561696692,
+        "median_gross_pct": -0.5392089969091685,
+        "sum_trade_pct_not_portfolio": -6.723462049357353,
+        "wins": 3,
+        "losses": 5,
+        "zero_returns": 0,
+        "win_rate": 0.375,
+        "profit_factor": 0.269648834617574,
+        "mean_winner_pct": 0.8274438343895333,
+        "mean_loser_pct": -1.8411587105051908,
+        "best_pct": 1.1509088953425728,
+        "worst_pct": -5.644536095261721
+      },
+      "price_only": {
+        "n": 30,
+        "mean_gross_pct": 0.1958852488889388,
+        "median_gross_pct": 0.14917778041124707,
+        "sum_trade_pct_not_portfolio": 5.876557466668164,
+        "wins": 20,
+        "losses": 10,
+        "zero_returns": 0,
+        "win_rate": 0.6666666666666666,
+        "profit_factor": 1.4971495112015376,
+        "mean_winner_pct": 0.8848530412416882,
+        "mean_loser_pct": -1.1820503358165602,
+        "best_pct": 4.604273247065905,
+        "worst_pct": -5.644536095261721
+      },
+      "MA20_control": {
+        "n": 18,
+        "mean_gross_pct": -0.0007719305830378412,
+        "median_gross_pct": 0.0666195172191908,
+        "sum_trade_pct_not_portfolio": -0.01389475049468114,
+        "wins": 12,
+        "losses": 6,
+        "zero_returns": 0,
+        "win_rate": 0.6666666666666666,
+        "profit_factor": 0.9983919240871914,
+        "mean_winner_pct": 0.7188926100337657,
+        "mean_loser_pct": -1.440101011816645,
+        "best_pct": 3.0930768068138548,
+        "worst_pct": -5.644536095261721
+      },
+      "raw_aligned_minus_opposed_pct": 1.4131609159890108,
+      "fixed_effects": {
+        "adjusted_aligned_minus_opposed_pct": 2.276763453855608,
+        "within_sum_squares": 3.5166666666666666,
+        "mixed_aligned_n": 11,
+        "mixed_opposed_n": 8,
+        "mixed_strata": 5,
+        "strata": [
+          {
+            "asset": "BTC-USD",
+            "MA20_side": "below",
+            "n": 6,
+            "aligned_n": 6,
+            "opposed_n": 0,
+            "mixed": false,
+            "aligned_mean_pct": 0.52301914427856,
+            "opposed_mean_pct": null
+          },
+          {
+            "asset": "BTC-USD",
+            "MA20_side": "above_or_equal",
+            "n": 2,
+            "aligned_n": 1,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": 0.12689566586557843,
+            "opposed_mean_pct": -0.44855664785958815
+          },
+          {
+            "asset": "DOGE-USD",
+            "MA20_side": "below",
+            "n": 4,
+            "aligned_n": 3,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": 0.41377527405718206,
+            "opposed_mean_pct": -5.644536095261721
+          },
+          {
+            "asset": "DOGE-USD",
+            "MA20_side": "above_or_equal",
+            "n": 3,
+            "aligned_n": 2,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": 2.7949112773814404,
+            "opposed_mean_pct": -0.6298613459587488
+          },
+          {
+            "asset": "ETH-USD",
+            "MA20_side": "below",
+            "n": 5,
+            "aligned_n": 4,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": 0.15666338039420358,
+            "opposed_mean_pct": -0.9229051448908843
+          },
+          {
+            "asset": "ETH-USD",
+            "MA20_side": "above_or_equal",
+            "n": 2,
+            "aligned_n": 2,
+            "opposed_n": 0,
+            "mixed": false,
+            "aligned_mean_pct": 0.03187657161436985,
+            "opposed_mean_pct": null
+          },
+          {
+            "asset": "SOL-USD",
+            "MA20_side": "below",
+            "n": 3,
+            "aligned_n": 3,
+            "opposed_n": 0,
+            "mixed": false,
+            "aligned_mean_pct": 0.515817426746068,
+            "opposed_mean_pct": null
+          },
+          {
+            "asset": "SOL-USD",
+            "MA20_side": "above_or_equal",
+            "n": 5,
+            "aligned_n": 1,
+            "opposed_n": 4,
+            "mixed": true,
+            "aligned_mean_pct": 0.2660016625103956,
+            "opposed_mean_pct": 0.23059929615339703
+          }
+        ]
+      },
+      "primary_aligned_mean_interval": {
+        "ordinary95_finite_draw_interval": [
+          0.16095060404262462,
+          1.1298491002127349
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": 0.16095060404262462,
+        "simultaneous98_75_one_sided_lower": 0.12034058070876837,
+        "undefined_draws": 0,
+        "undefined_fraction": 0.0,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "primary_adjusted_spread_interval": {
+        "ordinary95_finite_draw_interval": [
+          0.16687516624116658,
+          5.480305776976735
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": 0.018216910795003965,
+        "simultaneous98_75_one_sided_lower": -0.4967491596885297,
+        "undefined_draws": 380,
+        "undefined_fraction": 0.0095,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "raw_spread_interval": {
+        "ordinary95_finite_draw_interval": [
+          0.23746531369352047,
+          3.2281449867991157
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": 0.23259820756878669,
+        "simultaneous98_75_one_sided_lower": 0.11339480399429325,
+        "undefined_draws": 16,
+        "undefined_fraction": 0.0004,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "chronological_halves": [
+        {
+          "half": 1,
+          "price_gate_cases": 15,
+          "n": 13,
+          "mean_gross_pct": 0.7112131982817222,
+          "median_gross_pct": 0.17145989495691571,
+          "sum_trade_pct_not_portfolio": 9.245771577662389,
+          "wins": 10,
+          "losses": 3,
+          "zero_returns": 0,
+          "win_rate": 0.7692307692307693,
+          "profit_factor": 7.358294361144363,
+          "mean_winner_pct": 1.069989921827045,
+          "mean_loser_pct": -0.4847092135360202,
+          "best_pct": 4.604273247065905,
+          "worst_pct": -0.7368421052631691
+        },
+        {
+          "half": 2,
+          "price_gate_cases": 15,
+          "n": 9,
+          "mean_gross_pct": 0.3726942153736812,
+          "median_gross_pct": 0.4139922846892352,
+          "sum_trade_pct_not_portfolio": 3.3542479383631307,
+          "wins": 7,
+          "losses": 2,
+          "zero_returns": 0,
+          "win_rate": 0.7777777777777778,
+          "profit_factor": 3.8901425848395994,
+          "mean_winner_pct": 0.6449757290563882,
+          "mean_loser_pct": -0.5802910825157936,
+          "best_pct": 1.2960829493087411,
+          "worst_pct": -0.6190371901392044
+        }
+      ],
+      "remove_largest_winning_events": {
+        "1": {
+          "removed_cases": [
+            32
+          ],
+          "n": 21,
+          "mean_gross_pct": 0.38074982233141014,
+          "median_gross_pct": 0.17145989495691571,
+          "sum_trade_pct_not_portfolio": 7.995746268959613,
+          "wins": 16,
+          "losses": 5,
+          "zero_returns": 0,
+          "win_rate": 0.7619047619047619,
+          "profit_factor": 4.057986110624456,
+          "mean_winner_pct": 0.6631535046624538,
+          "mean_loser_pct": -0.5229419611279296,
+          "best_pct": 3.0930768068138548,
+          "worst_pct": -0.7368421052631691
+        },
+        "3": {
+          "removed_cases": [
+            32,
+            38,
+            14
+          ],
+          "n": 19,
+          "mean_gross_pct": 0.18982034278089568,
+          "median_gross_pct": 0.12689566586557843,
+          "sum_trade_pct_not_portfolio": 3.606586512837018,
+          "wins": 14,
+          "losses": 5,
+          "zero_returns": 0,
+          "win_rate": 0.7368421052631579,
+          "profit_factor": 2.3793448531297807,
+          "mean_winner_pct": 0.44437830846261894,
+          "mean_loser_pct": -0.5229419611279296,
+          "best_pct": 0.9971746717633345,
+          "worst_pct": -0.7368421052631691
+        }
+      },
+      "controls": {
+        "aligned": {
+          "trades": 22,
+          "valid_gates": 30,
+          "per_gate_mean_pct": 0.42000065053418395,
+          "conditional_mean_pct": 0.5727281598193418
+        },
+        "opposed": {
+          "trades": 8,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.2241154016452451,
+          "conditional_mean_pct": -0.8404327561696692
+        },
+        "price_only": {
+          "trades": 30,
+          "valid_gates": 30,
+          "per_gate_mean_pct": 0.1958852488889388,
+          "conditional_mean_pct": 0.1958852488889388
+        },
+        "MA20": {
+          "trades": 18,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.0004631583498227047,
+          "conditional_mean_pct": -0.0007719305830378412
+        },
+        "aligned_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            0.11781434436248837,
+            0.7776809607857005
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": 0.11781434436248837,
+          "simultaneous98_75_one_sided_lower": 0.08803043403844682,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "opposed_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.7636697287725935,
+            0.08855919633541884
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.7636697287725935,
+          "simultaneous98_75_one_sided_lower": -0.8803795270032174,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "price_only_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.5147890647781826,
+            0.7614532358882445
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.5147890647781826,
+          "simultaneous98_75_one_sided_lower": -0.647068229026693,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "MA20_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.5680340471546255,
+            0.339739665038808
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.5680340471546255,
+          "simultaneous98_75_one_sided_lower": -0.677892289333021,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "aligned_minus_price_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.0885715427116986,
+            0.7636291144236482
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.0885715427116986,
+          "simultaneous98_75_one_sided_lower": -0.11580410312610645,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "aligned_minus_MA20_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            0.04474539087129218,
+            0.9630815672609254
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": 0.04474539087129218,
+          "simultaneous98_75_one_sided_lower": 0.021155104729963743,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        }
+      },
+      "breakdowns": {
+        "asset": {
+          "BTC-USD": {
+            "price_only": {
+              "n": 8,
+              "mean_gross_pct": 0.35205673545966876,
+              "median_gross_pct": 0.013997424536765779,
+              "sum_trade_pct_not_portfolio": 2.81645388367735,
+              "wins": 5,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.625,
+              "profit_factor": 3.4158105824717495,
+              "mean_winner_pct": 0.7964592133763659,
+              "mean_loser_pct": -0.3886140610681599,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "aligned": {
+              "n": 7,
+              "mean_gross_pct": 0.46643007593384833,
+              "median_gross_pct": 0.02020214023851219,
+              "sum_trade_pct_not_portfolio": 3.265010531536938,
+              "wins": 5,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.7142857142857143,
+              "profit_factor": 5.551897913244587,
+              "mean_winner_pct": 0.7964592133763659,
+              "mean_loser_pct": -0.35864276767244574,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.44855664785958815,
+              "median_gross_pct": -0.44855664785958815,
+              "sum_trade_pct_not_portfolio": -0.44855664785958815,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.44855664785958815,
+              "best_pct": -0.44855664785958815,
+              "worst_pct": -0.44855664785958815
+            }
+          },
+          "DOGE-USD": {
+            "price_only": {
+              "n": 7,
+              "mean_gross_pct": 0.07953584795913672,
+              "median_gross_pct": 0.9809932556713807,
+              "sum_trade_pct_not_portfolio": 0.5567509357139571,
+              "wins": 4,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.5714285714285714,
+              "profit_factor": 1.0794083459882904,
+              "mean_winner_pct": 1.891997620549399,
+              "mean_loser_pct": -2.3370798488278797,
+              "best_pct": 4.604273247065905,
+              "worst_pct": -5.644536095261721
+            },
+            "aligned": {
+              "n": 5,
+              "mean_gross_pct": 1.3662296753868852,
+              "median_gross_pct": 0.9855493076969757,
+              "sum_trade_pct_not_portfolio": 6.831148376934426,
+              "wins": 4,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.8,
+              "profit_factor": 10.270844225839438,
+              "mean_winner_pct": 1.891997620549399,
+              "mean_loser_pct": -0.7368421052631691,
+              "best_pct": 4.604273247065905,
+              "worst_pct": -0.7368421052631691
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -3.1371987206102347,
+              "median_gross_pct": -3.1371987206102347,
+              "sum_trade_pct_not_portfolio": -6.2743974412204695,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -3.1371987206102347,
+              "best_pct": -0.6298613459587488,
+              "worst_pct": -5.644536095261721
+            }
+          },
+          "ETH-USD": {
+            "price_only": {
+              "n": 7,
+              "mean_gross_pct": -0.033214068583618604,
+              "median_gross_pct": 0.053329598465834405,
+              "sum_trade_pct_not_portfolio": -0.23249848008533025,
+              "wins": 4,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.5714285714285714,
+              "profit_factor": 0.8884089771134811,
+              "mean_winner_pct": 0.4627472074592853,
+              "mean_loser_pct": -0.6944957699741572,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": -0.9229051448908843
+            },
+            "aligned": {
+              "n": 6,
+              "mean_gross_pct": 0.11506777746759234,
+              "median_gross_pct": 0.2336609415775348,
+              "sum_trade_pct_not_portfolio": 0.690406664805554,
+              "wins": 4,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 1.5948796092233275,
+              "mean_winner_pct": 0.4627472074592853,
+              "mean_loser_pct": -0.5802910825157936,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": -0.6190371901392044
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.9229051448908843,
+              "median_gross_pct": -0.9229051448908843,
+              "sum_trade_pct_not_portfolio": -0.9229051448908843,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9229051448908843,
+              "best_pct": -0.9229051448908843,
+              "worst_pct": -0.9229051448908843
+            }
+          },
+          "SOL-USD": {
+            "price_only": {
+              "n": 8,
+              "mean_gross_pct": 0.34198139092027346,
+              "median_gross_pct": 0.28749275686587583,
+              "sum_trade_pct_not_portfolio": 2.7358511273621877,
+              "wins": 7,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.875,
+              "profit_factor": 2.753824564803757,
+              "mean_winner_pct": 0.6136836351310286,
+              "mean_loser_pct": -1.5599343185550119,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": -1.5599343185550119
+            },
+            "aligned": {
+              "n": 4,
+              "mean_gross_pct": 0.4533634856871499,
+              "median_gross_pct": 0.21873077873365565,
+              "sum_trade_pct_not_portfolio": 1.8134539427485996,
+              "wins": 4,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.4533634856871499,
+              "mean_loser_pct": null,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": 0.07990943597254718
+            },
+            "opposed": {
+              "n": 4,
+              "mean_gross_pct": 0.23059929615339703,
+              "median_gross_pct": 0.6657113039130136,
+              "sum_trade_pct_not_portfolio": 0.9223971846135881,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 1.5913051425575515,
+              "mean_winner_pct": 0.8274438343895333,
+              "mean_loser_pct": -1.5599343185550119,
+              "best_pct": 1.1509088953425728,
+              "worst_pct": -1.5599343185550119
+            }
+          }
+        },
+        "year": {
+          "2020": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 2.2453917993599526,
+              "median_gross_pct": 1.1509088953425728,
+              "sum_trade_pct_not_portfolio": 6.736175398079858,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 2.2453917993599526,
+              "mean_loser_pct": null,
+              "best_pct": 4.604273247065905,
+              "worst_pct": 0.9809932556713807
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 2.7926332513686427,
+              "median_gross_pct": 2.7926332513686427,
+              "sum_trade_pct_not_portfolio": 5.585266502737285,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 2.7926332513686427,
+              "mean_loser_pct": null,
+              "best_pct": 4.604273247065905,
+              "worst_pct": 0.9809932556713807
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 1.1509088953425728,
+              "median_gross_pct": 1.1509088953425728,
+              "sum_trade_pct_not_portfolio": 1.1509088953425728,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 1.1509088953425728,
+              "mean_loser_pct": null,
+              "best_pct": 1.1509088953425728,
+              "worst_pct": 1.1509088953425728
+            }
+          },
+          "2021": {
+            "price_only": {
+              "n": 5,
+              "mean_gross_pct": -0.9652502717771807,
+              "median_gross_pct": 0.17145989495691571,
+              "sum_trade_pct_not_portfolio": -4.826251358885903,
+              "wins": 3,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.6,
+              "profit_factor": 0.24369764536304603,
+              "mean_winner_pct": 0.5183756138796625,
+              "mean_loser_pct": -3.190689100262445,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": -5.644536095261721
+            },
+            "aligned": {
+              "n": 4,
+              "mean_gross_pct": 0.20457118409395458,
+              "median_gross_pct": 0.38837900653901913,
+              "sum_trade_pct_not_portfolio": 0.8182847363758183,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 2.110529285081451,
+              "mean_winner_pct": 0.5183756138796625,
+              "mean_loser_pct": -0.7368421052631691,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": -0.7368421052631691
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -5.644536095261721,
+              "median_gross_pct": -5.644536095261721,
+              "sum_trade_pct_not_portfolio": -5.644536095261721,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -5.644536095261721,
+              "best_pct": -5.644536095261721,
+              "worst_pct": -5.644536095261721
+            }
+          },
+          "2022": {
+            "price_only": {
+              "n": 4,
+              "mean_gross_pct": 0.635710711267562,
+              "median_gross_pct": 0.07354890305204531,
+              "sum_trade_pct_not_portfolio": 2.542842845070248,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 4.646532342730761,
+              "mean_winner_pct": 1.0800582043059819,
+              "mean_loser_pct": -0.6973317678476976,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "aligned": {
+              "n": 4,
+              "mean_gross_pct": 0.635710711267562,
+              "median_gross_pct": 0.07354890305204531,
+              "sum_trade_pct_not_portfolio": 2.542842845070248,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 4.646532342730761,
+              "mean_winner_pct": 1.0800582043059819,
+              "mean_loser_pct": -0.6973317678476976,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2023": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 0.09979249782634536,
+              "median_gross_pct": 0.053329598465834405,
+              "sum_trade_pct_not_portfolio": 0.2993774934790361,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 16.003557274140707,
+              "mean_winner_pct": 0.159665630488115,
+              "mean_loser_pct": -0.01995376749719391,
+              "best_pct": 0.2660016625103956,
+              "worst_pct": -0.01995376749719391
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.09979249782634536,
+              "median_gross_pct": 0.053329598465834405,
+              "sum_trade_pct_not_portfolio": 0.2993774934790361,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 16.003557274140707,
+              "mean_winner_pct": 0.159665630488115,
+              "mean_loser_pct": -0.01995376749719391,
+              "best_pct": 0.2660016625103956,
+              "worst_pct": -0.01995376749719391
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2024": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": -0.18546434244437102,
+              "median_gross_pct": -0.6190371901392044,
+              "sum_trade_pct_not_portfolio": -0.556393027333113,
+              "wins": 1,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.3333333333333333,
+              "profit_factor": 0.6391609370254071,
+              "mean_winner_pct": 0.9855493076969757,
+              "mean_loser_pct": -0.7709711675150444,
+              "best_pct": 0.9855493076969757,
+              "worst_pct": -0.9229051448908843
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 0.18325605877888562,
+              "median_gross_pct": 0.18325605877888562,
+              "sum_trade_pct_not_portfolio": 0.36651211755777124,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 1.592068010445952,
+              "mean_winner_pct": 0.9855493076969757,
+              "mean_loser_pct": -0.6190371901392044,
+              "best_pct": 0.9855493076969757,
+              "worst_pct": -0.6190371901392044
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.9229051448908843,
+              "median_gross_pct": -0.9229051448908843,
+              "sum_trade_pct_not_portfolio": -0.9229051448908843,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9229051448908843,
+              "best_pct": -0.9229051448908843,
+              "worst_pct": -0.9229051448908843
+            }
+          },
+          "2025": {
+            "price_only": {
+              "n": 7,
+              "mean_gross_pct": 0.3618833348599312,
+              "median_gross_pct": 0.3089838512213561,
+              "sum_trade_pct_not_portfolio": 2.5331833440195184,
+              "wins": 5,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.7142857142857143,
+              "profit_factor": 3.162514662016621,
+              "mean_winner_pct": 0.74091793297413,
+              "mean_loser_pct": -0.5857031604255658,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": -0.6298613459587488
+            },
+            "aligned": {
+              "n": 4,
+              "mean_gross_pct": 0.45790552053806,
+              "median_gross_pct": 0.5385420538679409,
+              "sum_trade_pct_not_portfolio": 1.83162208215224,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 4.3822160061890045,
+              "mean_winner_pct": 0.7910556856815409,
+              "mean_loser_pct": -0.5415449748923828,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": -0.5415449748923828
+            },
+            "opposed": {
+              "n": 3,
+              "mean_gross_pct": 0.23385375395575947,
+              "median_gross_pct": 0.3089838512213561,
+              "sum_trade_pct_not_portfolio": 0.7015612618672784,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 2.113834443673299,
+              "mean_winner_pct": 0.6657113039130136,
+              "mean_loser_pct": -0.6298613459587488,
+              "best_pct": 1.022438756604671,
+              "worst_pct": -0.6298613459587488
+            }
+          },
+          "2026": {
+            "price_only": {
+              "n": 5,
+              "mean_gross_pct": -0.1704754455522961,
+              "median_gross_pct": 0.0077927088350193685,
+              "sum_trade_pct_not_portfolio": -0.8523772277614805,
+              "wins": 3,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.6,
+              "profit_factor": 0.5756131135192123,
+              "mean_winner_pct": 0.3853712462177065,
+              "mean_loser_pct": -1.0042454832073,
+              "best_pct": 0.7343287451288649,
+              "worst_pct": -1.5599343185550119
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.3853712462177065,
+              "median_gross_pct": 0.4139922846892352,
+              "sum_trade_pct_not_portfolio": 1.1561137386531195,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.3853712462177065,
+              "mean_loser_pct": null,
+              "best_pct": 0.7343287451288649,
+              "worst_pct": 0.0077927088350193685
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -1.0042454832073,
+              "median_gross_pct": -1.0042454832073,
+              "sum_trade_pct_not_portfolio": -2.0084909664146,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.0042454832073,
+              "best_pct": -0.44855664785958815,
+              "worst_pct": -1.5599343185550119
+            }
+          }
+        },
+        "quarter": {
+          "2020Q4": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 2.2453917993599526,
+              "median_gross_pct": 1.1509088953425728,
+              "sum_trade_pct_not_portfolio": 6.736175398079858,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 2.2453917993599526,
+              "mean_loser_pct": null,
+              "best_pct": 4.604273247065905,
+              "worst_pct": 0.9809932556713807
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 2.7926332513686427,
+              "median_gross_pct": 2.7926332513686427,
+              "sum_trade_pct_not_portfolio": 5.585266502737285,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 2.7926332513686427,
+              "mean_loser_pct": null,
+              "best_pct": 4.604273247065905,
+              "worst_pct": 0.9809932556713807
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 1.1509088953425728,
+              "median_gross_pct": 1.1509088953425728,
+              "sum_trade_pct_not_portfolio": 1.1509088953425728,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 1.1509088953425728,
+              "mean_loser_pct": null,
+              "best_pct": 1.1509088953425728,
+              "worst_pct": 1.1509088953425728
+            }
+          },
+          "2021Q1": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.7368421052631691,
+              "median_gross_pct": -0.7368421052631691,
+              "sum_trade_pct_not_portfolio": -0.7368421052631691,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.7368421052631691,
+              "best_pct": -0.7368421052631691,
+              "worst_pct": -0.7368421052631691
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.7368421052631691,
+              "median_gross_pct": -0.7368421052631691,
+              "sum_trade_pct_not_portfolio": -0.7368421052631691,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.7368421052631691,
+              "best_pct": -0.7368421052631691,
+              "worst_pct": -0.7368421052631691
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2021Q2": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -5.644536095261721,
+              "median_gross_pct": -5.644536095261721,
+              "sum_trade_pct_not_portfolio": -5.644536095261721,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -5.644536095261721,
+              "best_pct": -5.644536095261721,
+              "worst_pct": -5.644536095261721
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -5.644536095261721,
+              "median_gross_pct": -5.644536095261721,
+              "sum_trade_pct_not_portfolio": -5.644536095261721,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -5.644536095261721,
+              "best_pct": -5.644536095261721,
+              "worst_pct": -5.644536095261721
+            }
+          },
+          "2021Q4": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 0.5183756138796625,
+              "median_gross_pct": 0.6052981181211226,
+              "sum_trade_pct_not_portfolio": 1.5551268416389874,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.5183756138796625,
+              "mean_loser_pct": null,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": 0.17145989495691571
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.5183756138796625,
+              "median_gross_pct": 0.6052981181211226,
+              "sum_trade_pct_not_portfolio": 1.5551268416389874,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.5183756138796625,
+              "mean_loser_pct": null,
+              "best_pct": 0.7783688285609491,
+              "worst_pct": 0.17145989495691571
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2022Q2": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 1.1978725194830786,
+              "median_gross_pct": 1.1978725194830786,
+              "sum_trade_pct_not_portfolio": 2.395745038966157,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 4.4355885525774665,
+              "mean_winner_pct": 3.0930768068138548,
+              "mean_loser_pct": -0.6973317678476976,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 1.1978725194830786,
+              "median_gross_pct": 1.1978725194830786,
+              "sum_trade_pct_not_portfolio": 2.395745038966157,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 4.4355885525774665,
+              "mean_winner_pct": 3.0930768068138548,
+              "mean_loser_pct": -0.6973317678476976,
+              "best_pct": 3.0930768068138548,
+              "worst_pct": -0.6973317678476976
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2022Q4": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 0.07354890305204531,
+              "median_gross_pct": 0.07354890305204531,
+              "sum_trade_pct_not_portfolio": 0.14709780610409062,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.07354890305204531,
+              "mean_loser_pct": null,
+              "best_pct": 0.12689566586557843,
+              "worst_pct": 0.02020214023851219
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 0.07354890305204531,
+              "median_gross_pct": 0.07354890305204531,
+              "sum_trade_pct_not_portfolio": 0.14709780610409062,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.07354890305204531,
+              "mean_loser_pct": null,
+              "best_pct": 0.12689566586557843,
+              "worst_pct": 0.02020214023851219
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2023Q1": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": 0.2660016625103956,
+              "median_gross_pct": 0.2660016625103956,
+              "sum_trade_pct_not_portfolio": 0.2660016625103956,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.2660016625103956,
+              "mean_loser_pct": null,
+              "best_pct": 0.2660016625103956,
+              "worst_pct": 0.2660016625103956
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 0.2660016625103956,
+              "median_gross_pct": 0.2660016625103956,
+              "sum_trade_pct_not_portfolio": 0.2660016625103956,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.2660016625103956,
+              "mean_loser_pct": null,
+              "best_pct": 0.2660016625103956,
+              "worst_pct": 0.2660016625103956
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2023Q3": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 0.016687915484320248,
+              "median_gross_pct": 0.016687915484320248,
+              "sum_trade_pct_not_portfolio": 0.033375830968640496,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 2.6726581069632154,
+              "mean_winner_pct": 0.053329598465834405,
+              "mean_loser_pct": -0.01995376749719391,
+              "best_pct": 0.053329598465834405,
+              "worst_pct": -0.01995376749719391
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 0.016687915484320248,
+              "median_gross_pct": 0.016687915484320248,
+              "sum_trade_pct_not_portfolio": 0.033375830968640496,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 2.6726581069632154,
+              "mean_winner_pct": 0.053329598465834405,
+              "mean_loser_pct": -0.01995376749719391,
+              "best_pct": 0.053329598465834405,
+              "worst_pct": -0.01995376749719391
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2024Q2": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 0.18325605877888562,
+              "median_gross_pct": 0.18325605877888562,
+              "sum_trade_pct_not_portfolio": 0.36651211755777124,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 1.592068010445952,
+              "mean_winner_pct": 0.9855493076969757,
+              "mean_loser_pct": -0.6190371901392044,
+              "best_pct": 0.9855493076969757,
+              "worst_pct": -0.6190371901392044
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 0.18325605877888562,
+              "median_gross_pct": 0.18325605877888562,
+              "sum_trade_pct_not_portfolio": 0.36651211755777124,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 1.592068010445952,
+              "mean_winner_pct": 0.9855493076969757,
+              "mean_loser_pct": -0.6190371901392044,
+              "best_pct": 0.9855493076969757,
+              "worst_pct": -0.6190371901392044
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2024Q4": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.9229051448908843,
+              "median_gross_pct": -0.9229051448908843,
+              "sum_trade_pct_not_portfolio": -0.9229051448908843,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9229051448908843,
+              "best_pct": -0.9229051448908843,
+              "worst_pct": -0.9229051448908843
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.9229051448908843,
+              "median_gross_pct": -0.9229051448908843,
+              "sum_trade_pct_not_portfolio": -0.9229051448908843,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9229051448908843,
+              "best_pct": -0.9229051448908843,
+              "worst_pct": -0.9229051448908843
+            }
+          },
+          "2025Q1": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 0.8758351857115895,
+              "median_gross_pct": 1.022438756604671,
+              "sum_trade_pct_not_portfolio": 2.6275055571347683,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.8758351857115895,
+              "mean_loser_pct": null,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": 0.3089838512213561
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 1.2960829493087411,
+              "median_gross_pct": 1.2960829493087411,
+              "sum_trade_pct_not_portfolio": 1.2960829493087411,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 1.2960829493087411,
+              "mean_loser_pct": null,
+              "best_pct": 1.2960829493087411,
+              "worst_pct": 1.2960829493087411
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": 0.6657113039130136,
+              "median_gross_pct": 0.6657113039130136,
+              "sum_trade_pct_not_portfolio": 1.3314226078260272,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.6657113039130136,
+              "mean_loser_pct": null,
+              "best_pct": 1.022438756604671,
+              "worst_pct": 0.3089838512213561
+            }
+          },
+          "2025Q2": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 0.1785130442811663,
+              "median_gross_pct": 0.07990943597254718,
+              "sum_trade_pct_not_portfolio": 0.5355391328434989,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 1.9889098000584762,
+              "mean_winner_pct": 0.5385420538679409,
+              "mean_loser_pct": -0.5415449748923828,
+              "best_pct": 0.9971746717633345,
+              "worst_pct": -0.5415449748923828
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.1785130442811663,
+              "median_gross_pct": 0.07990943597254718,
+              "sum_trade_pct_not_portfolio": 0.5355391328434989,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 1.9889098000584762,
+              "mean_winner_pct": 0.5385420538679409,
+              "mean_loser_pct": -0.5415449748923828,
+              "best_pct": 0.9971746717633345,
+              "worst_pct": -0.5415449748923828
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2025Q3": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.6298613459587488,
+              "median_gross_pct": -0.6298613459587488,
+              "sum_trade_pct_not_portfolio": -0.6298613459587488,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.6298613459587488,
+              "best_pct": -0.6298613459587488,
+              "worst_pct": -0.6298613459587488
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.6298613459587488,
+              "median_gross_pct": -0.6298613459587488,
+              "sum_trade_pct_not_portfolio": -0.6298613459587488,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.6298613459587488,
+              "best_pct": -0.6298613459587488,
+              "worst_pct": -0.6298613459587488
+            }
+          },
+          "2026Q1": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": 0.7343287451288649,
+              "median_gross_pct": 0.7343287451288649,
+              "sum_trade_pct_not_portfolio": 0.7343287451288649,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.7343287451288649,
+              "mean_loser_pct": null,
+              "best_pct": 0.7343287451288649,
+              "worst_pct": 0.7343287451288649
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 0.7343287451288649,
+              "median_gross_pct": 0.7343287451288649,
+              "sum_trade_pct_not_portfolio": 0.7343287451288649,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.7343287451288649,
+              "mean_loser_pct": null,
+              "best_pct": 0.7343287451288649,
+              "worst_pct": 0.7343287451288649
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2026Q2": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": -0.2203819695122844,
+              "median_gross_pct": -0.2203819695122844,
+              "sum_trade_pct_not_portfolio": -0.4407639390245688,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 0.01737285328888654,
+              "mean_winner_pct": 0.0077927088350193685,
+              "mean_loser_pct": -0.44855664785958815,
+              "best_pct": 0.0077927088350193685,
+              "worst_pct": -0.44855664785958815
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 0.0077927088350193685,
+              "median_gross_pct": 0.0077927088350193685,
+              "sum_trade_pct_not_portfolio": 0.0077927088350193685,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.0077927088350193685,
+              "mean_loser_pct": null,
+              "best_pct": 0.0077927088350193685,
+              "worst_pct": 0.0077927088350193685
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.44855664785958815,
+              "median_gross_pct": -0.44855664785958815,
+              "sum_trade_pct_not_portfolio": -0.44855664785958815,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.44855664785958815,
+              "best_pct": -0.44855664785958815,
+              "worst_pct": -0.44855664785958815
+            }
+          },
+          "2026Q3": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": -0.5729710169328883,
+              "median_gross_pct": -0.5729710169328883,
+              "sum_trade_pct_not_portfolio": -1.1459420338657766,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 0.26539084355341436,
+              "mean_winner_pct": 0.4139922846892352,
+              "mean_loser_pct": -1.5599343185550119,
+              "best_pct": 0.4139922846892352,
+              "worst_pct": -1.5599343185550119
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 0.4139922846892352,
+              "median_gross_pct": 0.4139922846892352,
+              "sum_trade_pct_not_portfolio": 0.4139922846892352,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.4139922846892352,
+              "mean_loser_pct": null,
+              "best_pct": 0.4139922846892352,
+              "worst_pct": 0.4139922846892352
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -1.5599343185550119,
+              "median_gross_pct": -1.5599343185550119,
+              "sum_trade_pct_not_portfolio": -1.5599343185550119,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.5599343185550119,
+              "best_pct": -1.5599343185550119,
+              "worst_pct": -1.5599343185550119
+            }
+          }
+        }
+      },
+      "screen_criteria": {
+        "at_least5_aligned": true,
+        "at_least5_opposed": true,
+        "positive_aligned_mean": true,
+        "positive_raw_spread": true
+      },
+      "screen_pass": true,
+      "confirmation_criteria": {
+        "aligned_mean_simultaneous_lower_positive": true,
+        "adjusted_spread_simultaneous_lower_positive": false,
+        "at_least10_aligned_in_mixed_strata": true,
+        "at_least10_opposed_in_mixed_strata": false,
+        "aligned_positive_in_both_halves": true,
+        "positive_after_removing_best3_winners": true
+      },
+      "confirmed": false,
+      "claim_status": "screen_pass_not_confirmation"
+    },
+    "down": {
+      "hypothesis": "LONG_after_quiet_decline",
+      "released_price_gates": 30,
+      "valid_price_gates": 30,
+      "aligned": {
+        "n": 14,
+        "mean_gross_pct": -0.2932365466122474,
+        "median_gross_pct": -0.13268955800838644,
+        "sum_trade_pct_not_portfolio": -4.105311652571464,
+        "wins": 5,
+        "losses": 9,
+        "zero_returns": 0,
+        "win_rate": 0.35714285714285715,
+        "profit_factor": 0.5642008741690011,
+        "mean_winner_pct": 1.0629761676094907,
+        "mean_loser_pct": -1.0466880545132131,
+        "best_pct": 3.6924776422694983,
+        "worst_pct": -5.431076473453489
+      },
+      "opposed": {
+        "n": 16,
+        "mean_gross_pct": -0.19611252995331008,
+        "median_gross_pct": -0.07196252995392838,
+        "sum_trade_pct_not_portfolio": -3.1378004792529612,
+        "wins": 6,
+        "losses": 10,
+        "zero_returns": 0,
+        "win_rate": 0.375,
+        "profit_factor": 0.5995060214706274,
+        "mean_winner_pct": 0.7828375216331359,
+        "mean_loser_pct": -0.7834825609051776,
+        "best_pct": 3.25074308404123,
+        "worst_pct": -2.236361935061293
+      },
+      "price_only": {
+        "n": 30,
+        "mean_gross_pct": -0.24143707106081416,
+        "median_gross_pct": -0.07196252995392838,
+        "sum_trade_pct_not_portfolio": -7.243112131824425,
+        "wins": 11,
+        "losses": 19,
+        "zero_returns": 0,
+        "win_rate": 0.36666666666666664,
+        "profit_factor": 0.5802315540913482,
+        "mean_winner_pct": 0.9101732698042061,
+        "mean_loser_pct": -0.9081588473510891,
+        "best_pct": 3.6924776422694983,
+        "worst_pct": -5.431076473453489
+      },
+      "MA20_control": {
+        "n": 21,
+        "mean_gross_pct": -0.05142263836239989,
+        "median_gross_pct": -0.06639709446316644,
+        "sum_trade_pct_not_portfolio": -1.0798754056103976,
+        "wins": 7,
+        "losses": 14,
+        "zero_returns": 0,
+        "win_rate": 0.3333333333333333,
+        "profit_factor": 0.8421240399845537,
+        "mean_winner_pct": 0.8228784159444931,
+        "mean_loser_pct": -0.48857316551584634,
+        "best_pct": 3.6924776422694983,
+        "worst_pct": -2.0318571470945845
+      },
+      "raw_aligned_minus_opposed_pct": -0.09712401665893733,
+      "fixed_effects": {
+        "adjusted_aligned_minus_opposed_pct": -0.9664130686027302,
+        "within_sum_squares": 4.633333333333333,
+        "mixed_aligned_n": 13,
+        "mixed_opposed_n": 10,
+        "mixed_strata": 5,
+        "strata": [
+          {
+            "asset": "BTC-USD",
+            "MA20_side": "below",
+            "n": 1,
+            "aligned_n": 1,
+            "opposed_n": 0,
+            "mixed": false,
+            "aligned_mean_pct": 0.07883285697913855,
+            "opposed_mean_pct": null
+          },
+          {
+            "asset": "BTC-USD",
+            "MA20_side": "above_or_equal",
+            "n": 6,
+            "aligned_n": 4,
+            "opposed_n": 2,
+            "mixed": true,
+            "aligned_mean_pct": -0.00386821809521265,
+            "opposed_mean_pct": -0.23545320998750174
+          },
+          {
+            "asset": "DOGE-USD",
+            "MA20_side": "below",
+            "n": 3,
+            "aligned_n": 0,
+            "opposed_n": 3,
+            "mixed": false,
+            "aligned_mean_pct": null,
+            "opposed_mean_pct": -1.6091165700826322
+          },
+          {
+            "asset": "DOGE-USD",
+            "MA20_side": "above_or_equal",
+            "n": 5,
+            "aligned_n": 3,
+            "opposed_n": 2,
+            "mixed": true,
+            "aligned_mean_pct": -0.3839966187177783,
+            "opposed_mean_pct": -0.7121222712240249
+          },
+          {
+            "asset": "ETH-USD",
+            "MA20_side": "below",
+            "n": 3,
+            "aligned_n": 0,
+            "opposed_n": 3,
+            "mixed": false,
+            "aligned_mean_pct": null,
+            "opposed_mean_pct": 0.2552045054889966
+          },
+          {
+            "asset": "ETH-USD",
+            "MA20_side": "above_or_equal",
+            "n": 5,
+            "aligned_n": 4,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": 1.1115629598829142,
+            "opposed_mean_pct": 0.3157180160409112
+          },
+          {
+            "asset": "SOL-USD",
+            "MA20_side": "below",
+            "n": 2,
+            "aligned_n": 1,
+            "opposed_n": 1,
+            "mixed": true,
+            "aligned_mean_pct": -5.431076473453489,
+            "opposed_mean_pct": 3.25074308404123
+          },
+          {
+            "asset": "SOL-USD",
+            "MA20_side": "above_or_equal",
+            "n": 5,
+            "aligned_n": 1,
+            "opposed_n": 4,
+            "mixed": true,
+            "aligned_mean_pct": -2.0318571470945845,
+            "opposed_mean_pct": -0.18684360578278547
+          }
+        ]
+      },
+      "primary_aligned_mean_interval": {
+        "ordinary95_finite_draw_interval": [
+          -1.499626518063858,
+          0.7213746144845268
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": -1.499626518063858,
+        "simultaneous98_75_one_sided_lower": -1.716924869936716,
+        "undefined_draws": 0,
+        "undefined_fraction": 0.0,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "primary_adjusted_spread_interval": {
+        "ordinary95_finite_draw_interval": [
+          -3.0884636259769973,
+          0.7293934939279356
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": -3.140498653823152,
+        "simultaneous98_75_one_sided_lower": -3.885123782132865,
+        "undefined_draws": 65,
+        "undefined_fraction": 0.001625,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "raw_spread_interval": {
+        "ordinary95_finite_draw_interval": [
+          -1.2654559256528017,
+          0.782073925909186
+        ],
+        "ordinary95_lower_with_undefined_as_minus_infinity": -1.2654559256528017,
+        "simultaneous98_75_one_sided_lower": -1.50111234202496,
+        "undefined_draws": 0,
+        "undefined_fraction": 0.0,
+        "total_draws": 40000,
+        "quantile_method": "inverted_cdf",
+        "family_size": 4
+      },
+      "chronological_halves": [
+        {
+          "half": 1,
+          "price_gate_cases": 15,
+          "n": 9,
+          "mean_gross_pct": -0.09312763331277413,
+          "median_gross_pct": 0.07883285697913855,
+          "sum_trade_pct_not_portfolio": -0.8381486998149672,
+          "wins": 5,
+          "losses": 4,
+          "zero_returns": 0,
+          "win_rate": 0.5555555555555556,
+          "profit_factor": 0.86378276023909,
+          "mean_winner_pct": 1.0629761676094907,
+          "mean_loser_pct": -1.5382573844656051,
+          "best_pct": 3.6924776422694983,
+          "worst_pct": -5.431076473453489
+        },
+        {
+          "half": 2,
+          "price_gate_cases": 15,
+          "n": 5,
+          "mean_gross_pct": -0.6534325905512994,
+          "median_gross_pct": -0.41392313697761196,
+          "sum_trade_pct_not_portfolio": -3.267162952756497,
+          "wins": 0,
+          "losses": 5,
+          "zero_returns": 0,
+          "win_rate": 0.0,
+          "profit_factor": 0.0,
+          "mean_winner_pct": null,
+          "mean_loser_pct": -0.6534325905512994,
+          "best_pct": -0.018926182480838438,
+          "worst_pct": -2.0318571470945845
+        }
+      ],
+      "remove_largest_winning_events": {
+        "1": {
+          "removed_cases": [
+            2
+          ],
+          "n": 13,
+          "mean_gross_pct": -0.5998299457569971,
+          "median_gross_pct": -0.20097616996841428,
+          "sum_trade_pct_not_portfolio": -7.797789294840962,
+          "wins": 4,
+          "losses": 9,
+          "zero_returns": 0,
+          "win_rate": 0.3076923076923077,
+          "profit_factor": 0.1722261193063329,
+          "mean_winner_pct": 0.40560079894448875,
+          "mean_loser_pct": -1.0466880545132131,
+          "best_pct": 1.1866235167206085,
+          "worst_pct": -5.431076473453489
+        },
+        "3": {
+          "removed_cases": [
+            2,
+            49,
+            19
+          ],
+          "n": 11,
+          "mean_gross_pct": -0.8393219181549106,
+          "median_gross_pct": -0.21296014602981694,
+          "sum_trade_pct_not_portfolio": -9.232541099704017,
+          "wins": 2,
+          "losses": 9,
+          "zero_returns": 0,
+          "win_rate": 0.18181818181818182,
+          "profit_factor": 0.019920122768380004,
+          "mean_winner_pct": 0.09382569545745012,
+          "mean_loser_pct": -1.0466880545132131,
+          "best_pct": 0.10881853393576169,
+          "worst_pct": -5.431076473453489
+        }
+      },
+      "controls": {
+        "aligned": {
+          "trades": 14,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.13684372175238213,
+          "conditional_mean_pct": -0.2932365466122474
+        },
+        "opposed": {
+          "trades": 16,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.10459334930843205,
+          "conditional_mean_pct": -0.19611252995331008
+        },
+        "price_only": {
+          "trades": 30,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.24143707106081416,
+          "conditional_mean_pct": -0.24143707106081416
+        },
+        "MA20": {
+          "trades": 21,
+          "valid_gates": 30,
+          "per_gate_mean_pct": -0.03599584685367992,
+          "conditional_mean_pct": -0.05142263836239989
+        },
+        "aligned_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.7116357667678687,
+            0.294542347727835
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.7116357667678687,
+          "simultaneous98_75_one_sided_lower": -0.81510919935761,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "opposed_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.4211176441485523,
+            0.19729722494210689
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.4211176441485523,
+          "simultaneous98_75_one_sided_lower": -0.47036757536409796,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "price_only_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.9488445434012664,
+            0.40878956433622976
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.9488445434012664,
+          "simultaneous98_75_one_sided_lower": -1.058915494282747,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "MA20_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.3593813208388308,
+            0.2631308820993363
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.3593813208388308,
+          "simultaneous98_75_one_sided_lower": -0.40753999527838725,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "aligned_minus_price_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.1973672018630002,
+            0.42107936473425944
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.1973672018630002,
+          "simultaneous98_75_one_sided_lower": -0.2408518219224109,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        },
+        "aligned_minus_MA20_per_gate_interval": {
+          "ordinary95_finite_draw_interval": [
+            -0.5911685509418239,
+            0.18446940372218218
+          ],
+          "ordinary95_lower_with_undefined_as_minus_infinity": -0.5911685509418239,
+          "simultaneous98_75_one_sided_lower": -0.6933971268849556,
+          "undefined_draws": 0,
+          "undefined_fraction": 0.0,
+          "total_draws": 40000,
+          "quantile_method": "inverted_cdf",
+          "family_size": 4
+        }
+      },
+      "breakdowns": {
+        "asset": {
+          "BTC-USD": {
+            "price_only": {
+              "n": 7,
+              "mean_gross_pct": -0.05822091933953079,
+              "median_gross_pct": 0.07883285697913855,
+              "sum_trade_pct_not_portfolio": -0.40754643537671553,
+              "wins": 4,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.5714285714285714,
+              "profit_factor": 0.5735801089984619,
+              "mean_winner_pct": 0.13704832593308125,
+              "mean_loser_pct": -0.31857991303634686,
+              "best_pct": 0.24812828814244625,
+              "worst_pct": -0.583320044649982
+            },
+            "aligned": {
+              "n": 5,
+              "mean_gross_pct": 0.012671996919657591,
+              "median_gross_pct": 0.07883285697913855,
+              "sum_trade_pct_not_portfolio": 0.06335998459828796,
+              "wins": 3,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.6,
+              "profit_factor": 1.1701305960478772,
+              "mean_winner_pct": 0.1452598930191155,
+              "mean_loser_pct": -0.18620984722952927,
+              "best_pct": 0.24812828814244625,
+              "worst_pct": -0.3080167484106999
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -0.23545320998750174,
+              "median_gross_pct": -0.23545320998750174,
+              "sum_trade_pct_not_portfolio": -0.4709064199750035,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 0.19271346099966732,
+              "mean_winner_pct": 0.11241362467497851,
+              "mean_loser_pct": -0.583320044649982,
+              "best_pct": 0.11241362467497851,
+              "worst_pct": -0.583320044649982
+            }
+          },
+          "DOGE-USD": {
+            "price_only": {
+              "n": 8,
+              "mean_gross_pct": -0.9254480136061602,
+              "median_gross_pct": -0.743669967032834,
+              "sum_trade_pct_not_portfolio": -7.403584108849282,
+              "wins": 1,
+              "losses": 7,
+              "zero_returns": 0,
+              "win_rate": 0.125,
+              "profit_factor": 0.012796667311440553,
+              "mean_winner_pct": 0.09596928982724684,
+              "mean_loser_pct": -1.071364771239504,
+              "best_pct": 0.09596928982724684,
+              "worst_pct": -2.236361935061293
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": -0.3839966187177783,
+              "median_gross_pct": -0.21296014602981694,
+              "sum_trade_pct_not_portfolio": -1.1519898561533348,
+              "wins": 0,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.3839966187177783,
+              "best_pct": -0.20097616996841428,
+              "worst_pct": -0.7380535401551036
+            },
+            "opposed": {
+              "n": 5,
+              "mean_gross_pct": -1.2503188505391893,
+              "median_gross_pct": -1.5202138322752967,
+              "sum_trade_pct_not_portfolio": -6.251594252695947,
+              "wins": 1,
+              "losses": 4,
+              "zero_returns": 0,
+              "win_rate": 0.2,
+              "profit_factor": 0.015119075088313096,
+              "mean_winner_pct": 0.09596928982724684,
+              "mean_loser_pct": -1.5868908856307984,
+              "best_pct": 0.09596928982724684,
+              "worst_pct": -2.236361935061293
+            }
+          },
+          "ETH-USD": {
+            "price_only": {
+              "n": 8,
+              "mean_gross_pct": 0.6909479215049446,
+              "median_gross_pct": 0.3693845265638984,
+              "sum_trade_pct_not_portfolio": 5.527583372039556,
+              "wins": 5,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.625,
+              "profit_factor": 10.378053464879553,
+              "mean_winner_pct": 1.2234000580490934,
+              "mean_loser_pct": -0.1964723060686365,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": -0.41392313697761196
+            },
+            "aligned": {
+              "n": 4,
+              "mean_gross_pct": 1.1115629598829142,
+              "median_gross_pct": 0.583848667119885,
+              "sum_trade_pct_not_portfolio": 4.446251839531657,
+              "wins": 2,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 11.272054591871562,
+              "mean_winner_pct": 2.4395505794950534,
+              "mean_loser_pct": -0.2164246597292252,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": -0.41392313697761196
+            },
+            "opposed": {
+              "n": 4,
+              "mean_gross_pct": 0.27033288312697523,
+              "median_gross_pct": 0.3693845265638984,
+              "sum_trade_pct_not_portfolio": 1.081331532507901,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 7.90648346885661,
+              "mean_winner_pct": 0.41263304375178667,
+              "mean_loser_pct": -0.15656759874745907,
+              "best_pct": 0.49913007812756316,
+              "worst_pct": -0.15656759874745907
+            }
+          },
+          "SOL-USD": {
+            "price_only": {
+              "n": 7,
+              "mean_gross_pct": -0.7085092799482836,
+              "median_gross_pct": -0.07752796544469032,
+              "sum_trade_pct_not_portfolio": -4.959564959637985,
+              "wins": 1,
+              "losses": 6,
+              "zero_returns": 0,
+              "win_rate": 0.14285714285714285,
+              "profit_factor": 0.39593436284572114,
+              "mean_winner_pct": 3.25074308404123,
+              "mean_loser_pct": -1.368384673946536,
+              "best_pct": 3.25074308404123,
+              "worst_pct": -5.431076473453489
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": -3.7314668102740365,
+              "median_gross_pct": -3.7314668102740365,
+              "sum_trade_pct_not_portfolio": -7.462933620548073,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -3.7314668102740365,
+              "best_pct": -2.0318571470945845,
+              "worst_pct": -5.431076473453489
+            },
+            "opposed": {
+              "n": 5,
+              "mean_gross_pct": 0.5006737321820176,
+              "median_gross_pct": -0.06639709446316644,
+              "sum_trade_pct_not_portfolio": 2.503368660910088,
+              "wins": 1,
+              "losses": 4,
+              "zero_returns": 0,
+              "win_rate": 0.2,
+              "profit_factor": 4.34955088564868,
+              "mean_winner_pct": 3.25074308404123,
+              "mean_loser_pct": -0.18684360578278547,
+              "best_pct": 3.25074308404123,
+              "worst_pct": -0.5881646861121026
+            }
+          }
+        },
+        "year": {
+          "2020": {
+            "price_only": {
+              "n": 5,
+              "mean_gross_pct": 0.2043767191412682,
+              "median_gross_pct": 0.09596928982724684,
+              "sum_trade_pct_not_portfolio": 1.021883595706341,
+              "wins": 3,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.6,
+              "profit_factor": 3.7653771879084665,
+              "mean_winner_pct": 0.46380378016120566,
+              "mean_loser_pct": -0.184763872388638,
+              "best_pct": 1.1866235167206085,
+              "worst_pct": -0.21296014602981694
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.3608273015421844,
+              "median_gross_pct": 0.10881853393576169,
+              "sum_trade_pct_not_portfolio": 1.0824819046265532,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 6.083025743582055,
+              "mean_winner_pct": 0.6477210253281851,
+              "mean_loser_pct": -0.21296014602981694,
+              "best_pct": 1.1866235167206085,
+              "worst_pct": -0.21296014602981694
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -0.030299154460106115,
+              "median_gross_pct": -0.030299154460106115,
+              "sum_trade_pct_not_portfolio": -0.06059830892021223,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 0.6129575377983775,
+              "mean_winner_pct": 0.09596928982724684,
+              "mean_loser_pct": -0.15656759874745907,
+              "best_pct": 0.09596928982724684,
+              "worst_pct": -0.15656759874745907
+            }
+          },
+          "2021": {
+            "price_only": {
+              "n": 4,
+              "mean_gross_pct": 1.538519967557553,
+              "median_gross_pct": 1.5248834570364078,
+              "sum_trade_pct_not_portfolio": 6.154079870230212,
+              "wins": 2,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 8.798455526426709,
+              "mean_winner_pct": 3.471610363155364,
+              "mean_loser_pct": -0.39457042804025844,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": -0.5881646861121026
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 1.745750736150542,
+              "median_gross_pct": 1.745750736150542,
+              "sum_trade_pct_not_portfolio": 3.491501472301084,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 18.37271375432129,
+              "mean_winner_pct": 3.6924776422694983,
+              "mean_loser_pct": -0.20097616996841428,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": -0.20097616996841428
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": 1.3312891989645637,
+              "median_gross_pct": 1.3312891989645637,
+              "sum_trade_pct_not_portfolio": 2.6625783979291273,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 5.5269266598261,
+              "mean_winner_pct": 3.25074308404123,
+              "mean_loser_pct": -0.5881646861121026,
+              "best_pct": 3.25074308404123,
+              "worst_pct": -0.5881646861121026
+            }
+          },
+          "2022": {
+            "price_only": {
+              "n": 4,
+              "mean_gross_pct": -1.1970993280727482,
+              "median_gross_pct": 0.1634805725607924,
+              "sum_trade_pct_not_portfolio": -4.788397312290993,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 0.11833366079521102,
+              "mean_winner_pct": 0.21422638705416533,
+              "mean_loser_pct": -5.431076473453489,
+              "best_pct": 0.3157180160409112,
+              "worst_pct": -5.431076473453489
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": -1.7013717761106346,
+              "median_gross_pct": 0.07883285697913855,
+              "sum_trade_pct_not_portfolio": -5.104115328331904,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 0.06020190411969622,
+              "mean_winner_pct": 0.1634805725607924,
+              "mean_loser_pct": -5.431076473453489,
+              "best_pct": 0.24812828814244625,
+              "worst_pct": -5.431076473453489
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 0.3157180160409112,
+              "median_gross_pct": 0.3157180160409112,
+              "sum_trade_pct_not_portfolio": 0.3157180160409112,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.3157180160409112,
+              "mean_loser_pct": null,
+              "best_pct": 0.3157180160409112,
+              "worst_pct": 0.3157180160409112
+            }
+          },
+          "2023": {
+            "price_only": {
+              "n": 6,
+              "mean_gross_pct": -0.7209551522797435,
+              "median_gross_pct": -0.5286515711606321,
+              "sum_trade_pct_not_portfolio": -4.325730913678461,
+              "wins": 1,
+              "losses": 5,
+              "zero_returns": 0,
+              "win_rate": 0.16666666666666666,
+              "profit_factor": 0.025328968829997633,
+              "mean_winner_pct": 0.11241362467497851,
+              "mean_loser_pct": -0.8876289076706879,
+              "best_pct": 0.11241362467497851,
+              "worst_pct": -1.8417013812760397
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": -0.16347146544576918,
+              "median_gross_pct": -0.16347146544576918,
+              "sum_trade_pct_not_portfolio": -0.32694293089153836,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.16347146544576918,
+              "best_pct": -0.018926182480838438,
+              "worst_pct": -0.3080167484106999
+            },
+            "opposed": {
+              "n": 4,
+              "mean_gross_pct": -0.9996969956967305,
+              "median_gross_pct": -1.1347501130929305,
+              "sum_trade_pct_not_portfolio": -3.998787982786922,
+              "wins": 1,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.25,
+              "profit_factor": 0.02734325275387757,
+              "mean_winner_pct": 0.11241362467497851,
+              "mean_loser_pct": -1.3704005358206335,
+              "best_pct": 0.11241362467497851,
+              "worst_pct": -1.8417013812760397
+            }
+          },
+          "2024": {
+            "price_only": {
+              "n": 5,
+              "mean_gross_pct": -0.49815694201413185,
+              "median_gross_pct": -0.07752796544469032,
+              "sum_trade_pct_not_portfolio": -2.4907847100706593,
+              "wins": 1,
+              "losses": 4,
+              "zero_returns": 0,
+              "win_rate": 0.2,
+              "profit_factor": 0.1451869884908829,
+              "mean_winner_pct": 0.42305103708688563,
+              "mean_loser_pct": -0.7284589367893862,
+              "best_pct": 0.42305103708688563,
+              "worst_pct": -2.0318571470945845
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": -1.384955343624844,
+              "median_gross_pct": -1.384955343624844,
+              "sum_trade_pct_not_portfolio": -2.769910687249688,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.384955343624844,
+              "best_pct": -0.7380535401551036,
+              "worst_pct": -2.0318571470945845
+            },
+            "opposed": {
+              "n": 3,
+              "mean_gross_pct": 0.09304199239300963,
+              "median_gross_pct": -0.06639709446316644,
+              "sum_trade_pct_not_portfolio": 0.2791259771790289,
+              "wins": 1,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.3333333333333333,
+              "profit_factor": 2.93938413058664,
+              "mean_winner_pct": 0.42305103708688563,
+              "mean_loser_pct": -0.07196252995392838,
+              "best_pct": 0.42305103708688563,
+              "worst_pct": -0.07752796544469032
+            }
+          },
+          "2025": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 0.2419227005081903,
+              "median_gross_pct": 0.2419227005081903,
+              "sum_trade_pct_not_portfolio": 0.4838454010163806,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 32.65558536152465,
+              "mean_winner_pct": 0.49913007812756316,
+              "mean_loser_pct": -0.015284677111182532,
+              "best_pct": 0.49913007812756316,
+              "worst_pct": -0.015284677111182532
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": 0.2419227005081903,
+              "median_gross_pct": 0.2419227005081903,
+              "sum_trade_pct_not_portfolio": 0.4838454010163806,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 32.65558536152465,
+              "mean_winner_pct": 0.49913007812756316,
+              "mean_loser_pct": -0.015284677111182532,
+              "best_pct": 0.49913007812756316,
+              "worst_pct": -0.015284677111182532
+            }
+          },
+          "2026": {
+            "price_only": {
+              "n": 4,
+              "mean_gross_pct": -0.8245020156843114,
+              "median_gross_pct": -0.498621590813797,
+              "sum_trade_pct_not_portfolio": -3.2980080627372454,
+              "wins": 0,
+              "losses": 4,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.8245020156843114,
+              "best_pct": -0.06440294604835861,
+              "worst_pct": -2.236361935061293
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": -0.23916304151298529,
+              "median_gross_pct": -0.23916304151298529,
+              "sum_trade_pct_not_portfolio": -0.47832608302597057,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.23916304151298529,
+              "best_pct": -0.06440294604835861,
+              "worst_pct": -0.41392313697761196
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -1.4098409898556374,
+              "median_gross_pct": -1.4098409898556374,
+              "sum_trade_pct_not_portfolio": -2.819681979711275,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.4098409898556374,
+              "best_pct": -0.583320044649982,
+              "worst_pct": -2.236361935061293
+            }
+          }
+        },
+        "quarter": {
+          "2020Q3": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.15656759874745907,
+              "median_gross_pct": -0.15656759874745907,
+              "sum_trade_pct_not_portfolio": -0.15656759874745907,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.15656759874745907,
+              "best_pct": -0.15656759874745907,
+              "worst_pct": -0.15656759874745907
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.15656759874745907,
+              "median_gross_pct": -0.15656759874745907,
+              "sum_trade_pct_not_portfolio": -0.15656759874745907,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.15656759874745907,
+              "best_pct": -0.15656759874745907,
+              "worst_pct": -0.15656759874745907
+            }
+          },
+          "2020Q4": {
+            "price_only": {
+              "n": 4,
+              "mean_gross_pct": 0.29461279861345,
+              "median_gross_pct": 0.10239391188150426,
+              "sum_trade_pct_not_portfolio": 1.1784511944538,
+              "wins": 3,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.75,
+              "profit_factor": 6.533670108813707,
+              "mean_winner_pct": 0.46380378016120566,
+              "mean_loser_pct": -0.21296014602981694,
+              "best_pct": 1.1866235167206085,
+              "worst_pct": -0.21296014602981694
+            },
+            "aligned": {
+              "n": 3,
+              "mean_gross_pct": 0.3608273015421844,
+              "median_gross_pct": 0.10881853393576169,
+              "sum_trade_pct_not_portfolio": 1.0824819046265532,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 6.083025743582055,
+              "mean_winner_pct": 0.6477210253281851,
+              "mean_loser_pct": -0.21296014602981694,
+              "best_pct": 1.1866235167206085,
+              "worst_pct": -0.21296014602981694
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 0.09596928982724684,
+              "median_gross_pct": 0.09596928982724684,
+              "sum_trade_pct_not_portfolio": 0.09596928982724684,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.09596928982724684,
+              "mean_loser_pct": null,
+              "best_pct": 0.09596928982724684,
+              "worst_pct": 0.09596928982724684
+            }
+          },
+          "2021Q3": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 2.118352013399542,
+              "median_gross_pct": 3.25074308404123,
+              "sum_trade_pct_not_portfolio": 6.355056040198626,
+              "wins": 2,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.6666666666666666,
+              "profit_factor": 11.80489221855011,
+              "mean_winner_pct": 3.471610363155364,
+              "mean_loser_pct": -0.5881646861121026,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": -0.5881646861121026
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": 3.6924776422694983,
+              "median_gross_pct": 3.6924776422694983,
+              "sum_trade_pct_not_portfolio": 3.6924776422694983,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 3.6924776422694983,
+              "mean_loser_pct": null,
+              "best_pct": 3.6924776422694983,
+              "worst_pct": 3.6924776422694983
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": 1.3312891989645637,
+              "median_gross_pct": 1.3312891989645637,
+              "sum_trade_pct_not_portfolio": 2.6625783979291273,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 5.5269266598261,
+              "mean_winner_pct": 3.25074308404123,
+              "mean_loser_pct": -0.5881646861121026,
+              "best_pct": 3.25074308404123,
+              "worst_pct": -0.5881646861121026
+            }
+          },
+          "2021Q4": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.20097616996841428,
+              "median_gross_pct": -0.20097616996841428,
+              "sum_trade_pct_not_portfolio": -0.20097616996841428,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.20097616996841428,
+              "best_pct": -0.20097616996841428,
+              "worst_pct": -0.20097616996841428
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.20097616996841428,
+              "median_gross_pct": -0.20097616996841428,
+              "sum_trade_pct_not_portfolio": -0.20097616996841428,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.20097616996841428,
+              "best_pct": -0.20097616996841428,
+              "worst_pct": -0.20097616996841428
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2022Q2": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": 0.21422638705416533,
+              "median_gross_pct": 0.24812828814244625,
+              "sum_trade_pct_not_portfolio": 0.642679161162496,
+              "wins": 3,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.21422638705416533,
+              "mean_loser_pct": null,
+              "best_pct": 0.3157180160409112,
+              "worst_pct": 0.07883285697913855
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": 0.1634805725607924,
+              "median_gross_pct": 0.1634805725607924,
+              "sum_trade_pct_not_portfolio": 0.3269611451215848,
+              "wins": 2,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.1634805725607924,
+              "mean_loser_pct": null,
+              "best_pct": 0.24812828814244625,
+              "worst_pct": 0.07883285697913855
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 0.3157180160409112,
+              "median_gross_pct": 0.3157180160409112,
+              "sum_trade_pct_not_portfolio": 0.3157180160409112,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.3157180160409112,
+              "mean_loser_pct": null,
+              "best_pct": 0.3157180160409112,
+              "worst_pct": 0.3157180160409112
+            }
+          },
+          "2022Q3": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -5.431076473453489,
+              "median_gross_pct": -5.431076473453489,
+              "sum_trade_pct_not_portfolio": -5.431076473453489,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -5.431076473453489,
+              "best_pct": -5.431076473453489,
+              "worst_pct": -5.431076473453489
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -5.431076473453489,
+              "median_gross_pct": -5.431076473453489,
+              "sum_trade_pct_not_portfolio": -5.431076473453489,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -5.431076473453489,
+              "best_pct": -5.431076473453489,
+              "worst_pct": -5.431076473453489
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2023Q1": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": -0.9663348411991013,
+              "median_gross_pct": -0.7492863939105643,
+              "sum_trade_pct_not_portfolio": -2.899004523597304,
+              "wins": 0,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9663348411991013,
+              "best_pct": -0.3080167484106999,
+              "worst_pct": -1.8417013812760397
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.3080167484106999,
+              "median_gross_pct": -0.3080167484106999,
+              "sum_trade_pct_not_portfolio": -0.3080167484106999,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.3080167484106999,
+              "best_pct": -0.3080167484106999,
+              "worst_pct": -0.3080167484106999
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": -1.295493887593302,
+              "median_gross_pct": -1.295493887593302,
+              "sum_trade_pct_not_portfolio": -2.590987775186604,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.295493887593302,
+              "best_pct": -0.7492863939105643,
+              "worst_pct": -1.8417013812760397
+            }
+          },
+          "2023Q2": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": 0.11241362467497851,
+              "median_gross_pct": 0.11241362467497851,
+              "sum_trade_pct_not_portfolio": 0.11241362467497851,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.11241362467497851,
+              "mean_loser_pct": null,
+              "best_pct": 0.11241362467497851,
+              "worst_pct": 0.11241362467497851
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 0.11241362467497851,
+              "median_gross_pct": 0.11241362467497851,
+              "sum_trade_pct_not_portfolio": 0.11241362467497851,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.11241362467497851,
+              "mean_loser_pct": null,
+              "best_pct": 0.11241362467497851,
+              "worst_pct": 0.11241362467497851
+            }
+          },
+          "2023Q3": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.018926182480838438,
+              "median_gross_pct": -0.018926182480838438,
+              "sum_trade_pct_not_portfolio": -0.018926182480838438,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.018926182480838438,
+              "best_pct": -0.018926182480838438,
+              "worst_pct": -0.018926182480838438
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.018926182480838438,
+              "median_gross_pct": -0.018926182480838438,
+              "sum_trade_pct_not_portfolio": -0.018926182480838438,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.018926182480838438,
+              "best_pct": -0.018926182480838438,
+              "worst_pct": -0.018926182480838438
+            },
+            "opposed": {
+              "n": 0,
+              "mean_gross_pct": null
+            }
+          },
+          "2023Q4": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -1.5202138322752967,
+              "median_gross_pct": -1.5202138322752967,
+              "sum_trade_pct_not_portfolio": -1.5202138322752967,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.5202138322752967,
+              "best_pct": -1.5202138322752967,
+              "worst_pct": -1.5202138322752967
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -1.5202138322752967,
+              "median_gross_pct": -1.5202138322752967,
+              "sum_trade_pct_not_portfolio": -1.5202138322752967,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.5202138322752967,
+              "best_pct": -1.5202138322752967,
+              "worst_pct": -1.5202138322752967
+            }
+          },
+          "2024Q1": {
+            "price_only": {
+              "n": 3,
+              "mean_gross_pct": -0.9454359272376182,
+              "median_gross_pct": -0.7380535401551036,
+              "sum_trade_pct_not_portfolio": -2.8363077817128546,
+              "wins": 0,
+              "losses": 3,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.9454359272376182,
+              "best_pct": -0.06639709446316644,
+              "worst_pct": -2.0318571470945845
+            },
+            "aligned": {
+              "n": 2,
+              "mean_gross_pct": -1.384955343624844,
+              "median_gross_pct": -1.384955343624844,
+              "sum_trade_pct_not_portfolio": -2.769910687249688,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.384955343624844,
+              "best_pct": -0.7380535401551036,
+              "worst_pct": -2.0318571470945845
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.06639709446316644,
+              "median_gross_pct": -0.06639709446316644,
+              "sum_trade_pct_not_portfolio": -0.06639709446316644,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.06639709446316644,
+              "best_pct": -0.06639709446316644,
+              "worst_pct": -0.06639709446316644
+            }
+          },
+          "2024Q3": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": 0.42305103708688563,
+              "median_gross_pct": 0.42305103708688563,
+              "sum_trade_pct_not_portfolio": 0.42305103708688563,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.42305103708688563,
+              "mean_loser_pct": null,
+              "best_pct": 0.42305103708688563,
+              "worst_pct": 0.42305103708688563
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": 0.42305103708688563,
+              "median_gross_pct": 0.42305103708688563,
+              "sum_trade_pct_not_portfolio": 0.42305103708688563,
+              "wins": 1,
+              "losses": 0,
+              "zero_returns": 0,
+              "win_rate": 1.0,
+              "profit_factor": "Infinity",
+              "mean_winner_pct": 0.42305103708688563,
+              "mean_loser_pct": null,
+              "best_pct": 0.42305103708688563,
+              "worst_pct": 0.42305103708688563
+            }
+          },
+          "2024Q4": {
+            "price_only": {
+              "n": 1,
+              "mean_gross_pct": -0.07752796544469032,
+              "median_gross_pct": -0.07752796544469032,
+              "sum_trade_pct_not_portfolio": -0.07752796544469032,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.07752796544469032,
+              "best_pct": -0.07752796544469032,
+              "worst_pct": -0.07752796544469032
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.07752796544469032,
+              "median_gross_pct": -0.07752796544469032,
+              "sum_trade_pct_not_portfolio": -0.07752796544469032,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.07752796544469032,
+              "best_pct": -0.07752796544469032,
+              "worst_pct": -0.07752796544469032
+            }
+          },
+          "2025Q4": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": 0.2419227005081903,
+              "median_gross_pct": 0.2419227005081903,
+              "sum_trade_pct_not_portfolio": 0.4838454010163806,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 32.65558536152465,
+              "mean_winner_pct": 0.49913007812756316,
+              "mean_loser_pct": -0.015284677111182532,
+              "best_pct": 0.49913007812756316,
+              "worst_pct": -0.015284677111182532
+            },
+            "aligned": {
+              "n": 0,
+              "mean_gross_pct": null
+            },
+            "opposed": {
+              "n": 2,
+              "mean_gross_pct": 0.2419227005081903,
+              "median_gross_pct": 0.2419227005081903,
+              "sum_trade_pct_not_portfolio": 0.4838454010163806,
+              "wins": 1,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.5,
+              "profit_factor": 32.65558536152465,
+              "mean_winner_pct": 0.49913007812756316,
+              "mean_loser_pct": -0.015284677111182532,
+              "best_pct": 0.49913007812756316,
+              "worst_pct": -0.015284677111182532
+            }
+          },
+          "2026Q1": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": -1.3251425360194524,
+              "median_gross_pct": -1.3251425360194524,
+              "sum_trade_pct_not_portfolio": -2.650285072038905,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -1.3251425360194524,
+              "best_pct": -0.41392313697761196,
+              "worst_pct": -2.236361935061293
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.41392313697761196,
+              "median_gross_pct": -0.41392313697761196,
+              "sum_trade_pct_not_portfolio": -0.41392313697761196,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.41392313697761196,
+              "best_pct": -0.41392313697761196,
+              "worst_pct": -0.41392313697761196
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -2.236361935061293,
+              "median_gross_pct": -2.236361935061293,
+              "sum_trade_pct_not_portfolio": -2.236361935061293,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -2.236361935061293,
+              "best_pct": -2.236361935061293,
+              "worst_pct": -2.236361935061293
+            }
+          },
+          "2026Q2": {
+            "price_only": {
+              "n": 2,
+              "mean_gross_pct": -0.3238614953491703,
+              "median_gross_pct": -0.3238614953491703,
+              "sum_trade_pct_not_portfolio": -0.6477229906983406,
+              "wins": 0,
+              "losses": 2,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.3238614953491703,
+              "best_pct": -0.06440294604835861,
+              "worst_pct": -0.583320044649982
+            },
+            "aligned": {
+              "n": 1,
+              "mean_gross_pct": -0.06440294604835861,
+              "median_gross_pct": -0.06440294604835861,
+              "sum_trade_pct_not_portfolio": -0.06440294604835861,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.06440294604835861,
+              "best_pct": -0.06440294604835861,
+              "worst_pct": -0.06440294604835861
+            },
+            "opposed": {
+              "n": 1,
+              "mean_gross_pct": -0.583320044649982,
+              "median_gross_pct": -0.583320044649982,
+              "sum_trade_pct_not_portfolio": -0.583320044649982,
+              "wins": 0,
+              "losses": 1,
+              "zero_returns": 0,
+              "win_rate": 0.0,
+              "profit_factor": 0.0,
+              "mean_winner_pct": null,
+              "mean_loser_pct": -0.583320044649982,
+              "best_pct": -0.583320044649982,
+              "worst_pct": -0.583320044649982
+            }
+          }
+        }
+      },
+      "screen_criteria": {
+        "at_least5_aligned": true,
+        "at_least5_opposed": true,
+        "positive_aligned_mean": false,
+        "positive_raw_spread": false
+      },
+      "screen_pass": false,
+      "confirmation_criteria": {
+        "aligned_mean_simultaneous_lower_positive": false,
+        "adjusted_spread_simultaneous_lower_positive": false,
+        "at_least10_aligned_in_mixed_strata": true,
+        "at_least10_opposed_in_mixed_strata": true,
+        "aligned_positive_in_both_halves": false,
+        "positive_after_removing_best3_winners": false
+      },
+      "confirmed": false,
+      "claim_status": "screen_stop_not_statistical_falsification"
+    }
+  },
+  "run_id": "ai-timing-200-20260930T104240Z",
+  "score_release_sha256": "b97b29e55028e698386d9caed6207cb5afacc6a6f1ede3d42f0a0dfff5850ec7"
+}

@@ -1,0 +1,43 @@
+{
+  "hypothesis": "Long against an AI countertrend short when price is above both intradayMA20/MA50; fixed time exit from original entry",
+  "source_decisions": 50,
+  "unique_windows": 19,
+  "protocols": [
+    "v1",
+    "v2"
+  ],
+  "models": "all five original models; at least one short in either protocol identifies a selected window",
+  "results": [
+    {
+      "horizon_minutes": 15,
+      "unique_windows": 19,
+      "gross_mean_pct": 0.10745520518874159,
+      "net_mean_pct": -0.09254479481125842,
+      "positive_windows": 10,
+      "median_pct": 0.0412662149312126
+    },
+    {
+      "horizon_minutes": 30,
+      "unique_windows": 19,
+      "gross_mean_pct": 0.1282850402500301,
+      "net_mean_pct": -0.07171495974996991,
+      "positive_windows": 13,
+      "median_pct": 0.1058574453070004
+    },
+    {
+      "horizon_minutes": 105,
+      "unique_windows": 19,
+      "gross_mean_pct": -0.09306146284860402,
+      "net_mean_pct": -0.293061462848604,
+      "positive_windows": 7,
+      "median_pct": -0.2511160714285809
+    }
+  ],
+  "caveats": [
+    "Selected retrospectively from the existing regime/horizon table",
+    "Not an independently validated or fixed-single-model strategy",
+    "Intraday-MA condition is not a macro regime",
+    "Per-window average removes duplicate model opinions",
+    "Net uses20bps assumed roundtrip cost"
+  ]
+}

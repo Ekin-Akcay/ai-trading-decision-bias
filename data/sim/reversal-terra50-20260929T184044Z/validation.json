@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "decisions": 50,
+  "strategy_rows": 50,
+  "unique_windows": 50,
+  "unique_sessions": 50,
+  "source_files_preserved": 24,
+  "source_hashes_match": true,
+  "all_input_hashes_match": true,
+  "protocol_hash_matches": true,
+  "zero_model_tool_calls": true,
+  "bracket_entries_match": true,
+  "independent_15m_exit_price_checks": 100,
+  "native_1m_exit_timestamps_checked": 100,
+  "rules_exact": true,
+  "gross_net_difference_pct": 0.2
+}

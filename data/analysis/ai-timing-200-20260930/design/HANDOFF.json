@@ -1,0 +1,28 @@
+{
+  "potential_cases": 300,
+  "distinct_UTC_days": 300,
+  "distinct_window_ids": 300,
+  "screen": 60,
+  "potential_confirmation": 240,
+  "maximum_valid_calls": 180,
+  "physical_retry_allowance": 20,
+  "older_credits_unchanged": 29,
+  "all_potential_asset_counts": {
+    "BTC-USD": 75,
+    "ETH-USD": 75,
+    "SOL-USD": 75,
+    "DOGE-USD": 75
+  },
+  "minimum_selected_entry_gap_hours": 2.0,
+  "screen_direction_counts": {
+    "up": 30,
+    "down": 30
+  },
+  "confirmation_direction_counts": {
+    "up": 120,
+    "down": 120
+  },
+  "confirmation_first60_each_has15_per_asset": true,
+  "post_entry_returns_computed": false,
+  "model_calls": 0
+}

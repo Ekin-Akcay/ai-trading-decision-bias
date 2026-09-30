@@ -1,0 +1,9 @@
+# Numerical correction: inclusive price contacts
+
+The independent replay found that floating-point arithmetic could place an intended stop contact a few binary rounding units below the native low. For DOGE window `828f59aa38`, the trailing stop was represented as `0.06470999999999999` while the minute-28 low was `0.06471`. A strict float comparison missed that inclusive touch, then exited at minute 131 for +0.942812983% instead of the intended +0.015455951%. Four policies on window `46108acd70` also exited two minutes late at the same payoff. The independent before-correction evidence is `../audit/managed_boundary_before_correction.json`.
+
+All 22 original scorer, result, report and freeze files were copied unchanged to `archive_before_numerical_correction/` before editing. `ARCHIVE_MANIFEST.json` records their SHA-256 hashes. The original PLAN and input files are preserved.
+
+The correction uses **32 × float64 machine epsilon × actual entry price** for inclusive stop/target contacts and protection activation. A strict adverse stop overrun must exceed that tiny tolerance. This is numerical precision handling, not a tick-sized buffer, different stop distance, new threshold, or strategy tuning. No OHLC sequence, next-minute activation convention, fill price convention, horizon, policy, side, sample, bootstrap grouping, or random seed changes.
+
+The synthetic suite adds boundary cases for stop/target/trigger contacts, strict gap classification, and a real miss outside the tiny tolerance. A native regression requires DOGE `828f59aa38` to exit at minute 28 with +0.015455951%. Full replay, summaries, uncertainty estimates, trade/event ledgers, joint family vectors and reports are regenerated. `NUMERICAL_CORRECTION.json` records actual before/after changes after this deterministic rerun. The correction is expected to slightly worsen the already-negative trailing result; no strategy will be selected or replaced based on the change.

@@ -1,0 +1,28 @@
+{
+  "ledger_rows": 300,
+  "unique_pairs": 300,
+  "fresh_threads": 300,
+  "all_exact_2to1": true,
+  "all_directional": true,
+  "report_cards": 100,
+  "report_decisions": 300,
+  "missing_local_links": [],
+  "original_86_rows_unchanged": true,
+  "original_protected_files_unchanged": 808,
+  "cli_resumed_rows": 214,
+  "excluded_attempts": 3,
+  "outcomes": {
+    "gpt-5.6-luna": {
+      "tp": 41,
+      "sl": 59
+    },
+    "gpt-5.6-terra": {
+      "tp": 33,
+      "sl": 67
+    },
+    "gpt-6-astra": {
+      "sl": 66,
+      "tp": 34
+    }
+  }
+}

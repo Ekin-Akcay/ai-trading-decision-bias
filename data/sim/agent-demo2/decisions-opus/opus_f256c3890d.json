@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.7,
+  "take_profit_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Failed 50% post-crash bounce, lower highs under falling MAs, 100 support breached; stop above 100.61 swing high."
+}

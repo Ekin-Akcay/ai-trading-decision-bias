@@ -1,0 +1,33 @@
+# Frozen behavior-proxy replication on new calendar targets
+
+This follow-up tests a price-only proxy for AI direction, not another AI call, a new fit, or a reoptimization of L048/S508. The existing annual logistic models in `information/model_fits.json` learned AI SHORT labels from earlier calendar data, not forward market returns. A post-score old-data comparator found that fading those predictions approximately matched fading actual AI. That observation motivates this separately frozen fresh-target historical replication; it is not proof of profitability or unique AI information.
+
+**No model/API/trade-snapshot calls. No refits, feature selection, threshold changes, regime cuts, alternate horizons, risk sizing search or outcome-based stopping.** Freeze the complete sample, source hashes, pre-entry features and predictions before opening its returns.
+
+## Complete deterministic sample
+
+Use every UTC entry at00:00,06:00,12:00 or18:00 during2022–2026 for which the existing annual action model is available and all four assets SOL/BTC/ETH/DOGE have valid native coverage. There is no target sample size, random draw or adaptive extension. Apply the same coverage and exposure exclusions to all four assets at a timestamp; reject the entire block if any asset fails.
+
+The canonical prior inventory is `gross-edge-20260929/ma_ablation/design/fresh_blocks.json`:591 prior calendar intervals, plus its90 sampled blocks, totaling681. Each prior exposed interval covers its50-hour model history and full known6/24/72-hour outcome horizon. Exclude every new target interval[t,t+4h) intersecting any of those prior intervals globally across assets. This excludes more than previously scored targets alone. The latest new-angle studies evaluate no larger forward horizon than that inventory already covers. Preserve explicit intervals and direct intersection audits.
+
+Require200 contiguous valid15-minute OHLCV history bars ending at t−15m, matching the original snapshot construction with40 visible bars. Require241 contiguous positive finite internally consistent minute OHLC bars from t−1m through t+239m, and agreement between the last completed15m close and last pre-entry minute close. Positive ATR14 and volume-ratio features must be defined. Coverage may use the pre-existing all-asset361-minute validation mask, which is conservatively stronger than the241-minute requirement. No future returns, future direction or realized range inform eligibility. Known past input histories may repeat. New four-hour outcomes cannot overlap one another on the fixed six-hour grid, although feature histories and market regimes remain dependent.
+
+Use the calendar year's frozen model only. Its training end must precede entry by at least7 days. The annual input standardization and asset dummy coefficients are frozen with the model. Restrict to the available annual fits2022–2026; no extrapolation into an unfitted year. Record archive coverage and all exclusions before scoring. Sampling feasibility and the frozen artifact hash are sent to root before returns are opened.
+
+## One trading policy and fixed controls
+
+Reproduce the five numerical features exactly as the information study: (100−MA20)/ATR14%, (100−MA50)/ATR14%, visible40-bar close-to-close percentage move/ATR14%, log(last24h average volume/200-bar average volume), and log(ATR14%). Standardize with that year's frozen mu/sd, append BTC/ETH/DOGE indicator columns and intercept, and apply that year's saved action logistic coefficients. Do not round features to displayed prompt precision. Verify predictions against existing saved forward-fold rows before the new sample is scored.
+
+The sole primary policy is **proxy fade**: predicted P(AI SHORT)≥0.5 buys; otherwise sells. There are no skipped trades or confidence cuts. Enter each asset at the first minute open at t and exit at its native close at elapsed240 minutes. Gross percentage is side×(exit/entry−1)×100. Assign equal quarter notional to each asset; report the four-asset basket per calendar block as the economic unit, alongside per-asset trades. Primary costs are exactly zero and no additional leverage is assumed.
+
+Fixed controls on the same windows and exposure are (1) proxy follow, the exact opposite; (2) unconditional long; and (3) **MA20 fade**, the primary price-only competitor: normalized MA20≥100 buys, otherwise sells. Equality conventions are fixed. No alternative price control may replace MA20 after scoring. All controls use the same entry,240-minute exit and quarter asset weights.
+
+## Two primary questions and interpretation
+
+The two questions are positive proxy-fade basket expectancy and positive paired increment versus MA20 fade. Use20,000 whole-UTC-week bootstrap resamples, seed2026093031, and20,000 whole-calendar-quarter resamples, seed2026093032, retaining all four assets and all sampled blocks inside each resampled group. Recompute the mean using the number of sampled blocks in each draw; quarters/weeks are not equally weighted in the point estimate. Report95% and conservative99% two-sided intervals for each question. A positive claim requires a positive99% week lower bound and positive95% quarter lower bound. These conservative bounds do not retroactively correct the entire earlier research history.
+
+Also require at least250 calendar blocks across at least12 quarters, positive primary means in both chronological block halves, positive mean after removing the three best calendar blocks, and positive leave-one-asset-out basket means for a broad four-asset profit claim. Apply the corresponding sign/stability checks to paired MA20 increments for an incremental-selection claim. Report all failures; no asset, year or subgroup can rescue the fixed pooled test. Controls and mirror results remain diagnostic.
+
+Report every year, quarter and asset, chronological halves/thirds, directional exposure, mean/median/win rate/winner and loser sizes, worst block, best1/3 removal, leave-one-quarter-out, period/asset contribution concentration, and individual trade versus basket counts. Preserve all features, annual model assignments, probabilities, side decisions, entry/exit prices and gross returns. Verify source hashes and an independent scalar replay. No annualization, fee-inclusive, live execution or AI-specific alpha claim follows from these gross historical outcomes.
+
+This is a fresh-target historical test with frozen earlier-year behavior models, not a live prospective experiment. Previous public history, aggregate indicators, researcher choices and model pretraining cannot be made unseen. New input histories may reuse already known data, while target intervals are explicitly disjoint from all prior exposed snapshot histories and outcome paths.

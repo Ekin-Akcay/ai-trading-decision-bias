@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.0,
+  "confidence": 0.75,
+  "reason": "Price below MA20/50, strong downtrend, volume conviction"
+}

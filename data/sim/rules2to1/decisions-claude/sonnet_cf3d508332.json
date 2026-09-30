@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.0,
+  "confidence": 0.6,
+  "reason": "Uptrend above MA20/MA50; bar reclaimed pullback low, closing near highs - bullish continuation likely."
+}

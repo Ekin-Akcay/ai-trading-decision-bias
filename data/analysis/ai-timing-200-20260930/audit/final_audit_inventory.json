@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "audits": [
+    {
+      "file": "audit/screen_replay_audit.json",
+      "sha256": "2b4d274a606c5d4652519df331e528e8985eb268cb30618fa9b9f1609765f516"
+    },
+    {
+      "file": "audit/confirmation_replay_audit.json",
+      "sha256": "987520c935f48a0d6a49b96de1461beb18932827f7a6cc75d2c1e7e2399ff08e"
+    },
+    {
+      "file": "audit/continuation_audit.json",
+      "sha256": "d15d611b679d9ea83b052756f1ab017ef47f63e4a82d11d7378d5f8eabcefcd6"
+    },
+    {
+      "file": "design/screen_statistics_audit.json",
+      "sha256": "208b87070097d0f298c7691044477ea3293d3bcb9a28a173d5299cbe62de7154"
+    },
+    {
+      "file": "design/confirmation_statistics_audit.json",
+      "sha256": "6547e5448bc1aa9ec723055ceebdf87765441ac6b001adc9448fd3fa0b7d57c6"
+    },
+    {
+      "file": "design/final_isolation_budget_audit.json",
+      "sha256": "c453e5ecf5c6adc8900c363aaa53bd6b0d9245aafb2ea67ee68c3e46105345e2"
+    },
+    {
+      "file": "design/precollection_selection_audit.json",
+      "sha256": "47dd6c28653e4d30951b47f3fab64ea5860c452ac1a62355c8e925cd6627bd3a"
+    }
+  ]
+}

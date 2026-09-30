@@ -1,0 +1,114 @@
+[
+  {
+    "policy": "01_long_wait105_hold60_time",
+    "side": "long",
+    "max_wait": 105,
+    "hold": 60,
+    "exit": "time"
+  },
+  {
+    "policy": "02_long_wait105_hold60_ATR1_RR2",
+    "side": "long",
+    "max_wait": 105,
+    "hold": 60,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "03_long_wait105_hold240_time",
+    "side": "long",
+    "max_wait": 105,
+    "hold": 240,
+    "exit": "time"
+  },
+  {
+    "policy": "04_long_wait105_hold240_ATR1_RR2",
+    "side": "long",
+    "max_wait": 105,
+    "hold": 240,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "05_long_wait240_hold60_time",
+    "side": "long",
+    "max_wait": 240,
+    "hold": 60,
+    "exit": "time"
+  },
+  {
+    "policy": "06_long_wait240_hold60_ATR1_RR2",
+    "side": "long",
+    "max_wait": 240,
+    "hold": 60,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "07_long_wait240_hold240_time",
+    "side": "long",
+    "max_wait": 240,
+    "hold": 240,
+    "exit": "time"
+  },
+  {
+    "policy": "08_long_wait240_hold240_ATR1_RR2",
+    "side": "long",
+    "max_wait": 240,
+    "hold": 240,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "09_short_wait105_hold60_time",
+    "side": "short",
+    "max_wait": 105,
+    "hold": 60,
+    "exit": "time"
+  },
+  {
+    "policy": "10_short_wait105_hold60_ATR1_RR2",
+    "side": "short",
+    "max_wait": 105,
+    "hold": 60,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "11_short_wait105_hold240_time",
+    "side": "short",
+    "max_wait": 105,
+    "hold": 240,
+    "exit": "time"
+  },
+  {
+    "policy": "12_short_wait105_hold240_ATR1_RR2",
+    "side": "short",
+    "max_wait": 105,
+    "hold": 240,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "13_short_wait240_hold60_time",
+    "side": "short",
+    "max_wait": 240,
+    "hold": 60,
+    "exit": "time"
+  },
+  {
+    "policy": "14_short_wait240_hold60_ATR1_RR2",
+    "side": "short",
+    "max_wait": 240,
+    "hold": 60,
+    "exit": "ATR1_RR2"
+  },
+  {
+    "policy": "15_short_wait240_hold240_time",
+    "side": "short",
+    "max_wait": 240,
+    "hold": 240,
+    "exit": "time"
+  },
+  {
+    "policy": "16_short_wait240_hold240_ATR1_RR2",
+    "side": "short",
+    "max_wait": 240,
+    "hold": 240,
+    "exit": "ATR1_RR2"
+  }
+]

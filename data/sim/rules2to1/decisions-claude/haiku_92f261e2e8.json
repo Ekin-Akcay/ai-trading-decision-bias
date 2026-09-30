@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.62,
+  "reason": "Downtrend below MA20/MA50, high-volume capitulation selloff"
+}

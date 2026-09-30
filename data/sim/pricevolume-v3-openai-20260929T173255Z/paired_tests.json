@@ -1,0 +1,110 @@
+[
+  {
+    "model": "gpt-5.6-luna-agent",
+    "horizon_minutes": 15,
+    "n": 20,
+    "mean_paired_change_pct": 0.0313598067847054,
+    "ci95_pct": [
+      -0.062060395118583855,
+      0.14428836637675913
+    ],
+    "p_signflip": 0.7472252774722528,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-5.6-luna-agent",
+    "horizon_minutes": 30,
+    "n": 20,
+    "mean_paired_change_pct": -0.0007824927940214277,
+    "ci95_pct": [
+      -0.1994600227778671,
+      0.15213259199652773
+    ],
+    "p_signflip": 1.0,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-5.6-luna-agent",
+    "horizon_minutes": 105,
+    "n": 20,
+    "mean_paired_change_pct": -0.007858681184852445,
+    "ci95_pct": [
+      -0.21603543626618316,
+      0.1886038122889877
+    ],
+    "p_signflip": 1.0,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-5.6-terra-agent",
+    "horizon_minutes": 15,
+    "n": 20,
+    "mean_paired_change_pct": 0.17860454116547242,
+    "ci95_pct": [
+      0.011549868556017317,
+      0.38804321673228587
+    ],
+    "p_signflip": 0.09419058094190581,
+    "q": 0.42385761423857615
+  },
+  {
+    "model": "gpt-5.6-terra-agent",
+    "horizon_minutes": 30,
+    "n": 20,
+    "mean_paired_change_pct": 0.3077328357715059,
+    "ci95_pct": [
+      0.06432246998284707,
+      0.6357125305779696
+    ],
+    "p_signflip": 0.032096790320967905,
+    "q": 0.28887111288871115
+  },
+  {
+    "model": "gpt-5.6-terra-agent",
+    "horizon_minutes": 105,
+    "n": 20,
+    "mean_paired_change_pct": 0.15404176883821008,
+    "ci95_pct": [
+      -0.18671591754227002,
+      0.5955409093248886
+    ],
+    "p_signflip": 0.5669433056694331,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-6-astra-agent",
+    "horizon_minutes": 15,
+    "n": 20,
+    "mean_paired_change_pct": 0.03833668131161261,
+    "ci95_pct": [
+      -0.12130637636080799,
+      0.2363164202956458
+    ],
+    "p_signflip": 1.0,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-6-astra-agent",
+    "horizon_minutes": 30,
+    "n": 20,
+    "mean_paired_change_pct": -0.020328362143068324,
+    "ci95_pct": [
+      -0.1959564541213088,
+      0.13497136769210383
+    ],
+    "p_signflip": 1.0,
+    "q": 1.0
+  },
+  {
+    "model": "gpt-6-astra-agent",
+    "horizon_minutes": 105,
+    "n": 20,
+    "mean_paired_change_pct": -0.1337377693855668,
+    "ci95_pct": [
+      -0.3452360364383189,
+      0.0
+    ],
+    "p_signflip": 0.5027497250274973,
+    "q": 1.0
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Below MA20/MA50 with lower highs after volume-spike selloff; targeting range-low breakdown despite light volume."
+}

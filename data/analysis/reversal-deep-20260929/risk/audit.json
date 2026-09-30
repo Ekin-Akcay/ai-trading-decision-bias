@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "source_sha256": {
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff"
+  },
+  "plan_sha256": "1697fbf2255b11e3b81fa18dfd113e1404cd334b6f2299930aaf6c53383e8c1e",
+  "windows": 150,
+  "policies": 824,
+  "summaries": 12360,
+  "elementary_trade_results": 247200,
+  "resolver_crosschecks": 800,
+  "complete4320": 150,
+  "nan_elementary_results": 0,
+  "seconds": 38.49095010757446,
+  "independent_reference_checks": 1500,
+  "synthetic_gap_ambiguity_checks": 6,
+  "source_files_still_unchanged": true,
+  "finite_grid_verified": true
+}

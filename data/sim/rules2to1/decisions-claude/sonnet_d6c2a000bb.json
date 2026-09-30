@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.55,
+  "reason": "Capitulation volume flush below 100, reversal bar reclaimed round number; targets MA20/50 confluence near 102.4."
+}

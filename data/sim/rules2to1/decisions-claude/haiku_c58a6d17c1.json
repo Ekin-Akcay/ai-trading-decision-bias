@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.75,
+  "confidence": 0.65,
+  "reason": "Above both MAs, recovery pattern, low volume risk"
+}

@@ -1,0 +1,14 @@
+{
+  "source_sha256": {
+    "data/analysis/same-moment-patterns-20260930/managed_exits/PLAN.md": "d205faa042d11434c3d4ace6d97c4204bcc60f1b16e9671267ac4682ef2a7630",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/engine.py": "2afd1ee0c7947b2fa70f0db54110d972517d8016fc9269979c3b25d43f70f31b",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/run.py": "4f5046ef8c8e737bf770e38ac93a2811a6c75427c4f8ee85ef0ad27f419778f3",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/test_synthetic.py": "d12846a7ce57a41e21dbf6caf83c7423c55739d881e17575d0b6c6e7ecd67345",
+    "data/analysis/new-angles-20260930/target_exhaustion/windows.csv": "c1346490c90b653450734d67c2c2e9c941397547787c10a901d33115991383db",
+    "data/analysis/new-angles-20260930/target_exhaustion/paths.npz": "4a64efad1bca575f9aa1c11908771cfd6f295c03d95b0f65fe257de0a13f02f4"
+  },
+  "candidate_count": 3,
+  "control_count": 2,
+  "model_calls": 0,
+  "phase": "existing_outcome_exit_extension"
+}

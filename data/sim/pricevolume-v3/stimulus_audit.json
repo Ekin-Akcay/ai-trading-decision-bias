@@ -1,0 +1,18 @@
+{
+  "canonical_count": 100,
+  "canonical_order_exact": true,
+  "identical_text_ohlcv_rows": 4000,
+  "chart_ohlcv_from_original_snapshot": true,
+  "chart_indicators_removed": true,
+  "removed_text_sections": [
+    "Indicators (MA20/MA50)",
+    "Volatility (sigma/ATR)",
+    "Move and aggregate volume summary"
+  ],
+  "visible_bars": 40,
+  "entry_rebase": 100,
+  "volume_normalization": "unchanged: trailing 200-bar average",
+  "chart_axis": "price-only autoscale; removing lines can change vertical limits",
+  "protocol": "price/volume-only input, not MA-only causal ablation",
+  "generated_at": "2026-09-29T17:32:55.494590+00:00"
+}

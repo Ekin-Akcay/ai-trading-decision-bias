@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.6,
+  "reason": "Price below MA20/MA50, downtrend from 102.29, consolidating at support"
+}

@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.5,
+  "confidence": 0.65,
+  "reason": "Price above MA20/50, bullish volume consolidating at support"
+}

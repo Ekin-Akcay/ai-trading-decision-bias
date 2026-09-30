@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.45,
+  "take_profit_pct": 0.75,
+  "confidence": 0.6,
+  "reason": "Downtrend below MA20/MA50 with lower highs/lows; fading bounce, targeting continuation lower."
+}

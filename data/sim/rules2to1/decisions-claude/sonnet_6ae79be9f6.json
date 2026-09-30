@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.8,
+  "confidence": 0.55,
+  "reason": "Above MA20/50 in uptrend; dip bought off support, strong bullish close at bar high; resistance still ~1% away"
+}

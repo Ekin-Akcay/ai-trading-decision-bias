@@ -1,0 +1,762 @@
+{
+  "ai_decisions": 1052,
+  "unique_windows": 120,
+  "main_decisions": 1000,
+  "main_windows": 100,
+  "inventory": [
+    {
+      "file": "data/sim/decisions/agent-demo-controls.jsonl",
+      "rows": 32,
+      "models": {
+        "random": 8,
+        "always-long": 8,
+        "momentum-20": 8,
+        "reversal-5": 8
+      }
+    },
+    {
+      "file": "data/sim/decisions/agent-demo-haiku.jsonl",
+      "rows": 8,
+      "models": {
+        "claude-haiku-agent": 8
+      }
+    },
+    {
+      "file": "data/sim/decisions/agent-demo2-agents.jsonl",
+      "rows": 244,
+      "models": {
+        "claude-haiku-agent": 112,
+        "claude-sonnet-agent": 112,
+        "claude-opus-agent": 20
+      }
+    },
+    {
+      "file": "data/sim/decisions/agent-demo2-controls.jsonl",
+      "rows": 448,
+      "models": {
+        "random": 112,
+        "always-long": 112,
+        "momentum-20": 112,
+        "reversal-5": 112
+      }
+    },
+    {
+      "file": "data/sim/decisions/openai-first10-20260925T185939Z.jsonl",
+      "rows": 30,
+      "models": {
+        "gpt-5.6-luna-agent": 10,
+        "gpt-5.6-terra-agent": 10,
+        "gpt-6-astra-agent": 10
+      }
+    },
+    {
+      "file": "data/sim/decisions/openai-last40-20260926T064222Z.jsonl",
+      "rows": 120,
+      "models": {
+        "gpt-5.6-luna-agent": 40,
+        "gpt-5.6-terra-agent": 40,
+        "gpt-6-astra-agent": 40
+      }
+    },
+    {
+      "file": "data/sim/decisions/openai-next50-20260926T060500Z.jsonl",
+      "rows": 150,
+      "models": {
+        "gpt-5.6-luna-agent": 50,
+        "gpt-5.6-terra-agent": 50,
+        "gpt-6-astra-agent": 50
+      }
+    },
+    {
+      "file": "data/sim/decisions/rules2to1-claude-agents.jsonl",
+      "rows": 200,
+      "models": {
+        "claude-haiku-agent": 100,
+        "claude-sonnet-agent": 100
+      }
+    },
+    {
+      "file": "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl",
+      "rows": 300,
+      "models": {
+        "gpt-5.6-luna-agent": 100,
+        "gpt-5.6-terra-agent": 100,
+        "gpt-6-astra-agent": 100
+      }
+    },
+    {
+      "file": "data/sim/decisions/sim-40bar-check.jsonl",
+      "rows": 24,
+      "models": {
+        "random": 6,
+        "always-long": 6,
+        "momentum-20": 6,
+        "reversal-5": 6
+      }
+    },
+    {
+      "file": "data/sim/decisions/sim-stub-check.jsonl",
+      "rows": 64,
+      "models": {
+        "random": 16,
+        "always-long": 16,
+        "momentum-20": 16,
+        "reversal-5": 16
+      }
+    }
+  ],
+  "quality": [
+    {
+      "window_id": "fb95584e50",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "835e245a6f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "535f1dc2fb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "9e6c844c11",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "38f763ef18",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "bef41a380b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f7488dbebf",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "c4c70bf4fb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "01ae3436a6",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b0409deea6",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "bfbde6917b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "99bace8497",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "700ce59e25",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "2b92910c27",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "459aa1441b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "7ee3b0817b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "0017dda1bb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "d652825ef3",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "72b5be930b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f2842586fd",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f2d094003c",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "63306c5ac2",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "05890fcad0",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f256c3890d",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "6ae79be9f6",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "14f84f43ad",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "9bb0430ed9",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "092c933eaf",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "ce5fe9c87a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "e5326090ac",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "7c4fe08765",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "a1e8add12c",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "0b6ca330e8",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "de11c93a0a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "d569ef47e0",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "5317ce60b5",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "67b5b027e5",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "521cdea45a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "cba0c6fa38",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "02c71ec26e",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "08b85ea066",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "0ce8d183db",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "136f49ce7f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "1e00acca57",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "1f99645087",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "1fe0cbe77b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "20b507f68e",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "24fcaef0cf",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "29fcdec7a5",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "34c7b62ec0",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "39ff7e3976",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "3f4e4f22ff",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "4107788ab2",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "460391e078",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "473ad6c5cb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "6938f71409",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "702ac1a977",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "7617433124",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "76d739ed92",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "77f5bf8252",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "80fd6b96d3",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "83d3e72d0e",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "85789010aa",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "8f3a1b9bdd",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "91fda21e1f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "92f261e2e8",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "9713ea4fec",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "a5280a69eb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "ae53f8a42a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b4e07e92b0",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b77bca3006",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "ccf254ca7d",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "cf3d508332",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "d030294648",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "e0f0d4e295",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "eefd5495da",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "efad2fea0b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f0943f67a0",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "f7af86af54",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "fc052166bc",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "0549b8d855",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "09d1777e78",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "0e3f63cb22",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "1692522d5a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "1dddcc5d10",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "24a2dd72df",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "39a03cb676",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "3dee20e509",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "43ca568575",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "4b92ab412c",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "4bb015112f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "4d2fd102a4",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "5433e19df4",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "57b37fbdd7",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "5889e95bee",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "5de9a99b0d",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "60ad73f22a",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "62f783318b",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "6a2bb8c175",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "6d52b1afab",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "6da889174f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "72c5a0798c",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "7413f4a174",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "756072e7a3",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "776af69c32",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "7d6ec4fbf1",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "89b0b753c4",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "8f690aa600",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "a6b63124f5",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b3590bc71d",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b4618f26be",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "b4fff3cb3e",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "c32334a39f",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "c58a6d17c1",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "cd2d0d3786",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "cd632bb149",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "d6c2a000bb",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "dff3d7cfee",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "e0c3334ba7",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    },
+    {
+      "window_id": "eb5f9f2e41",
+      "entry_verified": true,
+      "missing_minutes_24h": 0
+    }
+  ],
+  "overlapping_24h_windows": [
+    {
+      "asset": "SOL-USD",
+      "window1": "b3590bc71d",
+      "window2": "136f49ce7f",
+      "distance_minutes": 885.0
+    },
+    {
+      "asset": "SOL-USD",
+      "window1": "a5280a69eb",
+      "window2": "89b0b753c4",
+      "distance_minutes": 75.0
+    },
+    {
+      "asset": "SOL-USD",
+      "window1": "cd2d0d3786",
+      "window2": "460391e078",
+      "distance_minutes": 795.0
+    }
+  ],
+  "source_sha256": {
+    "data/sim/decisions/agent-demo-controls.jsonl": "4daadee63a1d6f2718fcd3c3be179294581b421d523ee3643b2eab5798ef6f03",
+    "data/sim/decisions/agent-demo-haiku.jsonl": "0ddc925088ca313871bef4c1b41b1c08fbcafb30a4307fbf3fbe6ae846029766",
+    "data/sim/decisions/agent-demo2-agents.jsonl": "2ca10338fc3eb8b2d63d6dce4d0dd7857e3b67c28019e9388de6fb09e8977442",
+    "data/sim/decisions/agent-demo2-controls.jsonl": "b3ca56372412ce61231580ea921be99bdf7116cf34f25fd3c9ba5e73b2a24b45",
+    "data/sim/decisions/openai-first10-20260925T185939Z.jsonl": "82addbe9431a32861b39be0848477da1f662577c72b68e623dab83c4843ada64",
+    "data/sim/decisions/openai-last40-20260926T064222Z.jsonl": "6113d599d57f9d0f8e36c9d917730fc732fd3e03b58fc1bd4aa1f74aac71b286",
+    "data/sim/decisions/openai-next50-20260926T060500Z.jsonl": "7f599b0454409d27c83c29999f8ff07d76657a16ea9cb75e2860884dc83a26f4",
+    "data/sim/decisions/rules2to1-claude-agents.jsonl": "bf8cc10f60ba3f513be87b79ccfc53fd75d33dceef126c5110ec2a2cdb0aae9a",
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/sim-40bar-check.jsonl": "fa9a5b22feb1ab8c6aee8312c1828861d61e10c788a7021af9a56a78207d5081",
+    "data/sim/decisions/sim-stub-check.jsonl": "633f64874d271b319b2fb5a13b305bd7ff1b7643951bbf41389153aabe898c55",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/BTC-USD_15m.csv.gz": "2e3eaa24068b8bdf8f8af2c4d2c5624968da8778f31668f21b762921b70a75e4",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/raw/intraday/DOGE-USD_15m.csv.gz": "eefa00bfe13592028e996a83b7c13d06b68b1742075579999a626744c50b3575",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/ETH-USD_15m.csv.gz": "9954cf431d8d635318ce363f1cfb59ebd84cba2462e06d819a99774d9de30c6a",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea"
+  },
+  "entry_convention": "last visible 15m bar closes at window_end_ts+15m; exact subsequent 1m bars; unconditioned on exits",
+  "reason_tag_dictionary": {
+    "trend": "trend|momentum|continuation|lower highs|higher lows|lower lows|higher highs",
+    "moving_average": "\\bma\\d*\\b|averages",
+    "breakout_breakdown": "breakout|breakdown|broke|breaks|break above|break below",
+    "rejection_failure": "reject|fail|stall",
+    "support_resistance": "support|resistance|range|consolidat",
+    "weak_volume": "low.volume|weak.volume|subdued volume|fading volume|light volume|declining volume",
+    "strong_volume": "high.volume|strong.volume|elevated volume|surging volume|rising.*volume|volume.backed",
+    "reversal_exhaustion": "reversal|reversion|exhaust|capitulat|oversold|overbought|extended"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.58,
+  "reason": "Failed breakout above 101, rejected below MA50; momentum stalling, fade back toward MA20 support."
+}

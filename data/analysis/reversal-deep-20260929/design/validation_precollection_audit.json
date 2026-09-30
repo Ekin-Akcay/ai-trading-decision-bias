@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "audited_at": "2026-09-29T19:42:52.344136+00:00",
+  "run_id": "reversal-validation280-20260929T194012Z",
+  "protocol_sha256": "681907eb94eaec417dee6dd83eb8bf342ffceda10687e295cefc79e7ac426d85",
+  "prepare_sha256": "0addc93b096dc463505234682975498c58d56f5a2d48077d7ef124377215b901",
+  "cases": 280,
+  "prior_unique_SOL_entries": 156,
+  "new_new_min_separation_hours": 74.0,
+  "new_after_old_min_separation_hours": 123.0,
+  "new_before_old_min_separation_hours": 74.0,
+  "exact_seed_and_case_order_reproduced": true,
+  "all200_bar_histories_contiguous": true,
+  "all1441_minute_timestamps_contiguous": true,
+  "selected_OHLC_finite_positive_and_well_formed": true,
+  "all280_prompts_reconstructed_from_preentry_data": true,
+  "all840_stimulus_hashes_match": true,
+  "protocol_hash_matches": true,
+  "unchanged_v2_contract": true,
+  "source_hashes_preserved": 25,
+  "regime_counts": {
+    "aboveboth": 107,
+    "belowboth": 111,
+    "mixed": 62
+  },
+  "model_calls_at_audit": 0,
+  "global300_call_reservation_lock_reviewed": true,
+  "forward_returns_or_strategy_outcomes_inspected": false,
+  "limitations": [
+    "Historical unused-window sample; not live or unknown-to-model-training",
+    "Conditional permutations assume within-stratum exchangeability; not causal attribution",
+    "280 windows may leave rare-trigger profitability statistically inconclusive"
+  ]
+}

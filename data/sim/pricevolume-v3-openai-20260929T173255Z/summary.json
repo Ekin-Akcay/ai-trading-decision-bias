@@ -1,0 +1,254 @@
+{
+  "status": "complete_first20",
+  "completed_decisions": 60,
+  "requested_decisions": 60,
+  "canonical_windows_prepared": 100,
+  "models": [
+    {
+      "model": "gpt-5.6-luna-agent",
+      "cases": 20,
+      "direction_changes": 4,
+      "v2": {
+        "long": 6,
+        "short": 14,
+        "mean_confidence": 0.6385,
+        "median_stop_percent": 0.8500000000000001,
+        "ma20_agreement": 0.85,
+        "mean_gross_pct": 0.1650000000000007,
+        "mean_net_pct": -0.034999999999999365,
+        "outcomes": {
+          "sl": 13,
+          "tp": 7
+        },
+        "accuracy_15m": 0.6,
+        "mean_signed_15m_pct": 0.07308265209762688,
+        "accuracy_30m": 0.45,
+        "mean_signed_30m_pct": -0.009869585991977847,
+        "accuracy_105m": 0.45,
+        "mean_signed_105m_pct": -0.10504169306730593
+      },
+      "v3": {
+        "long": 6,
+        "short": 14,
+        "mean_confidence": 0.6255,
+        "median_stop_percent": 0.8,
+        "ma20_agreement": 0.75,
+        "mean_gross_pct": -0.1549999999999979,
+        "mean_net_pct": -0.35499999999999804,
+        "outcomes": {
+          "sl": 15,
+          "tp": 5
+        },
+        "accuracy_15m": 0.6,
+        "mean_signed_15m_pct": 0.10444245888233228,
+        "accuracy_30m": 0.55,
+        "mean_signed_30m_pct": -0.010652078785999275,
+        "accuracy_105m": 0.45,
+        "mean_signed_105m_pct": -0.1129003742521584
+      }
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "cases": 20,
+      "direction_changes": 6,
+      "v2": {
+        "long": 5,
+        "short": 15,
+        "mean_confidence": 0.6114999999999999,
+        "median_stop_percent": 0.9500000000000002,
+        "ma20_agreement": 0.8,
+        "mean_gross_pct": -0.30749999999999666,
+        "mean_net_pct": -0.5074999999999967,
+        "outcomes": {
+          "sl": 15,
+          "tp": 5
+        },
+        "accuracy_15m": 0.45,
+        "mean_signed_15m_pct": 0.015545758109762886,
+        "accuracy_30m": 0.4,
+        "mean_signed_30m_pct": -0.09295918585997931,
+        "accuracy_105m": 0.4,
+        "mean_signed_105m_pct": -0.16418599559697714
+      },
+      "v3": {
+        "long": 5,
+        "short": 15,
+        "mean_confidence": 0.6140000000000001,
+        "median_stop_percent": 0.7250000000000001,
+        "ma20_agreement": 0.8,
+        "mean_gross_pct": -0.1674999999999965,
+        "mean_net_pct": -0.3674999999999965,
+        "outcomes": {
+          "sl": 15,
+          "tp": 5
+        },
+        "accuracy_15m": 0.65,
+        "mean_signed_15m_pct": 0.1941502992752353,
+        "accuracy_30m": 0.7,
+        "mean_signed_30m_pct": 0.21477364991152656,
+        "accuracy_105m": 0.4,
+        "mean_signed_105m_pct": -0.01014422675876705
+      }
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "cases": 20,
+      "direction_changes": 2,
+      "v2": {
+        "long": 5,
+        "short": 15,
+        "mean_confidence": 0.575,
+        "median_stop_percent": 0.9000000000000001,
+        "ma20_agreement": 0.7,
+        "mean_gross_pct": -0.27449999999999747,
+        "mean_net_pct": -0.4744999999999976,
+        "outcomes": {
+          "sl": 15,
+          "tp": 5
+        },
+        "accuracy_15m": 0.55,
+        "mean_signed_15m_pct": 0.07742204022431531,
+        "accuracy_30m": 0.5,
+        "mean_signed_30m_pct": 0.004520867171880494,
+        "accuracy_105m": 0.5,
+        "mean_signed_105m_pct": -0.022103027946944763
+      },
+      "v3": {
+        "long": 3,
+        "short": 17,
+        "mean_confidence": 0.5805,
+        "median_stop_percent": 0.8750000000000001,
+        "ma20_agreement": 0.7,
+        "mean_gross_pct": -0.4729999999999979,
+        "mean_net_pct": -0.6729999999999977,
+        "outcomes": {
+          "sl": 17,
+          "tp": 3
+        },
+        "accuracy_15m": 0.55,
+        "mean_signed_15m_pct": 0.11575872153592792,
+        "accuracy_30m": 0.5,
+        "mean_signed_30m_pct": -0.01580749497118783,
+        "accuracy_105m": 0.4,
+        "mean_signed_105m_pct": -0.15584079733251158
+      }
+    }
+  ],
+  "fixed_horizon_paired_tests": [
+    {
+      "model": "gpt-5.6-luna-agent",
+      "horizon_minutes": 15,
+      "n": 20,
+      "mean_paired_change_pct": 0.0313598067847054,
+      "ci95_pct": [
+        -0.062060395118583855,
+        0.14428836637675913
+      ],
+      "p_signflip": 0.7472252774722528,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-5.6-luna-agent",
+      "horizon_minutes": 30,
+      "n": 20,
+      "mean_paired_change_pct": -0.0007824927940214277,
+      "ci95_pct": [
+        -0.1994600227778671,
+        0.15213259199652773
+      ],
+      "p_signflip": 1.0,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-5.6-luna-agent",
+      "horizon_minutes": 105,
+      "n": 20,
+      "mean_paired_change_pct": -0.007858681184852445,
+      "ci95_pct": [
+        -0.21603543626618316,
+        0.1886038122889877
+      ],
+      "p_signflip": 1.0,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "horizon_minutes": 15,
+      "n": 20,
+      "mean_paired_change_pct": 0.17860454116547242,
+      "ci95_pct": [
+        0.011549868556017317,
+        0.38804321673228587
+      ],
+      "p_signflip": 0.09419058094190581,
+      "q": 0.42385761423857615
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "horizon_minutes": 30,
+      "n": 20,
+      "mean_paired_change_pct": 0.3077328357715059,
+      "ci95_pct": [
+        0.06432246998284707,
+        0.6357125305779696
+      ],
+      "p_signflip": 0.032096790320967905,
+      "q": 0.28887111288871115
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "horizon_minutes": 105,
+      "n": 20,
+      "mean_paired_change_pct": 0.15404176883821008,
+      "ci95_pct": [
+        -0.18671591754227002,
+        0.5955409093248886
+      ],
+      "p_signflip": 0.5669433056694331,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "horizon_minutes": 15,
+      "n": 20,
+      "mean_paired_change_pct": 0.03833668131161261,
+      "ci95_pct": [
+        -0.12130637636080799,
+        0.2363164202956458
+      ],
+      "p_signflip": 1.0,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "horizon_minutes": 30,
+      "n": 20,
+      "mean_paired_change_pct": -0.020328362143068324,
+      "ci95_pct": [
+        -0.1959564541213088,
+        0.13497136769210383
+      ],
+      "p_signflip": 1.0,
+      "q": 1.0
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "horizon_minutes": 105,
+      "n": 20,
+      "mean_paired_change_pct": -0.1337377693855668,
+      "ci95_pct": [
+        -0.3452360364383189,
+        0.0
+      ],
+      "p_signflip": 0.5027497250274973,
+      "q": 1.0
+    }
+  ],
+  "limitations": [
+    "20 shared historical windows, not 60 independent observations",
+    "Historical v2 controls, not fresh repeated controls",
+    "Whole supplied-indicator reduction and possible chart rescaling, not MA-only causal intervention",
+    "Original v2 desktop harness vs fresh CLI for some pairs",
+    "All tests exploratory, sign-flip symmetry assumption; bootstrap by window within each model"
+  ]
+}

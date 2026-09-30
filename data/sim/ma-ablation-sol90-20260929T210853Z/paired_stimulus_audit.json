@@ -1,0 +1,992 @@
+[
+  {
+    "block": 1,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.64, MA50 = 99.44; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 2,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.70, MA50 = 99.84; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 3,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.82, MA50 = 100.63; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 4,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.74, MA50 = 100.78; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 5,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.01, MA50 = 100.50; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 6,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.85, MA50 = 100.15; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 7,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.51, MA50 = 98.26; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 8,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.55, MA50 = 99.58; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 9,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.78, MA50 = 101.89; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 10,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.11, MA50 = 100.22; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 11,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.48, MA50 = 99.02; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 12,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.25, MA50 = 102.00; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 13,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.70, MA50 = 102.08; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 14,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.38, MA50 = 100.76; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 15,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 98.67, MA50 = 98.19; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 16,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.51, MA50 = 100.53; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 17,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.29, MA50 = 100.58; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 18,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.50, MA50 = 100.99; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 19,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 98.32, MA50 = 97.16; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 20,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.32, MA50 = 100.17; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 21,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 102.22, MA50 = 102.77; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 22,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.58, MA50 = 100.09; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 23,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.00, MA50 = 101.44; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 24,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.40, MA50 = 97.01; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 25,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.43, MA50 = 100.42; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 26,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 102.20, MA50 = 102.79; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 27,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.66, MA50 = 101.22; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 28,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.59, MA50 = 100.53; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 29,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.90, MA50 = 98.77; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 30,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 104.57, MA50 = 110.25; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 31,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.17, MA50 = 104.09; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 32,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.93, MA50 = 99.78; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 33,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.84, MA50 = 101.85; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 34,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.11, MA50 = 99.46; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 35,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.14, MA50 = 101.20; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 36,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.04, MA50 = 98.17; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 37,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.60, MA50 = 99.29; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 38,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.30, MA50 = 100.57; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 39,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.79, MA50 = 101.98; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 40,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.77, MA50 = 101.65; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 41,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.11, MA50 = 96.83; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 42,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.66, MA50 = 99.63; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 43,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.43, MA50 = 100.54; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 44,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.31, MA50 = 99.84; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 45,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 102.32, MA50 = 103.01; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 46,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.70, MA50 = 100.00; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 47,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.21, MA50 = 99.50; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 48,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.65, MA50 = 101.29; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 49,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.51, MA50 = 99.94; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 50,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.95, MA50 = 100.43; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 51,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.82, MA50 = 99.48; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 52,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.79, MA50 = 101.90; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 53,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.49, MA50 = 100.37; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 54,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.99, MA50 = 102.04; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 55,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.13, MA50 = 100.62; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 56,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.65, MA50 = 100.29; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 57,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.51, MA50 = 100.31; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 58,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.35, MA50 = 97.72; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 59,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 103.29, MA50 = 112.94; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 60,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.17, MA50 = 98.95; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 61,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.10, MA50 = 100.02; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 62,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.04, MA50 = 101.42; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 63,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.17, MA50 = 100.32; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 64,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 98.27, MA50 = 97.52; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 65,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.69, MA50 = 100.26; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 66,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.37, MA50 = 100.66; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 67,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.28, MA50 = 101.35; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 68,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.50, MA50 = 102.23; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 69,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.19, MA50 = 96.99; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 70,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.87, MA50 = 99.70; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 71,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.36, MA50 = 100.78; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 72,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.18, MA50 = 100.12; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 73,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.63, MA50 = 100.89; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 74,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.72, MA50 = 101.56; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 75,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.28, MA50 = 101.32; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 76,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.79, MA50 = 99.77; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 77,
+    "arm_order": [
+      "MA_A",
+      "NO_MA",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 98.70, MA50 = 99.41; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 78,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.15, MA50 = 99.90; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 79,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.81, MA50 = 100.87; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 80,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.94, MA50 = 102.69; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 81,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.95, MA50 = 98.93; price is below MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 82,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 102.23, MA50 = 101.62; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 83,
+    "arm_order": [
+      "MA_B",
+      "MA_A",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.88, MA50 = 104.84; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 84,
+    "arm_order": [
+      "MA_A",
+      "MA_B",
+      "NO_MA"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.68, MA50 = 100.19; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 85,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.84, MA50 = 100.06; price is above MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 86,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 99.48, MA50 = 99.82; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 87,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.46, MA50 = 100.45; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 88,
+    "arm_order": [
+      "NO_MA",
+      "MA_B",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 101.27, MA50 = 101.38; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 89,
+    "arm_order": [
+      "MA_B",
+      "NO_MA",
+      "MA_A"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 98.11, MA50 = 97.57; price is above MA20 and above MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  },
+  {
+    "block": 90,
+    "arm_order": [
+      "NO_MA",
+      "MA_A",
+      "MA_B"
+    ],
+    "removed_text": "Indicators (same rebased scale): MA20 = 100.00, MA50 = 100.14; price is below MA20 and below MA50.",
+    "axis_limits_preserved": true,
+    "MA_repeats_byte_identical": true
+  }
+]

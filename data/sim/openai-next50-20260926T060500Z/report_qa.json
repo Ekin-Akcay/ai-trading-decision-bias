@@ -1,0 +1,7 @@
+{
+  "cards": 60,
+  "charts": 60,
+  "linked_setup_bars": 180,
+  "missing_local_assets": [],
+  "visual_check": "Top summary/table inspected in browser; all setup cards present in accessibility tree."
+}

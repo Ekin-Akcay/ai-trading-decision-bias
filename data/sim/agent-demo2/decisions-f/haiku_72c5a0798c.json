@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 2.5,
+  "confidence": 0.6,
+  "reason": "Spike consolidation above MA50 targeting recent high at 102.50"
+}

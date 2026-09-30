@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.6,
+  "take_profit_pct": 2.0,
+  "confidence": 0.55,
+  "reason": "Volume-confirmed breakout above post-capitulation base, higher lows, MA20 rising; stop under recent lows, target prior breakdown level."
+}

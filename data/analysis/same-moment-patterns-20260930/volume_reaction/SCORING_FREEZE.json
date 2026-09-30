@@ -1,0 +1,100 @@
+{
+  "source_sha256": {
+    "data/analysis/new-angles-20260930/target_exhaustion/windows.csv": "c1346490c90b653450734d67c2c2e9c941397547787c10a901d33115991383db",
+    "data/analysis/new-angles-20260930/target_exhaustion/paths.npz": "4a64efad1bca575f9aa1c11908771cfd6f295c03d95b0f65fe257de0a13f02f4",
+    "data/analysis/same-moment-patterns-20260930/volume_reaction/PLAN.md": "05004fc66d25198dd77d904ecbaff34a5f07aed1958a7d668224a408c3fa253e",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24"
+  },
+  "features_sha256": "0007f91b390b0f666a5eedf59b311379d5de43082a0c3810a21e86e60e8517d3",
+  "definitions": [
+    {
+      "name": "sell_pressure_recovery_long",
+      "role": "candidate",
+      "side": 1,
+      "selected": 61
+    },
+    {
+      "name": "sell_pressure_recovery_long__noAI",
+      "role": "price_only_control",
+      "side": 1,
+      "selected": 74
+    },
+    {
+      "name": "sell_pressure_recovery_long__noVolume",
+      "role": "AI_geometry_control",
+      "side": 1,
+      "selected": 157
+    },
+    {
+      "name": "buy_pressure_rejection_short",
+      "role": "candidate",
+      "side": -1,
+      "selected": 27
+    },
+    {
+      "name": "buy_pressure_rejection_short__noAI",
+      "role": "price_only_control",
+      "side": -1,
+      "selected": 63
+    },
+    {
+      "name": "buy_pressure_rejection_short__noVolume",
+      "role": "AI_geometry_control",
+      "side": -1,
+      "selected": 83
+    },
+    {
+      "name": "quiet_down_extension_long",
+      "role": "candidate",
+      "side": 1,
+      "selected": 32
+    },
+    {
+      "name": "quiet_down_extension_long__noAI",
+      "role": "price_only_control",
+      "side": 1,
+      "selected": 69
+    },
+    {
+      "name": "quiet_down_extension_long__noVolume",
+      "role": "AI_geometry_control",
+      "side": 1,
+      "selected": 178
+    },
+    {
+      "name": "quiet_up_extension_short",
+      "role": "candidate",
+      "side": -1,
+      "selected": 16
+    },
+    {
+      "name": "quiet_up_extension_short__noAI",
+      "role": "price_only_control",
+      "side": -1,
+      "selected": 56
+    },
+    {
+      "name": "quiet_up_extension_short__noVolume",
+      "role": "AI_geometry_control",
+      "side": -1,
+      "selected": 88
+    },
+    {
+      "name": "AI_SHORT_delayed_long",
+      "role": "AI_only_control",
+      "side": 1,
+      "selected": 655
+    },
+    {
+      "name": "AI_LONG_delayed_short",
+      "role": "AI_only_control",
+      "side": -1,
+      "selected": 364
+    }
+  ],
+  "new_model_calls": 0,
+  "independent_confirmation": false
+}

@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.5,
+  "confidence": 0.55,
+  "reason": "Failed bounce below MA20/MA50, lower highs/lows resuming; light volume on drop tempers confidence."
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "horizon_minutes": 15,
+    "features": "price_only",
+    "accuracy": 0.58,
+    "brier": 0.25672364819056104
+  },
+  {
+    "horizon_minutes": 15,
+    "features": "price_plus_AI",
+    "accuracy": 0.6,
+    "brier": 0.2465121367211953
+  },
+  {
+    "horizon_minutes": 15,
+    "features": "incremental_Brier_AI_minus_price_lower_better",
+    "mean_difference": -0.010211511469365761,
+    "ci": [
+      -0.03377806743587916,
+      0.014942455199678023
+    ]
+  },
+  {
+    "horizon_minutes": 90,
+    "features": "price_only",
+    "accuracy": 0.45,
+    "brier": 0.2668765576383483
+  },
+  {
+    "horizon_minutes": 90,
+    "features": "price_plus_AI",
+    "accuracy": 0.45,
+    "brier": 0.26116222008318113
+  },
+  {
+    "horizon_minutes": 90,
+    "features": "incremental_Brier_AI_minus_price_lower_better",
+    "mean_difference": -0.005714337555167108,
+    "ci": [
+      -0.02428869373614538,
+      0.013326368598797876
+    ]
+  },
+  {
+    "horizon_minutes": 105,
+    "features": "price_only",
+    "accuracy": 0.54,
+    "brier": 0.2578793719845182
+  },
+  {
+    "horizon_minutes": 105,
+    "features": "price_plus_AI",
+    "accuracy": 0.52,
+    "brier": 0.2579414188636468
+  },
+  {
+    "horizon_minutes": 105,
+    "features": "incremental_Brier_AI_minus_price_lower_better",
+    "mean_difference": 6.204687912863813e-05,
+    "ci": [
+      -0.015263663845033552,
+      0.015824879809082686
+    ]
+  },
+  {
+    "horizon_minutes": 240,
+    "features": "price_only",
+    "accuracy": 0.49,
+    "brier": 0.27976601002126644
+  },
+  {
+    "horizon_minutes": 240,
+    "features": "price_plus_AI",
+    "accuracy": 0.48,
+    "brier": 0.28424218675513696
+  },
+  {
+    "horizon_minutes": 240,
+    "features": "incremental_Brier_AI_minus_price_lower_better",
+    "mean_difference": 0.004476176733870484,
+    "ci": [
+      -0.010053709549891978,
+      0.019101436319818744
+    ]
+  },
+  {
+    "horizon_minutes": 1440,
+    "features": "price_only",
+    "accuracy": 0.48,
+    "brier": 0.2683499901121823
+  },
+  {
+    "horizon_minutes": 1440,
+    "features": "price_plus_AI",
+    "accuracy": 0.53,
+    "brier": 0.27687846402795535
+  },
+  {
+    "horizon_minutes": 1440,
+    "features": "incremental_Brier_AI_minus_price_lower_better",
+    "mean_difference": 0.008528473915773055,
+    "ci": [
+      -0.0002728442977004953,
+      0.017417795387579635
+    ]
+  }
+]

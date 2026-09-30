@@ -1,0 +1,20 @@
+[
+  {
+    "protocol": "v1",
+    "n_directional_decisions": 475,
+    "groups": 100,
+    "price_features_accuracy": 0.8568421052631578,
+    "training_majority_accuracy": 0.6210526315789474,
+    "ma20_rule_accuracy": 0.8231578947368421,
+    "price_features_brier": 0.11385249777790082
+  },
+  {
+    "protocol": "v2",
+    "n_directional_decisions": 500,
+    "groups": 100,
+    "price_features_accuracy": 0.862,
+    "training_majority_accuracy": 0.674,
+    "ma20_rule_accuracy": 0.778,
+    "price_features_brier": 0.11201690451065328
+  }
+]

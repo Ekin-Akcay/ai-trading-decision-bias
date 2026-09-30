@@ -1,0 +1,58 @@
+{
+  "source": "Existing96four-asset scored calendar blocks only; no new target outcomes used",
+  "old_basket_n": 96,
+  "old_proxy_mean_pct": 0.23349208203598878,
+  "old_MA20_fade_mean_pct": 0.23866747973482327,
+  "old_proxy_minus_MA20_pp": -0.005175397698834479,
+  "old_proxy_basket_sd_pct": 1.392881598007816,
+  "old_difference_sd_pct": 1.2822288189360735,
+  "prospective_conservative_grid_blocks": 783,
+  "weeks": 192,
+  "sum_squared_week_sizes": 4839,
+  "heuristic_power_assumptions": "Normal approximation; per-block SD transports; common within-week correlation sensitivity; two97.5%two-sided intervals for two primary claims;80%power. Does not account for remaining across-week/quarter dependence, adaptive discovery, or variance estimation uncertainty.",
+  "sensitivity": [
+    {
+      "hypothetical_within_week_return_correlation": 0,
+      "heuristic_effective_blocks": 783.0,
+      "80pct_detectable_gross_profit_pct": 0.15346530957588878,
+      "80pct_detectable_MA20_increment_pp": 0.14127377583751133,
+      "80pct_detectable_gross_profit_pct_at_locked99": 0.17011223760950536,
+      "80pct_detectable_MA20_increment_pp_at_locked99": 0.15659824483903104
+    },
+    {
+      "hypothetical_within_week_return_correlation": 0.1,
+      "heuristic_effective_blocks": 515.8076728924785,
+      "80pct_detectable_gross_profit_pct": 0.18908070012365952,
+      "80pct_detectable_MA20_increment_pp": 0.1740598218469718,
+      "80pct_detectable_gross_profit_pct_at_locked99": 0.20959095626039181,
+      "80pct_detectable_MA20_increment_pp_at_locked99": 0.1929407098850454
+    },
+    {
+      "hypothetical_within_week_return_correlation": 0.3,
+      "heuristic_effective_blocks": 306.5751575157516,
+      "80pct_detectable_gross_profit_pct": 0.24525768283850566,
+      "80pct_detectable_MA20_increment_pp": 0.2257740137071224,
+      "80pct_detectable_gross_profit_pct_at_locked99": 0.27186165612202623,
+      "80pct_detectable_MA20_increment_pp_at_locked99": 0.2502645240930196
+    },
+    {
+      "hypothetical_within_week_return_correlation": 0.5,
+      "heuristic_effective_blocks": 218.1035218783351,
+      "80pct_detectable_gross_profit_pct": 0.2907768058552346,
+      "80pct_detectable_MA20_increment_pp": 0.26767702357402334,
+      "80pct_detectable_gross_profit_pct_at_locked99": 0.32231840033215015,
+      "80pct_detectable_MA20_increment_pp_at_locked99": 0.2967129024967838
+    },
+    {
+      "hypothetical_within_week_return_correlation": 1,
+      "heuristic_effective_blocks": 126.69745815251085,
+      "80pct_detectable_gross_profit_pct": 0.3815110750732176,
+      "80pct_detectable_MA20_increment_pp": 0.35120321490485973,
+      "80pct_detectable_gross_profit_pct_at_locked99": 0.42289493849044785,
+      "80pct_detectable_MA20_increment_pp_at_locked99": 0.3892994769190767
+    }
+  ],
+  "sample_fixed_before_outcomes": true,
+  "no_model_calls": true,
+  "actual_protocol_99pct_weekly_bound_power_multiplier": 1.108473557181238
+}

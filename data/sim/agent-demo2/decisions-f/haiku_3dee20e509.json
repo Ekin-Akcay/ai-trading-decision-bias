@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 2.0,
+  "confidence": 0.57,
+  "reason": "Price below both MAs; failed rally on declining volume"
+}

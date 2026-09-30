@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "additional_trade_calls": 0,
+  "used_allowance": 771,
+  "remaining_allowance": 29,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "discovery_asset_windows": 1020,
+  "discovery_entry_times": 645,
+  "new_discovery_families": 3,
+  "fixed_discovery_policy_definitions": 34,
+  "extra_frozen_proxy_calendar_blocks": 783,
+  "extra_frozen_proxy_asset_trades": 3132,
+  "proxy_refits": 0,
+  "proxy_gross_claim_passed": false,
+  "proxy_MA20_increment_claim_passed": false,
+  "promoted_candidates": 0,
+  "independent_profit_verification": false,
+  "source_reports_preserved": true
+}

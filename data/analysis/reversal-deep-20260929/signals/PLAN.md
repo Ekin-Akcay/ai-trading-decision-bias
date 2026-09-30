@@ -1,0 +1,15 @@
+# Entry and filter discovery plan
+
+Written before this script scores candidate returns on 2026-09-29. This is discovery on previously observed historical windows, never a fresh validation claim. Root controls a separate maximum 300 new model-call budget; this subtask makes no model calls.
+
+Use the100 original forced2:1/no-flat Terra decisions plus the50 newly completed Terra decisions. One observation per unique market window. Fresh50 were selected above both intraday MAs, so report original100 and new50 separately as well as combined; do not pretend identically sampled populations.
+
+Freeze a modest finite family of108 primary exploratory candidates: reversal side LONG when Terra SHORT or SHORT when Terra LONG; six market gates (none, above both MA20/MA50, below both, SOL previous completed UTC daily close above50DMA, SOL above50DMA and BTC above200DMA, SOL below50DMA and BTC below200DMA); three entry policies (immediate next1m open; first15m close has moved in reversal direction then enter next1m open; first30m close has moved in reversal direction then enter next1m open); three durations after actual entry (30,105,240minutes). Confirmation is evaluated only when its candle has completed. Entry never uses future price from the holding interval. All exits use native1m close at the chosen elapsed time, with no bracket.
+
+Eight extra diagnostic candidates, with no market gate, immediate entry and105m hold only: each reversal side × low confidence<0.65/high confidence>=0.65/AIstop below current ATR14/AIstop at least current ATR14. These fixed thresholds are chosen before seeing their returns. A no-AI control drops confidence or stop-based selection as well as the action selection; this is explicitly an unmatched feature-control limitation.
+
+All116 candidates retained. Compare20bps roundtrip net and gross, hit rates, mean/median, tradecount, largest winner concentration, remove-largest-winner sensitivity, chronologicalhalves, source100/50 splits. Market/confirmation baseline is the same fixed direction/time policy on every window satisfying its price conditions, ignoring AI side. This baseline includes selected windows; the delta is descriptive incremental selection, not a causal effect. Report all-price baseline and AI-opposite complement when possible. Also compare same-AI-direction payoff on the exact traded windows (sign reversal before costs).
+
+Bootstrap selected complete windows10000 times for candidate diagnostics, seed2026092911. CIs and nominal p-values after116 searches do not validate a winner. Prefer candidates with at least15 total trades, positive net in each chronological half and each source cohort where both cohorts can contribute, and an advantage over the no-AI condition. Do not hide candidates failing these criteria. If none survive, report none. Any proposed policy must be frozen and tested on fresh randomized windows by root before a profitability claim.
+
+Preserve old data, reports and source. Write only this signals directory. Save source hashes, full candidate definitions/results, per-window inputs and evaluation ledgers, and a concise findings document.

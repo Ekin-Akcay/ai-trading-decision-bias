@@ -1,0 +1,197 @@
+{
+  "candidate_count": 4,
+  "direct_price_gates": 4,
+  "additional_comparators": 10,
+  "model_calls": 0,
+  "new_calls_authorized": false,
+  "fresh_verification": false,
+  "gates": [
+    {
+      "policy": "L1_BTC_up_asset_not_up",
+      "kind": "AI_candidate",
+      "criteria": {
+        "at_least50_selected_time_blocks": true,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "next280"
+      ],
+      "positive_years_n10": [
+        "2023",
+        "2025"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "L2_BTC_up_asset_lagging_up",
+      "kind": "AI_candidate",
+      "criteria": {
+        "at_least50_selected_time_blocks": false,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "next280"
+      ],
+      "positive_years_n10": [
+        "2024"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "S1_BTC_down_asset_not_down",
+      "kind": "AI_candidate",
+      "criteria": {
+        "at_least50_selected_time_blocks": false,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "next280"
+      ],
+      "positive_years_n10": [],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "S2_BTC_down_asset_lagging_down",
+      "kind": "AI_candidate",
+      "criteria": {
+        "at_least50_selected_time_blocks": false,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [],
+      "positive_years_n10": [],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "L1_BTC_up_asset_not_up_price_only",
+      "kind": "direct_price_control",
+      "criteria": {
+        "at_least50_selected_time_blocks": true,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": true,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "old150"
+      ],
+      "positive_years_n10": [
+        "2021",
+        "2023",
+        "2024",
+        "2026"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "L2_BTC_up_asset_lagging_up_price_only",
+      "kind": "direct_price_control",
+      "criteria": {
+        "at_least50_selected_time_blocks": true,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "old150"
+      ],
+      "positive_years_n10": [
+        "2024",
+        "2025"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "S1_BTC_down_asset_not_down_price_only",
+      "kind": "direct_price_control",
+      "criteria": {
+        "at_least50_selected_time_blocks": true,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": false,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "old150"
+      ],
+      "positive_years_n10": [
+        "2021",
+        "2023"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    },
+    {
+      "policy": "S2_BTC_down_asset_lagging_down_price_only",
+      "kind": "direct_price_control",
+      "criteria": {
+        "at_least50_selected_time_blocks": true,
+        "both_common_halves_positive": false,
+        "three_positive_cohorts_n10": false,
+        "three_positive_years_n10": true,
+        "remove_best3_blocks_positive": false,
+        "quarter95_lower_positive": false
+      },
+      "passes_gross_research_screen": false,
+      "positive_cohorts_n10": [
+        "old150",
+        "paired90"
+      ],
+      "positive_years_n10": [
+        "2022",
+        "2023",
+        "2025"
+      ],
+      "family8_gross_lower_positive": false,
+      "AI_increment_evidence": false,
+      "new_calls_authorized": false,
+      "fresh_verification": false
+    }
+  ]
+}

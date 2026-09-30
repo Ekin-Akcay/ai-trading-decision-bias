@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "selected_blocks": 90,
+  "selection_seed": 2026092995,
+  "independent_interval_comparisons": 53190,
+  "selected_native_history_and_minute_ranges_rechecked": 90,
+  "selected_macro_gate_passes": 90,
+  "source_hashes_unchanged": true,
+  "forward_returns_examined": false,
+  "model_calls": 0,
+  "sample_sha256": "c3206b896211fa91ecba46cc267b40e5e142c22d753ade2ffca7af78d3cd47bb",
+  "minimum_gap_hours": 57.75,
+  "capacity": {
+    "grid": 210212,
+    "calendar_eligible": 29791,
+    "SOL_history_valid": 209614,
+    "SOL_forward_valid": 210140,
+    "all_required_coverage": 209542,
+    "macro_and_coverage_and_exclusions": 9228,
+    "chronological_greedy_maximum": 112,
+    "full_random_greedy_capacity": 104
+  },
+  "quarters": {
+    "2021Q2": 4,
+    "2021Q3": 4,
+    "2021Q4": 1,
+    "2022Q1": 11,
+    "2022Q2": 12,
+    "2022Q3": 8,
+    "2022Q4": 11,
+    "2023Q3": 3,
+    "2024Q3": 6,
+    "2025Q1": 1,
+    "2025Q2": 2,
+    "2025Q4": 8,
+    "2026Q1": 9,
+    "2026Q2": 8,
+    "2026Q3": 2
+  }
+}

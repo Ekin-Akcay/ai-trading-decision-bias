@@ -1,0 +1,129 @@
+{
+  "phase": "reused_outcome_discovery_exit_extension",
+  "conclusion": "No candidate selected. All three managed exits lose gross and underperform both matched controls.",
+  "new_model_calls": 0,
+  "remaining_snapshot_credits_unchanged": 29,
+  "windows": 1020,
+  "calendar_blocks": 645,
+  "quarters": 25,
+  "primary_research_candidates": [],
+  "fresh_validation_claim": false,
+  "ai_increment_claim": false,
+  "controls_are_not_promoted_as_new_candidates": true,
+  "policies": {
+    "BE_after_1ATR": {
+      "mean_gross_pct": -0.04981210820725339,
+      "block_ci95": [
+        -0.14721834208634504,
+        0.05075022699149357
+      ],
+      "quarter_ci95": [
+        -0.13097700251382477,
+        0.029187783234470247
+      ],
+      "chronological_half_means_pct": [
+        -0.08095750274906993,
+        -0.019151466887877555
+      ],
+      "positive_cohorts": 2,
+      "exclude_best3_mean_pct": -0.08379520047837027,
+      "matched_control_differences_pct": {
+        "FIXED_1ATR_stop": -0.05242764161341283,
+        "RAW_hold_240": -0.10481375474939157
+      },
+      "discovery_triage": {
+        "criteria": {
+          "pooled_positive": false,
+          "both_halves_positive": false,
+          "at_least4_of5_cohorts_positive": false,
+          "exclude_best3_positive": false,
+          "fixed_stop_paired_improvement_positive": false
+        },
+        "passed": false,
+        "failed": [
+          "pooled_positive",
+          "both_halves_positive",
+          "at_least4_of5_cohorts_positive",
+          "exclude_best3_positive",
+          "fixed_stop_paired_improvement_positive"
+        ]
+      }
+    },
+    "TRAIL_1ATR_after_1ATR": {
+      "mean_gross_pct": -0.06894708390364793,
+      "block_ci95": [
+        -0.1510160302328053,
+        0.017212353450447762
+      ],
+      "quarter_ci95": [
+        -0.12751795587437595,
+        -0.010591774542862954
+      ],
+      "chronological_half_means_pct": [
+        -0.0821084944286796,
+        -0.05599052023503697
+      ],
+      "positive_cohorts": 2,
+      "exclude_best3_mean_pct": -0.10722250469174203,
+      "matched_control_differences_pct": {
+        "FIXED_1ATR_stop": -0.07156261730980737,
+        "RAW_hold_240": -0.12394873044578615
+      },
+      "discovery_triage": {
+        "criteria": {
+          "pooled_positive": false,
+          "both_halves_positive": false,
+          "at_least4_of5_cohorts_positive": false,
+          "exclude_best3_positive": false,
+          "fixed_stop_paired_improvement_positive": false
+        },
+        "passed": false,
+        "failed": [
+          "pooled_positive",
+          "both_halves_positive",
+          "at_least4_of5_cohorts_positive",
+          "exclude_best3_positive",
+          "fixed_stop_paired_improvement_positive"
+        ]
+      }
+    },
+    "HALF_at_1ATR_then_BE": {
+      "mean_gross_pct": -0.04845716965296952,
+      "block_ci95": [
+        -0.1262441990503188,
+        0.029832050690036024
+      ],
+      "quarter_ci95": [
+        -0.11993806504686352,
+        0.016886765606081287
+      ],
+      "chronological_half_means_pct": [
+        -0.08728349455845523,
+        -0.0102351455242229
+      ],
+      "positive_cohorts": 2,
+      "exclude_best3_mean_pct": -0.07070811947820435,
+      "matched_control_differences_pct": {
+        "FIXED_1ATR_stop": -0.05107270305912899,
+        "RAW_hold_240": -0.10345881619510774
+      },
+      "discovery_triage": {
+        "criteria": {
+          "pooled_positive": false,
+          "both_halves_positive": false,
+          "at_least4_of5_cohorts_positive": false,
+          "exclude_best3_positive": false,
+          "fixed_stop_paired_improvement_positive": false
+        },
+        "passed": false,
+        "failed": [
+          "pooled_positive",
+          "both_halves_positive",
+          "at_least4_of5_cohorts_positive",
+          "exclude_best3_positive",
+          "fixed_stop_paired_improvement_positive"
+        ]
+      }
+    }
+  }
+}

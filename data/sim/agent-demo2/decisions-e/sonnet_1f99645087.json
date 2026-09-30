@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Below MA20/50, failed bounce from 99.19 rolling over on fading volume; downtrend continuation likely."
+}

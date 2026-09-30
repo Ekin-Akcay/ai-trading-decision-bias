@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "run_id": "reversal-validation280-20260929T194012Z",
+  "fixed_collection_complete": true,
+  "cases": 280,
+  "root_release_flag_exists": true,
+  "protocol_hash_matches": true,
+  "original_hashes_match": true,
+  "all_stimulus_hashes_match": true,
+  "independent_native_1m_entry_exit_checks": 840,
+  "independent_15m_primary_entry_exit_checks": 280,
+  "independent_15m_confirmation_checks": 280,
+  "independent_pre_entry_MA_checks": 560,
+  "future_price_loading_gated": true,
+  "no_parent_evaluator_functions_imported": true,
+  "late_entry_preserves_original_exit_clock": true,
+  "L_selected": 85,
+  "control_selected": 126,
+  "below_ma20_control_selected": 62,
+  "protocol_sha256": "681907eb94eaec417dee6dd83eb8bf342ffceda10687e295cefc79e7ac426d85",
+  "raw1m_sha256": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+  "raw15m_sha256": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea"
+}

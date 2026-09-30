@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "tests": [
+    "AST/import no reads",
+    "fixed-effect slope 3 percentage points",
+    "quarter bootstrap zero-contribution quarter retained",
+    "undefined lower bounds negative infinity",
+    "native-path long/short side, MFE/MAE and exit clock",
+    "missing release fail closed"
+  ],
+  "new_outcomes_read": 0,
+  "new_model_calls": 0
+}

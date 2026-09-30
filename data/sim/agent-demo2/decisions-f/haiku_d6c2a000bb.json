@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 2.5,
+  "confidence": 0.6,
+  "reason": "Price below both MAs; downtrend to 100. Risk: already -3.4%, consolidation may precede bounce."
+}

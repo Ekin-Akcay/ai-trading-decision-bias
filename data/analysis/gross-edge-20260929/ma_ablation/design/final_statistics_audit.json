@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T21:15:53.334305+00:00",
+  "run_id": "ma-ablation-sol90-20260929T210853Z",
+  "unique_windows": 90,
+  "accepted_isolated_calls": 270,
+  "physical_calls_in_current800_budget": 771,
+  "native_paths_and_daily_gates_rechecked": 90,
+  "arms_reconstructed": {
+    "MA_A": {
+      "n": 71,
+      "mean_gross_pct": -0.12968744607125576,
+      "AI_increment_pct": -0.03644036360191129,
+      "profit_criteria": {
+        "at_least50trades": true,
+        "window99_lower_positive": false,
+        "quarter95_lower_positive": false,
+        "both_halves_positive": false,
+        "both_delays_positive": false,
+        "remove_best3_positive": false
+      },
+      "profit_verified": false,
+      "AI_increment_verified": false
+    },
+    "MA_B": {
+      "n": 67,
+      "mean_gross_pct": -0.06077940813501088,
+      "AI_increment_pct": -0.02376453091969298,
+      "profit_criteria": {
+        "at_least50trades": true,
+        "window99_lower_positive": false,
+        "quarter95_lower_positive": false,
+        "both_halves_positive": false,
+        "both_delays_positive": false,
+        "remove_best3_positive": false
+      },
+      "profit_verified": false,
+      "AI_increment_verified": false
+    },
+    "NO_MA": {
+      "n": 72,
+      "mean_gross_pct": -0.11669850828321586,
+      "AI_increment_pct": 0.046507645378068244,
+      "profit_criteria": {
+        "at_least50trades": true,
+        "window99_lower_positive": false,
+        "quarter95_lower_positive": false,
+        "both_halves_positive": false,
+        "both_delays_positive": false,
+        "remove_best3_positive": false
+      },
+      "profit_verified": false,
+      "AI_increment_verified": false
+    }
+  },
+  "all_20000_window_and_quarter_arrays_match": true,
+  "all_intervals_and_verification_flags_match": true,
+  "exact_p_independently_reproduced": 0.03178405761718751,
+  "mechanism_verified": false,
+  "all_source_and_stimulus_hashes_match": true,
+  "model_calls": 0
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "policies": 18,
+  "window_axis": 1020,
+  "ledger_rows": 18360,
+  "BTC_self_rows_always_skipped": 125,
+  "exact_skips_zero_vectors": true,
+  "all_ledger_vectors_aligned": true,
+  "all_ledger_holds_minutes": 120,
+  "all_entries_elapsed_minutes": 15,
+  "gross_vectors_finite": true,
+  "native_price_audit_separate": true
+}

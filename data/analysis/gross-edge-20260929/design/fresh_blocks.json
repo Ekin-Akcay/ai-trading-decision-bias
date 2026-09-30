@@ -1,0 +1,3742 @@
+{
+  "assets": [
+    "SOL-USD",
+    "BTC-USD",
+    "ETH-USD",
+    "DOGE-USD"
+  ],
+  "blocks": [
+    {
+      "entry_time": "2024-10-04T14:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-06-13T16:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-03-04T16:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-10-18T11:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-06-19T07:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2020-10-29T19:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-01-05T21:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-11-10T04:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-01-13T20:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2020-11-26T03:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-07-25T11:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-04-06T02:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-09-16T19:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-08-26T00:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-09-07T05:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-08-30T23:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-11-15T06:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-04-07T17:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-02-24T00:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-07-24T22:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-07-17T07:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-03-04T10:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-08-11T09:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-10-30T09:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-01-17T03:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-10-14T00:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-01-24T23:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-03-27T01:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-11-28T19:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-10-12T12:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-10-12T03:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-04-03T23:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-07-15T05:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-12-20T13:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-07-08T15:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-08-27T10:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-03-21T13:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-11-17T15:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-06-23T05:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-11-21T16:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-08-31T23:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-12-25T00:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-02-14T17:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-07-01T19:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-07-25T18:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-04-08T15:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-09-17T02:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-04-04T05:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-11-07T11:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-08-16T04:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-02-08T01:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-04-08T22:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-04-26T00:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-01-05T21:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-02-24T07:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-01-17T12:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-12-17T06:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-08-15T16:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-02-22T03:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-07-30T03:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-03-03T19:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-06-29T23:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-09-01T11:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-05-11T21:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-09-15T01:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-08-07T02:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-12-03T23:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-07-19T02:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-02-06T02:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-05-19T09:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-09-01T21:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-06-15T16:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-08-23T03:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-01-26T05:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-01-06T22:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-03-31T13:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-05-06T11:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-04-12T21:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-02-24T08:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-08-07T09:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-11-26T22:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-12-23T01:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-12-26T23:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-05-24T10:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-01-10T22:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-05-13T06:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-05-02T00:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-11-02T13:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-02-16T07:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-05-18T22:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2020-12-16T07:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-04-18T20:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-08-11T07:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-01-01T02:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-01-30T12:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-03-10T18:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-07-07T09:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-04-27T06:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2020-09-23T10:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2023-12-12T18:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-08-02T19:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-04-22T06:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-07-31T22:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-02-27T03:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-01-25T14:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-01-22T13:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-06-02T18:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2020-11-04T06:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-07-12T16:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-06-02T21:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-08-08T14:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-07-26T03:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-07-30T04:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2021-01-09T16:00:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-09-27T03:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-11-17T18:15:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-08-07T22:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-03-08T01:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-04-01T13:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-10-07T15:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2025-08-11T03:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2024-08-02T22:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2026-06-17T14:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-09-27T01:30:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    },
+    {
+      "entry_time": "2022-12-29T21:45:00Z",
+      "coverage": {
+        "all_four_assets": true,
+        "history15m_bars": 200,
+        "future_minutes": 360,
+        "minute_timestamps_including_prior_close": 361,
+        "previous_completed_asset_daily50_and_BTC_daily200": true
+      }
+    }
+  ],
+  "seed": 2026092990,
+  "timezone": "UTC",
+  "created_at": "2026-09-29T20:44:21.040510+00:00",
+  "description": "125 random calendar blocks, all four assets per block. Each six-hour forward target interval is disjoint from every previously exposed 50-hour snapshot history plus its known 24/72-hour outcome interval across all assets. New 50-hour feature histories may overlap already-known past observations. New blocks are at least56 hours apart, making their complete history-plus-target intervals mutually disjoint. Selection uses timestamps and validity only; no outcome, return, MA regime, or macro regime conditioning. Assets within a block are correlated replications, not independent sample units.",
+  "planned_snapshots": 500,
+  "calendar_blocks": 125,
+  "minimum_new_block_gap_hours": 56,
+  "actual_minimum_new_block_gap_hours": 86.75,
+  "prior_unique_calendar_entries": 466,
+  "prior_unique_asset_entries": {
+    "SOL-USD": 436,
+    "BTC-USD": 11,
+    "ETH-USD": 12,
+    "DOGE-USD": 7
+  },
+  "prior_horizon_counts": {
+    "24": 280,
+    "72": 186
+  },
+  "prior_exposure_intervals": [
+    {
+      "entry_time": "2020-03-13T09:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-06-23T15:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-08-13T02:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-08-21T09:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-09-18T17:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-09-26T06:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-10-01T22:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-05T12:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-09T12:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-13T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-16T09:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-20T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-10-26T16:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-11-02T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-11-08T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-11-13T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-11-16T00:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-11-16T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-11-21T02:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-11-24T07:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-11-30T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-12-05T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-12-12T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-12-18T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2020-12-23T23:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2020-12-28T00:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-01-04T15:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-01-08T11:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-01-12T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-01-20T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-01-27T21:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-02-05T00:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-02-11T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-02-15T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-02-20T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-02-25T22:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-03-02T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-03-08T02:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-03-15T18:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-03-21T06:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-03-24T10:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-03-29T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-04-01T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-04-06T15:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-04-12T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-04-17T09:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-04-23T16:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-04-28T09:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-05-03T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-05-08T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-05-16T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-05-22T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-05-26T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-05-31T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-03T04:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-06-08T08:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-11T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-06-13T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-16T23:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-22T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-26T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-06-29T21:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-07-04T16:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-07-11T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-07-15T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-07-15T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-07-21T03:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-07-24T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-07-30T04:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-08-07T04:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-08-14T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-08-20T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-08-24T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-08-29T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-04T06:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-10T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-15T11:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-19T22:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-26T11:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-09-29T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-10-03T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-10-06T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-10-10T19:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-10-16T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-10-22T19:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-10-28T04:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-01T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-05T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-09T11:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-13T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-18T00:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-11-24T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-11-30T11:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-12-06T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-12-09T23:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-12-13T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-12-19T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2021-12-23T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-12-26T05:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2021-12-31T10:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-01-05T14:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-01-12T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-01-16T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-01-19T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-01-26T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-01-29T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-02-04T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-02-08T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-02-14T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-02-21T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-02-24T19:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-03-03T06:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-03-06T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-03-13T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-03-17T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-03-23T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-03-29T11:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-04-03T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-04-10T20:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-04-17T04:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-04-21T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-04-26T00:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-05-02T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-05-06T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-05-11T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-05-16T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-05-23T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-05-31T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-05T11:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-08T16:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-12T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-16T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-20T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-06-24T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-07-02T21:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-07-10T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-07-14T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-07-17T23:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-07-21T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-07-26T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-08-01T12:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-08-05T04:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-08-10T15:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-08-13T22:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-08-19T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-08-24T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-08-29T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-09-04T06:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-09-09T15:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-09-13T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-09-19T15:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-09-23T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-09-29T15:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-10-04T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-10-10T23:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-10-17T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-10-21T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-10-25T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-10-26T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-10-29T03:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-02T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-08T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-11T06:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-16T22:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-11-22T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-25T12:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-11-28T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-12-07T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-12-10T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-12-13T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-12-14T06:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-12-17T17:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2022-12-23T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2022-12-28T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-01-01T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-01-09T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-01-12T19:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-01-20T04:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-01-25T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-02-01T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-02-05T02:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-02-12T01:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-02-16T23:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-02-22T14:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-02-27T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-03-03T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-04T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-04T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-06T08:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-14T14:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-21T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-03-27T04:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-04-02T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-06T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-12T07:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-16T11:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-20T11:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-24T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-04-29T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-05-07T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-05-10T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-05-15T00:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-05-21T21:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-05-29T02:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-06-03T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-06-08T23:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-06-12T00:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-06-12T05:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-06-17T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-06-21T07:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-06-26T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-06-28T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-07-01T10:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-07-06T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-07-12T14:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-07-19T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-07-27T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-07-30T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-04T20:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-09T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-15T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-19T03:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-22T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-25T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-08-28T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-09-02T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-09-11T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-09-14T09:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-09-18T14:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-09-26T21:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-10-02T20:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-10-06T04:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-10-12T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-10-16T01:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-10-19T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-10-23T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-10-29T21:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-11-05T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-11-09T06:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-11-13T12:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-11-20T00:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-11-23T03:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-11-26T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-01T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-04T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-08T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-11T16:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-15T12:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-21T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2023-12-25T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2023-12-31T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-01-04T20:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-01-10T04:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-01-13T09:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-01-15T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-01-18T14:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-01-21T18:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-01-24T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-01-29T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-02-02T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-02-07T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-02-13T04:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-02-17T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-02-23T01:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-02-26T16:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-03-02T23:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-06T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-10T07:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-14T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-17T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-22T04:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-03-25T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-03-31T16:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-04-06T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-04-10T17:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-04-14T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-04-21T21:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-04-29T10:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-05-04T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-05-10T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-05-15T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-05-18T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-05-26T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-06-01T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-06-07T23:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-06-12T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-06-18T02:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-06-21T23:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-06-25T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-06-29T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-07-04T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-08T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-11T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-17T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-22T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-26T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-07-29T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-08-01T21:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-08-05T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-08-12T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-08-17T12:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-08-18T00:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-08-22T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-08-28T21:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-09-05T06:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-09-10T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-09-11T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-09-14T09:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-09-19T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-09-24T03:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-09-29T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-10-02T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-10-06T23:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-10-12T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-10-15T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-10-20T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-10-27T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-11-02T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-11-05T19:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-11-13T00:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-11-13T01:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-11-18T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-11-21T23:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-11-30T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-12-04T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-12-08T05:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2024-12-13T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-12-18T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-12-25T03:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2024-12-29T14:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-01-02T01:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-01-06T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-01-07T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-01-13T22:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-01-19T07:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-01-22T09:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-01-28T05:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-01-31T10:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-02-03T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-02-05T00:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-02-08T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-02-09T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-02-13T13:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-02-18T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-02-24T09:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-01T20:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-06T23:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-10T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-14T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-17T20:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-03-19T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-23T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-03-27T11:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-03-29T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-04T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-04-10T10:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-11T20:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-16T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-18T15:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-24T18:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-04-27T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-04-29T12:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-05-05T11:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-05-09T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-05-15T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-05-21T12:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-05-27T06:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-05-28T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-06-01T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-06-07T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-06-12T09:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-06-18T04:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-06-21T09:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-06-26T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-06-27T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-07-02T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-07-07T20:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-07-12T12:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-07-18T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-07-23T03:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-07-30T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-08-05T11:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-08-09T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-08-14T12:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-08-19T02:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-08-19T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-08-26T18:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-08-30T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-03T18:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-08T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-13T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-18T11:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-22T06:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-09-25T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-10-04T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-10-08T14:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-10-16T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-10-22T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-10-25T21:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-10-31T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-11-02T15:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-11-04T07:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-11-12T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-11-16T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-11-21T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-11-28T01:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-12-01T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-12-07T13:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-12-13T16:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-12-17T04:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-12-21T09:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2025-12-25T15:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2025-12-30T22:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-01-03T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-01-10T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-01-16T12:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-01-21T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-01-26T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-02-03T05:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-02-08T03:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-02-11T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-02-14T10:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-02-22T04:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-02-27T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-02-27T22:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-03-05T04:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-03-09T13:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-03-14T17:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-03-18T05:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-03-26T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-04-02T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-04-07T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-04-08T20:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-04-15T12:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-04-18T19:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-04-21T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-04-23T19:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-04-30T07:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-04T11:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-07T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-05-13T00:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-16T15:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-20T20:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-24T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-05-27T22:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-06-05T08:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-06-11T10:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-06-15T08:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-06-23T08:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-06-28T02:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-01T07:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-05T20:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-11T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-14T23:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-18T18:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-07-20T06:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-07-24T18:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-07-29T03:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-08-01T18:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-08-05T13:15:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-08-12T16:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-08-20T02:30:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-08-27T18:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    },
+    {
+      "entry_time": "2026-09-02T22:00:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-09-06T03:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 24
+    },
+    {
+      "entry_time": "2026-09-12T19:45:00Z",
+      "history_hours": 50,
+      "outcome_hours": 72
+    }
+  ],
+  "fresh_target_design": {
+    "candidate_grid_bars_before_coverage": 42835,
+    "coverage_valid_candidate_bars": 42567,
+    "maximum_chronological_greedy_blocks": 406,
+    "complete_random_greedy_capacity": 360
+  },
+  "strict_all_information_nonoverlap_alternative": {
+    "candidate_grid_bars_before_coverage": 5335,
+    "coverage_valid_candidate_bars": 5125,
+    "maximum_chronological_greedy_blocks": 81,
+    "complete_random_greedy_capacity": 80,
+    "used_for_model_calls": false
+  },
+  "asset_coverage": {
+    "SOL-USD": {
+      "native15m_bars": 210212,
+      "native1m_bars": 3153180,
+      "archive15m_start": "2020-09-14 07:00:00",
+      "archive15m_end": "2026-09-17 23:45:00",
+      "grid_valid_history200": 209614,
+      "grid_valid_forward361_minutes": 210140,
+      "grid_valid_previous_completed_daily_history": 210211,
+      "required_completed_daily_bars": 50,
+      "all_checks_valid": 209542
+    },
+    "BTC-USD": {
+      "native15m_bars": 235968,
+      "native1m_bars": 3530880,
+      "archive15m_start": "2020-01-01 00:00:00",
+      "archive15m_end": "2026-09-23 23:45:00",
+      "grid_valid_history200": 210212,
+      "grid_valid_forward361_minutes": 210188,
+      "grid_valid_previous_completed_daily_history": 210211,
+      "required_completed_daily_bars": 200,
+      "all_checks_valid": 210187
+    },
+    "ETH-USD": {
+      "native15m_bars": 235392,
+      "native1m_bars": 3530880,
+      "archive15m_start": "2020-01-01 00:00:00",
+      "archive15m_end": "2026-09-17 23:45:00",
+      "grid_valid_history200": 210212,
+      "grid_valid_forward361_minutes": 210188,
+      "grid_valid_previous_completed_daily_history": 210211,
+      "required_completed_daily_bars": 50,
+      "all_checks_valid": 210188
+    },
+    "DOGE-USD": {
+      "native15m_bars": 217020,
+      "native1m_bars": 3255300,
+      "archive15m_start": "2020-07-10 09:00:00",
+      "archive15m_end": "2026-09-17 23:45:00",
+      "grid_valid_history200": 210212,
+      "grid_valid_forward361_minutes": 210188,
+      "grid_valid_previous_completed_daily_history": 210211,
+      "required_completed_daily_bars": 50,
+      "all_checks_valid": 210188
+    }
+  },
+  "selected_blocks_by_year": {
+    "2020": 5,
+    "2021": 24,
+    "2022": 19,
+    "2023": 19,
+    "2024": 16,
+    "2025": 24,
+    "2026": 18
+  },
+  "selected_blocks_by_quarter": {
+    "2020Q3": 1,
+    "2020Q4": 4,
+    "2021Q1": 9,
+    "2021Q2": 5,
+    "2021Q3": 7,
+    "2021Q4": 3,
+    "2022Q1": 5,
+    "2022Q2": 3,
+    "2022Q3": 6,
+    "2022Q4": 5,
+    "2023Q1": 5,
+    "2023Q2": 4,
+    "2023Q3": 5,
+    "2023Q4": 5,
+    "2024Q1": 4,
+    "2024Q2": 2,
+    "2024Q3": 5,
+    "2024Q4": 5,
+    "2025Q1": 4,
+    "2025Q2": 7,
+    "2025Q3": 7,
+    "2025Q4": 6,
+    "2026Q1": 4,
+    "2026Q2": 6,
+    "2026Q3": 8
+  },
+  "forward_returns_examined": false,
+  "source_sha256": {
+    "data/sim/decisions/agent-demo-controls.jsonl": "4daadee63a1d6f2718fcd3c3be179294581b421d523ee3643b2eab5798ef6f03",
+    "data/sim/decisions/agent-demo-haiku.jsonl": "0ddc925088ca313871bef4c1b41b1c08fbcafb30a4307fbf3fbe6ae846029766",
+    "data/sim/decisions/agent-demo2-agents.jsonl": "2ca10338fc3eb8b2d63d6dce4d0dd7857e3b67c28019e9388de6fb09e8977442",
+    "data/sim/decisions/agent-demo2-controls.jsonl": "b3ca56372412ce61231580ea921be99bdf7116cf34f25fd3c9ba5e73b2a24b45",
+    "data/sim/decisions/openai-first10-20260925T185939Z.jsonl": "82addbe9431a32861b39be0848477da1f662577c72b68e623dab83c4843ada64",
+    "data/sim/decisions/openai-last40-20260926T064222Z.jsonl": "6113d599d57f9d0f8e36c9d917730fc732fd3e03b58fc1bd4aa1f74aac71b286",
+    "data/sim/decisions/openai-next50-20260926T060500Z.jsonl": "7f599b0454409d27c83c29999f8ff07d76657a16ea9cb75e2860884dc83a26f4",
+    "data/sim/decisions/pricevolume-v3-openai-20260929T173255Z.jsonl": "93c4aaeac6339d8e7fcb03e233d3dad2f2f7f66e726381133132596d1505f70c",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff",
+    "data/sim/decisions/reversal-validation280-20260929T194012Z.jsonl": "aaaee2695e6a6e9f1e34a68f7d81f2ae90661d551fb04b9ad15805d697437380",
+    "data/sim/decisions/rules2to1-claude-agents.jsonl": "bf8cc10f60ba3f513be87b79ccfc53fd75d33dceef126c5110ec2a2cdb0aae9a",
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/sim-40bar-check.jsonl": "fa9a5b22feb1ab8c6aee8312c1828861d61e10c788a7021af9a56a78207d5081",
+    "data/sim/decisions/sim-stub-check.jsonl": "633f64874d271b319b2fb5a13b305bd7ff1b7643951bbf41389153aabe898c55",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/SOL-USD.csv": "1c4bfeeeeddb772bec8f76a4a91dd7022bdc48e961722ea16b820045b17cfab7",
+    "data/raw/intraday/BTC-USD_15m.csv.gz": "2e3eaa24068b8bdf8f8af2c4d2c5624968da8778f31668f21b762921b70a75e4",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/BTC-USD.csv": "73f86eabd0eb3cbc22e753d5c5d425620bf5f39a6d065f3ecbb7a7f962bacd6c",
+    "data/raw/intraday/ETH-USD_15m.csv.gz": "9954cf431d8d635318ce363f1cfb59ebd84cba2462e06d819a99774d9de30c6a",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/ETH-USD.csv": "610c6a31be4b5525af52104761c07a32f7d46f891588ec849845f5c740bf4f00",
+    "data/raw/intraday/DOGE-USD_15m.csv.gz": "eefa00bfe13592028e996a83b7c13d06b68b1742075579999a626744c50b3575",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/raw/DOGE-USD.csv": "3f7d0a6816d40f233d3268376fe0b487c09bd34c02e3f74ae00e06f7eac88a36"
+  },
+  "limitations": [
+    "Historical archive; not live or guaranteed unknown to model training",
+    "500 snapshots are125 calendar blocks, not500 independent market observations",
+    "Known past feature reuse is allowed; fresh targets do not overlap earlier exposed snapshot paths",
+    "Serial and macro-regime dependence remains; infer using calendar/quarter clusters",
+    "Exposure intervals cover previously used snapshot histories and outcome paths; public historical knowledge and prior aggregate daily indicators cannot be made unseen"
+  ]
+}

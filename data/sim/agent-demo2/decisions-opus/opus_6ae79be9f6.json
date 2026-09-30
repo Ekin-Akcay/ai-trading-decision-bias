@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.0,
+  "take_profit_pct": 3.0,
+  "confidence": 0.55,
+  "reason": "Spring reclaimed, inverse H&S neckline ~99.7 broken on strong close; uptrend, MAs rising. Stop below 98.15 low."
+}

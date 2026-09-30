@@ -1,0 +1,607 @@
+{
+  "all_accepted_passed": true,
+  "audits": [
+    {
+      "model": "gpt-6-astra",
+      "case": 1,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 2,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 3,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 4,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 5,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 6,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 7,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 8,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 9,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 10,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 11,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 12,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 13,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 14,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 15,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 16,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 17,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 18,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 19,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-6-astra",
+      "case": 20,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 1,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 2,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 3,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 4,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 5,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 6,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 7,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 8,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 9,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 10,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 11,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 12,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 13,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 14,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 15,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 16,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 17,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 18,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 19,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-luna",
+      "case": 20,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 1,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 2,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 3,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 4,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 5,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 6,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 7,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 8,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 9,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 10,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 11,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 12,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 13,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 14,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 15,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 16,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 17,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 18,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 19,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    },
+    {
+      "model": "gpt-5.6-terra",
+      "case": 20,
+      "passed": true,
+      "issues": [],
+      "full_input_received": true,
+      "received_image_count": 1,
+      "tool_calls": [],
+      "delivery": "direct full text + original image attachment"
+    }
+  ],
+  "accepted": 60,
+  "excluded": 0
+}

@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "take_profit_pct": 2.5,
+  "confidence": 0.68,
+  "reason": "Price below MA20/MA50, sustained downtrend, support bounce unconfirmed."
+}

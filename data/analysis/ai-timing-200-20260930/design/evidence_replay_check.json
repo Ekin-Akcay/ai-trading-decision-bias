@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "only_changed_functions": [
+    "load_release",
+    "main"
+  ],
+  "archived_screen_release_cases": 60,
+  "confirmation_denied_by_screen_release": true,
+  "no_additional_native_outcomes_read": true,
+  "scorer_sha256": "12c088c276869e06e38d9fc0a116bf88c408d5b22dcffc76916562332a8afbcd"
+}

@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "run_id": "ma-ablation-sol90-20260929T210853Z",
+  "unique_windows": 90,
+  "audited_decisions": 270,
+  "source_protocol_and_stimulus_hashes_match": true,
+  "exact_MA_A_MA_B_stimulus_identity_pairs": 90,
+  "exact_NO_MA_text_removal_pairs": 90,
+  "paired_chart_dimensions_equal": true,
+  "raw_minute_coverage_windows": 90,
+  "native_1m_primary_and_delay_checks": 270,
+  "independent_15m_entry_exit_checks": 90,
+  "independent_15m_horizon_checks": 450,
+  "daily_gate_native_checks": 90,
+  "pre_entry_MA_checks": 180,
+  "new_forward_read_only_after_root_release": true,
+  "root_return_functions_not_imported": true,
+  "zero_fees": true,
+  "root_comparison": {
+    "passed": true,
+    "compared_arm_rows": 270,
+    "fields": 22,
+    "individual_field_checks": 5940,
+    "arm_trade_counts_returns_controls_delays_match": true,
+    "paired_mechanism_discordance_and_exact_p_match": true,
+    "secondary_opportunity_contrasts_match": true
+  }
+}

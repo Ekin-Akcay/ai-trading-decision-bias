@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "take_profit_pct": 2.0,
+  "confidence": 0.6,
+  "reason": "Double rejection near 100.7 on climax volume, weak lower-high bounce on light volume; short-term exhaustion despite uptrend, target MA20/50 zone."
+}

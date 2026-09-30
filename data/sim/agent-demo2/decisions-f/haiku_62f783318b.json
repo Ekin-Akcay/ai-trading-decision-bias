@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.4,
+  "take_profit_pct": 0.7,
+  "confidence": 0.6,
+  "reason": "Volume spike with controlled pullback; bullish accumulation reversal"
+}

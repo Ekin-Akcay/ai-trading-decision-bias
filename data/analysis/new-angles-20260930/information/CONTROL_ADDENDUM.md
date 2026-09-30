@@ -1,0 +1,5 @@
+# Diagnostic comparator added after the eleven-rule result
+
+An independent design review correctly noted that the fixed cohort/asset/era/MA matching groups are coarser than the five continuous features in the action-prediction model. Matched excess returns therefore cannot establish value beyond the entire fitted price model, and selected-side standardization is an association benchmark rather than a standalone deployable AI-free trading policy.
+
+To make that limitation concrete, report the already-fitted action model's direction at probability .5 and its inverse, both using the same first-open to 240-minute-close convention. This changes no fitted model, feature, fold, threshold, candidate, or promotion criterion. These two controls were added after scoring, are labelled diagnostic comparators, and cannot become new candidate recommendations. The action model learns from earlier AI labels but uses price inputs alone when making a later prediction; it is not independent of AI during training. Also compare actual raw AI fade against the price-model fade on every forward-scored window.

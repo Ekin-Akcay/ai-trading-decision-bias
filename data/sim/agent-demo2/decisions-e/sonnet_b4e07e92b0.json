@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 2.5,
+  "confidence": 0.55,
+  "reason": "Downtrend below MA20/MA50; failed bounce reversed; testing swing lows near 99.3 with room to extend."
+}

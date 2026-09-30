@@ -1,0 +1,9 @@
+# Post-primary exploratory application of the existing116 entry policies
+
+The two locked primary strategy tests have completed and failed their predefined profitability criteria. Preserve those failures and the locked validation outputs. At root's explicit request, now apply every one of the existing116 definitions unchanged to the same280 windows. This is exploratory reuse after primary inspection, not another independent confirmation stage. No model calls, thresholds, market gates, confirmation times or durations are added.
+
+Candidate definitions and IDs come directly from the prior150-window study. Use the same next1-minute-open convention, prior completed UTC daily values, MA gates, confidence0.65 split, suppliedstop/ATR split, original15/30-minute directional confirmation, and30/105/240-minute holding.20bps roundtrip is primary;30bps is a cost sensitivity. Eligibility uses no holding-period return.
+
+Save every candidate and every window's hypothetical return, market eligibility, actual AI-selection mask and netreturn. Summary includes original150 versus fresh280, fresh halves/thirds, no-AI price/confirmation baseline, remove-largest1/3winner diagnostics, and nominal bootstrap intervals. Root will apply appropriate search/family correction; unadjusted intervals from this reused grid are not validation evidence.
+
+Recommended-candidate screen, before this grid is evaluated: at least40 executed fresh trades and20 original trades; positive original and fresh mean net; positive fresh30bps mean; positive fresh halves and thirds; positive mean after removing largest3 fresh winners; positive incremental mean against the unchanged no-AI control. Report policies failing any screen rather than altering it. Source source-period biases and tail concentration remain limitations even if these simple tests pass.

@@ -1,0 +1,998 @@
+[
+  {
+    "name": "048_macro_bear_AIshort_long240",
+    "combined": {
+      "n": 87,
+      "mean_gross_pct": 0.4533098904025258,
+      "median_gross_pct": 0.198068828918041,
+      "gross_wins": 46,
+      "gross_win_rate": 0.5287356321839081,
+      "profit_factor_gross": 1.9531564767613174,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -3.1651483298294925,
+      "mean_gross_winner_pct": 1.7568288329703754,
+      "mean_gross_loser_pct": -1.0091747768687207,
+      "sum_trade_percentages_not_portfolio_return": 39.43796046501974,
+      "gross_per_all430_opportunities_pct": 0.09171618712795289,
+      "mean_excluding_best1_pct": 0.36572276102512613,
+      "mean_excluding_best3_pct": 0.2370182082812738,
+      "mean_excluding_best5_pct": 0.13105929890269355,
+      "chronological_halves": [
+        {
+          "n": 43,
+          "gross_mean_pct": 0.5232545789721951
+        },
+        {
+          "n": 44,
+          "gross_mean_pct": 0.3849548538458034
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 29,
+          "gross_mean_pct": 0.7849502716678392
+        },
+        {
+          "n": 29,
+          "gross_mean_pct": 0.23690046031873452
+        },
+        {
+          "n": 29,
+          "gross_mean_pct": 0.33807893922100357
+        }
+      ],
+      "calendar_quarters_with_trades": 14,
+      "leave_one_quarter_out_min_mean_pct": 0.3578907195272127,
+      "leave_one_quarter_out_max_mean_pct": 0.5045610407930209,
+      "ci95_window_mean_pct": [
+        0.05166376197195696,
+        0.8782810117233724
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        0.19323187113494844,
+        0.7730742503230039
+      ]
+    },
+    "frequency_all430": 0.20232558139534884,
+    "old150": {
+      "n": 22,
+      "mean_gross_pct": 0.2115620149370319,
+      "median_gross_pct": 0.25224863451498436,
+      "gross_wins": 12,
+      "gross_win_rate": 0.5454545454545454,
+      "profit_factor_gross": 1.3468513634697559,
+      "best_gross_pct": 3.4449699603732453,
+      "worst_gross_pct": -3.1651483298294925,
+      "mean_gross_winner_pct": 1.5061054970275747,
+      "mean_gross_loser_pct": -1.3418901635716196,
+      "sum_trade_percentages_not_portfolio_return": 4.654364328614702,
+      "gross_per_all430_opportunities_pct": 0.010824103089801633,
+      "mean_excluding_best1_pct": 0.05759020801149793,
+      "mean_excluding_best3_pct": -0.22421512102394361,
+      "mean_excluding_best5_pct": -0.5168591663319746,
+      "chronological_halves": [
+        {
+          "n": 11,
+          "gross_mean_pct": -0.10123000609979
+        },
+        {
+          "n": 11,
+          "gross_mean_pct": 0.5243540359738539
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 8,
+          "gross_mean_pct": 0.15301179879628618
+        },
+        {
+          "n": 7,
+          "gross_mean_pct": -0.6496535661713043
+        },
+        {
+          "n": 7,
+          "gross_mean_pct": 1.139692128777649
+        }
+      ],
+      "calendar_quarters_with_trades": 12,
+      "leave_one_quarter_out_min_mean_pct": -0.035043915069220576,
+      "leave_one_quarter_out_max_mean_pct": 0.3605252584548074,
+      "ci95_window_mean_pct": [
+        -0.5464209396968202,
+        0.9779843832501312
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.386170412658551,
+        0.8937058653000779
+      ],
+      "opportunities": 150,
+      "frequency": 0.14666666666666667,
+      "gross_per_opportunity_pct": 0.03102909552409801
+    },
+    "new280": {
+      "n": 65,
+      "mean_gross_pct": 0.5351322482523853,
+      "median_gross_pct": 0.198068828918041,
+      "gross_wins": 34,
+      "gross_win_rate": 0.5230769230769231,
+      "profit_factor_gross": 2.244170240256235,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -2.5389678853332764,
+      "mean_gross_winner_pct": 1.8453194221266587,
+      "mean_gross_loser_pct": -0.9018472327710115,
+      "sum_trade_percentages_not_portfolio_return": 34.783596136405045,
+      "gross_per_all430_opportunities_pct": 0.08089208403815126,
+      "mean_excluding_best1_pct": 0.4187155174929085,
+      "mean_excluding_best3_pct": 0.2460510510808435,
+      "mean_excluding_best5_pct": 0.10154163635676952,
+      "chronological_halves": [
+        {
+          "n": 32,
+          "gross_mean_pct": 0.7240399309007457
+        },
+        {
+          "n": 33,
+          "gross_mean_pct": 0.3519490408357933
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 22,
+          "gross_mean_pct": 1.0435050290060852
+        },
+        {
+          "n": 22,
+          "gross_mean_pct": 0.38666917279777624
+        },
+        {
+          "n": 21,
+          "gross_mean_pct": 0.15808398555809955
+        }
+      ],
+      "calendar_quarters_with_trades": 14,
+      "leave_one_quarter_out_min_mean_pct": 0.4434124527804564,
+      "leave_one_quarter_out_max_mean_pct": 0.6102756041021022,
+      "ci95_window_mean_pct": [
+        0.0651196166081894,
+        1.04197002675171
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        0.22083786540369718,
+        0.9518055367230457
+      ],
+      "opportunities": 280,
+      "frequency": 0.23214285714285715,
+      "gross_per_opportunity_pct": 0.12422712905858942
+    }
+  },
+  {
+    "name": "macro_bear_no_AI_long240",
+    "combined": {
+      "n": 139,
+      "mean_gross_pct": 0.1540268853079815,
+      "median_gross_pct": -0.015934985260146473,
+      "gross_wins": 68,
+      "gross_win_rate": 0.4892086330935252,
+      "profit_factor_gross": 1.2272838816110139,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.7001170139618207,
+      "mean_gross_loser_pct": -1.3267354914309073,
+      "sum_trade_percentages_not_portfolio_return": 21.40973705780943,
+      "gross_per_all430_opportunities_pct": 0.04979008618095216,
+      "mean_excluding_best1_pct": 0.09727488435471407,
+      "mean_excluding_best3_pct": 0.009854287077061171,
+      "mean_excluding_best5_pct": -0.07374390907706503,
+      "chronological_halves": [
+        {
+          "n": 69,
+          "gross_mean_pct": -0.0004352547459965118
+        },
+        {
+          "n": 70,
+          "gross_mean_pct": 0.30628242336118844
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 47,
+          "gross_mean_pct": 0.13557014537089687
+        },
+        {
+          "n": 46,
+          "gross_mean_pct": -0.06645689759896742
+        },
+        {
+          "n": 46,
+          "gross_mean_pct": 0.3933686416289082
+        }
+      ],
+      "calendar_quarters_with_trades": 16,
+      "leave_one_quarter_out_min_mean_pct": 0.08871118822257268,
+      "leave_one_quarter_out_max_mean_pct": 0.2331810525207299,
+      "ci95_window_mean_pct": [
+        -0.2182560681509327,
+        0.5219809483824549
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.12415548023477511,
+        0.4296832262628519
+      ]
+    },
+    "frequency_all430": 0.32325581395348835,
+    "old150": {
+      "n": 46,
+      "mean_gross_pct": 0.0908322376965985,
+      "median_gross_pct": -0.0210288456440221,
+      "gross_wins": 22,
+      "gross_win_rate": 0.4782608695652174,
+      "profit_factor_gross": 1.1328011333438741,
+      "best_gross_pct": 5.775638652350978,
+      "worst_gross_pct": -4.1496737357259335,
+      "mean_gross_winner_pct": 1.6200449238842038,
+      "mean_gross_loser_pct": -1.3109460579753731,
+      "sum_trade_percentages_not_portfolio_return": 4.178282934043531,
+      "gross_per_all430_opportunities_pct": 0.009716937055915188,
+      "mean_excluding_best1_pct": -0.035496793740165504,
+      "mean_excluding_best3_pct": -0.19141444660681364,
+      "mean_excluding_best5_pct": -0.33415372858022857,
+      "chronological_halves": [
+        {
+          "n": 23,
+          "gross_mean_pct": -0.3596350548853163
+        },
+        {
+          "n": 23,
+          "gross_mean_pct": 0.5412995302785132
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 16,
+          "gross_mean_pct": -0.7065718263009612
+        },
+        {
+          "n": 15,
+          "gross_mean_pct": 0.20127864837862966
+        },
+        {
+          "n": 15,
+          "gross_mean_pct": 0.8309501619452978
+        }
+      ],
+      "calendar_quarters_with_trades": 16,
+      "leave_one_quarter_out_min_mean_pct": -0.06669590688853,
+      "leave_one_quarter_out_max_mean_pct": 0.25069633163773725,
+      "ci95_window_mean_pct": [
+        -0.47888230283526595,
+        0.6616401296994682
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.4945463425673075,
+        0.704989560723076
+      ],
+      "opportunities": 150,
+      "frequency": 0.30666666666666664,
+      "gross_per_opportunity_pct": 0.02785521956029021
+    },
+    "new280": {
+      "n": 93,
+      "mean_gross_pct": 0.1852844529437193,
+      "median_gross_pct": -0.015934985260146473,
+      "gross_wins": 46,
+      "gross_win_rate": 0.4946236559139785,
+      "profit_factor_gross": 1.2746682522818071,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.7384123613902467,
+      "mean_gross_loser_pct": -1.3347981808550093,
+      "sum_trade_percentages_not_portfolio_return": 17.231454123765896,
+      "gross_per_all430_opportunities_pct": 0.04007314912503697,
+      "mean_excluding_best1_pct": 0.10049620768377177,
+      "mean_excluding_best3_pct": -0.031534443239591446,
+      "mean_excluding_best5_pct": -0.15196769050095146,
+      "chronological_halves": [
+        {
+          "n": 46,
+          "gross_mean_pct": 0.1506634296223648
+        },
+        {
+          "n": 47,
+          "gross_mean_pct": 0.21916885874759826
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 31,
+          "gross_mean_pct": 0.49871763838778566
+        },
+        {
+          "n": 31,
+          "gross_mean_pct": -0.08211444215123118
+        },
+        {
+          "n": 31,
+          "gross_mean_pct": 0.1392501625946034
+        }
+      ],
+      "calendar_quarters_with_trades": 15,
+      "leave_one_quarter_out_min_mean_pct": 0.11715789165894153,
+      "leave_one_quarter_out_max_mean_pct": 0.3289410836607563,
+      "ci95_window_mean_pct": [
+        -0.27969168862389326,
+        0.64366043655937
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.16507875818475026,
+        0.5692344257408676
+      ],
+      "opportunities": 280,
+      "frequency": 0.33214285714285713,
+      "gross_per_opportunity_pct": 0.061540907584878214
+    }
+  },
+  {
+    "name": "macro_bear_AIlong_complement_long240",
+    "combined": {
+      "n": 52,
+      "mean_gross_pct": -0.34669660398481356,
+      "median_gross_pct": -0.10881379193441454,
+      "gross_wins": 22,
+      "gross_win_rate": 0.4230769230769231,
+      "profit_factor_gross": 0.6586989329576964,
+      "best_gross_pct": 5.987351252392448,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.5815377560348423,
+      "mean_gross_loser_pct": -1.760735134665895,
+      "sum_trade_percentages_not_portfolio_return": -18.028223407210305,
+      "gross_per_all430_opportunities_pct": -0.04192610094700071,
+      "mean_excluding_best1_pct": -0.47089362077652464,
+      "mean_excluding_best3_pct": -0.673055282395225,
+      "mean_excluding_best5_pct": -0.7679917477332961,
+      "chronological_halves": [
+        {
+          "n": 26,
+          "gross_mean_pct": -0.573348352266515
+        },
+        {
+          "n": 26,
+          "gross_mean_pct": -0.12004485570311206
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 18,
+          "gross_mean_pct": -0.4875619944064133
+        },
+        {
+          "n": 17,
+          "gross_mean_pct": -0.8066931750310832
+        },
+        {
+          "n": 17,
+          "gross_mean_pct": 0.2624515569196204
+        }
+      ],
+      "calendar_quarters_with_trades": 14,
+      "leave_one_quarter_out_min_mean_pct": -0.564155745777228,
+      "leave_one_quarter_out_max_mean_pct": -0.23957161367984944,
+      "ci95_window_mean_pct": [
+        -1.070267694855756,
+        0.3136580031245739
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.7967605643260546,
+        0.23394181360096525
+      ]
+    },
+    "frequency_all430": 0.12093023255813953,
+    "old150": {
+      "n": 24,
+      "mean_gross_pct": -0.019836724773798792,
+      "median_gross_pct": -0.11724006513830204,
+      "gross_wins": 10,
+      "gross_win_rate": 0.4166666666666667,
+      "profit_factor_gross": 0.9736152420511133,
+      "best_gross_pct": 5.775638652350978,
+      "worst_gross_pct": -4.1496737357259335,
+      "mean_gross_winner_pct": 1.7567722361121585,
+      "mean_gross_loser_pct": -1.2888431254066253,
+      "sum_trade_percentages_not_portfolio_return": -0.47608139457117105,
+      "gross_per_all430_opportunities_pct": -0.0011071660338864444,
+      "mean_excluding_best1_pct": -0.2718139150835715,
+      "mean_excluding_best3_pct": -0.5215401953933126,
+      "mean_excluding_best5_pct": -0.7293966450585231,
+      "chronological_halves": [
+        {
+          "n": 12,
+          "gross_mean_pct": -0.8758313352379837
+        },
+        {
+          "n": 12,
+          "gross_mean_pct": 0.8361578856903863
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 8,
+          "gross_mean_pct": -0.6317540648397832
+        },
+        {
+          "n": 8,
+          "gross_mean_pct": -0.3831901681279337
+        },
+        {
+          "n": 8,
+          "gross_mean_pct": 0.9554340586463207
+        }
+      ],
+      "calendar_quarters_with_trades": 13,
+      "leave_one_quarter_out_min_mean_pct": -0.27181391508357167,
+      "leave_one_quarter_out_max_mean_pct": 0.29169418722895246,
+      "ci95_window_mean_pct": [
+        -0.8801105111545396,
+        0.8255346422597634
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.8205457503388975,
+        1.040447121216883
+      ],
+      "opportunities": 150,
+      "frequency": 0.16,
+      "gross_per_opportunity_pct": -0.003173875963807801
+    },
+    "new280": {
+      "n": 28,
+      "mean_gross_pct": -0.6268622147371119,
+      "median_gross_pct": -0.10881379193441454,
+      "gross_wins": 12,
+      "gross_win_rate": 0.42857142857142855,
+      "profit_factor_gross": 0.49531267763143444,
+      "best_gross_pct": 5.987351252392448,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.4355090226370788,
+      "mean_gross_loser_pct": -2.1736406427677553,
+      "sum_trade_percentages_not_portfolio_return": -17.552142012639134,
+      "gross_per_all430_opportunities_pct": -0.040818934913114266,
+      "mean_excluding_best1_pct": -0.8718330838900589,
+      "mean_excluding_best3_pct": -1.0662158628452194,
+      "mean_excluding_best5_pct": -1.2875695280512705,
+      "chronological_halves": [
+        {
+          "n": 14,
+          "gross_mean_pct": -0.9317096240772023
+        },
+        {
+          "n": 14,
+          "gross_mean_pct": -0.3220148053970219
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 10,
+          "gross_mean_pct": -0.6873708715282068
+        },
+        {
+          "n": 9,
+          "gross_mean_pct": -0.6921329371792919
+        },
+        {
+          "n": 9,
+          "gross_mean_pct": -0.4943596514159383
+        }
+      ],
+      "calendar_quarters_with_trades": 12,
+      "leave_one_quarter_out_min_mean_pct": -0.8564975764708845,
+      "leave_one_quarter_out_max_mean_pct": -0.34938792002367713,
+      "ci95_window_mean_pct": [
+        -1.7334556071258962,
+        0.37140511120786246
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -1.3349359296057528,
+        0.11323147273018831
+      ],
+      "opportunities": 280,
+      "frequency": 0.1,
+      "gross_per_opportunity_pct": -0.06268622147371121
+    }
+  },
+  {
+    "name": "macro_bear_below_MA20_price_only_long240",
+    "combined": {
+      "n": 62,
+      "mean_gross_pct": 0.24251188330286214,
+      "median_gross_pct": 0.42854860163416,
+      "gross_wins": 35,
+      "gross_win_rate": 0.5645161290322581,
+      "profit_factor_gross": 1.3731459380209736,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.5808645021383638,
+      "mean_gross_loser_pct": -1.4923896596320474,
+      "sum_trade_percentages_not_portfolio_return": 15.035736764777452,
+      "gross_per_all430_opportunities_pct": 0.03496682968552896,
+      "mean_excluding_best1_pct": 0.11557268439210748,
+      "mean_excluding_best3_pct": -0.035809037926907976,
+      "mean_excluding_best5_pct": -0.16389276855774687,
+      "chronological_halves": [
+        {
+          "n": 31,
+          "gross_mean_pct": 0.2734854523440108
+        },
+        {
+          "n": 31,
+          "gross_mean_pct": 0.21153831426171346
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 21,
+          "gross_mean_pct": 0.879430304264015
+        },
+        {
+          "n": 21,
+          "gross_mean_pct": -0.6124270718592408
+        },
+        {
+          "n": 20,
+          "gross_mean_pct": 0.4714334442138596
+        }
+      ],
+      "calendar_quarters_with_trades": 14,
+      "leave_one_quarter_out_min_mean_pct": 0.13644981416991003,
+      "leave_one_quarter_out_max_mean_pct": 0.4943663672884655,
+      "ci95_window_mean_pct": [
+        -0.3621076954476329,
+        0.8311146311128592
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.33280311315410704,
+        0.8484591260068061
+      ]
+    },
+    "frequency_all430": 0.14418604651162792,
+    "old150": {
+      "n": 16,
+      "mean_gross_pct": -0.0708614626215652,
+      "median_gross_pct": 0.1889012082054054,
+      "gross_wins": 8,
+      "gross_win_rate": 0.5,
+      "profit_factor_gross": 0.9036831914354614,
+      "best_gross_pct": 3.4449699603732453,
+      "worst_gross_pct": -3.1651483298294925,
+      "mean_gross_winner_pct": 1.3297017134601603,
+      "mean_gross_loser_pct": -1.4714246387032905,
+      "sum_trade_percentages_not_portfolio_return": -1.1337834019450432,
+      "gross_per_all430_opportunities_pct": -0.002636705585918705,
+      "mean_excluding_best1_pct": -0.3052502241545526,
+      "mean_excluding_best3_pct": -0.6592163991901929,
+      "mean_excluding_best5_pct": -0.949112533814058,
+      "chronological_halves": [
+        {
+          "n": 8,
+          "gross_mean_pct": -0.7325270606930265
+        },
+        {
+          "n": 8,
+          "gross_mean_pct": 0.5908041354498961
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 6,
+          "gross_mean_pct": -0.6977786693562842
+        },
+        {
+          "n": 5,
+          "gross_mean_pct": -0.5800140874218518
+        },
+        {
+          "n": 5,
+          "gross_mean_pct": 1.190591810260384
+        }
+      ],
+      "calendar_quarters_with_trades": 11,
+      "leave_one_quarter_out_min_mean_pct": -0.3052502241545526,
+      "leave_one_quarter_out_max_mean_pct": 0.25519636770688914,
+      "ci95_window_mean_pct": [
+        -0.9763746612135953,
+        0.8536388572695103
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.7502229700277355,
+        0.8058618975833004
+      ],
+      "opportunities": 150,
+      "frequency": 0.10666666666666667,
+      "gross_per_opportunity_pct": -0.007558556012966952
+    },
+    "new280": {
+      "n": 46,
+      "mean_gross_pct": 0.3515113079722282,
+      "median_gross_pct": 0.4971648245816085,
+      "gross_wins": 27,
+      "gross_win_rate": 0.5869565217391305,
+      "profit_factor_gross": 1.5668916327868272,
+      "best_gross_pct": 7.9858030168588945,
+      "worst_gross_pct": -10.649087221095332,
+      "mean_gross_winner_pct": 1.6552831061911648,
+      "mean_gross_loser_pct": -1.5012170368652082,
+      "sum_trade_percentages_not_portfolio_return": 16.169520166722496,
+      "gross_per_all430_opportunities_pct": 0.03760353527144766,
+      "mean_excluding_best1_pct": 0.1818603811080801,
+      "mean_excluding_best3_pct": -0.02276627524982612,
+      "mean_excluding_best5_pct": -0.20019766843528108,
+      "chronological_halves": [
+        {
+          "n": 23,
+          "gross_mean_pct": 0.604089840614362
+        },
+        {
+          "n": 23,
+          "gross_mean_pct": 0.09893277533009419
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 16,
+          "gross_mean_pct": 1.5094411731653448
+        },
+        {
+          "n": 15,
+          "gross_mean_pct": -0.942761809833866
+        },
+        {
+          "n": 15,
+          "gross_mean_pct": 0.4106592362389979
+        }
+      ],
+      "calendar_quarters_with_trades": 13,
+      "leave_one_quarter_out_min_mean_pct": 0.2119231468613665,
+      "leave_one_quarter_out_max_mean_pct": 0.7255584705199047,
+      "ci95_window_mean_pct": [
+        -0.4060691890892658,
+        1.0653949677839865
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.41565567628448696,
+        1.2263542730406558
+      ],
+      "opportunities": 280,
+      "frequency": 0.16428571428571428,
+      "gross_per_opportunity_pct": 0.05774828630972319
+    }
+  },
+  {
+    "name": "003_ungated_AIshort_long240",
+    "combined": {
+      "n": 267,
+      "mean_gross_pct": 0.26492298534183145,
+      "median_gross_pct": 0.086552425210562,
+      "gross_wins": 141,
+      "gross_win_rate": 0.5280898876404494,
+      "profit_factor_gross": 1.4045429681913546,
+      "best_gross_pct": 9.522276590265278,
+      "worst_gross_pct": -7.016940998591115,
+      "mean_gross_winner_pct": 1.7417353336819075,
+      "mean_gross_loser_pct": -1.4100826206683874,
+      "sum_trade_percentages_not_portfolio_return": 70.734437086269,
+      "gross_per_all430_opportunities_pct": 0.1644986908983,
+      "mean_excluding_best1_pct": 0.23012090412031463,
+      "mean_excluding_best3_pct": 0.16606573692999793,
+      "mean_excluding_best5_pct": 0.10741228893938876,
+      "chronological_halves": [
+        {
+          "n": 133,
+          "gross_mean_pct": 0.5702989735863048
+        },
+        {
+          "n": 134,
+          "gross_mean_pct": -0.038174077617235465
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 89,
+          "gross_mean_pct": 0.8176606988645264
+        },
+        {
+          "n": 89,
+          "gross_mean_pct": -0.19790157516812446
+        },
+        {
+          "n": 89,
+          "gross_mean_pct": 0.1750098323290923
+        }
+      ],
+      "calendar_quarters_with_trades": 25,
+      "leave_one_quarter_out_min_mean_pct": 0.1509518745894809,
+      "leave_one_quarter_out_max_mean_pct": 0.3386247064641121,
+      "ci95_window_mean_pct": [
+        -0.00932038371697819,
+        0.5449384390826154
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.0836852995836428,
+        0.6263458659466491
+      ]
+    },
+    "frequency_all430": 0.6209302325581395,
+    "old150": {
+      "n": 78,
+      "mean_gross_pct": 0.1606500198926158,
+      "median_gross_pct": -0.0288060508035592,
+      "gross_wins": 38,
+      "gross_win_rate": 0.48717948717948717,
+      "profit_factor_gross": 1.230870816554148,
+      "best_gross_pct": 9.522276590265278,
+      "worst_gross_pct": -5.918759764451387,
+      "mean_gross_winner_pct": 1.7580662049166658,
+      "mean_gross_loser_pct": -1.3568953558802321,
+      "sum_trade_percentages_not_portfolio_return": 12.530701551624032,
+      "gross_per_all430_opportunities_pct": 0.029141166399125656,
+      "mean_excluding_best1_pct": 0.039070454043620244,
+      "mean_excluding_best3_pct": -0.14586721585808188,
+      "mean_excluding_best5_pct": -0.2545282986163739,
+      "chronological_halves": [
+        {
+          "n": 39,
+          "gross_mean_pct": 0.4872887977624113
+        },
+        {
+          "n": 39,
+          "gross_mean_pct": -0.16598875797717974
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 26,
+          "gross_mean_pct": 0.7908577277952114
+        },
+        {
+          "n": 26,
+          "gross_mean_pct": -0.28528822997697056
+        },
+        {
+          "n": 26,
+          "gross_mean_pct": -0.023619438140393134
+        }
+      ],
+      "calendar_quarters_with_trades": 25,
+      "leave_one_quarter_out_min_mean_pct": 0.01577859800975633,
+      "leave_one_quarter_out_max_mean_pct": 0.27204565041094675,
+      "ci95_window_mean_pct": [
+        -0.3467911458080372,
+        0.7035861886478452
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.3454007609675639,
+        0.7152252741862646
+      ],
+      "opportunities": 150,
+      "frequency": 0.52,
+      "gross_per_opportunity_pct": 0.08353801034416024
+    },
+    "new280": {
+      "n": 189,
+      "mean_gross_pct": 0.3079562726700791,
+      "median_gross_pct": 0.16648432668981972,
+      "gross_wins": 103,
+      "gross_win_rate": 0.544973544973545,
+      "profit_factor_gross": 1.482720384275368,
+      "best_gross_pct": 8.767079758500152,
+      "worst_gross_pct": -7.016940998591115,
+      "mean_gross_winner_pct": 1.735710352061317,
+      "mean_gross_loser_pct": -1.4354098896151275,
+      "sum_trade_percentages_not_portfolio_return": 58.20373553464495,
+      "gross_per_all430_opportunities_pct": 0.1353575244991743,
+      "mean_excluding_best1_pct": 0.2629609349794937,
+      "mean_excluding_best3_pct": 0.18138344585346877,
+      "mean_excluding_best5_pct": 0.11052539689280812,
+      "chronological_halves": [
+        {
+          "n": 94,
+          "gross_mean_pct": 0.5861134567468209
+        },
+        {
+          "n": 95,
+          "gross_mean_pct": 0.03272705895203975
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 63,
+          "gross_mean_pct": 0.8181916963355745
+        },
+        {
+          "n": 63,
+          "gross_mean_pct": -0.04674942869381633
+        },
+        {
+          "n": 63,
+          "gross_mean_pct": 0.1524265503684791
+        }
+      ],
+      "calendar_quarters_with_trades": 24,
+      "leave_one_quarter_out_min_mean_pct": 0.15437427840078416,
+      "leave_one_quarter_out_max_mean_pct": 0.3850087196665969,
+      "ci95_window_mean_pct": [
+        -0.02076687723004819,
+        0.6390579378894246
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.08661730666448801,
+        0.7351169622394241
+      ],
+      "opportunities": 280,
+      "frequency": 0.675,
+      "gross_per_opportunity_pct": 0.2078704840523034
+    }
+  },
+  {
+    "name": "006_confirmed_AIshort_long240",
+    "combined": {
+      "n": 117,
+      "mean_gross_pct": 0.28316520464749195,
+      "median_gross_pct": 0.1992285193505916,
+      "gross_wins": 65,
+      "gross_win_rate": 0.5555555555555556,
+      "profit_factor_gross": 1.43578663530685,
+      "best_gross_pct": 8.121677495570001,
+      "worst_gross_pct": -8.725902139628106,
+      "mean_gross_winner_pct": 1.6793003967066218,
+      "mean_gross_loser_pct": -1.4620037854264198,
+      "sum_trade_percentages_not_portfolio_return": 33.13032894375656,
+      "gross_per_all430_opportunities_pct": 0.07704727661338735,
+      "mean_excluding_best1_pct": 0.21559182282919462,
+      "mean_excluding_best3_pct": 0.09249471703401116,
+      "mean_excluding_best5_pct": 0.009409775412009666,
+      "chronological_halves": [
+        {
+          "n": 58,
+          "gross_mean_pct": 0.490939445011096
+        },
+        {
+          "n": 59,
+          "gross_mean_pct": 0.07891256157818649
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 39,
+          "gross_mean_pct": 0.3643011268259714
+        },
+        {
+          "n": 39,
+          "gross_mean_pct": 0.3766381639250884
+        },
+        {
+          "n": 39,
+          "gross_mean_pct": 0.10855632319141648
+        }
+      ],
+      "calendar_quarters_with_trades": 25,
+      "leave_one_quarter_out_min_mean_pct": 0.17842036986278595,
+      "leave_one_quarter_out_max_mean_pct": 0.3450703720554292,
+      "ci95_window_mean_pct": [
+        -0.1356312215478109,
+        0.7058258010282857
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.10143823344572507,
+        0.6420605629327518
+      ]
+    },
+    "frequency_all430": 0.27209302325581397,
+    "old150": {
+      "n": 32,
+      "mean_gross_pct": 0.4640320989606193,
+      "median_gross_pct": 0.117844894561947,
+      "gross_wins": 17,
+      "gross_win_rate": 0.53125,
+      "profit_factor_gross": 1.7307414621353279,
+      "best_gross_pct": 7.994264776166959,
+      "worst_gross_pct": -3.388054488298986,
+      "mean_gross_winner_pct": 2.0687953361742704,
+      "mean_gross_loser_pct": -1.3546995698815187,
+      "sum_trade_percentages_not_portfolio_return": 14.849027166739818,
+      "gross_per_all430_opportunities_pct": 0.03453262131799958,
+      "mean_excluding_best1_pct": 0.22112136743783406,
+      "mean_excluding_best3_pct": 0.010665541456503542,
+      "mean_excluding_best5_pct": -0.20326808451501271,
+      "chronological_halves": [
+        {
+          "n": 16,
+          "gross_mean_pct": 0.6116716001058211
+        },
+        {
+          "n": 16,
+          "gross_mean_pct": 0.3163925978154174
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 11,
+          "gross_mean_pct": 0.5621454559505126
+        },
+        {
+          "n": 11,
+          "gross_mean_pct": 0.3624016064937996
+        },
+        {
+          "n": 10,
+          "gross_mean_pct": 0.46790094798523807
+        }
+      ],
+      "calendar_quarters_with_trades": 19,
+      "leave_one_quarter_out_min_mean_pct": 0.1830991196501927,
+      "leave_one_quarter_out_max_mean_pct": 0.5974619585631221,
+      "ci95_window_mean_pct": [
+        -0.3274136455802967,
+        1.3021176325450912
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.3686012147215104,
+        1.2823821535816062
+      ],
+      "opportunities": 150,
+      "frequency": 0.21333333333333335,
+      "gross_per_opportunity_pct": 0.0989935144449321
+    },
+    "new280": {
+      "n": 85,
+      "mean_gross_pct": 0.21507413855313828,
+      "median_gross_pct": 0.21860909960378372,
+      "gross_wins": 48,
+      "gross_win_rate": 0.5647058823529412,
+      "profit_factor_gross": 1.3281882656983406,
+      "best_gross_pct": 8.121677495570001,
+      "worst_gross_pct": -8.725902139628106,
+      "mean_gross_winner_pct": 1.5413542723118294,
+      "mean_gross_loser_pct": -1.5055054944311101,
+      "sum_trade_percentages_not_portfolio_return": 18.281301777016754,
+      "gross_per_all430_opportunities_pct": 0.0425146552953878,
+      "mean_excluding_best1_pct": 0.12094790811246134,
+      "mean_excluding_best3_pct": -0.017351283800349646,
+      "mean_excluding_best5_pct": -0.1256093790546413,
+      "chronological_halves": [
+        {
+          "n": 42,
+          "gross_mean_pct": 0.4449462430702484
+        },
+        {
+          "n": 43,
+          "gross_mean_pct": -0.009452103068224978
+        }
+      ],
+      "chronological_thirds": [
+        {
+          "n": 29,
+          "gross_mean_pct": 0.30058478518634957
+        },
+        {
+          "n": 28,
+          "gross_mean_pct": 0.4037702106539468
+        },
+        {
+          "n": 28,
+          "gross_mean_pct": -0.062186531846353255
+        }
+      ],
+      "calendar_quarters_with_trades": 24,
+      "leave_one_quarter_out_min_mean_pct": 0.08163690674948194,
+      "leave_one_quarter_out_max_mean_pct": 0.31527159698875384,
+      "ci95_window_mean_pct": [
+        -0.2800632325640712,
+        0.7003807400769279
+      ],
+      "ci95_quarter_cluster_mean_pct": [
+        -0.2929285998287971,
+        0.6878802080462256
+      ],
+      "opportunities": 280,
+      "frequency": 0.30357142857142855,
+      "gross_per_opportunity_pct": 0.06529036348934557
+    }
+  }
+]

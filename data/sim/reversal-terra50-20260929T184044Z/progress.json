@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "accepted": 50,
+  "planned_this_batch": 50,
+  "planned_canonical_windows": 50,
+  "authorized_case_range": [
+    1,
+    50
+  ],
+  "pending_unrequested_case_range": null,
+  "missing_requested_pairs": [],
+  "models": {
+    "gpt-5.6-terra": 50
+  },
+  "attempts": 50,
+  "excluded_attempts": [],
+  "updated_at": "2026-09-29T18:43:37.030773+00:00",
+  "scored_decisions": 50,
+  "strategy_trades": 50,
+  "report": "data/sim/reversal-terra50-20260929T184044Z/index.html",
+  "ledger": "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl"
+}

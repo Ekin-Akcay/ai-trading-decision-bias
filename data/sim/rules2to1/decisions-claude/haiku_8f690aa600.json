@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.35,
+  "confidence": 0.62,
+  "reason": "Rejection at 101.34, low volume consolidation, failed rally"
+}

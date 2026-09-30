@@ -1,0 +1,1 @@
+Static review caught favorable target-gap open improvement in this rejected discovery family. Corrected target gaps to the conservative target price and replayed all108policies. Initial artifacts retained in initial_favorable_gap_tp/. Neither selected finalist uses this family; fresh protocol/inputs unchanged. Correction made before fresh outcomes.

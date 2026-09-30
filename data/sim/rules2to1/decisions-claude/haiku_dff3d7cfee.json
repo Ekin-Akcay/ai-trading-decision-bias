@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "confidence": 0.56,
+  "reason": "Below MAs in downtrend; consolidation before leg down"
+}

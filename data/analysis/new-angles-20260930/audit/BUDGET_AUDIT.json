@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-09-29T22:15:39.266287+00:00",
+  "budget_file": "data/analysis/gross-edge-20260929/snapshot_budget.json",
+  "sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "authorized_maximum_attempts": 800,
+  "physical_attempts": 771,
+  "remaining": 29,
+  "new_angle_calls": 0,
+  "current_authorization": "No model/API/trade calls in this data-only phase",
+  "preserved": true
+}

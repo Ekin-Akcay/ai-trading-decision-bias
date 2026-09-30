@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "existing_primary_AI_windows": 1020,
+  "new_trade_snapshot_calls": 0,
+  "new_sampled_market_moments": 0,
+  "budget_attempts_used": 771,
+  "budget_attempts_remaining": 29,
+  "original_candidates": 11,
+  "original_controls_comparators": 26,
+  "post_score_diagnostics": 7,
+  "total_vectors": 44,
+  "unique_vectors": 43,
+  "retained_exploratory_lead": "quiet_up_extension_short__noAI",
+  "lead_trades": 56,
+  "lead_entry_time_clusters": 46,
+  "lead_mean_gross_pct": 0.39211978361698946,
+  "verified_profitable_strategies": 0,
+  "numerical_audits_passed": [
+    "volume_final_audit.json",
+    "volume_diagnostics_final_audit.json",
+    "market_reaction_final_audit.json",
+    "managed_exits_final_audit.json",
+    "joint_final_audit.json",
+    "published_lead_audit.json"
+  ],
+  "all_checked_previous_sources_unchanged": true,
+  "old_sources_checked": 36,
+  "report_links_valid": true,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6"
+}

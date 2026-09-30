@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.8,
+  "confidence": 0.58,
+  "reason": "Grinding higher above MA20/MA50 after base; target prior swing high, stop below recent support."
+}

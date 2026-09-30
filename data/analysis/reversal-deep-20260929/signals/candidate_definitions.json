@@ -1,0 +1,814 @@
+[
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "none",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "none",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "above_both",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "below_both",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "sol_up",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_up",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 0,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 15,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 30,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 105,
+    "family": "market"
+  },
+  {
+    "side": "short",
+    "gate": "both_down",
+    "wait": 30,
+    "hold": 240,
+    "family": "market"
+  },
+  {
+    "side": "long",
+    "gate": "low_conf",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "long",
+    "gate": "high_conf",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "long",
+    "gate": "stop_below_atr",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "long",
+    "gate": "stop_at_least_atr",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "short",
+    "gate": "low_conf",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "short",
+    "gate": "high_conf",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "short",
+    "gate": "stop_below_atr",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  },
+  {
+    "side": "short",
+    "gate": "stop_at_least_atr",
+    "wait": 0,
+    "hold": 105,
+    "family": "AI_metadata"
+  }
+]

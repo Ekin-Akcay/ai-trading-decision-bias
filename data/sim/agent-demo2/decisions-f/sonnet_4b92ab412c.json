@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.45,
+  "take_profit_pct": 0.75,
+  "confidence": 0.55,
+  "reason": "Pullback to MA20/50 zone with hammer rejection and fading volume; buying uptrend dip."
+}

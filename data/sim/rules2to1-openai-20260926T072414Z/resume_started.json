@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-09-29T12:06:24.293401+00:00",
+  "initial_ledger_sha256": "20fbfae36512375a7a97b5758ae341ed621bde13984592378c1d2c9b27d3fec1",
+  "initial_ledger_rows": 86,
+  "initial_accepted": 89,
+  "parallel_workers": 8,
+  "runner": "Codex exec",
+  "protocol_unchanged": true,
+  "model_ids_unchanged": true,
+  "reasoning_effort": "medium",
+  "harness_change": "Direct text/image attachment; disabled tools; empty per-decision cwd; actual single-turn transcripts audited."
+}

@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.75,
+  "confidence": 0.6,
+  "reason": "Price below MA50, in downtrend, low volume confirms weak bulls"
+}

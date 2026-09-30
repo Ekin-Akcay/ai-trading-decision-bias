@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.62,
+  "reason": "Below MA20/MA50, high-volume breakdown to range lows, bearish momentum favors further downside."
+}

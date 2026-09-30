@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.8,
+  "confidence": 0.6,
+  "reason": "Pullback to 61.8% retrace of high-volume breakout; above MA20/MA50, dip volume fading, uptrend intact."
+}

@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 1.5,
+  "confidence": 0.7,
+  "reason": "Price below both MAs, downtrend from -20, institutional selling at -8"
+}

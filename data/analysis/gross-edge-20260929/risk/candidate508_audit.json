@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "candidate": "S508",
+  "old_windows": 150,
+  "newer_windows": 280,
+  "native_minute_scalar_replays": 1290,
+  "field_comparisons": 10320,
+  "max_numeric_error": 0.0,
+  "primary_matches_saved_grid": true,
+  "stop_target_recenter_on_delayed_open": true,
+  "timeout_stays_original_plus240": true,
+  "model_calls": 0
+}

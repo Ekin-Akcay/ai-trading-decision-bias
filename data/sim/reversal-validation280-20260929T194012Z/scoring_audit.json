@@ -1,0 +1,10 @@
+{
+  "source_files_unchanged": 27,
+  "all280input_hashes_match": true,
+  "protocol_matches": true,
+  "minute_coverage_checks": 280,
+  "permutation_diagonal_checks": 280,
+  "canonical_original_bracket_horizon_minutes": 1440,
+  "strategy_trade_count": 176,
+  "all_decisions_before_evaluation": true
+}

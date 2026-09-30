@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "accepted": 270,
+  "planned_this_batch": 270,
+  "planned_canonical_windows": 270,
+  "authorized_case_range": [
+    1,
+    270
+  ],
+  "pending_unrequested_case_range": null,
+  "missing_requested_pairs": [],
+  "models": {
+    "gpt-5.6-terra": 270
+  },
+  "attempts": 270,
+  "excluded_attempts": [],
+  "updated_at": "2026-09-29T21:14:49.595895+00:00",
+  "evaluation": "complete",
+  "independent_audits": "passed",
+  "physical_attempts": 270,
+  "unique_market_windows": 90
+}

@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.6,
+  "reason": "Below MAs, downtrend with high-volume confirmation, downside bias"
+}

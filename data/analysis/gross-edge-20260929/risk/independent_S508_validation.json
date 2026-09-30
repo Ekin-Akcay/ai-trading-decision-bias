@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "run_id": "gross-edge-500-20260929T204545Z",
+  "release_explicit": "gross-edge-500-20260929T204545Z",
+  "evaluation_marker_checked": true,
+  "accepted_decisions": 500,
+  "assets": [
+    "BTC-USD",
+    "DOGE-USD",
+    "ETH-USD",
+    "SOL-USD"
+  ],
+  "calendar_blocks": 125,
+  "S508_selected": 171,
+  "S508_eligible": 209,
+  "native_scalar_replays": 2000,
+  "field_comparisons": 30272,
+  "maximum_numeric_error": 4.263256414560601e-14,
+  "full_minute_paths_checked": 500,
+  "minute_bars_per_path": 361,
+  "pre_entry_200bar_history_checks": 500,
+  "ATR_MA_checks": 1500,
+  "primary_all_window_outcomes": {
+    "sl": 144,
+    "timeout": 143,
+    "tp": 213
+  },
+  "MFE_MAE_include_entry": true,
+  "gross_equals_zero_cost_net": true,
+  "delayed_stops_recentered": true,
+  "mirrored_brackets_independently_replayed": true,
+  "original_files_preserved": true,
+  "strategy_ledger_sha256": "19863cf06ca9c0152387044c4d3c3bf199d258327cf6bd3e5ebc00748eda86f7",
+  "accepted_decisions_sha256": "39b106aa62710a12a75245a1843a288706441f72698aac27f4d1672b1ef3a568",
+  "checker_sha256": "e39bc88bbc7955b4447de59358686f52a873435152a1242e3ce4b06967e72473"
+}

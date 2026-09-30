@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "existing_predictions_reproduced": 803,
+  "maximum_probability_error": 5.412337245047638e-14,
+  "no_refits": true,
+  "no_new_outcomes_read": true,
+  "sha256": {
+    "frozen_proxy.py": "b72928cf841a703845bd2ce3311b7388ec3e0bf5e0d7a4f24c90bafd1096616f",
+    "model_fits.json": "639c2851916e374b460cd124489c8596eab661d358bcb80fc0cf5156cde78f33",
+    "PROXY_HANDOFF.md": "aef4d6be7c2342ca6c32e2355cecfd748d564683f06ba1cc8055ebe99990d1b1"
+  }
+}

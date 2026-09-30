@@ -1,0 +1,32 @@
+{
+  "file": "data/analysis/same-moment-patterns-20260930/managed_exits/joint_family_vectors.npz",
+  "sha256": "02d1c92d299d07abff294ecaaeb0683bca06982900f315bcbb4ad342dc54b4a8",
+  "returns_pct_shape": [
+    1020,
+    5
+  ],
+  "axis_order": [
+    "window",
+    "policy"
+  ],
+  "units": "gross percentage points per original position notional",
+  "selected": "All 1020 opportunities are entered by every policy.",
+  "policy": [
+    "BE_after_1ATR",
+    "TRAIL_1ATR_after_1ATR",
+    "HALF_at_1ATR_then_BE",
+    "FIXED_1ATR_stop",
+    "RAW_hold_240"
+  ],
+  "role": [
+    "candidate",
+    "candidate",
+    "candidate",
+    "control",
+    "control"
+  ],
+  "window_id": "Identical order to target_exhaustion/windows.csv.",
+  "quarter": "UTC entry-time calendar quarter, YYYYQn; shared with source windows.csv.",
+  "new_model_calls": 0,
+  "source_files_modified": false
+}

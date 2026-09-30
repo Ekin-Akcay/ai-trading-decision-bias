@@ -1,0 +1,20 @@
+{
+  "status": "discovery_recommendation_for_new_locked_validation",
+  "source_candidate": "048_long_both_down_confirm0_hold240",
+  "model": "gpt-5.6-terra",
+  "model_prompt": "unchanged v2 MA-present forced2to1 no-flat",
+  "trigger_ai_action": "short",
+  "strategy_action": "long",
+  "macro_reference": "previous completed UTC day only",
+  "asset_macro_gate": "asset daily close <= trailing50-day simple moving average",
+  "BTC_macro_gate": "BTC daily close <= trailing200-day simple moving average",
+  "entry": "first native1m open after last visible15m candle closes",
+  "hold_minutes_after_actual_entry": 240,
+  "exit": "native1m close at exact elapsed240minutes",
+  "stop_or_target": null,
+  "fees_bps": 0,
+  "current_evidence_asset": "SOL-USD",
+  "multiasset_transport_is_untested": true,
+  "current430_windows_are_discovery": true,
+  "maximum_proposed_long_primaries": 1
+}

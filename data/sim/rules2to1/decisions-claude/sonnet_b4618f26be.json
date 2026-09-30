@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.55,
+  "confidence": 0.55,
+  "reason": "Uptrend intact above rising MA50; low-volume consolidation looks like a bull flag before breakout continuation."
+}

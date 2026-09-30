@@ -1,0 +1,30 @@
+# Asset universe. Pulled by scripts/pull_data.py into data/raw/<name>.csv
+start_date: "2018-01-01"
+
+universe:
+  crypto:
+    - BTC-USD
+    - ETH-USD
+    - SOL-USD
+    - DOGE-USD
+  equities_attention:
+    - AAPL
+    - NVDA
+    - TSLA
+    - GME
+  equities_index:
+    - SPY
+    - QQQ
+    - IWM
+  commodities:
+    - GLD
+    - USO
+    - DBC
+
+# Round-trip cost hurdle, per SIDE, in basis points (see docs/04 §4)
+costs_bps_per_side:
+  crypto: 10
+  equities_attention: 10
+  equities_index: 5
+  commodities: 5
+  default: 10

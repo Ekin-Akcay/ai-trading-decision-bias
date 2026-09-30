@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.5,
+  "confidence": 0.55,
+  "reason": "Bounce off MA50 support after low-volume pullback from breakout high; targeting retest of MA20."
+}

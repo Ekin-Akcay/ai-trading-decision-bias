@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:51:47.370859+00:00",
+  "windows": 1020,
+  "volume_coverage_valid": 1019,
+  "volume_exclusions": [
+    {
+      "window_id": "72c5a0798c",
+      "asset": "SOL-USD",
+      "volume_exclusion": "missing_or_nonfinite_volume"
+    }
+  ],
+  "native_volume_history_and_observation_recomputed": true,
+  "all14_signal_masks_and_payoffs_match": true,
+  "all20000_quarter_conditional_and_opportunity_arrays_match": true,
+  "all8_paired_control_intervals_match": true,
+  "selected_ledger_records_checked": 1923,
+  "all_entry_exit_times_and_excursions_match": true,
+  "all_local_screen_flags_match": true,
+  "stronger_leads": [],
+  "source_hashes_preserved": true,
+  "physical_calls": 771,
+  "remaining_calls": 29,
+  "new_model_calls": 0
+}

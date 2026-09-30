@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "synthetic_resamples_per_scenario": 250,
+  "scenarios": {
+    "partial_selection": true,
+    "all_eligible_selected": true,
+    "no_selection": true
+  },
+  "method": "Explicit duplication of complete groups and direct within-stratum means, compared with aggregate matrix estimator",
+  "fresh_data_or_model_outputs_read": false
+}

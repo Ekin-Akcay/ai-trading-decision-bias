@@ -1,0 +1,129 @@
+{
+  "sample_windows": 100,
+  "daily_regime_windows": 31,
+  "majority_short_windows": 69,
+  "regime_plus_majority_short_windows": 19,
+  "results": [
+    {
+      "policy": "Primary: bullish regime + bearish AI + recovery",
+      "trade_windows": 9,
+      "gross_mean_pct": -0.06974209097613507,
+      "net_mean_pct": -0.2697420909761351,
+      "gross_median_pct": -0.14239750533989737,
+      "gross_positive_count": 3,
+      "gross_mean_ci95_pct": [
+        -0.6571609638292479,
+        0.7551895803049017
+      ],
+      "gross_mean_per_sampled_window_pct": -0.006276788187852156,
+      "early_half_gross_pct": -0.3869836789827469,
+      "late_half_gross_pct": 0.1840511794291544,
+      "case_ids": [
+        8,
+        98,
+        60,
+        16,
+        97,
+        40,
+        48,
+        61,
+        86
+      ]
+    },
+    {
+      "policy": "Control: bullish regime + recovery; no AI",
+      "trade_windows": 17,
+      "gross_mean_pct": -0.3045259814384892,
+      "net_mean_pct": -0.5045259814384893,
+      "gross_median_pct": -0.14239750533989737,
+      "gross_positive_count": 6,
+      "gross_mean_ci95_pct": [
+        -0.8178410337094237,
+        0.262260478511014
+      ],
+      "gross_mean_per_sampled_window_pct": -0.05176941684454316,
+      "early_half_gross_pct": -0.39900866581766975,
+      "late_half_gross_pct": -0.2205413731014399,
+      "case_ids": [
+        8,
+        53,
+        98,
+        60,
+        31,
+        16,
+        24,
+        97,
+        19,
+        40,
+        57,
+        48,
+        39,
+        70,
+        61,
+        26,
+        86
+      ]
+    },
+    {
+      "policy": "Diagnostic: bearish AI + recovery; no daily filter",
+      "trade_windows": 35,
+      "gross_mean_pct": -0.012513698857295566,
+      "net_mean_pct": -0.21251369885729557,
+      "gross_median_pct": 0.011296882060563007,
+      "gross_positive_count": 18,
+      "gross_mean_ci95_pct": [
+        -0.33776149470618083,
+        0.3299675780967031
+      ],
+      "gross_mean_per_sampled_window_pct": -0.004379794600053448,
+      "early_half_gross_pct": -0.2306191395735023,
+      "late_half_gross_pct": 0.1934747729302331,
+      "case_ids": [
+        58,
+        15,
+        44,
+        80,
+        8,
+        98,
+        60,
+        30,
+        85,
+        1,
+        18,
+        67,
+        73,
+        3,
+        2,
+        28,
+        16,
+        43,
+        97,
+        96,
+        40,
+        48,
+        95,
+        34,
+        62,
+        61,
+        84,
+        63,
+        7,
+        10,
+        41,
+        89,
+        69,
+        100,
+        86
+      ]
+    }
+  ],
+  "caveats": [
+    "Exploratory reused100windows",
+    "Primary and controls use different event subsets; not causal paired model attribution",
+    "Very small selected groups cannot establish reliable profitability",
+    "Daily-filter inputs strictly from previous completed UTC day",
+    "Signal on15m close; entry next1m open; exit105m after actual entry",
+    "No stops or targets;20bps cost assumption; no extra slippage/funding",
+    "Whole-window bootstrap intervals descriptive, not multiplicity-adjusted or prospective validation"
+  ]
+}

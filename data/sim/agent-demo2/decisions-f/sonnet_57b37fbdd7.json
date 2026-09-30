@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.7,
+  "take_profit_pct": 1.4,
+  "confidence": 0.55,
+  "reason": "Uptrend decelerating: shrinking bodies, fading volume, rejected wick at 100 round-number resistance; fade for pullback."
+}

@@ -1,0 +1,83 @@
+{
+  "prior_unique": 156,
+  "history_hours": 50,
+  "max_future_hours": 24,
+  "new_new_gap_hours": 74,
+  "new_after_old_gap_hours": 122,
+  "new_before_old_gap_hours": 74,
+  "coverage_valid_bars": 209526,
+  "regimes": {
+    "all": {
+      "candidate_bars": 99250,
+      "max_chrono_greedy": 393,
+      "random_greedy_full_capacity": [
+        306,
+        308,
+        311
+      ],
+      "first280_or_all_year_counts": {
+        "2023": 47,
+        "2025": 49,
+        "2024": 49,
+        "2026": 29,
+        "2021": 51,
+        "2022": 44,
+        "2020": 11
+      }
+    },
+    "aboveboth": {
+      "candidate_bars": 38907,
+      "max_chrono_greedy": 368,
+      "random_greedy_full_capacity": [
+        303,
+        307,
+        301
+      ],
+      "first280_or_all_year_counts": {
+        "2020": 12,
+        "2025": 50,
+        "2022": 43,
+        "2021": 45,
+        "2024": 49,
+        "2023": 49,
+        "2026": 32
+      }
+    },
+    "belowboth": {
+      "candidate_bars": 39196,
+      "max_chrono_greedy": 379,
+      "random_greedy_full_capacity": [
+        304,
+        306,
+        305
+      ],
+      "first280_or_all_year_counts": {
+        "2023": 52,
+        "2025": 52,
+        "2021": 47,
+        "2020": 12,
+        "2026": 30,
+        "2024": 46,
+        "2022": 41
+      }
+    },
+    "mixed": {
+      "candidate_bars": 21147,
+      "max_chrono_greedy": 383,
+      "random_greedy_full_capacity": [
+        312,
+        313,
+        309
+      ],
+      "first280_or_all_year_counts": {
+        "2025": 51,
+        "2022": 43,
+        "2024": 50,
+        "2020": 12,
+        "2021": 47,
+        "2026": 32,
+        "2023": 45
+      }
+    }
+  }
+}

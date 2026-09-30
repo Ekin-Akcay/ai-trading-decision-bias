@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.6,
+  "take_profit_pct": 1.2,
+  "confidence": 0.55,
+  "reason": "Uptrend pullback on shrinking volume, holding above MA50 and range support; favors long continuation."
+}

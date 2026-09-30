@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.6,
+  "reason": "Below MA20/MA50; bounce from lows on weak volume into resistance, downtrend likely resumes"
+}

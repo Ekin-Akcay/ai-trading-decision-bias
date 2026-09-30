@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "native_clock_sign_MFE_MAE": true,
+  "fixed_effect_known_slope_and_undefined_draw": true,
+  "actual_post_entry_data_read": false
+}

@@ -1,0 +1,7 @@
+{
+  "action": "flat",
+  "stop_loss_pct": 0,
+  "take_profit_pct": 0,
+  "confidence": 0.55,
+  "reason": "Range-bound chop; violent spike-reject already unwound; price back at MA20/MA50 midpoint with fading volume, no edge."
+}

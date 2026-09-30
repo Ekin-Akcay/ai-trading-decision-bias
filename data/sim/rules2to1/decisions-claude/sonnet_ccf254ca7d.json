@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.8,
+  "confidence": 0.6,
+  "reason": "Price below MA20/MA50 in clear downtrend; shorting momentum despite short-term lower-wick support."
+}

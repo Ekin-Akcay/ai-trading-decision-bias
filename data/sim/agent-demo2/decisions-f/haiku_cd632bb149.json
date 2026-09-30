@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 1.25,
+  "confidence": 0.65,
+  "reason": "Price below MA20/MA50 in downtrend, weak volume"
+}

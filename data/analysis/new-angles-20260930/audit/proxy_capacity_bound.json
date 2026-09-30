@@ -1,0 +1,21 @@
+{
+  "calendar_exposures": 681,
+  "coverage_basis": "Previously audited all-four200barhistory/361mincoverage mask, including dailyavailability; conservative for4hprice-only study. No new returns read.",
+  "cases": {
+    "future6h_spacing56h": {
+      "candidate_grid_entries": 16584,
+      "maximum_chronological_nonoverlap_blocks": 234,
+      "available_quarters": 19
+    },
+    "future4h_spacing56h": {
+      "candidate_grid_entries": 18515,
+      "maximum_chronological_nonoverlap_blocks": 266,
+      "available_quarters": 19
+    },
+    "future4h_spacing54h": {
+      "candidate_grid_entries": 18515,
+      "maximum_chronological_nonoverlap_blocks": 268,
+      "available_quarters": 19
+    }
+  }
+}

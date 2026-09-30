@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "long_cases": 18,
+  "short_reflections": 18,
+  "cases": [
+    {
+      "case": "BE update cannot stop same bar",
+      "passed": true,
+      "gross_pct": 0.5
+    },
+    {
+      "case": "BE activation adverse open actual fill",
+      "passed": true,
+      "gross_pct": -1.5
+    },
+    {
+      "case": "Trail beyond completed close fills next open",
+      "passed": true,
+      "gross_pct": 0.5
+    },
+    {
+      "case": "Partial intrabar both levels stop first",
+      "passed": true,
+      "gross_pct": -1.0
+    },
+    {
+      "case": "Partial target at open then old stop",
+      "passed": true,
+      "gross_pct": 0.0
+    },
+    {
+      "case": "Partial favor gap caps half at limit",
+      "passed": true,
+      "gross_pct": 1.5
+    },
+    {
+      "case": "Partial BE effective only subsequent minute",
+      "passed": true,
+      "gross_pct": 0.5
+    },
+    {
+      "case": "Trailing ratchet advances after completed bars",
+      "passed": true,
+      "gross_pct": 2.0
+    },
+    {
+      "case": "Fixed stop does not become BE",
+      "passed": true,
+      "gross_pct": 0.20000000000000281
+    },
+    {
+      "case": "Stop gap losses not capped",
+      "passed": true,
+      "gross_pct": -3.0
+    },
+    {
+      "case": "Exact stop open is not beyond stop",
+      "passed": true,
+      "gross_pct": -1.0
+    },
+    {
+      "case": "Raw hold ignores stop and target",
+      "passed": true,
+      "gross_pct": 3.0
+    },
+    {
+      "case": "Entry is first open not previous close",
+      "passed": true,
+      "gross_pct": 0.5
+    },
+    {
+      "case": "Inclusive stop contact survives one ULP",
+      "passed": true,
+      "gross_pct": -1.0
+    },
+    {
+      "case": "Inclusive target contact survives one ULP",
+      "passed": true,
+      "gross_pct": 0.5
+    },
+    {
+      "case": "Inclusive trigger contact survives one ULP",
+      "passed": true,
+      "gross_pct": 0.0
+    },
+    {
+      "case": "Opening contact roundoff is not adverse gap",
+      "passed": true,
+      "gross_pct": -1.0000000000000142
+    },
+    {
+      "case": "Real stop miss is outside machine tolerance",
+      "passed": true,
+      "gross_pct": 0.09999999999999432
+    }
+  ],
+  "native_boundary_regression": {
+    "window_id": "828f59aa38",
+    "policy": "TRAIL_1ATR_after_1ATR",
+    "passed": true,
+    "gross_pct": 0.015455950540952279,
+    "exit_minute_index": 28
+  }
+}

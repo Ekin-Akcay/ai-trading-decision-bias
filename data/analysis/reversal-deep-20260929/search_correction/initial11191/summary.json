@@ -1,0 +1,35 @@
+{
+  "definitions": 11191,
+  "unique_return_vectors": 9246,
+  "windows": 280,
+  "quarters": 24,
+  "replicates": 20000,
+  "seed": 2026092940,
+  "testable": 11191,
+  "family_counts": {
+    "risk": 10815,
+    "signals": 232,
+    "confirmation": 144
+  },
+  "max_t_95critical": 3.8363793017095564,
+  "largest_observed_t": 1.8764596712718784,
+  "global_maxT_p": 0.9746512674366282,
+  "any_passing_5pct": 0,
+  "any_passing_adequate_count": 0,
+  "top_policy": {
+    "family": "signals",
+    "policy": "signals:048_long_both_down_confirm0_hold240:selected",
+    "executed": 65,
+    "contains_AI": true,
+    "mean_net_per_opportunity_pct": 0.077798557630018,
+    "mean_net_per_trade_pct": 0.33513224825238525,
+    "cluster_se_per_opportunity_pct": 0.04146028759428949,
+    "t": 1.8764596712718784,
+    "p_nominal_cluster": 0.034848257587120644,
+    "p_maxT_familywise": 0.9746512674366282,
+    "simultaneous95_lower_opportunity_pct": -0.0812588315396397,
+    "testable": true,
+    "adequate_n50": true
+  },
+  "stage": "retrospective exploratory reuse after primaryvalidation, not fresh confirmation"
+}

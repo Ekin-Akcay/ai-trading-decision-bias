@@ -1,0 +1,27 @@
+{
+  "status": "descriptive_posthoc_followup",
+  "below_both": {
+    "windows": 50,
+    "correct15": 34,
+    "wrong15": 15,
+    "tie15": 1,
+    "correct105": 24,
+    "early_correct_late_wrong": 15,
+    "median_signed15_pct": 0.15799745838639964,
+    "median_signed105_pct": -0.0098716729748704,
+    "mean_signed15_pct": 0.20093702368279964,
+    "mean_signed105_pct": 0.25832310375600404,
+    "mean_signed105_excluding_best3_pct": 0.04731042968240711,
+    "best3_contribution_to_total_signed_movement": 0.8278442645863069,
+    "mean_105_winner_pct": 1.2252607362149197,
+    "mean_105_loser_pct": -0.6342347108214567
+  },
+  "zero_first_candle_case": [
+    {
+      "case": 51.0,
+      "window_id": "b77bca3006"
+    }
+  ],
+  "correction": "Correction: the earlier 70% / 35-of-50 statement counted one exactly unchanged first-candle close as a decline. The correct result is 34/50 (68%), with 15 adverse and one unchanged; 34/49 (69.4%) if the tie is excluded. Seven-candle correctness remains 24/50 (48%). Return values and existing return-based tests are unchanged.",
+  "caveat": "Removing the best3 is an outlier sensitivity, not a proposed selection rule. These reused windows do not independently validate an AI signal."
+}

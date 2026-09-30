@@ -1,0 +1,222 @@
+[
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "claude-sonnet-agent",
+    "disagreement_windows": 32,
+    "mean_difference_atr": 0.6337830705295022,
+    "ci_atr": [
+      -0.6231518562936224,
+      1.9176178456907385
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "disagreement_windows": 20,
+    "mean_difference_atr": -0.8837772273205848,
+    "ci_atr": [
+      -2.349849178972215,
+      0.4517069722297392
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 14,
+    "mean_difference_atr": -0.8250397860808512,
+    "ci_atr": [
+      -2.672810758696974,
+      0.9204537796761001
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 12,
+    "mean_difference_atr": -0.7859249107515889,
+    "ci_atr": [
+      -2.9643310799069007,
+      1.242023417529226
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "disagreement_windows": 22,
+    "mean_difference_atr": -1.7552378360304859,
+    "ci_atr": [
+      -3.330863450089958,
+      -0.31679448293138385
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 17,
+    "mean_difference_atr": -0.7959898559431253,
+    "ci_atr": [
+      -2.310812971996174,
+      0.5023880138207921
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 21,
+    "mean_difference_atr": -0.8933895097404646,
+    "ci_atr": [
+      -2.5050545345815767,
+      0.49336361909488885
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 7,
+    "mean_difference_atr": 0.6461992628926575,
+    "ci_atr": [
+      -1.2510087519692874,
+      3.0137989145515065
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 10,
+    "mean_difference_atr": 1.050697435302474,
+    "ci_atr": [
+      -0.3320620473904633,
+      2.699052384940572
+    ]
+  },
+  {
+    "protocol": "v1",
+    "model1": "gpt-5.6-terra-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 4,
+    "mean_difference_atr": 1.2877184003067312,
+    "ci_atr": [
+      0.6138990429313668,
+      1.9615377576820956
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "claude-sonnet-agent",
+    "disagreement_windows": 34,
+    "mean_difference_atr": 0.37816130437909384,
+    "ci_atr": [
+      -0.7649938506177968,
+      1.5900084448191085
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "disagreement_windows": 23,
+    "mean_difference_atr": -0.7619910214146219,
+    "ci_atr": [
+      -1.7748857715384072,
+      0.1668756645820735
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 21,
+    "mean_difference_atr": -0.5823777628329623,
+    "ci_atr": [
+      -1.7691530709880412,
+      0.5225182274939236
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-haiku-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 20,
+    "mean_difference_atr": -0.8945936435307777,
+    "ci_atr": [
+      -1.9536913699762515,
+      0.047927508870377535
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-luna-agent",
+    "disagreement_windows": 25,
+    "mean_difference_atr": -1.2153311136570197,
+    "ci_atr": [
+      -2.6015268282872195,
+      0.04608996912573779
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 25,
+    "mean_difference_atr": -1.0034966947352562,
+    "ci_atr": [
+      -2.464530476733893,
+      0.30497606512399994
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "claude-sonnet-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 26,
+    "mean_difference_atr": -1.1826675853655666,
+    "ci_atr": [
+      -2.565110147163251,
+      -0.025749344359687926
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-5.6-terra-agent",
+    "disagreement_windows": 8,
+    "mean_difference_atr": 0.6619825591305122,
+    "ci_atr": [
+      -0.6688741745401005,
+      2.117411609373856
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-luna-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 11,
+    "mean_difference_atr": -0.033279943461749804,
+    "ci_atr": [
+      -1.0369595161755292,
+      1.136030531441777
+    ]
+  },
+  {
+    "protocol": "v2",
+    "model1": "gpt-5.6-terra-agent",
+    "model2": "gpt-6-astra-agent",
+    "disagreement_windows": 9,
+    "mean_difference_atr": -0.6291044279025939,
+    "ci_atr": [
+      -2.0458586183467067,
+      0.9054957947513635
+    ]
+  }
+]

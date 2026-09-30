@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 2.2,
+  "confidence": 0.6,
+  "reason": "Uptrend above rising MA20/MA50; shallow dip bought near 100 round number, but rally volume soft."
+}

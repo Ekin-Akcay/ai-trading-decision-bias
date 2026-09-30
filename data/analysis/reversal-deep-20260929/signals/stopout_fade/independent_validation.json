@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "independent_original_first_exit_checks": 13760,
+  "independent_new_trade_entry_exit_payoff_checks": 7468,
+  "all430_paths_finite_positive": true,
+  "family_rows": 48,
+  "family_summary_checks": 48,
+  "fresh_selected_ambiguous_counts_by_policy": {
+    "01_long_wait105_hold60_time": 0,
+    "02_long_wait105_hold60_ATR1_RR2": 0,
+    "03_long_wait105_hold240_time": 0,
+    "04_long_wait105_hold240_ATR1_RR2": 0,
+    "05_long_wait240_hold60_time": 0,
+    "06_long_wait240_hold60_ATR1_RR2": 0,
+    "07_long_wait240_hold240_time": 0,
+    "08_long_wait240_hold240_ATR1_RR2": 0,
+    "09_short_wait105_hold60_time": 0,
+    "10_short_wait105_hold60_ATR1_RR2": 0,
+    "11_short_wait105_hold240_time": 0,
+    "12_short_wait105_hold240_ATR1_RR2": 0,
+    "13_short_wait240_hold60_time": 0,
+    "14_short_wait240_hold60_ATR1_RR2": 0,
+    "15_short_wait240_hold240_time": 0,
+    "16_short_wait240_hold240_ATR1_RR2": 0
+  },
+  "original_trigger_ambiguity_sensitivity_saved": true,
+  "primary_results_unchanged": true
+}

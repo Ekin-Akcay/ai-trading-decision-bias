@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.45,
+  "confidence": 0.62,
+  "reason": "Breakdown below MA20/MA50 with rising volume on down bar; downtrend momentum favors further downside continuation."
+}

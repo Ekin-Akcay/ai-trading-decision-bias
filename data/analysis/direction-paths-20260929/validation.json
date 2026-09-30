@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "ai_decisions": 1052,
+  "main_decisions": 1000,
+  "unique_windows": 120,
+  "main_windows": 100,
+  "native_15m_future_close_checks": 840,
+  "max_abs_future_close_error_percentage_points": 0.0,
+  "entry_price_checks": 120,
+  "complete_1440_minute_windows": 120,
+  "unchanged_source_files": 19,
+  "source_hash_mismatches": [],
+  "nearby_72h_pairs_kept_in_same_CV_fold": 10,
+  "report_windows": 120,
+  "report_decisions": 1052,
+  "original_chart_links_valid": true,
+  "browser_preview_verified": false,
+  "browser_preview_note": "Local-file URL was blocked by browser policy; no alternate browser route attempted.",
+  "javascript_syntax_check": "passed (node --check)"
+}

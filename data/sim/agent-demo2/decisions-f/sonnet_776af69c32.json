@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.5,
+  "confidence": 0.6,
+  "reason": "Bear flag after high-volume selloff; price below MA20/MA50; low-volume consolidation favors downside continuation."
+}

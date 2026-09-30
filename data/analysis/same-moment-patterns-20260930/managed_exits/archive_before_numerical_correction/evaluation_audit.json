@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "source_sha256": {
+    "data/analysis/same-moment-patterns-20260930/managed_exits/PLAN.md": "d205faa042d11434c3d4ace6d97c4204bcc60f1b16e9671267ac4682ef2a7630",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/engine.py": "944da87f18a19861513c65f90b235793f0338418e99a093325b56c637c2949df",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/run.py": "4f5046ef8c8e737bf770e38ac93a2811a6c75427c4f8ee85ef0ad27f419778f3",
+    "data/analysis/same-moment-patterns-20260930/managed_exits/test_synthetic.py": "5b93296e01c0fd5a298a29642ff98ccda71787e67c8714be93018567d15f82d0",
+    "data/analysis/new-angles-20260930/target_exhaustion/windows.csv": "c1346490c90b653450734d67c2c2e9c941397547787c10a901d33115991383db",
+    "data/analysis/new-angles-20260930/target_exhaustion/paths.npz": "4a64efad1bca575f9aa1c11908771cfd6f295c03d95b0f65fe257de0a13f02f4"
+  },
+  "source_windows": 1020,
+  "evaluated_trades": 5100,
+  "candidates": 3,
+  "controls": 2,
+  "events": 10847,
+  "raw_time_control_matches_native": true,
+  "fixed_stop_matches_previous_proven_engine": true,
+  "max_fixed_stop_error_pct": 2.6478819137309983e-14,
+  "max_raw_hold_error_pct": 1.1546319456101628e-14,
+  "no_new_model_calls": true
+}

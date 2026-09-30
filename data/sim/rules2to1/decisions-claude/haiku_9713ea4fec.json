@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.67,
+  "reason": "Price below MAs, downtrend, elevated selling volume, weak structure"
+}

@@ -1,0 +1,10 @@
+{
+  "[isolated-agent]": {
+    "reason": "Mistyped prompt path; cat returned No such file or directory. Agent saw chart but not numeric prompt.",
+    "decision": "Exclude before evaluation for incomplete stimulus; repeat with fresh context."
+  },
+  "[isolated-agent]_clean": {
+    "reason": "Queried cua.getState app inventory despite explicit restriction; outside two permitted stimulus files",
+    "decision": "Exclude before outcome evaluation; retain original attempt; fresh rerun with exact single read-only tool call supplied"
+  }
+}

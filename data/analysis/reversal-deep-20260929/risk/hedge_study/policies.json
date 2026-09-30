@@ -1,0 +1,170 @@
+[
+  {
+    "policy_id": 0,
+    "signal": "reverse_all",
+    "hedge": "zero",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 1,
+    "signal": "reverse_all",
+    "hedge": "half",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 2,
+    "signal": "reverse_all",
+    "hedge": "one",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 3,
+    "signal": "reverse_all",
+    "hedge": "ols",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 4,
+    "signal": "reverse_long_to_short",
+    "hedge": "zero",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 5,
+    "signal": "reverse_long_to_short",
+    "hedge": "half",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 6,
+    "signal": "reverse_long_to_short",
+    "hedge": "one",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 7,
+    "signal": "reverse_long_to_short",
+    "hedge": "ols",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 8,
+    "signal": "reverse_short_to_long",
+    "hedge": "zero",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 9,
+    "signal": "reverse_short_to_long",
+    "hedge": "half",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 10,
+    "signal": "reverse_short_to_long",
+    "hedge": "one",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 11,
+    "signal": "reverse_short_to_long",
+    "hedge": "ols",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 12,
+    "signal": "confirmed_reverse_short_to_long",
+    "hedge": "zero",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 13,
+    "signal": "confirmed_reverse_short_to_long",
+    "hedge": "half",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 14,
+    "signal": "confirmed_reverse_short_to_long",
+    "hedge": "one",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 15,
+    "signal": "confirmed_reverse_short_to_long",
+    "hedge": "ols",
+    "kind": "strategy"
+  },
+  {
+    "policy_id": 16,
+    "signal": "always_long",
+    "hedge": "zero",
+    "kind": "control"
+  },
+  {
+    "policy_id": 17,
+    "signal": "always_long",
+    "hedge": "half",
+    "kind": "control"
+  },
+  {
+    "policy_id": 18,
+    "signal": "always_long",
+    "hedge": "one",
+    "kind": "control"
+  },
+  {
+    "policy_id": 19,
+    "signal": "always_long",
+    "hedge": "ols",
+    "kind": "control"
+  },
+  {
+    "policy_id": 20,
+    "signal": "always_short",
+    "hedge": "zero",
+    "kind": "control"
+  },
+  {
+    "policy_id": 21,
+    "signal": "always_short",
+    "hedge": "half",
+    "kind": "control"
+  },
+  {
+    "policy_id": 22,
+    "signal": "always_short",
+    "hedge": "one",
+    "kind": "control"
+  },
+  {
+    "policy_id": 23,
+    "signal": "always_short",
+    "hedge": "ols",
+    "kind": "control"
+  },
+  {
+    "policy_id": 24,
+    "signal": "confirmed_long_no_AI",
+    "hedge": "zero",
+    "kind": "control"
+  },
+  {
+    "policy_id": 25,
+    "signal": "confirmed_long_no_AI",
+    "hedge": "half",
+    "kind": "control"
+  },
+  {
+    "policy_id": 26,
+    "signal": "confirmed_long_no_AI",
+    "hedge": "one",
+    "kind": "control"
+  },
+  {
+    "policy_id": 27,
+    "signal": "confirmed_long_no_AI",
+    "hedge": "ols",
+    "kind": "control"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "synthetic_cases": 9,
+  "fresh_prices_read": false,
+  "release_not_invoked": true,
+  "cases": [
+    "long/short both-level touches",
+    "adverse gaps",
+    "favorable gaps capped",
+    "pre-entry extremes ignored",
+    "one-minute delayed recenter and entry-minute hit",
+    "fixed-clock timeout after delay",
+    "five-minute delay followed by adverse gap"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "all430_unique": true,
+  "all116_vectors_shape_verified": true,
+  "macro_flags_match_stored_daily_closes_and_SMAs": true,
+  "macro_AI_selection_mask_exact": true,
+  "combined_and_cohort_means_reproduced": true,
+  "quarter_counts_and_gross_sums_match": true,
+  "fees_bps": 0,
+  "new_model_calls": 0
+}

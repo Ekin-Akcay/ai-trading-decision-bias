@@ -1,0 +1,13 @@
+{
+  "fee_assumption": 0,
+  "all_data_is_discovery": true,
+  "risk_policies": 721,
+  "eligible_reversal_cells": 5047,
+  "positive_four_halves": 412,
+  "positive_all_six_thirds": 32,
+  "positive_halves_thirds_exbest3": 8,
+  "hedge_strategy_cells": 16,
+  "hedge_controls": 12,
+  "hedge_notional_conventions": 2,
+  "model_calls": 0
+}

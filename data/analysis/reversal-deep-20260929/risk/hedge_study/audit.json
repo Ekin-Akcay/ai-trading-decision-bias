@@ -1,0 +1,29 @@
+{
+  "stage": "explicitly_exploratory_after_primary_validation",
+  "input_windows": 430,
+  "usable_windows": {
+    "old150": 149,
+    "fresh280": 280
+  },
+  "missing_windows": 1,
+  "strategy_cells": 16,
+  "control_cells": 12,
+  "notional_conventions": 2,
+  "beta_completed_closes": 200,
+  "beta_return_pairs": 199,
+  "maximum_future_close_minutes": 255,
+  "beta_range_clipped": [
+    0,
+    3
+  ],
+  "new_model_calls": 0,
+  "source_hashes_unchanged": {
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff",
+    "data/sim/decisions/reversal-validation280-20260929T194012Z.jsonl": "aaaee2695e6a6e9f1e34a68f7d81f2ae90661d551fb04b9ad15805d697437380"
+  },
+  "plan_sha256": "ce1211c6d5e0a5f7dcbb61e4a60e8737b6037f500337e15530a2c75563f5602e",
+  "positive_four_halves_strategy_SOLnotional": 0,
+  "positive_four_halves_strategy_totalnotional": 0,
+  "seconds": 8.66975736618042
+}

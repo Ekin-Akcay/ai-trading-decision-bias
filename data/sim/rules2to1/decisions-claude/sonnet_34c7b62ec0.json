@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.58,
+  "reason": "Below MA20/MA50 after high-volume breakdown; bounce to round-number 100 likely resistance, downtrend continues."
+}

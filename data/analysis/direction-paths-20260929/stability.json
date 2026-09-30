@@ -1,0 +1,52 @@
+[
+  {
+    "model": "claude-haiku-agent",
+    "n": 100,
+    "same_action": 82,
+    "directional_pairs": 100,
+    "direction_flips": 18,
+    "flat_to_position": 0,
+    "median_stop_v2_over_v1": 0.9508928571428605,
+    "confidence_correlation": 0.06049106156832169
+  },
+  {
+    "model": "claude-sonnet-agent",
+    "n": 100,
+    "same_action": 77,
+    "directional_pairs": 97,
+    "direction_flips": 20,
+    "flat_to_position": 3,
+    "median_stop_v2_over_v1": 1.0,
+    "confidence_correlation": 0.14780896489102022
+  },
+  {
+    "model": "gpt-5.6-luna-agent",
+    "n": 100,
+    "same_action": 89,
+    "directional_pairs": 100,
+    "direction_flips": 11,
+    "flat_to_position": 0,
+    "median_stop_v2_over_v1": 1.0714285714285792,
+    "confidence_correlation": 0.7242856916093923
+  },
+  {
+    "model": "gpt-5.6-terra-agent",
+    "n": 100,
+    "same_action": 80,
+    "directional_pairs": 86,
+    "direction_flips": 6,
+    "flat_to_position": 14,
+    "median_stop_v2_over_v1": 0.9607692307692308,
+    "confidence_correlation": 0.3024074714737003
+  },
+  {
+    "model": "gpt-6-astra-agent",
+    "n": 100,
+    "same_action": 87,
+    "directional_pairs": 92,
+    "direction_flips": 5,
+    "flat_to_position": 8,
+    "median_stop_v2_over_v1": 0.9821428571428571,
+    "confidence_correlation": 0.3858474419804214
+  }
+]

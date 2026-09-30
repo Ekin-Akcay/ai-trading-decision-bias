@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.55,
+  "take_profit_pct": 1.1,
+  "confidence": 0.55,
+  "reason": "Downtrend below MA20/MA50; bounce off flush low stalling on weak volume, fade back toward recent lows."
+}

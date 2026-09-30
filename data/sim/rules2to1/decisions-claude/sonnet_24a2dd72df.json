@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.58,
+  "reason": "Post-spike bearish reversal on huge volume, fresh lower low, weak close; fading blow-off top."
+}

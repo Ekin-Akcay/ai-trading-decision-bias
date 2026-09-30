@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Bear flag below MA20/MA50 after high-vol selloff; low-vol consolidation breaking down through 100.00 support."
+}

@@ -1,0 +1,12 @@
+{
+  "reviewer": "/root/reversal_test_review",
+  "status": "passed",
+  "independent_native_15m_trade_recomputations": 50,
+  "bootstrap_and_permutation_reproduced_exactly": true,
+  "original_hashes_verified": 24,
+  "caveats": [
+    "Only eight long-rule trades",
+    "Gross win rate does not imply positive expectancy",
+    "Next-bar open is at same entry timestamp, not a one-minute inference delay"
+  ]
+}

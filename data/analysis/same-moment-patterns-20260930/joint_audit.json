@@ -1,0 +1,23 @@
+{
+  "definitions": 44,
+  "unique_payoff_and_selection_vectors": 43,
+  "families": {
+    "market_reaction": 18,
+    "volume_reaction": 14,
+    "volume_post_score": 7,
+    "managed_exits": 5
+  },
+  "bootstrap_replicates": 20000,
+  "seed": 2026093047,
+  "quarters": 25,
+  "scope": "All current policy/control vectors plus seven explicitly post-score diagnostics; duplicate retained conservatively.",
+  "past_search_history_not_erased": true,
+  "independent_confirmation": false,
+  "positive_simultaneous_intervals": [],
+  "duplicates": [
+    [
+      "quiet_up_extension_short",
+      "quiet_up_short_AI_LONG"
+    ]
+  ]
+}

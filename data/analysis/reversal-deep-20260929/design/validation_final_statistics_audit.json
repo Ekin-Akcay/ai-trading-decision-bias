@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "audited_at": "2026-09-29T19:54:29.818540+00:00",
+  "run_id": "reversal-validation280-20260929T194012Z",
+  "model_calls": 280,
+  "valid_decisions": 280,
+  "independent_native_data_primary_trade_checks": 560,
+  "independent_first_touch_donor_brackets": 78400,
+  "bootstrap_draws": 20000,
+  "permutations": 20000,
+  "production_evaluator_or_engine_imported": false,
+  "zero_count_and_audit_guards_reviewed": true,
+  "strategies": {
+    "L": {
+      "n": 85,
+      "mean_gross_pct": 0.21507413855313834,
+      "mean_net_pct": 0.015074138553138286,
+      "bootstrap_CIs_match": true,
+      "quarter_cluster_CIs_match": true,
+      "chronological_sensitivity_matches": true,
+      "passes_frozen_profit_tests": false,
+      "p_one_sided": 0.29113544322783863,
+      "all20000_null_draws_match": true,
+      "conditional_increment_pct": 0.058464675835557894,
+      "p_holm_two_tests": 0.29113544322783863,
+      "verification_labels_match": true
+    },
+    "S": {
+      "n": 91,
+      "mean_gross_pct": 0.20816216874062882,
+      "mean_net_pct": 0.008162168740628738,
+      "bootstrap_CIs_match": true,
+      "quarter_cluster_CIs_match": true,
+      "chronological_sensitivity_matches": true,
+      "passes_frozen_profit_tests": false,
+      "p_one_sided": 0.03134843257837108,
+      "all20000_null_draws_match": true,
+      "conditional_increment_pct": 0.23038550832307536,
+      "p_holm_two_tests": 0.06269686515674217,
+      "verification_labels_match": true
+    }
+  },
+  "conclusion": "Both primary net means are slightly positive but neither strategy passes frozen profit or AI-value confirmation."
+}

@@ -1,0 +1,5 @@
+# Verification interpretation before outcomes
+
+Recorded during collection, before ALLOW_EVALUATION exists. Frozen protocol remains unchanged. Primary profitability gate requires n>=50, simultaneous window-bootstrap net lower bound>0, and positive net point estimates at30bps and both prescribed delays. IncrementalAI gate requires positive difference and Holm p<.05. Chronological-third means and quarter-cluster intervals are reported separately; every third need not individually be positive and a second cluster-CI significance requirement is not added.
+
+To implement the frozen statement that a single period must not solely support the finding, report mean net after omitting each chronological third. A verified label additionally requires these three leave-one-period-out means positive; otherwise describe the result as period-dependent. This interpretation was chosen without any validation returns. Cluster-bootstrap uncertainty and largest-winner concentration remain visible caveats even if primary tests pass.

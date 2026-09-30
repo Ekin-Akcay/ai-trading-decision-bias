@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "take_profit_pct": 1.5,
+  "confidence": 0.55,
+  "reason": "Downtrend below MA20/MA50, lower lows, bear-flag consolidation on fading volume; targeting breakdown continuation."
+}

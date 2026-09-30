@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.5,
+  "confidence": 0.55,
+  "reason": "Capitulation low rejected fast; two rising-volume up bars broke prior high, momentum favors bounce continuation toward MA20."
+}

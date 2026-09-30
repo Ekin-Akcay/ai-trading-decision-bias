@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "fees_bps": 0,
+  "old150_and_new280_are_discovery": true,
+  "no_new_model_calls": true,
+  "source_hashes": {
+    "data/analysis/reversal-deep-20260929/signals/windows.csv": "84ab2f5cc64fac7299912c980b7c273572396549dc10cb2880d1e6fee09f8f8f",
+    "data/analysis/reversal-deep-20260929/signals/control_trades.csv": "805596788a82f3270732cfb20caa439bf5768fcb72d429f6da9b4e0b5aebaf81",
+    "data/analysis/reversal-deep-20260929/signals/candidate_results.json": "f8f71cdd60b8a714f300d16b9f0bc11fc7eea4852cb9821f988d8896c22dc63b",
+    "data/analysis/reversal-deep-20260929/signals/fresh_grid/windows.csv": "0cd672f2eb74856086858e7b8894e5f01450028d77f541041dc81cdbc25a51c0",
+    "data/analysis/reversal-deep-20260929/signals/fresh_grid/all_candidate_arrays.npz": "b93ef4d5df65ae4688f229689349aec0705a7bf7ea8e445f70797ecf32dc2436",
+    "data/analysis/reversal-deep-20260929/signals/fresh_grid/candidate_results.json": "3988f6024fda41cc6aa577ed9b0ba26d369473e214577042a5468e9ccd27e07d",
+    "data/analysis/reversal-deep-20260929/signals/stopout_fade/results.json": "42fe76d600309f8bc4cf36ab7f14acec27f8cce1f8dcb80b4d01f98388fb2de5",
+    "data/analysis/gross-edge-20260929/signals/PLAN.md": "69a5e1f31ab9957a38efccf293cd275cd3eaa5a5072626c1ec7aa730f176ef78",
+    "data/analysis/reversal-deep-20260929/confirmation/all_policy_summaries.csv": "75810825613195515db9321d64a9272f0dd51eee670d0af142f7f746ed26ef6a",
+    "data/analysis/reversal-deep-20260929/confirmation/fresh_grid/all_policy_summaries.csv": "61e69ca8539444ea686ecbbf96139fcfe8a8d85449166e3bf68736b266243962"
+  },
+  "all_source_hashes_match": true,
+  "all430_unique_windows": true,
+  "116_original_definitions_unchanged": true,
+  "focus_definition048_matches_existing_mask": true,
+  "focus_daily_gate_matches_existing_no_AI_eligibility": true,
+  "bootstrap_seed": 2026092981,
+  "permutation_seed": 2026092982
+}

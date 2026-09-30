@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Price above MAs, consolidation in uptrend, 2x RR targets 102"
+}

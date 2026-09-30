@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Uptrend, price above MA20/MA50, bullish bounce off support after low-volume pullback."
+}

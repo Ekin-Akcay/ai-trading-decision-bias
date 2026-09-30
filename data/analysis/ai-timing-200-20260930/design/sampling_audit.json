@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "frozen_sample_sha256": "c75250262c5596c0b68307a6fd47f1b599521d527be82132e67a035084d6a8a6",
+  "potential_windows": 300,
+  "maximum_valid_calls": 180,
+  "unique_global_UTC_days": 300,
+  "native_preentry_snapshot_and_volume_rechecks": 300,
+  "direct_interval_comparisons": 439200,
+  "all_sources_unchanged": true,
+  "post_entry_returns_computed": false,
+  "post_entry_prices_exported": false,
+  "model_calls": 0
+}

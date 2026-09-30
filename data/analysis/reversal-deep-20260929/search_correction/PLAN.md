@@ -1,0 +1,11 @@
+# Complete-family retrospective diagnostic
+
+Frozen before computing the joint maximum-t result. Uses the already declared design/POST_VALIDATION_MAXT.md centered quarter-cluster resampling formula,20,000shared replicates, seed2026092940. This implements the extension's intended dependence/search correction using whole-quarter resampling rather than the earlier shorthand 'wild-cluster'. It is approximate and retrospective, not untouched validation.
+
+Full inventory: all721within24h risk geometries ×3MAgates×5strategies (including always-long/short controls); all116signal candidates plus their116no-AIcontrols; all72invalidation candidates fitting24h plus72all-window-trigger controls. Keep definitions regardless of return, signal count or duplicate vectors. No added thresholds. Zero P/L for skipped windows;20bps deducted only from trades. Require>=50fresh executions for meaningful candidate consideration, separately from the test. Primaryfamily coversallprofit claims relativecash. Do not inferAIvalue fromcashrelativeprofit.
+
+Compute quarter-centered scores andfixedclusterSE, shared20,000quarterresamples,maximumtacrossalltestablepolicies. Retain allnominalandadjustedpvalues, globalmaxp,95%simultaneousopportunitymeanlowerbound. Numerical-zeroSE/no-trade rules are non-testable, neververified. Rootchecks tensor reconstruction againstsavedsummarymeans beforebootstrapping. No optionalstopping, rerankingwithdifferentseed or favorableblocklength.
+
+## Final mechanism extension
+
+Append all56hedge strategy/control/notional definitions and all48stopout-fade/control definitions. They were preregistered before their computation, but are still post-primary exploratory research. Keep the original11,191definitions intact: finalfamily11,295. Use identical20,000quarterdraws andseed2026092940. Initialfamilyresults archived in initial11191/. Assert each expandedmaximum isatleastitsinitialfamilymaximum. No other definitions/thresholds added.

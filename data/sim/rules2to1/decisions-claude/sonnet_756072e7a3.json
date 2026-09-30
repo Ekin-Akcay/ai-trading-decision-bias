@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "confidence": 0.62,
+  "reason": "Downtrend continuation: below MA20/MA50, breakdown on volume, failed bounce, fresh lows with rising volume."
+}

@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "run_id": "gross-edge-500-20260929T204545Z",
+  "model_decisions_complete_and_audited": 500,
+  "calendar_blocks": 125,
+  "assets": [
+    "BTC-USD",
+    "DOGE-USD",
+    "ETH-USD",
+    "SOL-USD"
+  ],
+  "root_release_flag_exists": true,
+  "future_price_loading_gated": true,
+  "zero_fees": true,
+  "old_source_hashes_match": true,
+  "protocol_and_selection_hashes_match": true,
+  "all_stimulus_and_combined_prompt_hashes_match": true,
+  "native_minute_coverage_cases": 500,
+  "native_1m_primary_and_delay_return_checks": 1500,
+  "independent_15m_primary_entry_exit_checks": 500,
+  "independent_15m_scheduled_exit_checks": 2500,
+  "pre_entry_MA_checks": 1000,
+  "previous_completed_day_macro_checks": 500,
+  "daily_history_contiguous_for_50_and_200_day_averages": true,
+  "no_root_evaluator_functions_imported": true,
+  "L_selected": 101,
+  "L_selected_blocks": 38,
+  "L_macro_eligible": 149,
+  "source_native_files": [
+    "data/raw/intraday/BTC-USD_1m.csv.gz",
+    "data/raw/intraday/BTC-USD_15m.csv.gz",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz",
+    "data/raw/intraday/DOGE-USD_15m.csv.gz",
+    "data/raw/intraday/ETH-USD_1m.csv.gz",
+    "data/raw/intraday/ETH-USD_15m.csv.gz",
+    "data/raw/intraday/SOL-USD_1m.csv.gz",
+    "data/raw/intraday/SOL-USD_15m.csv.gz"
+  ],
+  "root_comparison": {
+    "passed": true,
+    "L_rows": 500,
+    "matched_fields": 27,
+    "individual_field_checks": 13500,
+    "macro_inputs_and_MAs_recomputed_and_match": true,
+    "selected_control_complement_delay_asset_summaries_match": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.72,
+  "reason": "Price above MAs, uptrend momentum, strong close, elevated volume"
+}

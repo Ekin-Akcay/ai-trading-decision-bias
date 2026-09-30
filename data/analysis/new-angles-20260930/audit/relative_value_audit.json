@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:10:37.142069+00:00",
+  "blocks": 125,
+  "asset_windows": 500,
+  "reconstructed_policies": 12,
+  "scalar_basket_values": 1500,
+  "all_20000_block_and_quarter_bootstrap_arrays_match": true,
+  "all_18_control_contrasts_reproduced": true,
+  "all_stability_flags_reproduced": true,
+  "reverse_candidate_count": 0,
+  "source_hashes_preserved": true,
+  "model_calls_this_audit": 0,
+  "physical_calls_still": 771,
+  "remaining_preserved": 29,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "results": [
+    {
+      "policy": "AI_direction__reverse",
+      "active": 48,
+      "opportunity_mean_pct": -0.06033430809542793,
+      "block_ci95": [
+        -0.14532300328143102,
+        0.014808138981739608
+      ],
+      "quarter_ci95": [
+        -0.1393576134205907,
+        0.00827446409058501
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "AI_direction__follow",
+      "active": 48,
+      "opportunity_mean_pct": 0.06033430809542793,
+      "block_ci95": [
+        -0.014808138981739622,
+        0.145323003281431
+      ],
+      "quarter_ci95": [
+        -0.008274464090585073,
+        0.1393576134205905
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "AI_confidence__reverse",
+      "active": 123,
+      "opportunity_mean_pct": -0.13085097344120078,
+      "block_ci95": [
+        -0.30134487278998756,
+        0.0716431916888837
+      ],
+      "quarter_ci95": [
+        -0.30341098344925277,
+        0.025881044965765092
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "AI_confidence__follow",
+      "active": 123,
+      "opportunity_mean_pct": 0.13085097344120078,
+      "block_ci95": [
+        -0.07164319168888408,
+        0.3013448727899875
+      ],
+      "quarter_ci95": [
+        -0.025881044965765314,
+        0.3034109834492525
+      ],
+      "stability_pass": true
+    },
+    {
+      "policy": "AI_stop_ATR_conviction__reverse",
+      "active": 125,
+      "opportunity_mean_pct": -0.038366260913622593,
+      "block_ci95": [
+        -0.2142130293907415,
+        0.15170962901869353
+      ],
+      "quarter_ci95": [
+        -0.20158977389332466,
+        0.1461401060850487
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "AI_stop_ATR_conviction__follow",
+      "active": 125,
+      "opportunity_mean_pct": 0.038366260913622593,
+      "block_ci95": [
+        -0.15170962901869367,
+        0.21421302939074122
+      ],
+      "quarter_ci95": [
+        -0.1461401060850492,
+        0.20158977389332453
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_momentum__reverse",
+      "active": 125,
+      "opportunity_mean_pct": 0.07345937151459962,
+      "block_ci95": [
+        -0.17292579458319177,
+        0.34628333319581167
+      ],
+      "quarter_ci95": [
+        -0.16822715199924576,
+        0.30711889093420147
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_momentum__follow",
+      "active": 125,
+      "opportunity_mean_pct": -0.07345937151459962,
+      "block_ci95": [
+        -0.34628333319581195,
+        0.17292579458319174
+      ],
+      "quarter_ci95": [
+        -0.3071188909342016,
+        0.16822715199924543
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_MA20_ATR__reverse",
+      "active": 125,
+      "opportunity_mean_pct": -0.04717534141732506,
+      "block_ci95": [
+        -0.27650556253595204,
+        0.21225184422321372
+      ],
+      "quarter_ci95": [
+        -0.237381193860619,
+        0.14565288481610178
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_MA20_ATR__follow",
+      "active": 125,
+      "opportunity_mean_pct": 0.04717534141732506,
+      "block_ci95": [
+        -0.21225184422321403,
+        0.276505562535952
+      ],
+      "quarter_ci95": [
+        -0.14565288481610228,
+        0.2373811938606188
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_ATR__reverse",
+      "active": 125,
+      "opportunity_mean_pct": 0.036517516214351384,
+      "block_ci95": [
+        -0.18379811410025418,
+        0.2542291694167157
+      ],
+      "quarter_ci95": [
+        -0.16632579148508006,
+        0.25156406248988405
+      ],
+      "stability_pass": false
+    },
+    {
+      "policy": "price_ATR__follow",
+      "active": 125,
+      "opportunity_mean_pct": -0.036517516214351384,
+      "block_ci95": [
+        -0.2542291694167159,
+        0.18379811410025396
+      ],
+      "quarter_ci95": [
+        -0.25156406248988405,
+        0.16632579148507992
+      ],
+      "stability_pass": false
+    }
+  ],
+  "interpretation": "No reversed AI score passes its finite stability screen. Positive follow-confidence is a prespecified comparator, not an independently validated reversal strategy. All outcomes were already inspected; intervals are descriptive and not full historical search correction."
+}

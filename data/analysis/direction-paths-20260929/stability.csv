@@ -1,0 +1,6 @@
+model,n,same_action,directional_pairs,direction_flips,flat_to_position,median_stop_v2_over_v1,confidence_correlation
+claude-haiku-agent,100,82,100,18,0,0.9508928571428605,0.06049106156832169
+claude-sonnet-agent,100,77,97,20,3,1.0,0.14780896489102022
+gpt-5.6-luna-agent,100,89,100,11,0,1.0714285714285792,0.7242856916093923
+gpt-5.6-terra-agent,100,80,86,6,14,0.9607692307692308,0.3024074714737003
+gpt-6-astra-agent,100,87,92,5,8,0.9821428571428571,0.3858474419804214

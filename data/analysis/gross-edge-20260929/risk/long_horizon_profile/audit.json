@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "independent_native_windows": 930,
+  "minute_open_close_observations": 224130,
+  "original240_reconciliation": [
+    {
+      "cohort": "old150",
+      "n": 22,
+      "mean_gross_pct": 0.2115620149370319,
+      "absolute_error": 0.0
+    },
+    {
+      "cohort": "new280",
+      "n": 65,
+      "mean_gross_pct": 0.5351322482523851,
+      "absolute_error": 1.1102230246251565e-16
+    },
+    {
+      "cohort": "fresh500",
+      "n": 101,
+      "mean_gross_pct": 0.3606591441287956,
+      "absolute_error": 0.0
+    }
+  ],
+  "ma20_equal100_cases": 0,
+  "source_sha256": {
+    "data/analysis/gross-edge-20260929/risk/long_horizon_profile/PLAN.md": "07e790f3c23a45988b182f1c691097b58cf8514ecb6ef9135df0eaab9f91ecb4",
+    "data/analysis/gross-edge-20260929/signals/windows.csv": "6d4617d7e2d49c016fdc3c7403ba65cebf9869e4eb9db6695a0b1985814809d5",
+    "data/sim/gross-edge-500-20260929T204545Z/window_results.csv": "784a1154a7b6b9f1ad78c6e4cb0e56d7c42125dc69241b450f9c991c3c02d3ba",
+    "data/sim/gross-edge-500-20260929T204545Z/summary.json": "6fd2f3a93f23f0eeb41957c8b23e473934f7ea9151af9a7698b503ca632d4002",
+    "data/analysis/gross-edge-20260929/signals/focus_results.json": "2ccbb017828ad24c0c549f96f65f1743a3332eaa9d484bb91e7b7a07f682a592",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/analysis/gross-edge-20260929/risk/long_horizon_profile/finish.py": "24e9d6f48454fa1721bbca04ffe693472f8f8c20315edad78b1c98b1bfb7406b",
+    "data/analysis/gross-edge-20260929/risk/long_horizon_profile/run.py": "60e6c67ea11779d077efdcee959cde2ef3f0beb6d39cbf7355d8d003852f6af7",
+    "data/analysis/gross-edge-20260929/signals/all116_zero_fee_vectors.npz": "f4caab804da9bbab6dec6c4d0a344dcddf3bfcbd2eda06f5d6618da59f7bcfd7",
+    "data/sim/gross-edge-500-20260929T204545Z/strategy_trades.csv": "57a66b5687ba3af11b1ed13fb2f35541892707a5d5e4a404ac2ae87d9c7f6bc2"
+  },
+  "exploratory_after_primary_inspection": true,
+  "no_model_calls": true,
+  "per_window_reconciliation_comparisons": 2930,
+  "per_window_reconciliation_max_abs_error_pct": 4.440892098500626e-16,
+  "all500_L048_selection_masks_match": true
+}

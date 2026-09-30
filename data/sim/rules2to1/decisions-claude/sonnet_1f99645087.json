@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.7,
+  "confidence": 0.6,
+  "reason": "Downtrend intact below MA20/MA50; failed bounce broke down through consolidation on weak volume."
+}

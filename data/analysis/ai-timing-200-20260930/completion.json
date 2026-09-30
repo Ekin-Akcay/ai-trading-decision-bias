@@ -1,0 +1,53 @@
+{
+  "status": "research_phase_complete",
+  "verified_strategy_found": false,
+  "run_id": "ai-timing-200-20260930T104240Z",
+  "run_dir": "./data/sim/ai-timing-200-20260930T104240Z",
+  "accepted_decisions": 180,
+  "new_attempts": 180,
+  "new_unused": 20,
+  "old_unused_preserved": 29,
+  "screen_cases": 60,
+  "confirmation_cases": 120,
+  "uncalled_unscored_reserves": 120,
+  "confirmed_hypotheses": [],
+  "updated_at": "2026-09-30T11:10:06.632259+00:00",
+  "report": "index.html",
+  "summary": "RESULTS.md",
+  "all_isolation_passed": true,
+  "failed_attempts": 0,
+  "independent_native_audits": "PASS",
+  "independent_statistics_audits": "PASS",
+  "publication_audit": "PASS",
+  "old_source_files_verified_unchanged": 38,
+  "frozen_confirmation": {
+    "selected_short_trades": 91,
+    "mean_gross_pct": 0.051937427798280894,
+    "wins": 42,
+    "win_rate": 0.46153846153846156,
+    "ordinary95_mean_interval_pct": [
+      -0.24762183304487892,
+      0.37871871050137845
+    ],
+    "best1_removed_mean_pct": -0.00708491313233248,
+    "MA20_control_mean_pct": 0.09866105894192273,
+    "adjusted_AI_spread_pp": 0.10717490180745023
+  },
+  "post_score_identical_coverage": {
+    "retrospective": true,
+    "calls": 0,
+    "cases": 120,
+    "AI_mean_gross_pct": 0.10899349113930766,
+    "MA20_mean_gross_pct": 0.15683675128738261,
+    "paired_AI_minus_MA20_pp": -0.04784326014807494
+  },
+  "artifacts": {
+    "full_positions": "index.html",
+    "findings": "RESULTS.md",
+    "model_behavior": "interpretation/AI_BEHAVIOR.md",
+    "identical_coverage": "interpretation/IDENTICAL_COVERAGE.md",
+    "exposed_targets": "exposed_target_intervals.json",
+    "budget": "snapshot_budget.json",
+    "canonical_joined_results": "data/sim/ai-timing-200-20260930T104240Z/decisions_with_outcomes.jsonl"
+  }
+}

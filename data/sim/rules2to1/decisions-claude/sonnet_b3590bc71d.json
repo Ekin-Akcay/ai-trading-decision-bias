@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.4,
+  "confidence": 0.6,
+  "reason": "Price broke below MA20/MA50 with lower lows on rising near-term volatility; downside momentum favors short."
+}

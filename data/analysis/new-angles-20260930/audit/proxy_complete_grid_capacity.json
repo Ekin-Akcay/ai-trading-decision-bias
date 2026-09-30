@@ -1,0 +1,40 @@
+{
+  "grid_times_UTC": [
+    0,
+    6,
+    12,
+    18
+  ],
+  "native_coverage_mask": "Conservative reused all-four200bar/361min+dailyvalidity mask",
+  "candidate_blocks": 783,
+  "candidate_asset_rows": 3132,
+  "distinct_UTC_Monday_weeks": 192,
+  "quarters": 19,
+  "blocks_per_week_min": 1,
+  "blocks_per_week_median": 3.0,
+  "blocks_per_week_max": 15,
+  "longest_consecutive6h_run_blocks": 15,
+  "blocks_per_quarter": {
+    "2022Q1": 19,
+    "2022Q2": 32,
+    "2022Q3": 15,
+    "2022Q4": 24,
+    "2023Q1": 72,
+    "2023Q2": 49,
+    "2023Q3": 40,
+    "2023Q4": 44,
+    "2024Q1": 38,
+    "2024Q2": 71,
+    "2024Q3": 37,
+    "2024Q4": 48,
+    "2025Q1": 29,
+    "2025Q2": 34,
+    "2025Q3": 84,
+    "2025Q4": 34,
+    "2026Q1": 40,
+    "2026Q2": 23,
+    "2026Q3": 50
+  },
+  "no_target_returns_read": true,
+  "counts_only_not_final_sample": true
+}

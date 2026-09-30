@@ -1,0 +1,38 @@
+[
+  {
+    "cohort": "all430",
+    "observed_gross_mean_pct": 0.4533098904025256,
+    "conditional_null_mean_pct": 0.28795266234496875,
+    "observed_minus_null_pct": 0.16535722805755687,
+    "p_one_sided_exploratory_not_search_adjusted": 0.03464826758662067,
+    "null_ci95_pct": [
+      0.1092609774675725,
+      0.4650785358663501
+    ],
+    "permutations": 20000
+  },
+  {
+    "cohort": "old150",
+    "observed_gross_mean_pct": 0.2115620149370319,
+    "conditional_null_mean_pct": 0.09906852583422396,
+    "observed_minus_null_pct": 0.11249348910280793,
+    "p_one_sided_exploratory_not_search_adjusted": 0.2783860806959652,
+    "null_ci95_pct": [
+      -0.2741953553183742,
+      0.4807467116591186
+    ],
+    "permutations": 20000
+  },
+  {
+    "cohort": "new280",
+    "observed_gross_mean_pct": 0.5351322482523851,
+    "conditional_null_mean_pct": 0.33605076320116023,
+    "observed_minus_null_pct": 0.19908148505122492,
+    "p_one_sided_exploratory_not_search_adjusted": 0.027648617569121545,
+    "null_ci95_pct": [
+      0.13247578265901444,
+      0.5390292066094139
+    ],
+    "permutations": 20000
+  }
+]

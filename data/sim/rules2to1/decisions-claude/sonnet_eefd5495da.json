@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.2,
+  "confidence": 0.58,
+  "reason": "Breakdown below MA20/MA50 on massive volume; weak-close bar signals continued downside momentum short-term."
+}

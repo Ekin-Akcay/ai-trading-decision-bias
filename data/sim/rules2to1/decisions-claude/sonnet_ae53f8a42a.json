@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.6,
+  "reason": "Uptrend holds above rising MA20/MA50; bullish reversal off session low favors continuation despite fading volume."
+}

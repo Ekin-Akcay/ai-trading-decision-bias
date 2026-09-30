@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.55,
+  "reason": "Repeated rejection near MA50 on fading volume signals exhausted bounce; short for reversion toward MA20 support."
+}

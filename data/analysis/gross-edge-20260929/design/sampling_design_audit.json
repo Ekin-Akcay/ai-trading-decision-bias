@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "sample_sha256": "8417c390dddfddd8796b81281db62f959f6bd49a316932b9cc0822ee1d2ed194",
+  "blocks": 125,
+  "snapshots": 500,
+  "independent_interval_comparisons": 58250,
+  "overlaps": 0,
+  "minimum_block_gap_hours": 86.75,
+  "source_selection_uses_no_returns": true,
+  "new_model_calls": 0,
+  "protocol_review": "Whole-block and quarter resampling plus separately standardized AI-increment tests match clustered sampling; split chronological periods by whole blocks."
+}

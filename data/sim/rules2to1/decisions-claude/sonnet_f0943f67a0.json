@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.0,
+  "confidence": 0.6,
+  "reason": "Blow-off spike to 102.71 reversed hard on 1.8x volume after weak low-volume grind-up; downtrend likely resumes."
+}

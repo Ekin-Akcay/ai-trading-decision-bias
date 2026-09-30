@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "audited_at": "2026-09-29T20:10:37.306027+00:00",
+  "definitions": 11295,
+  "unique_return_vectors": 9336,
+  "new_vectors": {
+    "hedges": 56,
+    "stopout_fade": 48
+  },
+  "old11191_columns_bit_identical": true,
+  "all104_new_columns_independently_reconstructed": true,
+  "hedge_leg_costs_and_both_notional_conventions_verified": true,
+  "stopout_first_exit_masks_and_new_trade_costs_verified": true,
+  "ambiguous_original_triggers": 0,
+  "windows": 280,
+  "quarters": 24,
+  "bootstrap_replicates": 20000,
+  "seed": 2026092940,
+  "all20000_expanded_bootstrap_maxima_match": true,
+  "expanded_null_not_smaller_than_original": true,
+  "every_familywise_p_value_matches": true,
+  "max_t_95critical": 3.846594530040756,
+  "largest_observed_t": 1.8764596712718782,
+  "global_maxT_p": 0.9774511274436278,
+  "passing_policies": 0,
+  "top_policy": "signals:048_long_both_down_confirm0_hold240:selected",
+  "top_n": 65,
+  "top_mean_net_pct": 0.3351322482523852,
+  "conclusion": "No family-corrected profitable strategy demonstrated; added mechanisms do not change the conclusion.",
+  "metadata_note": "All 16 AI-width stopout controls are correctly marked contains_AI=true.",
+  "AI_width_control_metadata_corrected": true
+}

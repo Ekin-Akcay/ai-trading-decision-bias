@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.6,
+  "reason": "Price below MA20/MA50, lower highs after failed bounce signal downtrend continuation."
+}

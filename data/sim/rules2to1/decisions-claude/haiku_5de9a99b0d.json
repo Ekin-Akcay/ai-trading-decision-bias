@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.5,
+  "confidence": 0.65,
+  "reason": "Capitulation washout at 96.74 with 8x volume; recovery to 100 suggests bounce"
+}

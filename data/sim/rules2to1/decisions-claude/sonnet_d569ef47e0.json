@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.58,
+  "reason": "Uptrend above MA50 intact; pullback held support, bullish reversal candle suggests resumption higher."
+}

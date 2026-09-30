@@ -1,0 +1,46 @@
+You are a short-term trader looking at an anonymized chart of a liquid asset: 15-minute bars, no dates, price rebased so the CURRENT price = 100.00, volume shown as a multiple of recent average volume.
+The last 40 bars (oldest first; bar offsets, 'now' = current bar):
+ -39: O=  99.58 H=  99.58 L=  99.01 C=  99.32 vol=2.99x
+ -38: O=  99.32 H=  99.35 L=  99.20 C=  99.28 vol=0.26x
+ -37: O=  99.28 H=  99.54 L=  99.24 C=  99.43 vol=0.32x
+ -36: O=  99.43 H=  99.58 L=  99.32 C=  99.54 vol=0.28x
+ -35: O=  99.54 H=  99.62 L=  99.32 C=  99.47 vol=0.41x
+ -34: O=  99.43 H=  99.58 L=  99.35 C=  99.43 vol=0.24x
+ -33: O=  99.43 H=  99.51 L=  99.32 C=  99.35 vol=0.41x
+ -32: O=  99.35 H=  99.35 L=  99.20 C=  99.32 vol=0.42x
+ -31: O=  99.32 H=  99.35 L=  99.12 C=  99.16 vol=0.91x
+ -30: O=  99.20 H=  99.58 L=  99.16 C=  99.51 vol=0.89x
+ -29: O=  99.51 H=  99.54 L=  99.09 C=  99.24 vol=1.08x
+ -28: O=  99.24 H=  99.32 L=  99.20 C=  99.28 vol=0.20x
+ -27: O=  99.24 H=  99.39 L=  99.24 C=  99.35 vol=0.26x
+ -26: O=  99.43 H=  99.51 L=  98.97 C=  99.12 vol=3.13x
+ -25: O=  99.09 H=  99.51 L=  99.09 C=  99.43 vol=2.56x
+ -24: O=  99.43 H=  99.51 L=  99.35 C=  99.39 vol=0.23x
+ -23: O=  99.35 H=  99.51 L=  99.35 C=  99.43 vol=0.46x
+ -22: O=  99.47 H=  99.54 L=  99.43 C=  99.47 vol=0.17x
+ -21: O=  99.43 H=  99.54 L=  99.43 C=  99.54 vol=0.26x
+ -20: O=  99.47 H=  99.51 L=  99.47 C=  99.47 vol=0.07x
+ -19: O=  99.47 H=  99.81 L=  99.43 C=  99.70 vol=0.89x
+ -18: O=  99.66 H=  99.70 L=  99.51 C=  99.51 vol=0.33x
+ -17: O=  99.51 H=  99.58 L=  99.47 C=  99.51 vol=0.15x
+ -16: O=  99.54 H=  99.58 L=  99.39 C=  99.51 vol=0.52x
+ -15: O=  99.47 H=  99.51 L=  99.32 C=  99.43 vol=0.42x
+ -14: O=  99.47 H=  99.66 L=  99.12 C=  99.51 vol=5.20x
+ -13: O=  99.43 H=  99.54 L=  99.35 C=  99.51 vol=0.47x
+ -12: O=  99.51 H=  99.66 L=  99.35 C=  99.35 vol=0.49x
+ -11: O=  99.32 H=  99.47 L=  99.32 C=  99.43 vol=0.20x
+ -10: O=  99.39 H=  99.66 L=  99.16 C=  99.20 vol=1.48x
+  -9: O=  99.20 H=  99.62 L=  99.09 C=  99.58 vol=1.31x
+  -8: O=  99.58 H=  99.66 L=  99.39 C=  99.51 vol=1.55x
+  -7: O=  99.43 H=  99.62 L=  99.28 C=  99.54 vol=1.13x
+  -6: O=  99.54 H= 100.11 L=  99.39 C= 100.11 vol=3.32x
+  -5: O= 100.08 H= 100.19 L=  99.73 C=  99.81 vol=1.57x
+  -4: O=  99.81 H= 100.91 L=  99.73 C=  99.89 vol=6.90x
+  -3: O=  99.92 H= 100.15 L=  99.89 C= 100.00 vol=1.32x
+  -2: O= 100.04 H= 100.42 L= 100.04 C= 100.23 vol=1.97x
+  -1: O= 100.30 H= 100.34 L= 100.15 C= 100.23 vol=0.54x
+ now: O= 100.19 H= 100.30 L=  99.81 C= 100.00 vol=1.26x
+Indicators (same rebased scale): MA20 = 99.68, MA50 = 99.56; price is above MA20 and above MA50.
+Volatility: std of 15m returns over these 40 bars = 0.185%/bar; over the last 2 days = 0.177%/bar; ATR(14) = 0.429% of price.
+Move over the visible window: +0.69%. Volume: last 24h average = 0.94x normal, last 5 bars = 2.40x normal.
+Entry is at the current price (100.00). Your trade will run untouched until your stop-loss or take-profit is hit. Place your bracket trade now: long, short, or flat, with stop_loss_pct and take_profit_pct as percent of entry.

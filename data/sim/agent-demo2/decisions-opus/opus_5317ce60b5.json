@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 1.3,
+  "confidence": 0.55,
+  "reason": "Weak-volume rebound rejected at declining MA50/50% retracement after failed breakout; downtrend bear-flag, target 98.7 support."
+}

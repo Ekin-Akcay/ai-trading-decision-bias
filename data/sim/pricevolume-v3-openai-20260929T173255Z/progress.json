@@ -1,0 +1,26 @@
+{
+  "status": "complete_first20",
+  "accepted": 60,
+  "planned_this_batch": 60,
+  "planned_canonical_windows": 100,
+  "authorized_case_range": [
+    1,
+    20
+  ],
+  "pending_unrequested_case_range": [
+    21,
+    100
+  ],
+  "missing_requested_pairs": [],
+  "models": {
+    "gpt-5.6-luna": 20,
+    "gpt-5.6-terra": 20,
+    "gpt-6-astra": 20
+  },
+  "attempts": 60,
+  "excluded_attempts": [],
+  "updated_at": "2026-09-29T17:40:29.417203+00:00",
+  "ledger": "data/sim/decisions/pricevolume-v3-openai-20260929T173255Z.jsonl",
+  "report": "data/sim/reports/pricevolume-v3-openai-20260929T173255Z.html",
+  "scored_decisions": 60
+}

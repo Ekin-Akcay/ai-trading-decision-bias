@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.6,
+  "reason": "Price below MA20/MA50 in downtrend; recent bounce off low looks corrective, not a reversal."
+}

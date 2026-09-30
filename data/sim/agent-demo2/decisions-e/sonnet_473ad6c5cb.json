@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.4,
+  "take_profit_pct": 2.3,
+  "confidence": 0.6,
+  "reason": "Bullish trend above MA20/MA50 with volume breakout; stop below flag base, target next extension leg."
+}

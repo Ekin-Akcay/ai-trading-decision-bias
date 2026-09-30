@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.58,
+  "reason": "Pullback to rising MA50/round-number support after uptrend breakout; low volume decline suggests weak selling pressure."
+}

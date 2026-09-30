@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.2,
+  "take_profit_pct": 1.5,
+  "confidence": 0.67,
+  "reason": "Blow-off spike exhaustion after 4x volume; pullback pattern"
+}

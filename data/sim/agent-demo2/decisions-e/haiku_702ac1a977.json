@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 2.0,
+  "confidence": 0.68,
+  "reason": "Pullback to MA20 after impulse; strong volume; above key MAs"
+}

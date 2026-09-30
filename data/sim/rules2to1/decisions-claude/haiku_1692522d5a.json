@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.68,
+  "reason": "Short-term downtrend below both MAs, support tested near 100, low-volume consolidation"
+}

@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.3,
+  "confidence": 0.72,
+  "reason": "Clear downtrend, below both MAs, weak volume"
+}

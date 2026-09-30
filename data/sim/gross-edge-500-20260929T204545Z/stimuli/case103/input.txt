@@ -1,0 +1,58 @@
+Short-term trader simulation. Read the two attached inputs (text stats, then chart).
+RULES FOR THIS RUN — they override any response format described inside the files:
+- You MUST take a position: "long" or "short". Flat / no-trade is NOT allowed.
+- You choose ONLY the stop-loss distance. Your take-profit is fixed by the exchange
+  at EXACTLY 2x your stop-loss distance (2:1 reward-to-risk). Do not output a
+  take-profit field.
+Entry = current price = 100.00; the trade then runs untouched until your stop-loss
+or the fixed 2x take-profit is hit.
+Reply with EXACTLY this JSON object (one line, no markdown fences):
+{"action":"long"|"short","stop_loss_pct":<percent number>,"confidence":<number 0 to 1>,"reason":"<max 20 words>"}
+stop_loss_pct is percent of entry (2.5 means 2.5%).
+
+You are a short-term trader looking at an anonymized chart of a liquid asset: 15-minute bars, no dates, price rebased so the CURRENT price = 100.00, volume shown as a multiple of recent average volume.
+The last 40 bars (oldest first; bar offsets, 'now' = current bar):
+ -39: O=  94.47 H=  95.17 L=  94.39 C=  94.99 vol=1.18x
+ -38: O=  94.99 H=  96.82 L=  94.98 C=  96.53 vol=5.09x
+ -37: O=  96.53 H=  96.65 L=  96.06 C=  96.26 vol=1.08x
+ -36: O=  96.27 H=  97.03 L=  96.26 C=  96.64 vol=2.12x
+ -35: O=  96.64 H=  96.72 L=  96.20 C=  96.26 vol=1.01x
+ -34: O=  96.26 H=  96.34 L=  96.05 C=  96.28 vol=0.83x
+ -33: O=  96.30 H=  96.56 L=  96.19 C=  96.24 vol=0.67x
+ -32: O=  96.24 H=  96.41 L=  96.08 C=  96.32 vol=0.64x
+ -31: O=  96.32 H=  96.55 L=  96.27 C=  96.31 vol=0.59x
+ -30: O=  96.31 H=  96.81 L=  96.14 C=  96.81 vol=0.86x
+ -29: O=  96.81 H=  97.03 L=  96.36 C=  96.44 vol=1.22x
+ -28: O=  96.44 H=  96.78 L=  96.43 C=  96.57 vol=0.77x
+ -27: O=  96.57 H=  97.11 L=  96.57 C=  97.04 vol=0.61x
+ -26: O=  97.05 H=  97.26 L=  96.80 C=  96.94 vol=1.15x
+ -25: O=  96.94 H=  97.10 L=  96.68 C=  96.94 vol=0.62x
+ -24: O=  96.93 H=  97.50 L=  96.92 C=  97.33 vol=1.01x
+ -23: O=  97.33 H=  97.46 L=  97.10 C=  97.30 vol=0.53x
+ -22: O=  97.31 H=  97.47 L=  97.11 C=  97.27 vol=0.48x
+ -21: O=  97.27 H=  97.70 L=  96.96 C=  96.98 vol=1.02x
+ -20: O=  96.98 H=  97.30 L=  96.94 C=  97.30 vol=0.48x
+ -19: O=  97.30 H=  97.50 L=  96.87 C=  97.15 vol=0.99x
+ -18: O=  97.15 H=  97.39 L=  97.10 C=  97.12 vol=0.30x
+ -17: O=  97.12 H=  97.28 L=  97.01 C=  97.25 vol=0.48x
+ -16: O=  97.25 H=  97.79 L=  97.22 C=  97.63 vol=0.96x
+ -15: O=  97.63 H=  98.65 L=  97.51 C=  98.55 vol=2.40x
+ -14: O=  98.55 H=  99.08 L=  98.51 C=  98.55 vol=1.85x
+ -13: O=  98.55 H=  98.84 L=  97.89 C=  98.72 vol=1.67x
+ -12: O=  98.72 H=  99.08 L=  98.55 C=  98.61 vol=0.97x
+ -11: O=  98.61 H=  98.88 L=  98.56 C=  98.74 vol=0.57x
+ -10: O=  98.74 H=  99.18 L=  98.67 C=  98.95 vol=0.50x
+  -9: O=  98.95 H=  99.13 L=  98.63 C=  98.65 vol=0.47x
+  -8: O=  98.65 H=  99.17 L=  98.64 C=  98.98 vol=0.88x
+  -7: O=  98.98 H=  99.24 L=  98.85 C=  99.09 vol=0.65x
+  -6: O=  99.09 H=  99.27 L=  98.94 C=  99.07 vol=0.47x
+  -5: O=  99.09 H=  99.72 L=  99.07 C=  99.56 vol=1.33x
+  -4: O=  99.56 H=  99.85 L=  98.96 C=  99.17 vol=1.03x
+  -3: O=  99.17 H=  99.36 L=  98.89 C=  99.17 vol=0.43x
+  -2: O=  99.17 H=  99.49 L=  99.03 C=  99.32 vol=0.48x
+  -1: O=  99.31 H=  99.66 L=  99.27 C=  99.63 vol=0.55x
+ now: O=  99.64 H= 100.46 L=  99.63 C= 100.00 vol=3.26x
+Indicators (same rebased scale): MA20 = 98.70, MA50 = 97.22; price is above MA20 and above MA50.
+Volatility: std of 15m returns over these 40 bars = 0.377%/bar; over the last 2 days = 0.379%/bar; ATR(14) = 0.556% of price.
+Move over the visible window: +5.27%. Volume: last 24h average = 0.93x normal, last 5 bars = 1.15x normal.
+Entry is at the current price (100.00). Your trade will run untouched until your stop-loss or take-profit is hit. Place your bracket trade now: long, short, or flat, with stop_loss_pct and take_profit_pct as percent of entry.

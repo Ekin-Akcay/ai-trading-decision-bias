@@ -1,0 +1,25 @@
+{
+  "status": "exploratory_after_primary_outcomes",
+  "new_model_calls": 0,
+  "windows": 280,
+  "max_future_minutes": 1440,
+  "policies": 721,
+  "omitted_4320min_policies": 103,
+  "elementary_payoffs": 403760,
+  "summary_rows": 10815,
+  "eligible_reversal_cells": 5047,
+  "positive_old_fresh_means": 62,
+  "positive_four_halves": 0,
+  "positive_four_halves_and_old_batches": 0,
+  "also_positive_fresh_thirds": 0,
+  "source_files_unchanged": {
+    "./data/analysis/reversal-deep-20260929/risk/all_trade_results.npz": "961f338890faa1f34d0163467dc244e1279d660431c8ebe961d5c099c39dfc6b",
+    "./data/analysis/reversal-deep-20260929/risk/all_trials.csv": "523b77ff38b5bd951e6be0ee2bfcb90d56a3a1b54125525cf05cb66b9b20855c",
+    "./data/analysis/reversal-deep-20260929/risk/policies.json": "3b03b66658af2ada0855f79d599db1d7816440399622475684709606f9df278b",
+    "./data/analysis/reversal-deep-20260929/risk/windows.csv": "e6c1330072e02a2fdf43bb1c3bfc4511d783a520fc42a3bd16d643684b9a871d",
+    "./data/analysis/reversal-deep-20260929/risk/candidates.json": "b05d015531580e354c24e178b7f3330d6f93e9ec7b497c74357d83e58299663e",
+    "./data/analysis/reversal-deep-20260929/risk/FINDINGS.md": "90c50029fb18a426e787aa2114cecacbf660484ac4328da436a597275cf93f8d"
+  },
+  "plan_sha256": "94cf0c77d6a4e85f6fe514b1ebc1deed888da222e6ce735af758b73e89d9e981",
+  "seconds": 21.531356811523438
+}

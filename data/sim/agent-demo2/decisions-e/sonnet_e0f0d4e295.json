@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 2.0,
+  "confidence": 0.58,
+  "reason": "Uptrend above rising MA20/MA50; flag holds despite volume rejection at highs."
+}

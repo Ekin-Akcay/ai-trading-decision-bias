@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T22:23:39.361842+00:00",
+  "calendar_blocks": 783,
+  "asset_predictions_independently_reconstructed": 3132,
+  "unique_UTC_Monday_weeks": 192,
+  "unique_quarters": 19,
+  "prior_global_exposure_intervals": 681,
+  "direct_interval_comparisons": 533223,
+  "complete_eligible_grid_reproduced": true,
+  "six_hour_spacing_four_hour_nonoverlapping_outcomes": true,
+  "all_inputs_past_only_and_yearly_fit_embargo_pass": true,
+  "max_probability_absolute_error": 1.0361156377314273e-13,
+  "all_source_and_feature_hashes_preserved": true,
+  "sample_sha256": "a55f9ce396a5f8816eefee243430fb30a855ef5e8033d0d32ec1766ec42c3f51",
+  "budget_physical_calls": 771,
+  "remaining_calls_preserved": 29,
+  "new_model_calls": 0,
+  "new_target_returns_or_minute_prices_opened": false,
+  "interpretation": "Frozen price-only model trained on earlier AI labels; historical fresh-target transport test, not a causal AI-value test or removal of prior adaptive discovery. Weekly/quarter dependence remains."
+}

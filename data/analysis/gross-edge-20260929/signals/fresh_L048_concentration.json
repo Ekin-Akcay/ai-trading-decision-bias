@@ -1,0 +1,9 @@
+{
+  "diagnostic_only_no_primary_changes": true,
+  "selected_trades": 101,
+  "selected_blocks": 38,
+  "mean_gross_pct": 0.3606591441287956,
+  "largest_block_share_total_signed_trade_sum": 0.6919679701503089,
+  "mean_excluding_best_block_pct": 0.11567578755911721,
+  "mean_excluding_best3_blocks_pct": -0.1269560764630897
+}

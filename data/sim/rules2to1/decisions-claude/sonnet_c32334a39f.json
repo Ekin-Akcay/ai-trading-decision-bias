@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.6,
+  "reason": "Uptrend intact, price above MA20/MA50 with rising volume on breakout; momentum favors continuation."
+}

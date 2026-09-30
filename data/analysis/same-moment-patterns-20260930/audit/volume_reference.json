@@ -1,0 +1,89 @@
+{
+  "status": "independent_reference_ready",
+  "created_at": "2026-09-29T22:50:15.503389+00:00",
+  "valid_windows": 1019,
+  "excluded_windows": 1,
+  "source_sha256": {
+    "data/analysis/same-moment-patterns-20260930/volume_reaction/PLAN.md": "05004fc66d25198dd77d904ecbaff34a5f07aed1958a7d668224a408c3fa253e",
+    "data/analysis/new-angles-20260930/target_exhaustion/windows.csv": "c1346490c90b653450734d67c2c2e9c941397547787c10a901d33115991383db",
+    "data/analysis/new-angles-20260930/target_exhaustion/paths.npz": "4a64efad1bca575f9aa1c11908771cfd6f295c03d95b0f65fe257de0a13f02f4",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24"
+  },
+  "policies": [
+    {
+      "reference_name": "1_candidate",
+      "selected": 61,
+      "mean_gross_pct": -0.20987697916228087
+    },
+    {
+      "reference_name": "1_price_only",
+      "selected": 74,
+      "mean_gross_pct": -0.10207486343485234
+    },
+    {
+      "reference_name": "1_no_volume",
+      "selected": 157,
+      "mean_gross_pct": -0.015581430645848543
+    },
+    {
+      "reference_name": "2_candidate",
+      "selected": 27,
+      "mean_gross_pct": 0.10953022329577651
+    },
+    {
+      "reference_name": "2_price_only",
+      "selected": 63,
+      "mean_gross_pct": -0.09115333742797202
+    },
+    {
+      "reference_name": "2_no_volume",
+      "selected": 83,
+      "mean_gross_pct": 0.1036568437195168
+    },
+    {
+      "reference_name": "3_candidate",
+      "selected": 32,
+      "mean_gross_pct": -0.13266798390391715
+    },
+    {
+      "reference_name": "3_price_only",
+      "selected": 69,
+      "mean_gross_pct": 0.007505930913717912
+    },
+    {
+      "reference_name": "3_no_volume",
+      "selected": 178,
+      "mean_gross_pct": -0.03013836057389829
+    },
+    {
+      "reference_name": "4_candidate",
+      "selected": 16,
+      "mean_gross_pct": 0.21904021301807225
+    },
+    {
+      "reference_name": "4_price_only",
+      "selected": 56,
+      "mean_gross_pct": 0.3921197836169893
+    },
+    {
+      "reference_name": "4_no_volume",
+      "selected": 88,
+      "mean_gross_pct": 0.011003070487920435
+    },
+    {
+      "reference_name": "AI_only_long",
+      "selected": 655,
+      "mean_gross_pct": -0.015471212547157706
+    },
+    {
+      "reference_name": "AI_only_short",
+      "selected": 364,
+      "mean_gross_pct": 0.006524449992222138
+    }
+  ],
+  "physical_calls": 771,
+  "new_model_calls": 0
+}

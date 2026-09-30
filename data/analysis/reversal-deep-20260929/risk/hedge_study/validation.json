@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "usable_old_windows": 149,
+  "usable_fresh_windows": 280,
+  "missing_old_windows": 1,
+  "missing_reason": "SOL_history_gap for window72c5a0798c",
+  "checks": 81286,
+  "maximum_return_or_price_error": 1.1546319456101628e-14,
+  "maximum_OLS_slope_error": 5.240252676230739e-14,
+  "native15m_exit_checks": 2574,
+  "one_minute_clock_paths_verified": 858,
+  "OLS_independent_lstsq_checks": 429,
+  "finite_positive_OHLC_verified": true,
+  "hardening_did_not_change_sample": true,
+  "root_fixedL_zerohedge_reconciles": true,
+  "family_axis_cases_match": true,
+  "family_all_conventions_shape": [
+    56,
+    280
+  ],
+  "inputs_preserved": true
+}

@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.6,
+  "take_profit_pct": 1.2,
+  "confidence": 0.55,
+  "reason": "Hammer rejection off retested double-bottom support on climax volume; targeting MA20/MA50 confluence, stop below the low."
+}

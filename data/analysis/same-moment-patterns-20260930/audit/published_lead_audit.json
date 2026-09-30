@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T23:02:53.140857+00:00",
+  "selected_csv_and_interactive_trade_payloads_checked": 56,
+  "all_reasons_action_labels_and_prices_match": true,
+  "all151_point_price_curves_match_native_cache": true,
+  "all_local_report_links_resolve": true,
+  "gross_mean_pct": 0.39211978361698946,
+  "median_pct": 0.12090986659889502,
+  "wins": 34,
+  "winner_mean_pct": 0.9682055173533213,
+  "loser_mean_pct": -0.49819453215734166,
+  "profit_factor": 3.0034806107733183
+}

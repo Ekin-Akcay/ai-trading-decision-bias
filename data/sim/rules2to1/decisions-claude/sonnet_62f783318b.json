@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.45,
+  "confidence": 0.58,
+  "reason": "Failed breakout faded on rising volume; price back below MA20/MA50 signals bearish momentum continuation."
+}

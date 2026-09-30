@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "embedded_cases": 180,
+  "native_plot_points_per_case": 361,
+  "ledger_and_plot_field_checks": 71550,
+  "old_source_hashes_unchanged": 38,
+  "javascript_syntax": "PASS",
+  "report_links": "PASS",
+  "post_score_policy_vectors_checked": 450,
+  "new_attempts": 180,
+  "new_unused": 20,
+  "old_unused_preserved": 29,
+  "html_sha256": "462d45f0f31db190d806627fb0d389df963cabddc93daed1b4f5ffeff0dc2dcc",
+  "results_md_sha256": "f7eaa0c49e8b64ca812fe330023266cd55dd6d7b3e4e1fe341f308119136e2d0"
+}

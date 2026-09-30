@@ -1,0 +1,1 @@
+const f=document.getElementById('filter');const rows=[...document.querySelectorAll('#allTable tbody tr')];function filter(){let n=0;for(const r of rows){let yes=r.textContent.toLowerCase().includes(f.value.toLowerCase());r.hidden=!yes;n+=yes}document.getElementById('shown').textContent=n+' / '+rows.length+' rows'}f.addEventListener('input',filter);filter();

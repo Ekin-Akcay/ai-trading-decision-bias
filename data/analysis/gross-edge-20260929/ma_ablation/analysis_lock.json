@@ -1,0 +1,10 @@
+{
+  "files": {
+    "data/analysis/gross-edge-20260929/ma_ablation/PROTOCOL.md": "aa26833fc43660a8317700d2b593d3f0f70ea0564a0dfc3b417ed64a0cd50a49",
+    "data/analysis/gross-edge-20260929/ma_ablation/evaluate.py": "eb891f7002851411fd7b967de60a03a8d63bd28a0fc9bcb1436f566b12b3b356",
+    "data/analysis/gross-edge-20260929/ma_ablation/prepare.py": "59922482dd66480c45ea8b05533a19aad6ef72189b32fb459f10e4c92273c34e",
+    "data/analysis/gross-edge-20260929/ma_ablation/design/fresh_blocks.json": "c3206b896211fa91ecba46cc267b40e5e142c22d753ade2ffca7af78d3cd47bb"
+  },
+  "outcomes_sealed": true,
+  "paired_inputs_checked": 90
+}

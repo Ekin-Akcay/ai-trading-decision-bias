@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.7,
+  "confidence": 0.58,
+  "reason": "Downtrend below MA20/MA50; broke range support; weak low-volume bounce lacks confirmation."
+}

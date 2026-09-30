@@ -1,0 +1,6 @@
+# Preserve recorded artifact bytes for the publication hash manifest.
+* -text
+data/** linguist-generated=true
+*.png binary
+*.pdf binary
+*.npz binary

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-29T23:04:48.397439+00:00",
+  "current_definitions": 44,
+  "unique_vectors": 43,
+  "family_counts": {
+    "market_reaction": 18,
+    "volume_reaction": 14,
+    "volume_post_score": 7,
+    "managed_exits": 5
+  },
+  "all_original_selected_and_zero_skip_vectors_match": true,
+  "all20000_shared_quarter_resamples_match": true,
+  "all44_means_and_family_intervals_match": true,
+  "positive_family_adjusted_lower_bounds": 0,
+  "quiet_up_price_only_gross_mean_pct": 0.3921197836169894,
+  "quiet_up_current_family_ci_pct": [
+    -0.1738233561936675,
+    0.9348596981932724
+  ],
+  "scope_limit": "Exploratory uncertainty across these 44 current vectors only; earlier adaptive search is not erased, and no independent replication is claimed. Extreme-tail bootstrap quantiles are approximate.",
+  "physical_calls": 771,
+  "remaining_calls": 29,
+  "new_model_calls": 0
+}

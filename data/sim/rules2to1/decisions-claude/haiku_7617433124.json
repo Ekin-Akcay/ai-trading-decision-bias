@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "confidence": 0.58,
+  "reason": "Peak price at 100.00 with strong single-bar volume; mean reversion likely after spike exhaustion."
+}

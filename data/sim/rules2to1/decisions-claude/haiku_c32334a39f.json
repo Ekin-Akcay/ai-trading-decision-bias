@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.5,
+  "confidence": 0.8,
+  "reason": "Breakout above MA20 with elevated volume, price at highs"
+}

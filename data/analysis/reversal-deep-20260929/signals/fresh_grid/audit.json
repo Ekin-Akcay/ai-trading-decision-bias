@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "exploratory_after_primary_inspection": true,
+  "independent_confirmation": false,
+  "new_model_calls": 0,
+  "unchanged_candidate_count": 116,
+  "fresh_windows": 280,
+  "all_candidate_window_rows": 32480,
+  "native15m_entry_checks": 840,
+  "native15m_exit_checks": 2520,
+  "original_source_hashes": {
+    "data/analysis/reversal-deep-20260929/signals/candidate_definitions.json": "146976d9732a1bdedfd205c3a1d6d7e7c4997093636df01d6e3737ec0a6d6cea",
+    "data/analysis/reversal-deep-20260929/signals/candidate_results.json": "f8f71cdd60b8a714f300d16b9f0bc11fc7eea4852cb9821f988d8896c22dc63b",
+    "data/sim/reversal-validation280-20260929T194012Z/manifest.json": "29727ce7a579ac29a2a082a04ea1eb687ddeb500fbd861b69d25ba15d5351dc2",
+    "data/sim/reversal-validation280-20260929T194012Z/accepted_decisions.jsonl": "94219053bf9dec674472c02c9633ebbce5de1951b0e8cf391de8c37b539297bf",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea",
+    "data/raw/SOL-USD.csv": "1c4bfeeeeddb772bec8f76a4a91dd7022bdc48e961722ea16b820045b17cfab7",
+    "data/raw/BTC-USD.csv": "73f86eabd0eb3cbc22e753d5c5d425620bf5f39a6d065f3ecbb7a7f962bacd6c",
+    "data/analysis/reversal-deep-20260929/signals/fresh_grid/PLAN.md": "797590c9cdffb2ad7685dc23b458b632346773a95973ff76cdf9494f665ac287"
+  },
+  "all_hashes_still_match": true,
+  "screen_pass_count": 0,
+  "array_ledger_summary_consistency_passed": true,
+  "locked_L_primary_exact_match": true
+}

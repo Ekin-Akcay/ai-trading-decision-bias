@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "take_profit_pct": 0.8,
+  "confidence": 0.5,
+  "reason": "Down volume high, rejected at 101.3, sellers in control"
+}

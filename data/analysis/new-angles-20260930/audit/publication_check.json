@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "old_sources_checked": 36,
+  "all_old_sources_unchanged": true,
+  "dashboard_references_checked": 8,
+  "missing_local_references": [],
+  "dashboard_rows": 279,
+  "additional_trade_snapshot_calls": 0,
+  "used_800_allowance": 771,
+  "remaining": 29,
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "proxy_independent_audit": "audit/proxy_final_statistics_audit.json"
+}

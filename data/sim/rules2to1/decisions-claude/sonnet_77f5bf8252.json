@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.7,
+  "confidence": 0.5,
+  "reason": "Low-volume bounce into MA50 resistance within larger downtrend; fading for lower resumption."
+}

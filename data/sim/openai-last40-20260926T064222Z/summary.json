@@ -1,0 +1,130 @@
+{
+  "cumulative": [
+    {
+      "model": "gpt-5.6-luna-agent",
+      "n": 100,
+      "long%": 39.0,
+      "flat%": 0.0,
+      "err%": 0.0,
+      "tpHit%": 50.0,
+      "tpBase%": 40.74,
+      "gross%/tr": 0.21,
+      "afterFees%/tr": 0.01,
+      "med_min": 70.0,
+      "mfe%": 1.0,
+      "mae%": -0.71,
+      "stopW%": 0.93,
+      "tpW%": 1.38,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "n": 100,
+      "long%": 29.0,
+      "flat%": 14.0,
+      "err%": 0.0,
+      "tpHit%": 44.19,
+      "tpBase%": 37.92,
+      "gross%/tr": 0.14,
+      "afterFees%/tr": -0.06,
+      "med_min": 82.5,
+      "mfe%": 1.12,
+      "mae%": -0.81,
+      "stopW%": 0.98,
+      "tpW%": 1.61,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "n": 100,
+      "long%": 30.0,
+      "flat%": 8.0,
+      "err%": 0.0,
+      "tpHit%": 42.39,
+      "tpBase%": 38.89,
+      "gross%/tr": 0.09,
+      "afterFees%/tr": -0.11,
+      "med_min": 118.0,
+      "mfe%": 1.27,
+      "mae%": -0.96,
+      "stopW%": 1.19,
+      "tpW%": 1.87,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    }
+  ],
+  "new_batch": [
+    {
+      "model": "gpt-5.6-luna-agent",
+      "n": 40,
+      "long%": 32.5,
+      "flat%": 0.0,
+      "err%": 0.0,
+      "tpHit%": 42.5,
+      "tpBase%": 41.31,
+      "gross%/tr": -0.05,
+      "afterFees%/tr": -0.25,
+      "med_min": 57.0,
+      "mfe%": 0.82,
+      "mae%": -0.76,
+      "stopW%": 0.88,
+      "tpW%": 1.27,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    },
+    {
+      "model": "gpt-5.6-terra-agent",
+      "n": 40,
+      "long%": 17.5,
+      "flat%": 10.0,
+      "err%": 0.0,
+      "tpHit%": 38.89,
+      "tpBase%": 38.13,
+      "gross%/tr": -0.15,
+      "afterFees%/tr": -0.35,
+      "med_min": 53.5,
+      "mfe%": 0.85,
+      "mae%": -0.78,
+      "stopW%": 0.86,
+      "tpW%": 1.44,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    },
+    {
+      "model": "gpt-6-astra-agent",
+      "n": 40,
+      "long%": 25.0,
+      "flat%": 7.5,
+      "err%": 0.0,
+      "tpHit%": 35.14,
+      "tpBase%": 38.51,
+      "gross%/tr": -0.19,
+      "afterFees%/tr": -0.39,
+      "med_min": 114.0,
+      "mfe%": 0.97,
+      "mae%": -0.95,
+      "stopW%": 1.05,
+      "tpW%": 1.71,
+      "tmo%": 0.0,
+      "amb%": 0.0
+    }
+  ],
+  "outcomes": {
+    "gpt-5.6-luna-agent": {
+      "tp": 50,
+      "sl": 50
+    },
+    "gpt-5.6-terra-agent": {
+      "tp": 38,
+      "sl": 48,
+      "none": 14
+    },
+    "gpt-6-astra-agent": {
+      "tp": 39,
+      "sl": 53,
+      "none": 8
+    }
+  }
+}

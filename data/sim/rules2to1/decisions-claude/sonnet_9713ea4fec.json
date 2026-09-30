@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.58,
+  "reason": "Breakdown below MA20/MA50 on rising volume; new session low with bearish momentum."
+}

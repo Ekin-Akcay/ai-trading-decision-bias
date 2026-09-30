@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "created_at": "2026-09-30T10:53:17.372850+00:00",
+  "stage": "screen",
+  "released_cases": 60,
+  "all40000_quarter_draws_reproduced": true,
+  "all_primary_bootstrap_vectors_reproduced_by_direct_row_weighting": true,
+  "fixed_effects_reestimated_from_row_residuals_each_draw": true,
+  "undefined_samples_and_order_statistic_bounds_reproduced": true,
+  "support_concentration_halves_and_stage_gates_match": true,
+  "directions": {
+    "up": {
+      "gates": 30,
+      "aligned": 22,
+      "opposed": 8,
+      "aligned_mean_pct": 0.5727281598193418,
+      "adjusted_spread_pct": 2.276763453855608,
+      "mixed_aligned": 11,
+      "mixed_opposed": 8,
+      "screen_pass": true,
+      "confirmed": false
+    },
+    "down": {
+      "gates": 30,
+      "aligned": 14,
+      "opposed": 16,
+      "aligned_mean_pct": -0.2932365466122474,
+      "adjusted_spread_pct": -0.9664130686027298,
+      "mixed_aligned": 13,
+      "mixed_opposed": 10,
+      "screen_pass": false,
+      "confirmed": false
+    }
+  },
+  "new_model_calls": 0,
+  "unused_reserve_outcomes_read": false
+}

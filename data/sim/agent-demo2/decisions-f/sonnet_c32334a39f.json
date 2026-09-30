@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 2.2,
+  "take_profit_pct": 4.0,
+  "confidence": 0.62,
+  "reason": "Bullish breakout above MA20/MA50 with volume confirmation; strong close near highs signals momentum continuation despite short-term extension."
+}

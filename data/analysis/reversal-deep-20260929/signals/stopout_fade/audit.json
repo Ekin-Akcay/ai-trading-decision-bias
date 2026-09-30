@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "exploratory_reuse_not_holdout": true,
+  "policies": 16,
+  "policies_with_controls": 48,
+  "windows": 430,
+  "old": 150,
+  "new": 280,
+  "rows_in_path_ledger": 13760,
+  "maximum_elapsed_minutes": 480,
+  "SL_before_original_TP_required": true,
+  "gap_stop_actual_and_target_capped": true,
+  "normal_bar_both_hit_stop_first": true,
+  "new_position_enters_after_trigger_bar_close": true,
+  "synthetic_edge_cases_passed": 6,
+  "new_model_calls": 0,
+  "source_sha256": {
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff",
+    "data/sim/reversal-validation280-20260929T194012Z/manifest.json": "29727ce7a579ac29a2a082a04ea1eb687ddeb500fbd861b69d25ba15d5351dc2",
+    "data/sim/reversal-validation280-20260929T194012Z/accepted_decisions.jsonl": "94219053bf9dec674472c02c9633ebbce5de1951b0e8cf391de8c37b539297bf",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/intraday/SOL-USD_15m.csv.gz": "6f45fcfaf1865d4789c4e8259c88a5cab19e015fd7b04199d394eeb0ac8dcbea",
+    "data/analysis/reversal-deep-20260929/signals/stopout_fade/PLAN.md": "fa425e90a813d3eb34783fffae779c924e2d0a49b7fe78ee37d83305074a2b47"
+  },
+  "source_hashes_still_match": true,
+  "candidate_screen_passes": 0,
+  "all430_paths_finite_positive": true,
+  "original_trigger_ambiguity_count_all_datasets_and_controls": 0,
+  "independent_validation": "independent_validation.json",
+  "family_vector_shape": [
+    48,
+    280
+  ],
+  "family_nontrigger_return_convention": "NaN with selected=False; use mask explicitly"
+}

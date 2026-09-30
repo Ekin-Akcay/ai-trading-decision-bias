@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "unique_windows": 100,
+  "native_entry_exit_checks": 51,
+  "future_prices_used_only_for_trigger_after_t0": true,
+  "entry_after_confirmation": true,
+  "daily_lookahead_excluded": true,
+  "source_sha256": {
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/raw/SOL-USD.csv": "1c4bfeeeeddb772bec8f76a4a91dd7022bdc48e961722ea16b820045b17cfab7",
+    "data/raw/BTC-USD.csv": "73f86eabd0eb3cbc22e753d5c5d425620bf5f39a6d065f3ecbb7a7f962bacd6c",
+    "data/analysis/direction-paths-20260929/minute_paths.npz": "4561ddfe82f38f0a97ca3264174269057fd2d1c645cae6b0d42f79aeb1ea5bd4"
+  }
+}

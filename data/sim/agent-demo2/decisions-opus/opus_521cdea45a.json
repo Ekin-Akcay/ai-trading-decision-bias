@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "take_profit_pct": 0.8,
+  "confidence": 0.55,
+  "reason": "Rejection likely at range-top 100.0-100.1 and MA50; lower highs, low-volume rally, bearish MA alignment; target range support."
+}

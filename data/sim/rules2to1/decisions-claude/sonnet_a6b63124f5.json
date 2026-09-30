@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.55,
+  "reason": "Price holding 100.00 support again; volume collapsed to session low, signaling seller exhaustion and mean-reversion bounce."
+}

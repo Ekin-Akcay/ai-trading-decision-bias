@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.35,
+  "confidence": 0.68,
+  "reason": "Downtrend below MAs, recent structure declining, entry at resistance"
+}

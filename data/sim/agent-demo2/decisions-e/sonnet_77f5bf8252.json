@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.75,
+  "take_profit_pct": 1.5,
+  "confidence": 0.58,
+  "reason": "Bounce from lows on shrinking volume looks corrective; downtrend intact below MA50, fading rally back toward recent lows."
+}

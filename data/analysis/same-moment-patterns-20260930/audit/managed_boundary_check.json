@@ -1,0 +1,131 @@
+{
+  "differences": [
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "BE_after_1ATR",
+      "field": "exit_minute_index",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "BE_after_1ATR",
+      "field": "exit_elapsed_upper_minutes",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "gross_pct",
+      "reference": 0.015455950540958274,
+      "published": 0.9428129829984536
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "final_exit_price",
+      "reference": 0.06470999999999999,
+      "published": 0.0653099999999999
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "weighted_equivalent_exit_price",
+      "reference": 0.06470999999999999,
+      "published": 0.0653099999999999
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "exit_minute_index",
+      "reference": 28.0,
+      "published": 131.0
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "exit_elapsed_upper_minutes",
+      "reference": 28.0,
+      "published": 131.0
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "final_active_stop_price",
+      "reference": 0.06470999999999999,
+      "published": 0.0653099999999999
+    },
+    {
+      "row": 436,
+      "window_id": "828f59aa38",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "stop_updates",
+      "reference": 1.0,
+      "published": 13.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "exit_minute_index",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "TRAIL_1ATR_after_1ATR",
+      "field": "exit_elapsed_upper_minutes",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "HALF_at_1ATR_then_BE",
+      "field": "exit_minute_index",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "HALF_at_1ATR_then_BE",
+      "field": "exit_elapsed_upper_minutes",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "FIXED_1ATR_stop",
+      "field": "exit_minute_index",
+      "reference": 32.0,
+      "published": 34.0
+    },
+    {
+      "row": 1003,
+      "window_id": "46108acd70",
+      "policy": "FIXED_1ATR_stop",
+      "field": "exit_elapsed_upper_minutes",
+      "reference": 32.0,
+      "published": 34.0
+    }
+  ],
+  "max_payoff_difference_pct": 0.9273570324574953,
+  "differing_payoffs": [
+    [
+      1,
+      436
+    ]
+  ]
+}

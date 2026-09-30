@@ -1,0 +1,16 @@
+{
+  "other_original_files_checked": 223,
+  "changed": [],
+  "requested_complete": true,
+  "ledger_rows": 60,
+  "unique_model_window_pairs": 60,
+  "models": {
+    "gpt-5.6-luna-agent": 20,
+    "gpt-5.6-terra-agent": 20,
+    "gpt-6-astra-agent": 20
+  },
+  "all_audited_before_scoring": true,
+  "all_tp_exactly_twice_sl": true,
+  "all_entries_match": true,
+  "no_cases_after20_run": true
+}

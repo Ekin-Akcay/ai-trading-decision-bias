@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.58,
+  "reason": "Bearish rejection candle, lower high, fading volume on bounce; shorting failed retest near prior resistance."
+}

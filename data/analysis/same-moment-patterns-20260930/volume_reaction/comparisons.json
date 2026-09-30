@@ -1,0 +1,106 @@
+[
+  {
+    "candidate": "sell_pressure_recovery_long",
+    "control": "sell_pressure_recovery_long__noAI",
+    "opportunity_difference_pp": -0.005151085215623207,
+    "quarter95_ci_pp": [
+      -0.013532685724834098,
+      0.0029128214189898314
+    ],
+    "quarter_family95_ci_pp": [
+      -0.016844422550003593,
+      0.005753018889722218
+    ]
+  },
+  {
+    "candidate": "sell_pressure_recovery_long",
+    "control": "sell_pressure_recovery_long__noVolume",
+    "opportunity_difference_pp": -0.010163111989696695,
+    "quarter95_ci_pp": [
+      -0.05745713609933834,
+      0.025477070842073568
+    ],
+    "quarter_family95_ci_pp": [
+      -0.08173385106982563,
+      0.03648352716866456
+    ]
+  },
+  {
+    "candidate": "buy_pressure_rejection_short",
+    "control": "buy_pressure_rejection_short__noAI",
+    "opportunity_difference_pp": 0.00853775886844771,
+    "quarter95_ci_pp": [
+      -0.021107358532027654,
+      0.04220419531925806
+    ],
+    "quarter_family95_ci_pp": [
+      -0.03267679008636224,
+      0.05951996083083232
+    ]
+  },
+  {
+    "candidate": "buy_pressure_rejection_short",
+    "control": "buy_pressure_rejection_short__noVolume",
+    "opportunity_difference_pp": -0.005540924435460147,
+    "quarter95_ci_pp": [
+      -0.018031581063781638,
+      0.005804458059743514
+    ],
+    "quarter_family95_ci_pp": [
+      -0.023538333274485738,
+      0.009647841258377665
+    ]
+  },
+  {
+    "candidate": "quiet_down_extension_long",
+    "control": "quiet_down_extension_long__noAI",
+    "opportunity_difference_pp": -0.0046744697919252915,
+    "quarter95_ci_pp": [
+      -0.013637403027740306,
+      0.003768370763113481
+    ],
+    "quarter_family95_ci_pp": [
+      -0.0171614209902579,
+      0.006599786961077169
+    ]
+  },
+  {
+    "candidate": "quiet_down_extension_long",
+    "control": "quiet_down_extension_long__noVolume",
+    "opportunity_difference_pp": 0.0010983834123930935,
+    "quarter95_ci_pp": [
+      -0.05242277683081212,
+      0.05890109022863514
+    ],
+    "quarter_family95_ci_pp": [
+      -0.07220235227421147,
+      0.08623472318594369
+    ]
+  },
+  {
+    "candidate": "quiet_up_extension_short",
+    "control": "quiet_up_extension_short__noAI",
+    "opportunity_difference_pp": -0.018109974950208267,
+    "quarter95_ci_pp": [
+      -0.033624083976089174,
+      -0.0034484602108309126
+    ],
+    "quarter_family95_ci_pp": [
+      -0.040928604755502175,
+      0.0014502613386362959
+    ]
+  },
+  {
+    "candidate": "quiet_up_extension_short",
+    "control": "quiet_up_extension_short__noVolume",
+    "opportunity_difference_pp": 0.0024890806725732773,
+    "quarter95_ci_pp": [
+      -0.017926379816284095,
+      0.024645278605728755
+    ],
+    "quarter_family95_ci_pp": [
+      -0.025364652833465326,
+      0.03470604516627435
+    ]
+  }
+]

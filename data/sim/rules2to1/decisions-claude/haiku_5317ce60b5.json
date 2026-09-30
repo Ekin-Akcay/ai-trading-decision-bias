@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.5,
+  "confidence": 0.68,
+  "reason": "Downtrend intact, MA50 resistance, weak recovery volume"
+}

@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.5,
+  "take_profit_pct": 0.65,
+  "confidence": 0.55,
+  "reason": "Failed breakout fully reversed; volume-backed breakdown below MA20/MA50 in downtrend. Stop above MA20, target under 99.8 support."
+}

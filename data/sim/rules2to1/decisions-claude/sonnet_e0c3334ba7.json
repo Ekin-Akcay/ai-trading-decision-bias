@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.8,
+  "confidence": 0.6,
+  "reason": "Rejected at MA20 resistance, closed near lows on rising volume; short-term reversal after failed bounce."
+}

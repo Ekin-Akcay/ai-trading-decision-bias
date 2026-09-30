@@ -1,0 +1,1 @@
+const rows=Array.from(document.querySelectorAll('#positions tbody tr'));document.getElementById('filter').addEventListener('input',e=>{const q=e.target.value.toLowerCase();let n=0;for(const r of rows){const yes=r.textContent.toLowerCase().includes(q);r.hidden=!yes;if(yes)n++;}document.getElementById('count').textContent=n+' positions';});

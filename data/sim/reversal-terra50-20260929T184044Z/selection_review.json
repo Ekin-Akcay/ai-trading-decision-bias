@@ -1,0 +1,15 @@
+{
+  "independent_review": "reversal_test_review",
+  "status": "passed",
+  "unique_cases": 50,
+  "prior_SOL_times": 106,
+  "min_new_new_hours": 148.5,
+  "min_new_prior_hours": 123.75,
+  "all_200_history_bars_contiguous": true,
+  "all_4321_minute_timestamps_contiguous": true,
+  "all_above_both_MAs": true,
+  "all_entries_window_open_plus15m": true,
+  "protocol_hash_matches": true,
+  "native_index_unit": "us; explicit ns conversion verified",
+  "review_did_not_inspect_outcomes": true
+}

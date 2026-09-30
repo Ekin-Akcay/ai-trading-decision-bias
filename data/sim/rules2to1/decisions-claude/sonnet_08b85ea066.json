@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 2.0,
+  "confidence": 0.6,
+  "reason": "Downtrend below MA20/MA50, high-volume breakdown; last bar's bounce looks like noise, not reversal."
+}

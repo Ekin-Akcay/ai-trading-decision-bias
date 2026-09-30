@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.6,
+  "reason": "Downtrend below MA20/MA50; high-volume breakdown to new lows, no reclaim of broken support."
+}

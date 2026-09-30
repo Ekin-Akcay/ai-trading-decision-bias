@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "rows": 280,
+  "fields": 13,
+  "individual_field_checks": 3640,
+  "run_id": "reversal-validation280-20260929T194012Z",
+  "L_selected": 85,
+  "L_mean_gross_pct": 0.21507413855313834,
+  "L_mean_net_pct": 0.015074138553138286,
+  "L_gross_wins": 48,
+  "L_net_wins": 43,
+  "L_delay1_net_pct": 0.012173349140275276,
+  "L_delay5_net_pct": 0.04779302681608505,
+  "L_control_count": 126,
+  "L_control_mean_net_pct": -0.21527584198725225,
+  "L_below_MA20_control_count": 62,
+  "summary_counts_returns_delays_controls_match": true,
+  "root_fields": {
+    "window_id": "window_id",
+    "ai_action": "ai_action",
+    "L_selected": "L_selected",
+    "L_confirmed": "positive_confirmation",
+    "L_gross_pct": "hypothetical_long_delay0_gross_pct",
+    "L_net_pct": "hypothetical_long_delay0_net20_pct",
+    "L_entry_price": "entry_delay0_px",
+    "L_exit_price": "exit_px",
+    "L_delay1_gross_pct": "hypothetical_long_delay1_gross_pct",
+    "L_delay5_gross_pct": "hypothetical_long_delay5_gross_pct",
+    "original_entry_time": "original_entry_time",
+    "ma20_now": "ma20_now",
+    "ma50_now": "ma50_now"
+  }
+}

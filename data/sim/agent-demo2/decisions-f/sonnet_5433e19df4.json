@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.0,
+  "take_profit_pct": 2.0,
+  "confidence": 0.58,
+  "reason": "Higher-low uptrend since volume-spike bottom; shallow low-volume pullback holding above rising MA20."
+}

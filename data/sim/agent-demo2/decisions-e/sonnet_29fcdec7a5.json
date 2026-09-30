@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.5,
+  "take_profit_pct": 3.0,
+  "confidence": 0.6,
+  "reason": "Breakout above range on 2.3x volume, uptrend intact above MA20/MA50; stop below breakout support."
+}

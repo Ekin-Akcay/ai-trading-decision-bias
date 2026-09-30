@@ -1,0 +1,57 @@
+[
+  {
+    "test_year": 2022,
+    "n": 187,
+    "actual_short_rate": 0.6577540106951871,
+    "short_accuracy": 0.8770053475935828,
+    "short_Brier": 0.10302112100772665,
+    "training_majority_accuracy": 0.6577540106951871,
+    "training_prevalence_Brier": 0.2255357571515749,
+    "confidence_MAE": 0.0251881512536789,
+    "confidence_training_mean_MAE": 0.026757865937072516
+  },
+  {
+    "test_year": 2023,
+    "n": 152,
+    "actual_short_rate": 0.631578947368421,
+    "short_accuracy": 0.8947368421052632,
+    "short_Brier": 0.0948610883674523,
+    "training_majority_accuracy": 0.631578947368421,
+    "training_prevalence_Brier": 0.23277995700164694,
+    "confidence_MAE": 0.029031572435161114,
+    "confidence_training_mean_MAE": 0.03250903977501005
+  },
+  {
+    "test_year": 2024,
+    "n": 144,
+    "actual_short_rate": 0.5763888888888888,
+    "short_accuracy": 0.8194444444444444,
+    "short_Brier": 0.12491839906836565,
+    "training_majority_accuracy": 0.5763888888888888,
+    "training_prevalence_Brier": 0.24879083817360093,
+    "confidence_MAE": 0.02632996865406909,
+    "confidence_training_mean_MAE": 0.027458634175691943
+  },
+  {
+    "test_year": 2025,
+    "n": 180,
+    "actual_short_rate": 0.6666666666666666,
+    "short_accuracy": 0.8166666666666667,
+    "short_Brier": 0.13059271013667917,
+    "training_majority_accuracy": 0.6666666666666666,
+    "training_prevalence_Brier": 0.22381148142303872,
+    "confidence_MAE": 0.028463921903755116,
+    "confidence_training_mean_MAE": 0.033142331091898826
+  },
+  {
+    "test_year": 2026,
+    "n": 140,
+    "actual_short_rate": 0.6785714285714286,
+    "short_accuracy": 0.8642857142857143,
+    "short_Brier": 0.10587826015008583,
+    "training_majority_accuracy": 0.6785714285714286,
+    "training_prevalence_Brier": 0.21986761765898444,
+    "confidence_MAE": 0.02661340019749047,
+    "confidence_training_mean_MAE": 0.03016921575008136
+  }
+]

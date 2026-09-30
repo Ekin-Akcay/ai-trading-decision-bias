@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.0,
+  "confidence": 0.55,
+  "reason": "Double rejection near 100.7-100.8 on heavy volume after vertical rally signals exhaustion; targeting MA20/50 support."
+}

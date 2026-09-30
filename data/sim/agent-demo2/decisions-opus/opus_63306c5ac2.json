@@ -1,0 +1,7 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.85,
+  "take_profit_pct": 0.8,
+  "confidence": 0.55,
+  "reason": "Range breakdown bar closing on low after rejected highs; below falling MA20; target 99.2 support, stop above breakdown bar."
+}

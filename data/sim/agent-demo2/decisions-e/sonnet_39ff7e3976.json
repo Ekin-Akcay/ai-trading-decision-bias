@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.9,
+  "take_profit_pct": 1.5,
+  "confidence": 0.55,
+  "reason": "Pullback to old breakout support on falling volume within intact uptrend above MA50 favors continuation."
+}

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "run_id": "reversal-validation280-20260929T194012Z",
+  "release_explicit": "reversal-validation280-20260929T194012Z",
+  "evaluation_marker_checked": true,
+  "accepted_decisions": 280,
+  "native_scalar_replays": 1680,
+  "comparison_checks": 17843,
+  "maximum_numeric_error": 0.0,
+  "short_trades": 91,
+  "full_minute_paths_checked": 280,
+  "gross_net_cost_pp": 0.2,
+  "control_configurations_checked": 6,
+  "primary_and_delay_configs_checked": 3,
+  "clock_and_geometry_verified": true,
+  "window_results_sha256": "ead82c17a073a8ae8e4bc146ad23d0b22383f644848361be39c92a82c98e1262",
+  "accepted_decisions_sha256": "94219053bf9dec674472c02c9633ebbce5de1951b0e8cf391de8c37b539297bf",
+  "engine_sha256": "b63b8a4bee90c5970bdd1442b6450fca54a0e5b2f54a282c8b7ab56b9e013aa5",
+  "checker_sha256": "626126c089b24dcc050989970161b9d10c72938959cf47b502ba3541a3c9acfc"
+}

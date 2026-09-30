@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 0.6,
+  "confidence": 0.55,
+  "reason": "Downtrend intact, below MA50; bounce into resistance after volume climax likely fails, fading the rally."
+}

@@ -1,0 +1,36 @@
+{
+  "windows": 1020,
+  "unique_asset_windows": 1020,
+  "unique_entry_times": 645,
+  "cohorts": {
+    "multi500": 500,
+    "next280": 280,
+    "original100": 100,
+    "paired90": 90,
+    "next50": 50
+  },
+  "path_shape": [
+    1020,
+    361,
+    4
+  ],
+  "SOL_cache_max_absolute_error": 0.0,
+  "input_hashes": {
+    "data/analysis/reversal-deep-20260929/risk/windows.csv": "e6c1330072e02a2fdf43bb1c3bfc4511d783a520fc42a3bd16d643684b9a871d",
+    "data/analysis/reversal-deep-20260929/risk/paths.npz": "ac1a7e099ee7f5a55278dfd0454041640bba1ccd7ed0f044bf135bd307cb8077",
+    "data/sim/gross-edge-500-20260929T204545Z/paths.npz": "07776e6ac94830d9c9a9f154cd4ae7cccb61c1a932e0b56878cd2dc7b17f6acb",
+    "data/sim/ma-ablation-sol90-20260929T210853Z/paths.npz": "1c0194f1c82c4327ee07358925dc071637b28e3c62e868c48c7e093122361008",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24",
+    "data/sim/decisions/rules2to1-openai-20260926T072414Z.jsonl": "2dd9b2f8767aaee836189509892c53af163542d63c31dd564d47f7c0a241b0b2",
+    "data/sim/decisions/reversal-terra50-20260929T184044Z.jsonl": "f213002436c822d2d872f26bdb0f0250d0d7058423dfd6ff1ab058b007bccfff",
+    "data/sim/decisions/reversal-validation280-20260929T194012Z.jsonl": "aaaee2695e6a6e9f1e34a68f7d81f2ae90661d551fb04b9ad15805d697437380",
+    "data/sim/decisions/gross-edge-500-20260929T204545Z.jsonl": "2e73f28b40fffd58c8c991d6d702d2d84fe8e27f0243f692d84b9984c1ffe8b0",
+    "data/sim/decisions/ma-ablation-sol90-20260929T210853Z.jsonl": "0111503c5b6ee7b6c5b6bd1fd06b441ac6dd8eeb96d8b2f7103b70895dad8af8"
+  },
+  "plan_sha256": "b84bd70add92303f84e88e11719d08f799ab053f4d8f58ae72fdcfc6d45f8009",
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "attempts_before_and_after": 771,
+  "remaining": 29,
+  "additional_model_calls": 0,
+  "discovery_only": true
+}

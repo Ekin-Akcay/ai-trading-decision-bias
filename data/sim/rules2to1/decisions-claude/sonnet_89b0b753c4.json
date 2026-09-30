@@ -1,0 +1,6 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "confidence": 0.58,
+  "reason": "Bar swept below range lows to 98.98 then reclaimed 100, echoing prior flush-and-reclaim bounces."
+}

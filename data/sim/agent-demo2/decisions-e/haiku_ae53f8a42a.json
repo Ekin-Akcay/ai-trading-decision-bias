@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.7,
+  "take_profit_pct": 1.0,
+  "confidence": 0.65,
+  "reason": "Uptrend intact, MA above, pullback setup, ATR support"
+}

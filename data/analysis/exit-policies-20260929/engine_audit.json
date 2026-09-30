@@ -1,0 +1,7002 @@
+[
+  {
+    "decision_id": "v1:claude-haiku-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-haiku-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:claude-sonnet-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-luna-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-5.6-terra-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v1:gpt-6-astra-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-haiku-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:claude-sonnet-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:f2d094003c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:63306c5ac2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:05890fcad0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:f256c3890d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:6ae79be9f6",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:14f84f43ad",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:9bb0430ed9",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:092c933eaf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:ce5fe9c87a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:e5326090ac",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:7c4fe08765",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:a1e8add12c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:0b6ca330e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:de11c93a0a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:d569ef47e0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:5317ce60b5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:67b5b027e5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:521cdea45a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:cba0c6fa38",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:02c71ec26e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:08b85ea066",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:0ce8d183db",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:136f49ce7f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:1e00acca57",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:1f99645087",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:1fe0cbe77b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:20b507f68e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:24fcaef0cf",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:29fcdec7a5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:34c7b62ec0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:3f4e4f22ff",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:4107788ab2",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:460391e078",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:473ad6c5cb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:6938f71409",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:702ac1a977",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:7617433124",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:76d739ed92",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:77f5bf8252",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:80fd6b96d3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:83d3e72d0e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:85789010aa",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:8f3a1b9bdd",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:91fda21e1f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:92f261e2e8",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:9713ea4fec",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:a5280a69eb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:ae53f8a42a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:b4e07e92b0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:b77bca3006",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:ccf254ca7d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:39ff7e3976",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:cf3d508332",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:d030294648",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:e0f0d4e295",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:eefd5495da",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:efad2fea0b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:f0943f67a0",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:f7af86af54",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:fc052166bc",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:0549b8d855",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:09d1777e78",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:0e3f63cb22",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:1692522d5a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:1dddcc5d10",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:24a2dd72df",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:39a03cb676",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:3dee20e509",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:43ca568575",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:4b92ab412c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:4bb015112f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:4d2fd102a4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:5433e19df4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:57b37fbdd7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:5889e95bee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:5de9a99b0d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:60ad73f22a",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:62f783318b",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:6a2bb8c175",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:6d52b1afab",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:6da889174f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:72c5a0798c",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:7413f4a174",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:756072e7a3",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:776af69c32",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:7d6ec4fbf1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:89b0b753c4",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:8f690aa600",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:a6b63124f5",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:b3590bc71d",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:b4618f26be",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:b4fff3cb3e",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:c32334a39f",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:c58a6d17c1",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:cd2d0d3786",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:cd632bb149",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:d6c2a000bb",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:dff3d7cfee",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:e0c3334ba7",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-luna-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-5.6-terra-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  },
+  {
+    "decision_id": "v2:gpt-6-astra-agent:eb5f9f2e41",
+    "outcome": true,
+    "minutes": true,
+    "gross": true,
+    "net": true
+  }
+]

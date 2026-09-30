@@ -1,0 +1,6 @@
+{
+  "action": "short",
+  "stop_loss_pct": 1.3,
+  "confidence": 0.58,
+  "reason": "Bearish reversal bar rejected highs on weak volume after stretched rally; stop above swing high."
+}

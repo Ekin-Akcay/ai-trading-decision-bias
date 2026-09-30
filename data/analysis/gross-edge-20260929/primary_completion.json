@@ -1,0 +1,10 @@
+{
+  "completed_at": "2026-09-29T21:10:19.944046+00:00",
+  "run_id": "gross-edge-500-20260929T204545Z",
+  "decisions": 500,
+  "physical_calls": 501,
+  "rules_verified": [],
+  "primary_data_complete": true,
+  "independent_audits_passed": true,
+  "followup_active": true
+}

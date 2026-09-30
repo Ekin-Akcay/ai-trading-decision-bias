@@ -1,0 +1,22 @@
+{
+  "status": "primary_validation_complete",
+  "accepted": 280,
+  "planned_this_batch": 280,
+  "planned_canonical_windows": 280,
+  "authorized_case_range": [
+    1,
+    280
+  ],
+  "pending_unrequested_case_range": null,
+  "missing_requested_pairs": [],
+  "models": {
+    "gpt-5.6-terra": 280
+  },
+  "attempts": 280,
+  "excluded_attempts": [],
+  "updated_at": "2026-09-29T19:51:17.031098+00:00",
+  "scored_decisions": 280,
+  "report": "data/sim/reversal-validation280-20260929T194012Z/index.html",
+  "ledger": "data/sim/decisions/reversal-validation280-20260929T194012Z.jsonl",
+  "exploratory_extension": "complete; see data/analysis/reversal-deep-20260929/index.html"
+}

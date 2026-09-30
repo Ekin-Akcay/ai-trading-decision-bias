@@ -1,0 +1,15 @@
+{
+  "source_sha256": {
+    "src/nai/backtest.py": "787622482202d238fc577c757d37b48bb4f86e47510db62c4dae23991898a248",
+    "src/nai/sim.py": "8d8b3b578cd005d3d3dc929159aae0b84f3fc6e77e5aa7ef0108d9c8a937578c",
+    "src/nai/prompts.py": "cfcc7ff4b239ba13c420a64cf8d26ebf785e565b463ac1e900bfa6263baba3bf",
+    "src/nai/config.py": "bf16700958749226b010f12356aa318bc87ae2e55a75732a71d46a58ac2fa039",
+    "configs/assets.yaml": "6332ea481c1058db022a547017a1c39ca95b984c72855cd937b89aef09dc2acb",
+    "scripts/sim_report_html.py": "94a424de867085f7142c3209a79727f364bb790102508909904db60fc4946461",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24"
+  },
+  "eval_interval": "1m",
+  "time_stop_hours": 72,
+  "round_trip_bps": 20,
+  "note": "Fingerprinted before scoring. Original source files are unchanged; new helper imports existing evaluator."
+}

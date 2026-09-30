@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.1,
+  "take_profit_pct": 2.0,
+  "confidence": 0.55,
+  "reason": "Climactic volume, bullish reversal candle off 99.2 support signal short-term bounce despite bearish trend below both MAs."
+}

@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 0.35,
+  "take_profit_pct": 0.55,
+  "confidence": 0.52,
+  "reason": "Reclaimed MA20/MA50 on higher-low structure with relative volume pickup, despite wick rejection at 100."
+}

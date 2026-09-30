@@ -1,0 +1,1136 @@
+[
+  {
+    "cohort": "old150",
+    "measure": "gross_pct",
+    "policy": "AI_selected_L048",
+    "n": 22,
+    "selected_blocks": 22,
+    "opportunities": 150,
+    "frequency": 0.14666666666666667,
+    "mean": 0.2115620149370319,
+    "median": 0.25224863451498436,
+    "win_rate": 0.5454545454545454,
+    "best": 3.4449699603732453,
+    "worst": -3.1651483298294925,
+    "profit_factor_in_these_units": 1.3468513634697559,
+    "block_ci95": [
+      -0.5493415935443533,
+      0.9666309131907379
+    ],
+    "block_ci975": [
+      -0.6710299774435508,
+      1.0798845609355148
+    ],
+    "quarter_ci95": [
+      -0.37023367603411206,
+      0.8907083670183834
+    ],
+    "largest_block_share_total_signed_sum": 0.7401590673067457,
+    "largest3_blocks_share_total_signed_sum": 1.9152887480819272,
+    "exclude_largest_block_mean": 0.05759020801149791,
+    "exclude_largest3_blocks_mean": -0.22421512102394361,
+    "exclude_best_trade_mean": 0.05759020801149793,
+    "exclude_best3_trades_mean": -0.22421512102394361,
+    "chrono_half_means": [
+      -0.10123000609979,
+      0.5243540359738539
+    ],
+    "chrono_third_means": [
+      0.15301179879628618,
+      -0.6496535661713043,
+      1.139692128777649
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_pct",
+    "policy": "macro_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 150,
+    "frequency": 0.30666666666666664,
+    "mean": 0.0908322376965985,
+    "median": -0.0210288456440221,
+    "win_rate": 0.4782608695652174,
+    "best": 5.775638652350978,
+    "worst": -4.1496737357259335,
+    "profit_factor_in_these_units": 1.1328011333438741,
+    "block_ci95": [
+      -0.48255059063371336,
+      0.6685237536714089
+    ],
+    "block_ci975": [
+      -0.5642435649796707,
+      0.7555968944478715
+    ],
+    "quarter_ci95": [
+      -0.5048011253115591,
+      0.7125786789155079
+    ],
+    "largest_block_share_total_signed_sum": 1.3822995578620636,
+    "largest3_blocks_share_total_signed_sum": 2.969905182109727,
+    "exclude_largest_block_mean": -0.035496793740165504,
+    "exclude_largest3_blocks_mean": -0.19141444660681364,
+    "exclude_best_trade_mean": -0.035496793740165504,
+    "exclude_best3_trades_mean": -0.19141444660681364,
+    "chrono_half_means": [
+      -0.3596350548853163,
+      0.5412995302785132
+    ],
+    "chrono_third_means": [
+      -0.7065718263009612,
+      0.20127864837862966,
+      0.8309501619452978
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_pct",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 16,
+    "selected_blocks": 16,
+    "opportunities": 150,
+    "frequency": 0.10666666666666667,
+    "mean": -0.0708614626215652,
+    "median": 0.1889012082054054,
+    "win_rate": 0.5,
+    "best": 3.4449699603732453,
+    "worst": -3.1651483298294925,
+    "profit_factor_in_these_units": 0.9036831914354614,
+    "block_ci95": [
+      -0.9802195933667941,
+      0.8278328207638243
+    ],
+    "block_ci975": [
+      -1.1151500681556192,
+      0.9798394689705413
+    ],
+    "quarter_ci95": [
+      -0.7513926637656888,
+      0.8192627527837477
+    ],
+    "largest_block_share_total_signed_sum": -3.038472740439915,
+    "largest3_blocks_share_total_signed_sum": -6.558598207356632,
+    "exclude_largest_block_mean": -0.3052502241545526,
+    "exclude_largest3_blocks_mean": -0.6592163991901929,
+    "exclude_best_trade_mean": -0.3052502241545526,
+    "exclude_best3_trades_mean": -0.6592163991901929,
+    "chrono_half_means": [
+      -0.7325270606930265,
+      0.5908041354498961
+    ],
+    "chrono_third_means": [
+      -0.6977786693562842,
+      -0.5800140874218518,
+      1.190591810260384
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_ATR",
+    "policy": "AI_selected_L048",
+    "n": 22,
+    "selected_blocks": 22,
+    "opportunities": 150,
+    "frequency": 0.14666666666666667,
+    "mean": 0.2900438163089223,
+    "median": 0.5846108166256998,
+    "win_rate": 0.5454545454545454,
+    "best": 5.213008130081312,
+    "worst": -4.577190006187568,
+    "profit_factor_in_these_units": 1.322336904796227,
+    "block_ci95": [
+      -0.8164514235516661,
+      1.361231364151556
+    ],
+    "block_ci975": [
+      -0.9633742372027831,
+      1.5173480099710361
+    ],
+    "quarter_ci95": [
+      -0.4958404784165342,
+      1.0610969616679715
+    ],
+    "largest_block_share_total_signed_sum": 0.8169624783564359,
+    "largest3_blocks_share_total_signed_sum": 1.8844354169377089,
+    "exclude_largest_block_mean": 0.05561694422452276,
+    "exclude_largest3_blocks_mean": -0.29702897470328893,
+    "exclude_best_trade_mean": 0.05561694422452276,
+    "exclude_best3_trades_mean": -0.297028974703289,
+    "chrono_half_means": [
+      -0.03456016240830249,
+      0.6146477950261472
+    ],
+    "chrono_third_means": [
+      0.3916428006747413,
+      -1.021691966818476,
+      1.4856664744468138
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_ATR",
+    "policy": "macro_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 150,
+    "frequency": 0.30666666666666664,
+    "mean": 0.29704988085512357,
+    "median": -0.024395231891962563,
+    "win_rate": 0.4782608695652174,
+    "best": 9.318906700695136,
+    "worst": -4.9328303425775,
+    "profit_factor_in_these_units": 1.3310410021993673,
+    "block_ci95": [
+      -0.4841656905296219,
+      1.101694819390897
+    ],
+    "block_ci975": [
+      -0.6046473640842124,
+      1.2099199874042945
+    ],
+    "quarter_ci95": [
+      -0.46775483452946276,
+      1.104970730819357
+    ],
+    "largest_block_share_total_signed_sum": 0.681989596133807,
+    "largest3_blocks_share_total_signed_sum": 1.3542969352955754,
+    "exclude_largest_block_mean": 0.09656417374756775,
+    "exclude_largest3_blocks_mean": -0.11258645746922694,
+    "exclude_best_trade_mean": 0.09656417374756779,
+    "exclude_best3_trades_mean": -0.11258645746922695,
+    "chrono_half_means": [
+      -0.19032482661500608,
+      0.7844245883252531
+    ],
+    "chrono_third_means": [
+      -0.7242814690917487,
+      0.4852497558096356,
+      1.1982701125106086
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_ATR",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 16,
+    "selected_blocks": 16,
+    "opportunities": 150,
+    "frequency": 0.10666666666666667,
+    "mean": -0.05356935244988298,
+    "median": 0.4514403029456725,
+    "win_rate": 0.5,
+    "best": 3.9735973597359973,
+    "worst": -4.577190006187568,
+    "profit_factor_in_these_units": 0.9504137999015452,
+    "block_ci95": [
+      -1.3797824333459299,
+      1.1968573069303088
+    ],
+    "block_ci975": [
+      -1.5791053163369198,
+      1.3692908728443383
+    ],
+    "quarter_ci95": [
+      -1.13521499333187,
+      1.1589733121949017
+    ],
+    "largest_block_share_total_signed_sum": -4.636043252825289,
+    "largest3_blocks_share_total_signed_sum": -10.828016932982848,
+    "exclude_largest_block_mean": -0.322047133262275,
+    "exclude_largest3_blocks_mean": -0.779839025066021,
+    "exclude_best_trade_mean": -0.3220471332622751,
+    "exclude_best3_trades_mean": -0.7798390250660211,
+    "chrono_half_means": [
+      -0.9750430357853878,
+      0.8679043308856218
+    ],
+    "chrono_third_means": [
+      -0.8096793069024862,
+      -0.9282286432477942,
+      1.728421883691152
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_sigma2d",
+    "policy": "AI_selected_L048",
+    "n": 22,
+    "selected_blocks": 22,
+    "opportunities": 150,
+    "frequency": 0.14666666666666667,
+    "mean": 0.3779514223238866,
+    "median": 0.5929180262276619,
+    "win_rate": 0.5454545454545454,
+    "best": 6.498978828563147,
+    "worst": -8.131353743099426,
+    "profit_factor_in_these_units": 1.2748432275209258,
+    "block_ci95": [
+      -1.3123386641550354,
+      1.9712649190566076
+    ],
+    "block_ci975": [
+      -1.571684113496689,
+      2.1978681390841635
+    ],
+    "quarter_ci95": [
+      -0.9074913177587975,
+      1.807472919987925
+    ],
+    "largest_block_share_total_signed_sum": 0.7816034313475906,
+    "largest3_blocks_share_total_signed_sum": 2.0217276204174204,
+    "exclude_largest_block_mean": 0.08647392678868379,
+    "exclude_largest3_blocks_mean": -0.4471365769482109,
+    "exclude_best_trade_mean": 0.08647392678868394,
+    "exclude_best3_trades_mean": -0.4471365769482109,
+    "chrono_half_means": [
+      -0.6255073922835547,
+      1.3814102369313281
+    ],
+    "chrono_third_means": [
+      -0.11444078072963815,
+      -1.2975926729517882,
+      2.616229463946447
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 150,
+    "frequency": 0.30666666666666664,
+    "mean": 0.5512672609102454,
+    "median": -0.04737005231966325,
+    "win_rate": 0.4782608695652174,
+    "best": 20.84958299138008,
+    "worst": -8.131353743099426,
+    "profit_factor_in_these_units": 1.4127936929541483,
+    "block_ci95": [
+      -0.7073279107296169,
+      1.9638997193403989
+    ],
+    "block_ci975": [
+      -0.8861414234498215,
+      2.2210639803975565
+    ],
+    "quarter_ci95": [
+      -0.7643926777166725,
+      2.1483784108513713
+    ],
+    "largest_block_share_total_signed_sum": 0.8221997501031224,
+    "largest3_blocks_share_total_signed_sum": 1.2842027212162457,
+    "exclude_largest_block_mean": 0.10019357801091573,
+    "exclude_largest3_blocks_mean": -0.16760223629612608,
+    "exclude_best_trade_mean": 0.1001935780109157,
+    "exclude_best3_trades_mean": -0.1676022362961261,
+    "chrono_half_means": [
+      -0.5233248291673406,
+      1.625859350987831
+    ],
+    "chrono_third_means": [
+      -1.3463563484688934,
+      0.5967198807467508,
+      2.529946491078155
+    ]
+  },
+  {
+    "cohort": "old150",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 16,
+    "selected_blocks": 16,
+    "opportunities": 150,
+    "frequency": 0.10666666666666667,
+    "mean": -0.08381534221491327,
+    "median": 0.41231465133469986,
+    "win_rate": 0.5,
+    "best": 6.498978828563147,
+    "worst": -8.131353743099426,
+    "profit_factor_in_these_units": 0.9490962900246221,
+    "block_ci95": [
+      -2.1936936788153316,
+      1.908059298321165
+    ],
+    "block_ci975": [
+      -2.5178391947437517,
+      2.1655045069900494
+    ],
+    "quarter_ci95": [
+      -1.8286198123372215,
+      1.9391467209532034
+    ],
+    "largest_block_share_total_signed_sum": -4.846203165808037,
+    "largest3_blocks_share_total_signed_sum": -11.438404964647367,
+    "exclude_largest_block_mean": -0.5226682869334506,
+    "exclude_largest3_blocks_mean": -1.2831128230395021,
+    "exclude_best_trade_mean": -0.5226682869334506,
+    "exclude_best3_trades_mean": -1.283112823039502,
+    "chrono_half_means": [
+      -1.9872665407909909,
+      1.819635856361164
+    ],
+    "chrono_third_means": [
+      -1.8711789450692458,
+      -1.0349074581918636,
+      3.0121130971872363
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_pct",
+    "policy": "AI_selected_L048",
+    "n": 65,
+    "selected_blocks": 65,
+    "opportunities": 280,
+    "frequency": 0.23214285714285715,
+    "mean": 0.5351322482523851,
+    "median": 0.198068828918041,
+    "win_rate": 0.5230769230769231,
+    "best": 7.9858030168588945,
+    "worst": -2.5389678853332764,
+    "profit_factor_in_these_units": 2.2441702402562353,
+    "block_ci95": [
+      0.0643498014655358,
+      1.0491101666873275
+    ],
+    "block_ci975": [
+      0.004749901054889204,
+      1.1348701918376345
+    ],
+    "quarter_ci95": [
+      0.2208258157409923,
+      0.9551342972663198
+    ],
+    "largest_block_share_total_signed_sum": 0.22958531905505977,
+    "largest3_blocks_share_total_signed_sum": 0.5614264520784839,
+    "exclude_largest_block_mean": 0.41871551749290853,
+    "exclude_largest3_blocks_mean": 0.24605105108084346,
+    "exclude_best_trade_mean": 0.4187155174929085,
+    "exclude_best3_trades_mean": 0.2460510510808435,
+    "chrono_half_means": [
+      0.7240399309007457,
+      0.3519490408357933
+    ],
+    "chrono_third_means": [
+      1.0435050290060852,
+      0.38666917279777624,
+      0.15808398555809955
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_pct",
+    "policy": "macro_no_AI",
+    "n": 93,
+    "selected_blocks": 93,
+    "opportunities": 280,
+    "frequency": 0.33214285714285713,
+    "mean": 0.1852844529437193,
+    "median": -0.015934985260146473,
+    "win_rate": 0.4946236559139785,
+    "best": 7.9858030168588945,
+    "worst": -10.649087221095332,
+    "profit_factor_in_these_units": 1.2746682522818067,
+    "block_ci95": [
+      -0.2897976640048606,
+      0.6582448952029806
+    ],
+    "block_ci975": [
+      -0.35526144048985514,
+      0.7258378266740434
+    ],
+    "quarter_ci95": [
+      -0.1732918017441303,
+      0.5785618685972982
+    ],
+    "largest_block_share_total_signed_sum": 0.4634433611638583,
+    "largest3_blocks_share_total_signed_sum": 1.164704607700454,
+    "exclude_largest_block_mean": 0.10049620768377177,
+    "exclude_largest3_blocks_mean": -0.0315344432395914,
+    "exclude_best_trade_mean": 0.10049620768377177,
+    "exclude_best3_trades_mean": -0.031534443239591446,
+    "chrono_half_means": [
+      0.1506634296223648,
+      0.21916885874759826
+    ],
+    "chrono_third_means": [
+      0.49871763838778566,
+      -0.08211444215123118,
+      0.1392501625946034
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_pct",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 280,
+    "frequency": 0.16428571428571428,
+    "mean": 0.35151130797222824,
+    "median": 0.4971648245816085,
+    "win_rate": 0.5869565217391305,
+    "best": 7.9858030168588945,
+    "worst": -10.649087221095332,
+    "profit_factor_in_these_units": 1.5668916327868272,
+    "block_ci95": [
+      -0.4081653058752612,
+      1.068689931436452
+    ],
+    "block_ci975": [
+      -0.5529262831954147,
+      1.165963099559009
+    ],
+    "quarter_ci95": [
+      -0.4206800869999936,
+      1.200431022355938
+    ],
+    "largest_block_share_total_signed_sum": 0.4938800245472953,
+    "largest3_blocks_share_total_signed_sum": 1.060542911950921,
+    "exclude_largest_block_mean": 0.18186038110808006,
+    "exclude_largest3_blocks_mean": -0.022766275249826162,
+    "exclude_best_trade_mean": 0.1818603811080801,
+    "exclude_best3_trades_mean": -0.02276627524982612,
+    "chrono_half_means": [
+      0.604089840614362,
+      0.09893277533009419
+    ],
+    "chrono_third_means": [
+      1.5094411731653448,
+      -0.942761809833866,
+      0.4106592362389979
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_ATR",
+    "policy": "AI_selected_L048",
+    "n": 65,
+    "selected_blocks": 65,
+    "opportunities": 280,
+    "frequency": 0.23214285714285715,
+    "mean": 0.4761182778960594,
+    "median": 0.2731707317073069,
+    "win_rate": 0.5230769230769231,
+    "best": 9.197080291970828,
+    "worst": -5.250000000000001,
+    "profit_factor_in_these_units": 1.7947849146869197,
+    "block_ci95": [
+      -0.06578947307367708,
+      1.0493275208410695
+    ],
+    "block_ci975": [
+      -0.14154868327674236,
+      1.1367315262992768
+    ],
+    "quarter_ci95": [
+      0.0311803594856374,
+      0.9894608133146526
+    ],
+    "largest_block_share_total_signed_sum": 0.29718149779640796,
+    "largest3_blocks_share_total_signed_sum": 0.6673999919573276,
+    "exclude_largest_block_mean": 0.3398532464261412,
+    "exclude_largest3_blocks_mean": 0.16601937578608109,
+    "exclude_best_trade_mean": 0.3398532464261411,
+    "exclude_best3_trades_mean": 0.16601937578608106,
+    "chrono_half_means": [
+      0.46173717870786446,
+      0.49006358619976365
+    ],
+    "chrono_third_means": [
+      0.8891800650968181,
+      0.1787084194214504,
+      0.35495911446866446
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_ATR",
+    "policy": "macro_no_AI",
+    "n": 93,
+    "selected_blocks": 93,
+    "opportunities": 280,
+    "frequency": 0.33214285714285713,
+    "mean": 0.13976515315708318,
+    "median": -0.07088042810652465,
+    "win_rate": 0.4946236559139785,
+    "best": 9.197080291970828,
+    "worst": -8.452890011630867,
+    "profit_factor_in_these_units": 1.1555035260707434,
+    "block_ci95": [
+      -0.40602166442155796,
+      0.678342658797857
+    ],
+    "block_ci975": [
+      -0.4830857330365282,
+      0.7559710693821196
+    ],
+    "quarter_ci95": [
+      -0.21059014864806083,
+      0.5199464547439889
+    ],
+    "largest_block_share_total_signed_sum": 0.707567904008645,
+    "largest3_blocks_share_total_signed_sum": 1.6036312296945519,
+    "exclude_largest_block_mean": 0.041316075561281605,
+    "exclude_largest3_blocks_mean": -0.08717883164427936,
+    "exclude_best_trade_mean": 0.041316075561281584,
+    "exclude_best3_trades_mean": -0.08717883164427943,
+    "chrono_half_means": [
+      -0.07129716317454632,
+      0.34633678190718864
+    ],
+    "chrono_third_means": [
+      0.08407934246153118,
+      0.18179871223688843,
+      0.15341740477283008
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_ATR",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 280,
+    "frequency": 0.16428571428571428,
+    "mean": 0.456669597917284,
+    "median": 0.6141435281562952,
+    "win_rate": 0.5869565217391305,
+    "best": 9.197080291970828,
+    "worst": -5.521265171728351,
+    "profit_factor_in_these_units": 1.6728066609676702,
+    "block_ci95": [
+      -0.2406761128675408,
+      1.1638823798962965
+    ],
+    "block_ci975": [
+      -0.34329699116930934,
+      1.271966688309244
+    ],
+    "quarter_ci95": [
+      -0.2503585517501348,
+      1.2739511472678724
+    ],
+    "largest_block_share_total_signed_sum": 0.43781440454579285,
+    "largest3_blocks_share_total_signed_sum": 0.7619494102147373,
+    "exclude_largest_block_mean": 0.26243824916053854,
+    "exclude_largest3_blocks_mean": 0.11629491831571119,
+    "exclude_best_trade_mean": 0.2624382491605386,
+    "exclude_best3_trades_mean": 0.1162949183157112,
+    "chrono_half_means": [
+      0.5776120400587306,
+      0.33572715577583745
+    ],
+    "chrono_third_means": [
+      1.0322086852163792,
+      -0.5465086379100644,
+      0.8459394739589309
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_sigma2d",
+    "policy": "AI_selected_L048",
+    "n": 65,
+    "selected_blocks": 65,
+    "opportunities": 280,
+    "frequency": 0.23214285714285715,
+    "mean": 0.7080219186728457,
+    "median": 0.501983749955713,
+    "win_rate": 0.5230769230769231,
+    "best": 13.201981462432517,
+    "worst": -9.405055109779562,
+    "profit_factor_in_these_units": 1.775574405924979,
+    "block_ci95": [
+      -0.1629516576555142,
+      1.6149452834348081
+    ],
+    "block_ci975": [
+      -0.28477459865365845,
+      1.7453935218733192
+    ],
+    "quarter_ci95": [
+      0.02685636097544897,
+      1.4961336845277642
+    ],
+    "largest_block_share_total_signed_sum": 0.28686598784266715,
+    "largest3_blocks_share_total_signed_sum": 0.7486801506122575,
+    "exclude_largest_block_mean": 0.512803800801601,
+    "exclude_largest3_blocks_mean": 0.18654996012363254,
+    "exclude_best_trade_mean": 0.5128038008016009,
+    "exclude_best3_trades_mean": 0.18654996012363242,
+    "chrono_half_means": [
+      0.5110348796996482,
+      0.8990396534347344
+    ],
+    "chrono_third_means": [
+      1.2791881443654363,
+      0.16912813300495103,
+      0.6742126957898316
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_no_AI",
+    "n": 93,
+    "selected_blocks": 93,
+    "opportunities": 280,
+    "frequency": 0.33214285714285713,
+    "mean": 0.23955157063385407,
+    "median": -0.06590739494412608,
+    "win_rate": 0.4946236559139785,
+    "best": 13.201981462432517,
+    "worst": -13.076770247578795,
+    "profit_factor_in_these_units": 1.1804184679725134,
+    "block_ci95": [
+      -0.6005412394920675,
+      1.0753308030896276
+    ],
+    "block_ci975": [
+      -0.7239749513283729,
+      1.1922607848059985
+    ],
+    "quarter_ci95": [
+      -0.3465471267963421,
+      0.8821376934126652
+    ],
+    "largest_block_share_total_signed_sum": 0.5925938600319388,
+    "largest3_blocks_share_total_signed_sum": 1.563235209653446,
+    "exclude_largest_block_mean": 0.09865559354908596,
+    "exclude_largest3_blocks_mean": -0.13942134174573012,
+    "exclude_best_trade_mean": 0.09865559354908601,
+    "exclude_best3_trades_mean": -0.13942134174573007,
+    "chrono_half_means": [
+      -0.06267608825956203,
+      0.5353488538061336
+    ],
+    "chrono_third_means": [
+      0.30011850173106935,
+      0.0359976735652029,
+      0.38253853660528986
+    ]
+  },
+  {
+    "cohort": "new280",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 46,
+    "selected_blocks": 46,
+    "opportunities": 280,
+    "frequency": 0.16428571428571428,
+    "mean": 0.5230001650819505,
+    "median": 0.9710950652772513,
+    "win_rate": 0.5869565217391305,
+    "best": 12.579042203983109,
+    "worst": -13.076770247578795,
+    "profit_factor_in_these_units": 1.4447945391707961,
+    "block_ci95": [
+      -0.6638893805360996,
+      1.649604619052093
+    ],
+    "block_ci975": [
+      -0.8583401713442345,
+      1.8214060723494134
+    ],
+    "quarter_ci95": [
+      -0.7126221118819835,
+      1.8761481428351365
+    ],
+    "largest_block_share_total_signed_sum": 0.5228630074603805,
+    "largest3_blocks_share_total_signed_sum": 0.983731955982693,
+    "exclude_largest_block_mean": 0.25508811977303575,
+    "exclude_largest3_blocks_mean": 0.009101784337305822,
+    "exclude_best_trade_mean": 0.2550881197730358,
+    "exclude_best3_trades_mean": 0.009101784337305885,
+    "chrono_half_means": [
+      0.5008022291979998,
+      0.5451981009659012
+    ],
+    "chrono_third_means": [
+      1.472799269360061,
+      -1.3955780693361295,
+      1.4284593549367126
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_pct",
+    "policy": "AI_selected_L048",
+    "n": 101,
+    "selected_blocks": 38,
+    "opportunities": 500,
+    "frequency": 0.202,
+    "mean": 0.3606591441287956,
+    "median": 0.0066889632106992,
+    "win_rate": 0.5247524752475248,
+    "best": 14.99520153550864,
+    "worst": -6.632053291536044,
+    "profit_factor_in_these_units": 1.7731290132986268,
+    "block_ci95": [
+      -0.29977698328667046,
+      1.0852057629940386
+    ],
+    "block_ci975": [
+      -0.3808894162492242,
+      1.1944421441203197
+    ],
+    "quarter_ci95": [
+      -0.21174676232048925,
+      1.0227276847382771
+    ],
+    "largest_block_share_total_signed_sum": 0.6919679701503089,
+    "largest3_blocks_share_total_signed_sum": 1.3101881319562398,
+    "exclude_largest_block_mean": 0.11567578755911721,
+    "exclude_largest3_blocks_mean": -0.1269560764630897,
+    "exclude_best_trade_mean": 0.2143137202149972,
+    "exclude_best3_trades_mean": 0.07407583321395972,
+    "chrono_half_means": [
+      0.8235795635765577,
+      -0.09318440434940244
+    ],
+    "chrono_third_means": [
+      0.05070387694036051,
+      1.4941096010931307,
+      -0.4877904453372836
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_pct",
+    "policy": "macro_no_AI",
+    "n": 149,
+    "selected_blocks": 46,
+    "opportunities": 500,
+    "frequency": 0.298,
+    "mean": 0.297176592249721,
+    "median": -0.0166777851901223,
+    "win_rate": 0.4899328859060403,
+    "best": 14.99520153550864,
+    "worst": -6.632053291536044,
+    "profit_factor_in_these_units": 1.7355592846171033,
+    "block_ci95": [
+      -0.1715648567626272,
+      0.8237768740746454
+    ],
+    "block_ci975": [
+      -0.2380787602319856,
+      0.9031472932985104
+    ],
+    "quarter_ci95": [
+      -0.11941310516025379,
+      0.8017072718275589
+    ],
+    "largest_block_share_total_signed_sum": 0.5692505345202509,
+    "largest3_blocks_share_total_signed_sum": 1.0778321058360125,
+    "exclude_largest_block_mean": 0.13153993159609967,
+    "exclude_largest3_blocks_mean": -0.025155854868721926,
+    "exclude_best_trade_mean": 0.19786561290337715,
+    "exclude_best3_trades_mean": 0.10350801604909689,
+    "chrono_half_means": [
+      0.4267566543029181,
+      0.1693242643572333
+    ],
+    "chrono_third_means": [
+      0.12940276317904087,
+      1.0995604094177083,
+      -0.3503846200944698
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_pct",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 68,
+    "selected_blocks": 27,
+    "opportunities": 500,
+    "frequency": 0.136,
+    "mean": 0.7245035717788251,
+    "median": 0.03558408189889835,
+    "win_rate": 0.5735294117647058,
+    "best": 14.99520153550864,
+    "worst": -2.683020314296658,
+    "profit_factor_in_these_units": 3.3006056253272713,
+    "block_ci95": [
+      -0.06195539537673565,
+      1.645871910627589
+    ],
+    "block_ci975": [
+      -0.14463176487988566,
+      1.789291666467088
+    ],
+    "quarter_ci95": [
+      0.08789226700851388,
+      1.489854344546377
+    ],
+    "largest_block_share_total_signed_sum": 0.5116286668069698,
+    "largest3_blocks_share_total_signed_sum": 0.9381799892044345,
+    "exclude_largest_block_mean": 0.3759409487060329,
+    "exclude_largest3_blocks_mean": 0.05438642262067666,
+    "exclude_best_trade_mean": 0.5115080797828576,
+    "exclude_best3_trades_mean": 0.3092169381372276,
+    "chrono_half_means": [
+      1.2777602977077769,
+      0.1712468458498732
+    ],
+    "chrono_third_means": [
+      0.1489621591819143,
+      2.053355925521393,
+      -0.06304877578254416
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_ATR",
+    "policy": "AI_selected_L048",
+    "n": 101,
+    "selected_blocks": 38,
+    "opportunities": 500,
+    "frequency": 0.202,
+    "mean": 0.1072188454825867,
+    "median": 0.03187130065260937,
+    "win_rate": 0.5247524752475248,
+    "best": 7.085666769102834,
+    "worst": -8.394569502734338,
+    "profit_factor_in_these_units": 1.1274771074880063,
+    "block_ci95": [
+      -0.7885751265809038,
+      0.9649264413679431
+    ],
+    "block_ci975": [
+      -0.9122243902758976,
+      1.0889462445167681
+    ],
+    "quarter_ci95": [
+      -0.6220150745878732,
+      0.7345532760738042
+    ],
+    "largest_block_share_total_signed_sum": 2.2617831185867474,
+    "largest3_blocks_share_total_signed_sum": 4.275380485757723,
+    "exclude_largest_block_mean": -0.14086577166652764,
+    "exclude_largest3_blocks_mean": -0.3985329655518296,
+    "exclude_best_trade_mean": 0.03743436624638426,
+    "exclude_best3_trades_mean": -0.09169400276674747,
+    "chrono_half_means": [
+      0.5673288194695002,
+      -0.34386936430850495
+    ],
+    "chrono_third_means": [
+      0.08407850421609057,
+      1.158482644424722,
+      -0.9520598684862538
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_ATR",
+    "policy": "macro_no_AI",
+    "n": 149,
+    "selected_blocks": 46,
+    "opportunities": 500,
+    "frequency": 0.298,
+    "mean": 0.11204945999933606,
+    "median": -0.09999999999996607,
+    "win_rate": 0.4899328859060403,
+    "best": 7.802988098252698,
+    "worst": -8.394569502734338,
+    "profit_factor_in_these_units": 1.1486244497203655,
+    "block_ci95": [
+      -0.549835541307065,
+      0.7660614326390355
+    ],
+    "block_ci975": [
+      -0.6396055266205902,
+      0.8710369416024071
+    ],
+    "quarter_ci95": [
+      -0.43498182136344854,
+      0.6711666625115893
+    ],
+    "largest_block_share_total_signed_sum": 1.4670584671310942,
+    "largest3_blocks_share_total_signed_sum": 2.957477973435537,
+    "exclude_largest_block_mean": -0.05377733589995422,
+    "exclude_largest3_blocks_mean": -0.23511379951599243,
+    "exclude_best_trade_mean": 0.060083658389516,
+    "exclude_best3_trades_mean": -0.03226083603331855,
+    "chrono_half_means": [
+      0.24836154213978692,
+      -0.022445127712575477
+    ],
+    "chrono_third_means": [
+      0.15414544587374182,
+      0.9102930041351809,
+      -0.7454398563376543
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_ATR",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 68,
+    "selected_blocks": 27,
+    "opportunities": 500,
+    "frequency": 0.136,
+    "mean": 0.6104809213571217,
+    "median": 0.11639810270091325,
+    "win_rate": 0.5735294117647058,
+    "best": 7.085666769102834,
+    "worst": -5.53672316384176,
+    "profit_factor_in_these_units": 2.0217218010377427,
+    "block_ci95": [
+      -0.3190546844889431,
+      1.6045939185384739
+    ],
+    "block_ci975": [
+      -0.4537425080540664,
+      1.759013239620049
+    ],
+    "quarter_ci95": [
+      -0.02778200819158464,
+      1.3308250259443368
+    ],
+    "largest_block_share_total_signed_sum": 0.5900141807328624,
+    "largest3_blocks_share_total_signed_sum": 1.1152860298125273,
+    "exclude_largest_block_mean": 0.26593155323265383,
+    "exclude_largest3_blocks_mean": -0.08546133349231824,
+    "exclude_best_trade_mean": 0.5138363564653947,
+    "exclude_best3_trades_mean": 0.33380903057541184,
+    "chrono_half_means": [
+      0.8802568928684429,
+      0.3407049498458006
+    ],
+    "chrono_third_means": [
+      0.1258681077971984,
+      1.5688777817103727,
+      0.11516123607318858
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_sigma2d",
+    "policy": "AI_selected_L048",
+    "n": 101,
+    "selected_blocks": 38,
+    "opportunities": 500,
+    "frequency": 0.202,
+    "mean": 0.3475966997609142,
+    "median": 0.047485062603353397,
+    "win_rate": 0.5247524752475248,
+    "best": 18.00851369802235,
+    "worst": -10.66556082964629,
+    "profit_factor_in_these_units": 1.2700371077934614,
+    "block_ci95": [
+      -1.0155403501801386,
+      1.7278794309197945
+    ],
+    "block_ci975": [
+      -1.2057128075468004,
+      1.93465975057414
+    ],
+    "quarter_ci95": [
+      -0.7457979224970925,
+      1.5108126982090757
+    ],
+    "largest_block_share_total_signed_sum": 1.2185267715078778,
+    "largest3_blocks_share_total_signed_sum": 2.25184109682472,
+    "exclude_largest_block_mean": -0.07909152209422789,
+    "exclude_largest3_blocks_mean": -0.4938058339552463,
+    "exclude_best_trade_mean": 0.17098752977829978,
+    "exclude_best3_trades_mean": -0.059144551500818716,
+    "chrono_half_means": [
+      1.142400770774814,
+      -0.43162297770369334
+    ],
+    "chrono_third_means": [
+      0.0020918280720597323,
+      2.522246072796475,
+      -1.5369764228387224
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_no_AI",
+    "n": 149,
+    "selected_blocks": 46,
+    "opportunities": 500,
+    "frequency": 0.298,
+    "mean": 0.349418236543003,
+    "median": -0.1306211383178934,
+    "win_rate": 0.4899328859060403,
+    "best": 18.00851369802235,
+    "worst": -10.66556082964629,
+    "profit_factor_in_these_units": 1.3169012516479595,
+    "block_ci95": [
+      -0.6459721699089501,
+      1.3803290093174563
+    ],
+    "block_ci975": [
+      -0.7703782891514797,
+      1.535390203075075
+    ],
+    "quarter_ci95": [
+      -0.487326776527546,
+      1.2869359478496827
+    ],
+    "largest_block_share_total_signed_sum": 0.8216753480720029,
+    "largest3_blocks_share_total_signed_sum": 1.5184584863462973,
+    "exclude_largest_block_mean": 0.0640287787994139,
+    "exclude_largest3_blocks_mean": -0.1970267784887722,
+    "exclude_best_trade_mean": 0.23010002396544005,
+    "exclude_best3_trades_mean": 0.07643756521900619,
+    "chrono_half_means": [
+      0.6331013733558832,
+      0.06951754155429446
+    ],
+    "chrono_third_means": [
+      0.26470567068440204,
+      1.9445945356999075,
+      -1.1918712872307762
+    ]
+  },
+  {
+    "cohort": "fresh500",
+    "measure": "gross_per_sigma2d",
+    "policy": "macro_below_MA20_no_AI",
+    "n": 68,
+    "selected_blocks": 27,
+    "opportunities": 500,
+    "frequency": 0.136,
+    "mean": 1.162841228188066,
+    "median": 0.13983038395091324,
+    "win_rate": 0.5735294117647058,
+    "best": 18.00851369802235,
+    "worst": -7.213772130519074,
+    "profit_factor_in_these_units": 2.2192320500398015,
+    "block_ci95": [
+      -0.40251116044666696,
+      2.838798607902936
+    ],
+    "block_ci975": [
+      -0.6083589545568742,
+      3.110252538758623
+    ],
+    "quarter_ci95": [
+      0.008613696659229515,
+      2.5313632266926493
+    ],
+    "largest_block_share_total_signed_sum": 0.5410068444983357,
+    "largest3_blocks_share_total_signed_sum": 0.99978225722301,
+    "exclude_largest_block_mean": 0.5670946749655634,
+    "exclude_largest3_blocks_mean": 0.00030745748070083934,
+    "exclude_best_trade_mean": 0.9114132808771065,
+    "exclude_best3_trades_mean": 0.5872272429823988,
+    "chrono_half_means": [
+      1.7705918086038068,
+      0.5550906477723255
+    ],
+    "chrono_third_means": [
+      0.08733652427297597,
+      3.396276878698754,
+      -0.04772294325278596
+    ]
+  }
+]

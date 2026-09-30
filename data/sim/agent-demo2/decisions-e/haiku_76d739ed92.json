@@ -1,0 +1,7 @@
+{
+  "action": "long",
+  "stop_loss_pct": 1.2,
+  "take_profit_pct": 1.8,
+  "confidence": 0.55,
+  "reason": "Uptrend with MA support consolidation at resistance targeting breakout"
+}

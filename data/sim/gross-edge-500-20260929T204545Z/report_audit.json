@@ -1,0 +1,9 @@
+{
+  "html_parsed": true,
+  "local_links_exist": true,
+  "unique_element_ids": true,
+  "javascript_syntax_passed": true,
+  "embedded_rows": 1000,
+  "unique_cases": 500,
+  "figure_visually_checked": true
+}

@@ -1,0 +1,26 @@
+{
+  "source_hashes_preserved": true,
+  "budget_hash_preserved": true,
+  "source_sha256": {
+    "data/analysis/new-angles-20260930/target_exhaustion/windows.csv": "c1346490c90b653450734d67c2c2e9c941397547787c10a901d33115991383db",
+    "data/analysis/new-angles-20260930/target_exhaustion/paths.npz": "4a64efad1bca575f9aa1c11908771cfd6f295c03d95b0f65fe257de0a13f02f4",
+    "data/analysis/same-moment-patterns-20260930/volume_reaction/PLAN.md": "05004fc66d25198dd77d904ecbaff34a5f07aed1958a7d668224a408c3fa253e",
+    "data/raw/intraday/BTC-USD_1m.csv.gz": "5c2d443836a6e71217d2b5267d932d8367005681d8ba23aa86c3e7716957e80b",
+    "data/raw/intraday/DOGE-USD_1m.csv.gz": "3bdc505fd6bd343ca7ac396ef669279f341a22e490e02df08c3c44c5835d4e1a",
+    "data/raw/intraday/ETH-USD_1m.csv.gz": "5af462a3ef594a19574b8aca3ba1652f078548e0b6398cd2a9de5447e7461566",
+    "data/raw/intraday/SOL-USD_1m.csv.gz": "f0d8034a5c5557dc8192715d772ce94a92fa9d71826d3b1107b8d323d320fc24"
+  },
+  "budget_sha256": "d970431ea7b04c07d4bd6a31f820bb48da7948b1de7c747c70413c6961c934f6",
+  "original_windows": 1020,
+  "coverage_windows": 1019,
+  "coverage_exclusions": {
+    "missing_or_nonfinite_volume": 1
+  },
+  "trade_agent_calls": 0,
+  "remaining_credit_allowance": 29,
+  "candidates": 4,
+  "controls": 10,
+  "bootstrap_replicates": 20000,
+  "bootstrap_seed": 2026093041,
+  "seen_outcomes": true
+}

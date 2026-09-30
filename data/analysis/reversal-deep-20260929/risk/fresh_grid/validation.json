@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "scalar_native_checks": 700,
+  "maximum_error_pct": 1.1102230246251565e-14,
+  "original_finalist_diag_perwindow_checks": 560,
+  "group_summary_checks": 250,
+  "original_artifacts_unchanged": true,
+  "max_future_minutes": 1440,
+  "all_finite": true,
+  "axis_policy_ids_match": true
+}
