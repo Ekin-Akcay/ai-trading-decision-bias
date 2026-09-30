@@ -1,6 +1,6 @@
-# Countermind
+# AI Trading Decision Bias: An Empirical Study
 
-Independent research and hobby project by [Ekin-Akcay](https://github.com/Ekin-Akcay): can an AI trading decision add useful information to a trading strategy—whether followed, reversed, or combined with price and volume indicators?
+An independent research project by [Ekin-Akcay](https://github.com/Ekin-Akcay) examining directional bias and predictive information in AI trading decisions. Historical experiments evaluate these decisions when followed, reversed, or combined with price and volume indicators.
 
 The original hypothesis was that models might reproduce common retail-trader mistakes. The experiments test that idea rather than assume it is true. **No reliable AI-dependent trading edge has been established in the completed studies.** Failed experiments and controls are included alongside promising exploratory results.
 
